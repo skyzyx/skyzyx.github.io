@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Firefox 1.5, Now Available",
+    "description": "",
+    "summary": {
+        "content": "The long-awaited Firefox 1.5 is now available, as well as a new Mozilla.com site. You can download the new release from Mozilla.com, or if the servers are overloaded, you can get them from Skyzyx: Downloads. Firefox 1.5 for Windows Firefox 1.5 for Mac OS X ",
+        "isTruncated": false
+    },
+    "published": "2005-11-29T23:43:27Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/firefox-15-now-available/",
+    "relativePermalink": "/posts/2005/firefox-15-now-available/",
+    "aliases": ["/2005/11/29/firefox-15-now-available/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 45,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20051129-firefox-15-now-available.md",
+        "logicalName": "20051129-firefox-15-now-available.md",
+        "translationBaseName": "20051129-firefox-15-now-available",
+        "baseFileName": "20051129-firefox-15-now-available",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eThe long-awaited Firefox 1.5 is now available, as well as a new \u003ca href=\"https://web.archive.org/web/20051129234327/http://www.mozilla.com\"\u003eMozilla.com\u003c/a\u003e site.\u003c/p\u003e\n\u003cp\u003eYou can download the new release from \u003ca href=\"https://web.archive.org/web/20051129234327/http://www.mozilla.com\"\u003eMozilla.com\u003c/a\u003e, or if the servers are overloaded, you can get them from Skyzyx: Downloads.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20051129234327/http://downloads.skyzyx.com/Software/Windows/Modern%20Web%20Browsers/Mozilla%20Firefox%201.5.exe\"\u003eFirefox 1.5 for Windows\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20051129234327/http://downloads.skyzyx.com/Software/Mac%20OS%20X/Modern%20Web%20Browsers/Mozilla%20Firefox%201.5.dmg\"\u003eFirefox 1.5 for Mac OS X\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n",
+        "plain":"The long-awaited Firefox 1.5 is now available, as well as a new Mozilla.com site.\nYou can download the new release from Mozilla.com, or if the servers are overloaded, you can get them from Skyzyx: Downloads.\n Firefox 1.5 for Windows Firefox 1.5 for Mac OS X  ",
+        "source":"\nThe long-awaited Firefox 1.5 is now available, as well as a new [Mozilla.com]({{% wayback \"http://www.mozilla.com\" %}}) site.\n\nYou can download the new release from [Mozilla.com]({{% wayback \"http://www.mozilla.com\" %}}), or if the servers are overloaded, you can get them from Skyzyx: Downloads.\n\n* [Firefox 1.5 for Windows]({{% wayback \"http://downloads.skyzyx.com/Software/Windows/Modern%20Web%20Browsers/Mozilla%20Firefox%201.5.exe\" %}})\n* [Firefox 1.5 for Mac OS X]({{% wayback \"http://downloads.skyzyx.com/Software/Mac%20OS%20X/Modern%20Web%20Browsers/Mozilla%20Firefox%201.5.dmg\" %}})\n\n"},
+    "links": {
+        "prev": {"title": "I've Succumbed to the Dark Side", "permalink": "https://ryanparman.com/posts/2005/ive-succumbed-to-the-dark-side/"},
+        "next": {"title": "Happy Birthday Julianna Grace!", "permalink": "https://ryanparman.com/posts/2005/happy-birthday-julianna-grace/"},
+        "ignore": "me"
+    }
+}
+
+}

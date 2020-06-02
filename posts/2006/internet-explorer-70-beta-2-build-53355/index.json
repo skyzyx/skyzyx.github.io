@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Internet Explorer 7.0 Beta 2 (Build 5335.5)",
+    "description": "",
+    "summary": {
+        "content": "For those who hadn’t yet heard, there is an updated version of Internet Explorer 7 available. If you want to run it in standalone mode, Jon Galloway’s IE7 Launcher will do the trick nicely. Lots of information can be found about IE7, specifically improved CSS compliance (hasn’t yet been updated with the current build information, but will). This build is supposed to be rendering engine complete, meaning that this build will render webpages the same way that the final release will.",
+        "isTruncated": true
+    },
+    "published": "2006-03-22T21:45:43Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/internet-explorer-70-beta-2-build-53355/",
+    "relativePermalink": "/posts/2006/internet-explorer-70-beta-2-build-53355/",
+    "aliases": ["/2006/03/22/internet-explorer-70-beta-2-build-53355/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 98,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060322-internet-explorer-70-beta-2-build-53355.md",
+        "logicalName": "20060322-internet-explorer-70-beta-2-build-53355.md",
+        "translationBaseName": "20060322-internet-explorer-70-beta-2-build-53355",
+        "baseFileName": "20060322-internet-explorer-70-beta-2-build-53355",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eFor those who hadn’t yet heard, there is an updated version of \u003ca href=\"https://web.archive.org/web/20060322214543/http://microsoft.com/ie/ie7/\"\u003eInternet Explorer 7\u003c/a\u003e available. If you want to run it in standalone mode, Jon Galloway’s \u003ca href=\"https://web.archive.org/web/20060322214543/http://weblogs.asp.net/jgalloway/archive/2005/12/28/434132.aspx\"\u003eIE7 Launcher\u003c/a\u003e will do the trick nicely. Lots of \u003ca href=\"https://web.archive.org/web/20060322214543/http://msdn.microsoft.com/ie/infoindex/\"\u003einformation\u003c/a\u003e can be found about IE7, specifically \u003ca href=\"https://web.archive.org/web/20060322214543/http://msdn.microsoft.com/library/default.asp?url=/library/en-us/ietechcol/cols/dnexpie/ie7_css_compat.asp\"\u003eimproved CSS compliance\u003c/a\u003e (hasn’t yet been updated with the current build information, but will). This build is supposed to be rendering engine complete, meaning that this build will render webpages the same way that the final release will. I’m tempted to do a full install of IE7, and simply run IE6 standalone from now on…\u003c/p\u003e\n",
+        "plain":"For those who hadn’t yet heard, there is an updated version of Internet Explorer 7 available. If you want to run it in standalone mode, Jon Galloway’s IE7 Launcher will do the trick nicely. Lots of information can be found about IE7, specifically improved CSS compliance (hasn’t yet been updated with the current build information, but will). This build is supposed to be rendering engine complete, meaning that this build will render webpages the same way that the final release will. I’m tempted to do a full install of IE7, and simply run IE6 standalone from now on…\n",
+        "source":"\nFor those who hadn’t yet heard, there is an updated version of [Internet Explorer 7]({{% wayback \"http://microsoft.com/ie/ie7/\" %}}) available. If you want to run it in standalone mode, Jon Galloway’s [IE7 Launcher]({{% wayback \"http://weblogs.asp.net/jgalloway/archive/2005/12/28/434132.aspx\" %}}) will do the trick nicely. Lots of [information]({{% wayback \"http://msdn.microsoft.com/ie/infoindex/\" %}}) can be found about IE7, specifically [improved CSS compliance]({{% wayback \"http://msdn.microsoft.com/library/default.asp?url=/library/en-us/ietechcol/cols/dnexpie/ie7_css_compat.asp\" %}}) (hasn’t yet been updated with the current build information, but will). This build is supposed to be rendering engine complete, meaning that this build will render webpages the same way that the final release will. I’m tempted to do a full install of IE7, and simply run IE6 standalone from now on…\n"},
+    "links": {
+        "prev": {"title": "TinyMCE Issue", "permalink": "https://ryanparman.com/posts/2006/tinymce-issue/"},
+        "next": {"title": "Vasecto-who?", "permalink": "https://ryanparman.com/posts/2006/vasecto-who/"},
+        "ignore": "me"
+    }
+}
+
+}

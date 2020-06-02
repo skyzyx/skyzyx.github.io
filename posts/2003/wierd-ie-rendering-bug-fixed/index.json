@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Weird IE Rendering Bug Fixed",
+    "description": "",
+    "summary": {
+        "content": "Last summer, I posted about a strange problem I was having in Internet Explorer. The browser wasn’t properly drawing certain elements to the screen, namely \u0026lt;hn\u0026gt; tags with background images, colors, or borders. It was all very frustrating. In the end, I just chalked it up to Internet Explorer sucking, and left it alone. Recently, however, my question was answered. For elements that act as though they were relatively positioned, then go ahead and use position:relative; on it. It seems to fix it without a hitch.",
+        "isTruncated": true
+    },
+    "published": "2003-12-11T00:45:58Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/wierd-ie-rendering-bug-fixed/",
+    "relativePermalink": "/posts/2003/wierd-ie-rendering-bug-fixed/",
+    "aliases": ["/archives/000129.php", "/articles/000129.php", "/2003/12/10/wierd-ie-rendering-bug-fixed/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 92,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20031211-weird-ie-rendering-bug-fixed.md",
+        "logicalName": "20031211-weird-ie-rendering-bug-fixed.md",
+        "translationBaseName": "20031211-weird-ie-rendering-bug-fixed",
+        "baseFileName": "20031211-weird-ie-rendering-bug-fixed",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eLast summer, I \u003ca href=\"/archives/000053.php\"\u003eposted\u003c/a\u003e about a strange problem I was having in Internet Explorer. The browser wasn’t properly drawing certain elements to the screen, namely \u003ccode\u003e\u0026lt;hn\u0026gt;\u003c/code\u003e tags with background images, colors, or borders. It was all very frustrating.\u003c/p\u003e\n\u003cp\u003eIn the end, I just chalked it up to Internet Explorer sucking, and left it alone. Recently, however, \u003ca href=\"https://web.archive.org/web/20031211004558/http://www.codingforums.com/showthread.php?s=\u0026amp;threadid=29139\"\u003emy question was answered\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eFor elements that act as though they were relatively positioned, then go ahead and use \u003ccode\u003eposition:relative;\u003c/code\u003e on it. It seems to fix it without a hitch.\u003c/p\u003e\n\u003cp\u003eJust thought I’d pass this along.\u003c/p\u003e\n",
+        "plain":"Last summer, I posted about a strange problem I was having in Internet Explorer. The browser wasn’t properly drawing certain elements to the screen, namely \u0026lt;hn\u0026gt; tags with background images, colors, or borders. It was all very frustrating.\nIn the end, I just chalked it up to Internet Explorer sucking, and left it alone. Recently, however, my question was answered.\nFor elements that act as though they were relatively positioned, then go ahead and use position:relative; on it. It seems to fix it without a hitch.\nJust thought I’d pass this along.\n",
+        "source":"\nLast summer, I [posted](/archives/000053.php) about a strange problem I was having in Internet Explorer. The browser wasn’t properly drawing certain elements to the screen, namely `\u003chn\u003e` tags with background images, colors, or borders. It was all very frustrating.\n\nIn the end, I just chalked it up to Internet Explorer sucking, and left it alone. Recently, however, [my question was answered]({{% wayback \"http://www.codingforums.com/showthread.php?s=\u0026threadid=29139\" %}}).\n\nFor elements that act as though they were relatively positioned, then go ahead and use `position:relative;` on it. It seems to fix it without a hitch.\n\nJust thought I’d pass this along.\n"},
+    "links": {
+        "prev": {"title": "LIR And Bug Fixes for IE5/Win", "permalink": "https://ryanparman.com/posts/2003/lir-and-bug-fixes-for-ie5win/"},
+        "next": {"title": "Christmastime Is Here...", "permalink": "https://ryanparman.com/posts/2003/christmastime-is-here/"},
+        "ignore": "me"
+    }
+}
+
+}

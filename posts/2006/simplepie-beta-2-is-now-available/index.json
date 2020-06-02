@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "SimplePie Beta 2 is now available!",
+    "description": "",
+    "summary": {
+        "content": "After several months of toiling over this release, and the past few weekends pouring over the documentation, we are now very proud to release SimplePie Beta 2! Nearly every major feature has been enhanced, as well as the addition of several new ones. Be sure to read the upgrade docs if you’re upgrading from Beta 1 or the Preview Release. People who were using trunk builds should be able to just drop this file in as a replacement for any previous simplepie.",
+        "isTruncated": true
+    },
+    "published": "2006-06-03T07:56:50Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/simplepie-beta-2-is-now-available/",
+    "relativePermalink": "/posts/2006/simplepie-beta-2-is-now-available/",
+    "aliases": ["/2006/06/02/simplepie-beta-2-is-now-available/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 124,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060603-simplepie-beta-2-is-now-available.md",
+        "logicalName": "20060603-simplepie-beta-2-is-now-available.md",
+        "translationBaseName": "20060603-simplepie-beta-2-is-now-available",
+        "baseFileName": "20060603-simplepie-beta-2-is-now-available",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eAfter several months of toiling over this release, and the past few weekends pouring over the documentation, we are now very proud to release \u003cstrong\u003eSimplePie Beta 2!\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eNearly every major feature has been enhanced, as well as the addition of several new ones. Be sure to read the \u003ca href=\"https://web.archive.org/web/20060603075650/http://simplepie.org/docs/upgrade/\"\u003eupgrade docs\u003c/a\u003e if you’re upgrading from Beta 1 or the Preview Release. People who were using trunk builds should be able to just drop this file in as a replacement for any previous \u003ccode\u003esimplepie.inc\u003c/code\u003e file.\u003c/p\u003e\n\u003cp\u003eWe’ve also added a \u003ca href=\"https://web.archive.org/web/20060603075650/http://simplepie.org/docs/installation/wordpress/\"\u003eWordpress plugin\u003c/a\u003e and a \u003ca href=\"https://web.archive.org/web/20060603075650/http://simplepie.org/docs/installation/mediawiki/\"\u003eMediaWiki extension\u003c/a\u003e to the mix. And as always, if you have any questions, comments, or need clarification on anything, be sure to swing by the \u003ca href=\"https://web.archive.org/web/20060603075650/http://simplepie.org/support/\"\u003esupport forums\u003c/a\u003e. We’re there a lot. :) Enjoy!\u003c/p\u003e\n",
+        "plain":"After several months of toiling over this release, and the past few weekends pouring over the documentation, we are now very proud to release SimplePie Beta 2!\nNearly every major feature has been enhanced, as well as the addition of several new ones. Be sure to read the upgrade docs if you’re upgrading from Beta 1 or the Preview Release. People who were using trunk builds should be able to just drop this file in as a replacement for any previous simplepie.inc file.\nWe’ve also added a Wordpress plugin and a MediaWiki extension to the mix. And as always, if you have any questions, comments, or need clarification on anything, be sure to swing by the support forums. We’re there a lot. :) Enjoy!\n",
+        "source":"\nAfter several months of toiling over this release, and the past few weekends pouring over the documentation, we are now very proud to release **SimplePie Beta 2!**\n\nNearly every major feature has been enhanced, as well as the addition of several new ones. Be sure to read the [upgrade docs]({{% wayback \"http://simplepie.org/docs/upgrade/\" %}}) if you’re upgrading from Beta 1 or the Preview Release. People who were using trunk builds should be able to just drop this file in as a replacement for any previous `simplepie.inc` file.\n\nWe’ve also added a [Wordpress plugin]({{% wayback \"http://simplepie.org/docs/installation/wordpress/\" %}}) and a [MediaWiki extension]({{% wayback \"http://simplepie.org/docs/installation/mediawiki/\" %}}) to the mix. And as always, if you have any questions, comments, or need clarification on anything, be sure to swing by the [support forums]({{% wayback \"http://simplepie.org/support/\" %}}). We’re there a lot. :) Enjoy!\n"},
+    "links": {
+        "prev": {"title": "The proper way to blow your nose", "permalink": "https://ryanparman.com/posts/2006/the-proper-way-to-blow-your-nose/"},
+        "next": {"title": "SimplePie Plugin for Wordpress", "permalink": "https://ryanparman.com/posts/2006/simplepie-plugin-for-wordpress/"},
+        "ignore": "me"
+    }
+}
+
+}

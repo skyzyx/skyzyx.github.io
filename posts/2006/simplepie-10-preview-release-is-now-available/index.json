@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "SimplePie 1.0 Preview Release is now available!",
+    "description": "",
+    "summary": {
+        "content": "The newest release of SimplePie is here! There is barely a single unchanged line of code in this release, as we’ve been working for months to completely overhaul the entire SimplePie engine, and we’ve added several new features while we were at it. I could sit here and go over each and every things that’s new or better or changed, but I’ve already done that. To find out more about SimplePie, and what all it can do, check out the official SimplePie website.",
+        "isTruncated": true
+    },
+    "published": "2006-01-09T18:15:06Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/simplepie-10-preview-release-is-now-available/",
+    "relativePermalink": "/posts/2006/simplepie-10-preview-release-is-now-available/",
+    "aliases": ["/2006/01/09/simplepie-10-preview-release-is-now-available/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 83,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060109-simplepie-10-preview-release-is-now-available.md",
+        "logicalName": "20060109-simplepie-10-preview-release-is-now-available.md",
+        "translationBaseName": "20060109-simplepie-10-preview-release-is-now-available",
+        "baseFileName": "20060109-simplepie-10-preview-release-is-now-available",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eThe newest release of SimplePie is here! There is barely a single unchanged line of code in this release, as we’ve been working for months to completely overhaul the entire SimplePie engine, and we’ve added several new features while we were at it. I could sit here and go over each and every things that’s new or better or changed, but \u003ca href=\"https://web.archive.org/web/20060109181506/http://www.simplepie.org\"\u003eI’ve already done that\u003c/a\u003e. To find out more about \u003ca href=\"https://web.archive.org/web/20060109181506/http://www.simplepie.org\"\u003eSimplePie\u003c/a\u003e, and what all it can do, check out the \u003ca href=\"https://web.archive.org/web/20060109181506/http://www.simplepie.org\"\u003eofficial SimplePie website\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":"The newest release of SimplePie is here! There is barely a single unchanged line of code in this release, as we’ve been working for months to completely overhaul the entire SimplePie engine, and we’ve added several new features while we were at it. I could sit here and go over each and every things that’s new or better or changed, but I’ve already done that. To find out more about SimplePie, and what all it can do, check out the official SimplePie website.\n",
+        "source":"\nThe newest release of SimplePie is here! There is barely a single unchanged line of code in this release, as we’ve been working for months to completely overhaul the entire SimplePie engine, and we’ve added several new features while we were at it. I could sit here and go over each and every things that’s new or better or changed, but [I’ve already done that]({{% wayback \"http://www.simplepie.org\" %}}). To find out more about [SimplePie]({{% wayback \"http://www.simplepie.org\" %}}), and what all it can do, check out the [official SimplePie website]({{% wayback \"http://www.simplepie.org\" %}}).\n"},
+    "links": {
+        "prev": {"title": "SimplePie's Triumphant Return!", "permalink": "https://ryanparman.com/posts/2006/simplepies-triumphant-return/"},
+        "next": {"title": "Internet Explorer 7.0 Beta 2 Standalone is available", "permalink": "https://ryanparman.com/posts/2006/internet-explorer-70-beta-2-standalone-is-available/"},
+        "ignore": "me"
+    }
+}
+
+}

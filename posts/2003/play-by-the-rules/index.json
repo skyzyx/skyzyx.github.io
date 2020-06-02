@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Play By The Rules",
+    "description": "",
+    "summary": {
+        "content": "I keep ending up having these discussions debates with people a person that is beginning to irritate me. They keep going on and on about how modern web design styles suck, that there are no good-looking XHTML+CSS sites on the web (except, of course, for CSS Zen Garden), and that the all-mighty W3C is just making new rules (aka “standards”) for web design to shove the poor common people out of the market. I have since decided that this individual is a lost cause in the case of web standards, and as such, I am boycotting their website in protest.",
+        "isTruncated": true
+    },
+    "published": "2003-07-24T17:17:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/play-by-the-rules/",
+    "relativePermalink": "/posts/2003/play-by-the-rules/",
+    "aliases": ["/2003/07/24/play-by-the-rules/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Web Standards"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 173,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030724-play-by-the-rules.md",
+        "logicalName": "20030724-play-by-the-rules.md",
+        "translationBaseName": "20030724-play-by-the-rules",
+        "baseFileName": "20030724-play-by-the-rules",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI keep ending up having these \u003cdel\u003ediscussions\u003c/del\u003e debates with \u003cdel\u003epeople\u003c/del\u003e a person that is beginning to irritate me. They keep going on and on about how modern web design styles suck, that there are no good-looking XHTML+CSS sites on the web (except, of course, for \u003ca href=\"https://web.archive.org/web/20030724171700/http://www.csszengarden.com\"\u003eCSS Zen Garden\u003c/a\u003e), and that the all-mighty W3C is just making new rules (aka “standards”) for web design to shove the poor common people out of the market.\u003c/p\u003e\n\u003cp\u003eI have since decided that this individual is a lost cause in the case of web standards, and as such, I am boycotting their website in protest. Of course that really doesn’t make much of a difference, but it sure makes me feel better. This spawned a quick, cut-the-crap, to-the-point, big picture article on the future of web standards and what it means to the web — specifically in the matter of how all web designers should approach it.\u003c/p\u003e\n\u003cp\u003ePlease enjoy: \u003cem\u003e\u003ca href=\"../articles/playbytherules.htm\"\u003ePlay By The Rules\u003c/a\u003e\u003c/em\u003e.\u003c/p\u003e\n\u003cp\u003e(BTW, I got graded an A+ by \u003ca href=\"https://web.archive.org/web/20030724171700/http://www.codingforums.com/member.php?s=\u0026amp;action=getinfo\u0026amp;userid=515\"\u003eOracleGuy\u003c/a\u003e and got a gold star from \u003ca href=\"https://web.archive.org/web/20030724171700/http://www.brothercake.com/\"\u003eBrothercake\u003c/a\u003e\u003c/p\u003e\n",
+        "plain":"I keep ending up having these discussions debates with people a person that is beginning to irritate me. They keep going on and on about how modern web design styles suck, that there are no good-looking XHTML+CSS sites on the web (except, of course, for CSS Zen Garden), and that the all-mighty W3C is just making new rules (aka “standards”) for web design to shove the poor common people out of the market.\nI have since decided that this individual is a lost cause in the case of web standards, and as such, I am boycotting their website in protest. Of course that really doesn’t make much of a difference, but it sure makes me feel better. This spawned a quick, cut-the-crap, to-the-point, big picture article on the future of web standards and what it means to the web — specifically in the matter of how all web designers should approach it.\nPlease enjoy: Play By The Rules.\n(BTW, I got graded an A+ by OracleGuy and got a gold star from Brothercake\n",
+        "source":"\nI keep ending up having these ~~discussions~~ debates with ~~people~~ a person that is beginning to irritate me. They keep going on and on about how modern web design styles suck, that there are no good-looking XHTML+CSS sites on the web (except, of course, for [CSS Zen Garden]({{% wayback \"http://www.csszengarden.com)\" %}}), and that the all-mighty W3C is just making new rules (aka “standards”) for web design to shove the poor common people out of the market.\n\nI have since decided that this individual is a lost cause in the case of web standards, and as such, I am boycotting their website in protest. Of course that really doesn’t make much of a difference, but it sure makes me feel better. This spawned a quick, cut-the-crap, to-the-point, big picture article on the future of web standards and what it means to the web — specifically in the matter of how all web designers should approach it.\n\nPlease enjoy: *[Play By The Rules](../articles/playbytherules.htm)*.\n\n(BTW, I got graded an A+ by [OracleGuy]({{% wayback \"http://www.codingforums.com/member.php?s=\u0026action=getinfo\u0026userid=515\" %}}) and got a gold star from [Brothercake]({{% wayback \"http://www.brothercake.com/\" %}})\n"},
+    "links": {
+        "prev": {"title": "Netscape's First Mistake", "permalink": "https://ryanparman.com/posts/2003/netscapes-first-mistake/"},
+        "next": {"title": "Mozilla SeaMonkey vs Mozilla Firebird™", "permalink": "https://ryanparman.com/posts/2003/mozilla-seamonkey-vs-mozilla-firebird/"},
+        "ignore": "me"
+    }
+}
+
+}

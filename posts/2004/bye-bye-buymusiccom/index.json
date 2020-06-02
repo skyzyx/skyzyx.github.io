@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Bye, Bye, BuyMusic.com",
+    "description": "",
+    "summary": {
+        "content": "Do you guys happen to remember BuyMusic.com and all of the fuss from the web standards community this past summer? Well, according to the guys over at As the Apple Turns, it appears that the BuyMusic.com experiment was a complete and utter failure. Are we suprised? We think not. I suppose it was a bad idea to lock out users of Mozilla, Opera, Safari, Linux, MacOS, and other technologically advanced groups of people.",
+        "isTruncated": false
+    },
+    "published": "2004-03-29T18:14:46Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/bye-bye-buymusiccom/",
+    "relativePermalink": "/posts/2004/bye-bye-buymusiccom/",
+    "aliases": ["/2004/03/29/bye-bye-buymusiccom/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Tech Industry"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 73,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040329-bye-bye-buymusiccom.md",
+        "logicalName": "20040329-bye-bye-buymusiccom.md",
+        "translationBaseName": "20040329-bye-bye-buymusiccom",
+        "baseFileName": "20040329-bye-bye-buymusiccom",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eDo you guys happen to remember \u003ca href=\"https://web.archive.org/web/20040329181446/http://www.buymusic.com\"\u003eBuyMusic.com\u003c/a\u003e and all of the \u003ca href=\"https://web.archive.org/web/20040329181446/http://www.webstandards.org/buzz/archive/2003_07.html#a000169\"\u003efuss\u003c/a\u003e \u003ca href=\"https://web.archive.org/web/20040329181446/http://www.macnn.com/news/20350\"\u003efrom the\u003c/a\u003e \u003ca href=\"https://web.archive.org/web/20040329181446/http://www.zeldman.com/daily/0703b.shtml#outoftune\"\u003eweb\u003c/a\u003e \u003ca href=\"https://web.archive.org/web/20040329181446/http://www.dionidium.com/2003/07/00090\"\u003estandards\u003c/a\u003e \u003ca href=\"https://web.archive.org/web/20040329181446/http://speed.insane.com/archives/2003/07/24/i_wont_buymusiccom.php\"\u003ecommunity\u003c/a\u003e this past summer?\u003c/p\u003e\n\u003cp\u003eWell, according to the guys over at \u003ca href=\"https://web.archive.org/web/20040329181446/http://www.appleturns.com/scene/?id=4599\"\u003eAs the Apple Turns\u003c/a\u003e, it appears that the BuyMusic.com experiment was a \u003ca href=\"https://web.archive.org/web/20040329181446/http://www.macnn.com/news/20400\u0026amp;startNumber=46\"\u003ecomplete\u003c/a\u003e and \u003ca href=\"https://web.archive.org/web/20040329181446/http://www.usatoday.com/tech/news/2003-07-28-buymusic_x.htm\"\u003eutter failure\u003c/a\u003e. Are we suprised? We think not.\u003c/p\u003e\n\u003cp\u003eI suppose it was a bad idea to lock out users of Mozilla, Opera, Safari, Linux, MacOS, and other technologically advanced groups of people.\u003c/p\u003e\n",
+        "plain":"Do you guys happen to remember BuyMusic.com and all of the fuss from the web standards community this past summer?\nWell, according to the guys over at As the Apple Turns, it appears that the BuyMusic.com experiment was a complete and utter failure. Are we suprised? We think not.\nI suppose it was a bad idea to lock out users of Mozilla, Opera, Safari, Linux, MacOS, and other technologically advanced groups of people.\n",
+        "source":"\nDo you guys happen to remember [BuyMusic.com]({{% wayback \"http://www.buymusic.com\" %}}) and all of the [fuss]({{% wayback \"http://www.webstandards.org/buzz/archive/2003_07.html#a000169\" %}}) [from the]({{% wayback \"http://www.macnn.com/news/20350\" %}}) [web]({{% wayback \"http://www.zeldman.com/daily/0703b.shtml#outoftune\" %}}) [standards]({{% wayback \"http://www.dionidium.com/2003/07/00090\" %}}) [community]({{% wayback \"http://speed.insane.com/archives/2003/07/24/i_wont_buymusiccom.php\" %}}) this past summer?\n\nWell, according to the guys over at [As the Apple Turns]({{% wayback \"http://www.appleturns.com/scene/?id=4599\" %}}), it appears that the BuyMusic.com experiment was a [complete]({{% wayback \"http://www.macnn.com/news/20400\u0026startNumber=46\" %}}) and [utter failure]({{% wayback \"http://www.usatoday.com/tech/news/2003-07-28-buymusic_x.htm\" %}}). Are we suprised? We think not.\n\nI suppose it was a bad idea to lock out users of Mozilla, Opera, Safari, Linux, MacOS, and other technologically advanced groups of people.\n"},
+    "links": {
+        "prev": {"title": "Blocker 1.3 Revision 2", "permalink": "https://ryanparman.com/posts/2004/blocker-13-revision-2/"},
+        "next": {"title": "Kill “No Right Click” Scripts", "permalink": "https://ryanparman.com/posts/2004/kill-no-right-click-scripts/"},
+        "ignore": "me"
+    }
+}
+
+}

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Flailing Wildly</title>
+    <link>https://ryanparman.com/categories/</link>
+    <description>Recent content in Categories on Flailing Wildly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://ryanparman.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Playlists</title>
+      <link>https://ryanparman.com/categories/playlists/</link>
+      <pubDate>Wed, 02 Oct 2019 09:00:32 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/categories/playlists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://ryanparman.com/categories/tutorials/</link>
+      <pubDate>Mon, 05 Aug 2019 19:52:30 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/categories/tutorials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://ryanparman.com/categories/software/</link>
+      <pubDate>Tue, 18 Jun 2019 14:48:16 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/categories/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech Life</title>
+      <link>https://ryanparman.com/categories/tech-life/</link>
+      <pubDate>Sun, 10 Feb 2019 21:29:11 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/categories/tech-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineering for Site Reliability</title>
+      <link>https://ryanparman.com/categories/engineering-for-site-reliability/</link>
+      <pubDate>Thu, 27 Dec 2018 07:30:30 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/categories/engineering-for-site-reliability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech Industry</title>
+      <link>https://ryanparman.com/categories/tech-industry/</link>
+      <pubDate>Wed, 14 Nov 2018 23:26:24 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/categories/tech-industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects and Code</title>
+      <link>https://ryanparman.com/categories/projects-and-code/</link>
+      <pubDate>Sun, 09 Sep 2018 03:18:33 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/categories/projects-and-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clueless Recruiters</title>
+      <link>https://ryanparman.com/categories/clueless-recruiters/</link>
+      <pubDate>Wed, 22 Aug 2018 19:05:01 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/categories/clueless-recruiters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reviews</title>
+      <link>https://ryanparman.com/categories/reviews/</link>
+      <pubDate>Sat, 08 Apr 2017 09:30:49 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/categories/reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>https://ryanparman.com/categories/politics/</link>
+      <pubDate>Tue, 14 Jun 2016 14:45:32 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/categories/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Law</title>
+      <link>https://ryanparman.com/categories/law/</link>
+      <pubDate>Sat, 27 Jun 2015 02:29:50 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/categories/law/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Family Life</title>
+      <link>https://ryanparman.com/categories/family-life/</link>
+      <pubDate>Sun, 10 May 2015 22:24:16 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/categories/family-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Death</title>
+      <link>https://ryanparman.com/categories/death/</link>
+      <pubDate>Thu, 01 Jan 2015 06:01:31 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/categories/death/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apple</title>
+      <link>https://ryanparman.com/categories/apple/</link>
+      <pubDate>Thu, 09 Oct 2014 10:09:33 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/categories/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy and Security</title>
+      <link>https://ryanparman.com/categories/privacy-and-security/</link>
+      <pubDate>Mon, 23 Jun 2014 10:03:21 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/categories/privacy-and-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Games</title>
+      <link>https://ryanparman.com/categories/video-games/</link>
+      <pubDate>Sat, 11 Jan 2014 08:28:46 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/categories/video-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health</title>
+      <link>https://ryanparman.com/categories/health/</link>
+      <pubDate>Wed, 24 Jul 2013 16:53:51 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/categories/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>For Funsies</title>
+      <link>https://ryanparman.com/categories/for-funsies/</link>
+      <pubDate>Tue, 02 Oct 2012 17:22:26 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/categories/for-funsies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>https://ryanparman.com/categories/design/</link>
+      <pubDate>Sun, 23 Sep 2012 23:39:54 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life Lessons</title>
+      <link>https://ryanparman.com/categories/life-lessons/</link>
+      <pubDate>Sat, 07 Jan 2012 10:23:08 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/categories/life-lessons/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Subtle Changes And My Calendar",
+    "description": "",
+    "summary": {
+        "content": "I’ve made a few subtle changes to my CSS stylesheet. The yellow I used for quoting and noting code was beginning to hurt my eyes. So, I’ve changed a few colors to make it all blend a little better. I’ve also done some fine-tuning on the spacing of certain elements (namely \u0026lt;h?\u0026gt; tags). I also released the new version of my calendar script tonight. It’s a shiny, new version 1.2 and a whopping 7.19k for the JavaScript library, the CSS file, three (count them, three) demo files, and an XML document.",
+        "isTruncated": true
+    },
+    "published": "2003-09-17T08:41:18Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/subtle-changes-and-my-calendar/",
+    "relativePermalink": "/posts/2003/subtle-changes-and-my-calendar/",
+    "aliases": ["/2003/09/17/subtle-changes-and-my-calendar/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 281,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030917-subtle-changes-and-my-calendar.md",
+        "logicalName": "20030917-subtle-changes-and-my-calendar.md",
+        "translationBaseName": "20030917-subtle-changes-and-my-calendar",
+        "baseFileName": "20030917-subtle-changes-and-my-calendar",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003ca href=\"#update\"\u003eUpdate\u003c/a\u003e\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve made a few subtle changes to my CSS stylesheet. The yellow I used for quoting and noting code was beginning to hurt my eyes. So, I’ve changed a few colors to make it all blend a little better. I’ve also done some fine-tuning on the spacing of certain elements (namely \u003ccode\u003e\u0026lt;h?\u0026gt;\u003c/code\u003e tags).\u003c/p\u003e\n\u003cp\u003eI also released the new version of my \u003ca href=\"/scripts/calendar.php\"\u003ecalendar script\u003c/a\u003e tonight. It’s a shiny, new version 1.2 and a whopping 7.19k for the JavaScript library, the CSS file, three (count them, three) demo files, and an XML document. Gah-head. Give it a whirl. You know you want a calendar on your website… you know you do.\u003c/p\u003e\n\u003ch2 id=\"update\"\u003eUpdate\u003c/h2\u003e\n\u003cp\u003eI \u003ca href=\"/scripts/calendar-revisions.php\"\u003eposted a list\u003c/a\u003e of the features and such that I want to build into my calendar script over time. This morning, I sat down and began working on them. Out of 13 or 14 new features, I got 8 of them done all in only a few hours. How cool. I’m not planning on releasing anything until version 2.0 is complete, so if you’ve been chomping at the bit, you’ll probably have to wait another week or so for me to finish up this release, and then a couple more days to update the documentation.\u003c/p\u003e\n\u003cp\u003eThere have been mostly additions to the API… only minimal tweaking has been done to the v1.x command set. Users of any 1.x version should be able to upgrade without a hitch. The most drastic noticable changes are how much of the layout has been offloaded to CSS. The sample CSS file, although the concepts are the same, offers \u003cem\u003esignificantly\u003c/em\u003e more flexibility in styling the calendar. Upgraders will definitely have to update their CSS stylesheets.\u003c/p\u003e\n",
+        "plain":"I’ve made a few subtle changes to my CSS stylesheet. The yellow I used for quoting and noting code was beginning to hurt my eyes. So, I’ve changed a few colors to make it all blend a little better. I’ve also done some fine-tuning on the spacing of certain elements (namely \u0026lt;h?\u0026gt; tags).\nI also released the new version of my calendar script tonight. It’s a shiny, new version 1.2 and a whopping 7.19k for the JavaScript library, the CSS file, three (count them, three) demo files, and an XML document. Gah-head. Give it a whirl. You know you want a calendar on your website… you know you do.\nUpdate I posted a list of the features and such that I want to build into my calendar script over time. This morning, I sat down and began working on them. Out of 13 or 14 new features, I got 8 of them done all in only a few hours. How cool. I’m not planning on releasing anything until version 2.0 is complete, so if you’ve been chomping at the bit, you’ll probably have to wait another week or so for me to finish up this release, and then a couple more days to update the documentation.\nThere have been mostly additions to the API… only minimal tweaking has been done to the v1.x command set. Users of any 1.x version should be able to upgrade without a hitch. The most drastic noticable changes are how much of the layout has been offloaded to CSS. The sample CSS file, although the concepts are the same, offers significantly more flexibility in styling the calendar. Upgraders will definitely have to update their CSS stylesheets.\n",
+        "source":"\nI’ve made a few subtle changes to my CSS stylesheet. The yellow I used for quoting and noting code was beginning to hurt my eyes. So, I’ve changed a few colors to make it all blend a little better. I’ve also done some fine-tuning on the spacing of certain elements (namely `\u003ch?\u003e` tags).\n\nI also released the new version of my [calendar script](/scripts/calendar.php) tonight. It’s a shiny, new version 1.2 and a whopping 7.19k for the JavaScript library, the CSS file, three (count them, three) demo files, and an XML document. Gah-head. Give it a whirl. You know you want a calendar on your website… you know you do.\n\n## Update\n\nI [posted a list](/scripts/calendar-revisions.php) of the features and such that I want to build into my calendar script over time. This morning, I sat down and began working on them. Out of 13 or 14 new features, I got 8 of them done all in only a few hours. How cool. I’m not planning on releasing anything until version 2.0 is complete, so if you’ve been chomping at the bit, you’ll probably have to wait another week or so for me to finish up this release, and then a couple more days to update the documentation.\n\nThere have been mostly additions to the API… only minimal tweaking has been done to the v1.x command set. Users of any 1.x version should be able to upgrade without a hitch. The most drastic noticable changes are how much of the layout has been offloaded to CSS. The sample CSS file, although the concepts are the same, offers *significantly* more flexibility in styling the calendar. Upgraders will definitely have to update their CSS stylesheets.\n"},
+    "links": {
+        "prev": {"title": "Snoop Dogg Shizzolator", "permalink": "https://ryanparman.com/posts/2003/snoop-dogg-shizzolator/"},
+        "next": {"title": "Ye Scurvy Dogs!", "permalink": "https://ryanparman.com/posts/2003/ye-scurvy-dogs/"},
+        "ignore": "me"
+    }
+}
+
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Psychos Need Not Apply",
+    "description": "",
+    "summary": {
+        "content": "I want everyone to do me a favor. If you’re going to add me to your buddy lists and contact me completely out of the blue while I’m at work, that’s perfectly fine. Just don’t be a psycho asking me super-personal questions. If you want to ask me questions about code, scripts, the web, etc., that’s fine. If you just want to randomly chat about nothing, I’d suggest getting an AOL account. If you start (or continue) to ask me questions like where exactly I live, or what my phone number is, you’re only going to piss me off.",
+        "isTruncated": true
+    },
+    "published": "2004-07-21T23:37:14Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/psychos-need-not-apply/",
+    "relativePermalink": "/posts/2004/psychos-need-not-apply/",
+    "aliases": ["/2004/07/21/psychos-need-not-apply/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Personal"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 166,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040721-psychos-need-not-apply.md",
+        "logicalName": "20040721-psychos-need-not-apply.md",
+        "translationBaseName": "20040721-psychos-need-not-apply",
+        "baseFileName": "20040721-psychos-need-not-apply",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI want everyone to do me a favor. If you’re going to add me to your buddy lists and contact me completely out of the blue while I’m at work, that’s perfectly fine. Just don’t be a psycho asking me super-personal questions.\u003c/p\u003e\n\u003cp\u003eIf you want to ask me questions about code, scripts, the web, etc., that’s fine. If you just want to randomly chat about nothing, I’d suggest getting an AOL account. If you start (or continue) to ask me questions like where exactly I live, or what my phone number is, you’re only going to piss me off. Don’t do it.\u003c/p\u003e\n\u003cp\u003eIf you’re a fellow weblogger, or have something worthwhile and intelligent to say, I’m totally cool with that. I’m a nice guy, really. Several complete strangers have contacted me via IM about code, or the web, or Multiple IE’s, and I’ve had enjoyable experiences talking to them. I just don’t like people who act psycho or won’t leave me alone. Got it?!\u003c/p\u003e\n\u003cp\u003eI’m done.\u003c/p\u003e\n",
+        "plain":"I want everyone to do me a favor. If you’re going to add me to your buddy lists and contact me completely out of the blue while I’m at work, that’s perfectly fine. Just don’t be a psycho asking me super-personal questions.\nIf you want to ask me questions about code, scripts, the web, etc., that’s fine. If you just want to randomly chat about nothing, I’d suggest getting an AOL account. If you start (or continue) to ask me questions like where exactly I live, or what my phone number is, you’re only going to piss me off. Don’t do it.\nIf you’re a fellow weblogger, or have something worthwhile and intelligent to say, I’m totally cool with that. I’m a nice guy, really. Several complete strangers have contacted me via IM about code, or the web, or Multiple IE’s, and I’ve had enjoyable experiences talking to them. I just don’t like people who act psycho or won’t leave me alone. Got it?!\nI’m done.\n",
+        "source":"\nI want everyone to do me a favor. If you’re going to add me to your buddy lists and contact me completely out of the blue while I’m at work, that’s perfectly fine. Just don’t be a psycho asking me super-personal questions.\n\nIf you want to ask me questions about code, scripts, the web, etc., that’s fine. If you just want to randomly chat about nothing, I’d suggest getting an AOL account. If you start (or continue) to ask me questions like where exactly I live, or what my phone number is, you’re only going to piss me off. Don’t do it.\n\nIf you’re a fellow weblogger, or have something worthwhile and intelligent to say, I’m totally cool with that. I’m a nice guy, really. Several complete strangers have contacted me via IM about code, or the web, or Multiple IE’s, and I’ve had enjoyable experiences talking to them. I just don’t like people who act psycho or won’t leave me alone. Got it?!\n\nI’m done.\n"},
+    "links": {
+        "prev": {"title": "SimplePie... Yummy!", "permalink": "https://ryanparman.com/posts/2004/simplepie-yummy/"},
+        "next": {"title": "Good IM, RSS, and FTP Software", "permalink": "https://ryanparman.com/posts/2004/good-im-rss-and-ftp-software/"},
+        "ignore": "me"
+    }
+}
+
+}

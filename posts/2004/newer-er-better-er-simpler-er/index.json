@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Newer-er.  Better-er.  Simpler-er.",
+    "description": "",
+    "summary": {
+        "content": "In record time, SimplePie 0.92 is now available. This release adds all sorts of things such as better (and faster) caching, a user agent string, smarter handling of problematic characters and entities, and a fix for Mr. Dunstan’s feed. For those who are skeptical of “yet another feed parser”, or are hesitant to switch to (or begin using) SimplePie, let me explain it this way. Most RSS parsers go through this process of breaking a feed down into this big array, which may be fine for some, but can be impossible for beginners and newbies.",
+        "isTruncated": true
+    },
+    "published": "2004-08-30T03:55:24Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/newer-er-better-er-simpler-er/",
+    "relativePermalink": "/posts/2004/newer-er-better-er-simpler-er/",
+    "aliases": ["/2004/08/29/newer-er-better-er-simpler-er/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 278,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040830-newer-er-better-er-simpler-er.md",
+        "logicalName": "20040830-newer-er-better-er-simpler-er.md",
+        "translationBaseName": "20040830-newer-er-better-er-simpler-er",
+        "baseFileName": "20040830-newer-er-better-er-simpler-er",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eIn record time, \u003ca href=\"/projects/simplepie/\"\u003eSimplePie 0.92\u003c/a\u003e is now available. This release adds all sorts of things such as better (and faster) caching, a user agent string, smarter handling of problematic characters and entities, and a fix for \u003ca href=\"https://web.archive.org/web/20040830035524/http://www.1976design.com/blog/\"\u003eMr. Dunstan’s\u003c/a\u003e feed.\u003c/p\u003e\n\u003cp\u003eFor those who are skeptical of “yet another feed parser”, or are hesitant to switch to (or begin using) SimplePie, let me explain it this way. Most RSS parsers go through this process of breaking a feed down into this big array, which may be fine for some, but can be impossible for beginners and newbies. SimplePie takes an Apple-esque approach by providing thoughtfully-named, easy to use functions that do what one would expect them to do.\u003c/p\u003e\n\u003cp\u003eAt the core, SimplePie relies on \u003ca href=\"https://web.archive.org/web/20040830035524/http://www.hansanderson.com/php/xml/\"\u003eXMLize\u003c/a\u003e (as the easy-to-use Mac OS X relies on the more powerful Unix-based core), which is a very powerful, yet elegantly simple class for parsing XML documents with PHP. This means that if SimplePie doesn’t do all that you want it to out-of-the-box (which would be suprising, but possible), you can easily extend it to support whatever else you might want.\u003c/p\u003e\n\u003cp\u003eI’ve frozen the current function set where it’s at. This means that if you’ve been using SimplePie already, or if you’re wanting to start using it, you won’t need to change any of your code as new versions get released. You’ll simply need to replace the old SimplePie library with the new one to take advantage of new improvements. New functions may become available to use, but new versions of SimplePie will not break existing services and applications.\u003c/p\u003e\n\u003cp\u003eIf you’ve been thinking about building your own web-based RSS/Atom reader, why not give SimplePie a try?\u003c/p\u003e\n",
+        "plain":"In record time, SimplePie 0.92 is now available. This release adds all sorts of things such as better (and faster) caching, a user agent string, smarter handling of problematic characters and entities, and a fix for Mr. Dunstan’s feed.\nFor those who are skeptical of “yet another feed parser”, or are hesitant to switch to (or begin using) SimplePie, let me explain it this way. Most RSS parsers go through this process of breaking a feed down into this big array, which may be fine for some, but can be impossible for beginners and newbies. SimplePie takes an Apple-esque approach by providing thoughtfully-named, easy to use functions that do what one would expect them to do.\nAt the core, SimplePie relies on XMLize (as the easy-to-use Mac OS X relies on the more powerful Unix-based core), which is a very powerful, yet elegantly simple class for parsing XML documents with PHP. This means that if SimplePie doesn’t do all that you want it to out-of-the-box (which would be suprising, but possible), you can easily extend it to support whatever else you might want.\nI’ve frozen the current function set where it’s at. This means that if you’ve been using SimplePie already, or if you’re wanting to start using it, you won’t need to change any of your code as new versions get released. You’ll simply need to replace the old SimplePie library with the new one to take advantage of new improvements. New functions may become available to use, but new versions of SimplePie will not break existing services and applications.\nIf you’ve been thinking about building your own web-based RSS/Atom reader, why not give SimplePie a try?\n",
+        "source":"\nIn record time, [SimplePie 0.92](/projects/simplepie/) is now available. This release adds all sorts of things such as better (and faster) caching, a user agent string, smarter handling of problematic characters and entities, and a fix for [Mr. Dunstan’s]({{% wayback \"http://www.1976design.com/blog/\" %}}) feed.\n\nFor those who are skeptical of “yet another feed parser”, or are hesitant to switch to (or begin using) SimplePie, let me explain it this way. Most RSS parsers go through this process of breaking a feed down into this big array, which may be fine for some, but can be impossible for beginners and newbies. SimplePie takes an Apple-esque approach by providing thoughtfully-named, easy to use functions that do what one would expect them to do.\n\nAt the core, SimplePie relies on [XMLize]({{% wayback \"http://www.hansanderson.com/php/xml/\" %}}) (as the easy-to-use Mac OS X relies on the more powerful Unix-based core), which is a very powerful, yet elegantly simple class for parsing XML documents with PHP. This means that if SimplePie doesn’t do all that you want it to out-of-the-box (which would be suprising, but possible), you can easily extend it to support whatever else you might want.\n\nI’ve frozen the current function set where it’s at. This means that if you’ve been using SimplePie already, or if you’re wanting to start using it, you won’t need to change any of your code as new versions get released. You’ll simply need to replace the old SimplePie library with the new one to take advantage of new improvements. New functions may become available to use, but new versions of SimplePie will not break existing services and applications.\n\nIf you’ve been thinking about building your own web-based RSS/Atom reader, why not give SimplePie a try?\n"},
+    "links": {
+        "prev": {"title": "The Battle of Dunstan vs. Andrei vs. Mark", "permalink": "https://ryanparman.com/posts/2004/the-battle-of-dunstan-vs-andrei-vs-mark/"},
+        "next": {"title": "I Need Your Help!", "permalink": "https://ryanparman.com/posts/2004/i-need-your-help/"},
+        "ignore": "me"
+    }
+}
+
+}

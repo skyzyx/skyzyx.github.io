@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Tarzan 2",
+    "description": "",
+    "summary": {
+        "content": "If you’ve been following my blog over the past few years, you might remember an old project I was working on back in early 2005 called Tarzan. At the time, the only Amazon web service was their e-catalog (e-commerce) service, and that was was Tarzan specialized in. I ended up scrapping the project around the same time as Geoffrey came to me and said that he wanted to help work on another one of my little side projects, SimplePie. Of course, as most of the web development community knows, SimplePie has gone on to be wildly popular and Tarzan essentially bit the dust.",
+        "isTruncated": true
+    },
+    "published": "2008-10-02T16:44:06Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2008/tarzan-2/",
+    "relativePermalink": "/posts/2008/tarzan-2/",
+    "aliases": ["/2008/10/02/tarzan-2/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 325,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2008/20081002-tarzan-2.md",
+        "logicalName": "20081002-tarzan-2.md",
+        "translationBaseName": "20081002-tarzan-2",
+        "baseFileName": "20081002-tarzan-2",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2008/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eIf you’ve been following my blog over the past few years, you might remember an old project I was working on back in early 2005 called Tarzan. At the time, the only Amazon web service was their e-catalog (e-commerce) service, and that was was Tarzan specialized in.\u003c/p\u003e\n\u003cp\u003eI ended up scrapping the project around the same time as \u003ca href=\"https://web.archive.org/web/20081002164406/http://gsnedders.com/\"\u003eGeoffrey\u003c/a\u003e came to me and said that he wanted to help work on another one of my little side projects, \u003ca href=\"https://web.archive.org/web/20081002164406/http://simplepie.org/\"\u003eSimplePie\u003c/a\u003e. Of course, as most of the web development community knows, SimplePie has gone on to be wildly popular and Tarzan essentially bit the dust.\u003c/p\u003e\n\u003cp\u003eFast-forward two years, and I’ve started my own company, \u003ca href=\"https://web.archive.org/web/20081002164406/http://warpshare.com\"\u003eWarpShare\u003c/a\u003e. I’ve spoken before about the frustrations I’ve had trying to find and download music, movies, and TV shows with high quality, no DRM, with excellent metadata, all for cheap or free. “Legal” is nice, but not required. I believe many of us feel the same way. So I went on to start a company where one of the focuses is to do almost exactly this, except that the “legal” became required instead of optional, and where all parties involved can get what they want. But I’m not here to talk about that.\u003c/p\u003e\n\u003cp\u003eWe knew that an undertaking of this kind of magnitude would require quite a bit of infrastructure, lots of data processing, and huge databases for cheap or free (we’re a pre-VC funding startup). Amazon’s new “cloud computing” initiative to the rescue! I’ll let you read up on \u003ca href=\"https://web.archive.org/web/20081002164406/http://aws.amazon.com/\"\u003eAmazon Web Services\u003c/a\u003e on your own, but I ended up deciding to resurrect the old Tarzan project as something entirely new.\u003c/p\u003e\n\u003cp\u003eThat currently-in-development software will, when officially released, be known as \u003ca href=\"https://web.archive.org/web/20081002164406/http://tarzan-aws.com\"\u003eTarzan\u003c/a\u003e 2.0. I’ve already spent some time talking about it, so if you’re interested in this new “cloud computing” thing (including storage-in-the-cloud and lightweight-databasing-in-the-cloud) and you’re a PHP developer, take a moment to give \u003ca href=\"https://web.archive.org/web/20081002164406/http://tarzan-aws.com\"\u003eTarzan\u003c/a\u003e a look. I think you’ll like it.\u003c/p\u003e\n",
+        "plain":"If you’ve been following my blog over the past few years, you might remember an old project I was working on back in early 2005 called Tarzan. At the time, the only Amazon web service was their e-catalog (e-commerce) service, and that was was Tarzan specialized in.\nI ended up scrapping the project around the same time as Geoffrey came to me and said that he wanted to help work on another one of my little side projects, SimplePie. Of course, as most of the web development community knows, SimplePie has gone on to be wildly popular and Tarzan essentially bit the dust.\nFast-forward two years, and I’ve started my own company, WarpShare. I’ve spoken before about the frustrations I’ve had trying to find and download music, movies, and TV shows with high quality, no DRM, with excellent metadata, all for cheap or free. “Legal” is nice, but not required. I believe many of us feel the same way. So I went on to start a company where one of the focuses is to do almost exactly this, except that the “legal” became required instead of optional, and where all parties involved can get what they want. But I’m not here to talk about that.\nWe knew that an undertaking of this kind of magnitude would require quite a bit of infrastructure, lots of data processing, and huge databases for cheap or free (we’re a pre-VC funding startup). Amazon’s new “cloud computing” initiative to the rescue! I’ll let you read up on Amazon Web Services on your own, but I ended up deciding to resurrect the old Tarzan project as something entirely new.\nThat currently-in-development software will, when officially released, be known as Tarzan 2.0. I’ve already spent some time talking about it, so if you’re interested in this new “cloud computing” thing (including storage-in-the-cloud and lightweight-databasing-in-the-cloud) and you’re a PHP developer, take a moment to give Tarzan a look. I think you’ll like it.\n",
+        "source":"\nIf you’ve been following my blog over the past few years, you might remember an old project I was working on back in early 2005 called Tarzan. At the time, the only Amazon web service was their e-catalog (e-commerce) service, and that was was Tarzan specialized in.\n\nI ended up scrapping the project around the same time as [Geoffrey]({{% wayback \"http://gsnedders.com/\" %}}) came to me and said that he wanted to help work on another one of my little side projects, [SimplePie]({{% wayback \"http://simplepie.org/\" %}}). Of course, as most of the web development community knows, SimplePie has gone on to be wildly popular and Tarzan essentially bit the dust.\n\nFast-forward two years, and I’ve started my own company, [WarpShare]({{% wayback \"http://warpshare.com\" %}}). I’ve spoken before about the frustrations I’ve had trying to find and download music, movies, and TV shows with high quality, no DRM, with excellent metadata, all for cheap or free. “Legal” is nice, but not required. I believe many of us feel the same way. So I went on to start a company where one of the focuses is to do almost exactly this, except that the “legal” became required instead of optional, and where all parties involved can get what they want. But I’m not here to talk about that.\n\nWe knew that an undertaking of this kind of magnitude would require quite a bit of infrastructure, lots of data processing, and huge databases for cheap or free (we’re a pre-VC funding startup). Amazon’s new “cloud computing” initiative to the rescue! I’ll let you read up on [Amazon Web Services]({{% wayback \"http://aws.amazon.com/\" %}}) on your own, but I ended up deciding to resurrect the old Tarzan project as something entirely new.\n\nThat currently-in-development software will, when officially released, be known as [Tarzan]({{% wayback \"http://tarzan-aws.com\" %}}) 2.0. I’ve already spent some time talking about it, so if you’re interested in this new “cloud computing” thing (including storage-in-the-cloud and lightweight-databasing-in-the-cloud) and you’re a PHP developer, take a moment to give [Tarzan]({{% wayback \"http://tarzan-aws.com\" %}}) a look. I think you’ll like it.\n"},
+    "links": {
+        "prev": {"title": "Dr. Horrible’s Sing-Along Blog", "permalink": "https://ryanparman.com/posts/2008/dr-horribles-sing-along-blog/"},
+        "next": {"title": "New Tarzan pre-release is available!", "permalink": "https://ryanparman.com/posts/2008/new-tarzan-pre-release-is-available/"},
+        "ignore": "me"
+    }
+}
+
+}

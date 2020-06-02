@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "The Future Is Here",
+    "description": "",
+    "summary": {
+        "content": "Well, mostly… Mozilla 1.4 was released June 30th, right along with Netscape 7.1. It’s a beautiful thing. Along with many other features, we got about:config, which allows you to tweak out a variety of hidden settings, as well as support for GeckoActiveXObject. about:config allows you to mess with all sorts of nifty things, like enabling general.smoothScrolling and timebomb.first_launch_time, whatever that is. Supposedly, Gecko 1.4’s ability to understand ActiveX objects is limited to Windows Media Player. I haven’t had any time to test yet, but I’m hoping it supports other plug-ins as well.",
+        "isTruncated": true
+    },
+    "published": "2003-07-02T08:43:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/the-future-is-here/",
+    "relativePermalink": "/posts/2003/the-future-is-here/",
+    "aliases": ["/2003/07/02/the-future-is-here/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 232,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030702-the-future-is-here.md",
+        "logicalName": "20030702-the-future-is-here.md",
+        "translationBaseName": "20030702-the-future-is-here",
+        "baseFileName": "20030702-the-future-is-here",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eWell, mostly…\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20030702084300/http://www.mozilla.org/releases/#1.4\"\u003eMozilla 1.4\u003c/a\u003e was released June 30th, right along with \u003ca href=\"https://web.archive.org/web/20030702084300/http://www.netscape.com/download/\"\u003eNetscape 7.1\u003c/a\u003e. It’s a beautiful thing. Along with many other features, we got \u003ca href=\"https://web.archive.org/web/20030702084300/http://www.mozillazine.org/misc/about:config/\"\u003e\u003ccode\u003eabout:config\u003c/code\u003e\u003c/a\u003e, which allows you to tweak out a variety of hidden settings, as well as support for \u003ca href=\"https://web.archive.org/web/20030702084300/http://devedge.netscape.com/viewsource/2003/windows-media-in-netscape/\"\u003e\u003ccode\u003eGeckoActiveXObject\u003c/code\u003e\u003c/a\u003e. \u003ccode\u003eabout:config\u003c/code\u003e allows you to mess with all sorts of nifty things, like enabling \u003ccode\u003egeneral.smoothScrolling\u003c/code\u003e and \u003ccode\u003etimebomb.first_launch_time\u003c/code\u003e, whatever that is. Supposedly, Gecko 1.4’s ability to understand ActiveX objects is limited to Windows Media Player. I haven’t had any time to test yet, but I’m hoping it supports other plug-ins as well. I’m sure it doesn’t support Windows Scripting Host, but who says it never will?\u003c/p\u003e\n\u003cp\u003eIn my spare time, I’ve been working on a wholesale produce accounting/inventory program written in XHTML, CSS, JavaScript, and Windows Script, tied together with Microsoft HTA technology. The only problem with this Windows-only solution is that it’s a Windows-only solution. What about MacOS, Linux, BeOS, OS/2, Solaris, Irix, and other systems? I believe Gecko is the answer. I either need to learn JS/IO or Gecko needs to try to support WSH. We’ll see what happens.\u003c/p\u003e\n\u003cp\u003eOn the other end, \u003ca href=\"https://web.archive.org/web/20030702084300/http://www.mozillazine.org/talkback.html?article=3042\"\u003e1.4 is replacing 1.0 as the stable branch for Gecko\u003c/a\u003e. This is great, as much has changed in the last year since Mozilla 1.0 came out. 1.4 also \u003ca href=\"https://web.archive.org/web/20030702084300/http://www.mozilla.org/roadmap.html\"\u003emarks the end\u003c/a\u003e of the \u003ca href=\"https://web.archive.org/web/20030702084300/http://www.mozilla.org/projects/seamonkey/\"\u003eSeaMonkey project\u003c/a\u003e in favor of the \u003ca href=\"https://web.archive.org/web/20030702084300/http://www.mozilla.org/projects/firebird/\"\u003eFirebird project\u003c/a\u003e focused around the former “Phoenix” project.\u003c/p\u003e\n",
+        "plain":"Well, mostly…\nMozilla 1.4 was released June 30th, right along with Netscape 7.1. It’s a beautiful thing. Along with many other features, we got about:config, which allows you to tweak out a variety of hidden settings, as well as support for GeckoActiveXObject. about:config allows you to mess with all sorts of nifty things, like enabling general.smoothScrolling and timebomb.first_launch_time, whatever that is. Supposedly, Gecko 1.4’s ability to understand ActiveX objects is limited to Windows Media Player. I haven’t had any time to test yet, but I’m hoping it supports other plug-ins as well. I’m sure it doesn’t support Windows Scripting Host, but who says it never will?\nIn my spare time, I’ve been working on a wholesale produce accounting/inventory program written in XHTML, CSS, JavaScript, and Windows Script, tied together with Microsoft HTA technology. The only problem with this Windows-only solution is that it’s a Windows-only solution. What about MacOS, Linux, BeOS, OS/2, Solaris, Irix, and other systems? I believe Gecko is the answer. I either need to learn JS/IO or Gecko needs to try to support WSH. We’ll see what happens.\nOn the other end, 1.4 is replacing 1.0 as the stable branch for Gecko. This is great, as much has changed in the last year since Mozilla 1.0 came out. 1.4 also marks the end of the SeaMonkey project in favor of the Firebird project focused around the former “Phoenix” project.\n",
+        "source":"\nWell, mostly…\n\n[Mozilla 1.4]({{% wayback \"http://www.mozilla.org/releases/#1.4\" %}}) was released June 30th, right along with [Netscape 7.1]({{% wayback \"http://www.netscape.com/download/\" %}}). It’s a beautiful thing. Along with many other features, we got [`about:config`]({{% wayback \"http://www.mozillazine.org/misc/about:config/\" %}}), which allows you to tweak out a variety of hidden settings, as well as support for [`GeckoActiveXObject`]({{% wayback \"http://devedge.netscape.com/viewsource/2003/windows-media-in-netscape/\" %}}). `about:config` allows you to mess with all sorts of nifty things, like enabling `general.smoothScrolling` and `timebomb.first_launch_time`, whatever that is. Supposedly, Gecko 1.4’s ability to understand ActiveX objects is limited to Windows Media Player. I haven’t had any time to test yet, but I’m hoping it supports other plug-ins as well. I’m sure it doesn’t support Windows Scripting Host, but who says it never will?\n\nIn my spare time, I’ve been working on a wholesale produce accounting/inventory program written in XHTML, CSS, JavaScript, and Windows Script, tied together with Microsoft HTA technology. The only problem with this Windows-only solution is that it’s a Windows-only solution. What about MacOS, Linux, BeOS, OS/2, Solaris, Irix, and other systems? I believe Gecko is the answer. I either need to learn JS/IO or Gecko needs to try to support WSH. We’ll see what happens.\n\nOn the other end, [1.4 is replacing 1.0 as the stable branch for Gecko]({{% wayback \"http://www.mozillazine.org/talkback.html?article=3042\" %}}). This is great, as much has changed in the last year since Mozilla 1.0 came out. 1.4 also [marks the end]({{% wayback \"http://www.mozilla.org/roadmap.html\" %}}) of the [SeaMonkey project]({{% wayback \"http://www.mozilla.org/projects/seamonkey/\" %}}) in favor of the [Firebird project]({{% wayback \"http://www.mozilla.org/projects/firebird/\" %}}) focused around the former “Phoenix” project.\n"},
+    "links": {
+        "prev": {"title": "Refer 2.01", "permalink": "https://ryanparman.com/posts/2003/refer-201/"},
+        "next": {"title": "The Internet Is Retarded", "permalink": "https://ryanparman.com/posts/2003/the-internet-is-retarded/"},
+        "ignore": "me"
+    }
+}
+
+}

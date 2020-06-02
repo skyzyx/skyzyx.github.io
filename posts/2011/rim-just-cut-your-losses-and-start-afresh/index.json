@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "RIM: Just cut your losses and start afresh",
+    "description": "",
+    "summary": {
+        "content": "Research In Motion (creator of BlackBerry devices) has been tanking for quite some time. Now, that time is up. That’s enough Matt Alexander, writing for one37, in his piece entitled “That’s Enough, RIM”: The Playbook is dead. It’s taken a while for you to realize that, and I’m not convinced you’re fully aware, but you should really come to acknowledge it, RIM. Bargain hunters are not going to pick up a Playbook and say, “Wow! I can’t believe everyone spoke so negatively about this!",
+        "isTruncated": true
+    },
+    "published": "2011-12-05T00:14:07Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2011/rim-just-cut-your-losses-and-start-afresh/",
+    "relativePermalink": "/posts/2011/rim-just-cut-your-losses-and-start-afresh/",
+    "aliases": ["/2011/12/04/rim-just-cut-your-losses-and-start-afresh/"],
+    "images": ["https://cdn.ryanparman.com/hugo/posts/2011/blackberry@2x.jpg"],
+    "videos": [],
+    "categories": ["Tech Industry"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 198,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2011/20111205-rim-just-cut-your-losses-and-start-afresh.md",
+        "logicalName": "20111205-rim-just-cut-your-losses-and-start-afresh.md",
+        "translationBaseName": "20111205-rim-just-cut-your-losses-and-start-afresh",
+        "baseFileName": "20111205-rim-just-cut-your-losses-and-start-afresh",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2011/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003ca href=\"#thats-enough\"\u003eThat’s enough\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#further-reading\"\u003eFurther reading…\u003c/a\u003e\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/nav\u003e",
+        "html":"\u003cp itemprop=\"description\" class=\"f5 f4-m f3-l mt0 lh-copy p-summary entry-summary\"\u003e\nResearch In Motion (creator of BlackBerry devices) has been tanking for quite some time. Now, that time is up.\n\u003c/p\u003e\n\n\u003cdiv class=\"pa2-ns\"\u003e\n\t\u003camp-img src=\"https://cdn.ryanparman.com/hugo/posts/2011/blackberry@2x.jpg\" layout=\"responsive\" width=\"\" height=\"\"\u003e\u003c/amp-img\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"thats-enough\"\u003eThat’s enough\u003c/h2\u003e\n\u003cp\u003eMatt Alexander, writing for one37, in his piece entitled “\u003ca href=\"https://web.archive.org/web/20111205001407/http://www.one37.net/blog/2011/11/29/thats-enough-rim.html\"\u003eThat’s Enough, RIM\u003c/a\u003e”:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eThe Playbook is dead.\u003c/p\u003e\n\u003cp\u003eIt’s taken a while for you to realize that, and I’m not convinced you’re fully aware, but you should really come to acknowledge it, RIM.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cblockquote\u003e\n\u003cp\u003eBargain hunters are not going to pick up a Playbook and say, “Wow! I can’t believe everyone spoke so negatively about this!” They’re going to say, “Well it looks a lot like a Kindle Fire, but it has none of the functionality.” Considering the Kindle Fire came so long after the Playbook, but is already becoming such a household name, that’s just embarrassing.\u003c/p\u003e\n\u003cp\u003eStop pushing a dead product. Cut your losses and leave it be.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eJim Dalrymple, writing for \u003ca href=\"https://web.archive.org/web/20111205001407/http://www.loopinsight.com/2011/12/04/rims-mismanagement/\"\u003eThe Loop\u003c/a\u003e and commenting on Matt’s piece:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eIt seems to me the problems with RIM come from the top and until the co-CEOs are replaced, the company doesn’t stand a chance of making a comeback.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003ch2 id=\"further-reading\"\u003eFurther reading…\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20111205001407/http://mobileopportunity.blogspot.com/2010/10/whats-really-wrong-with-blackberry-and.html\"\u003eWhat’s really wrong with BlackBerry (and what to do about it)\u003c/a\u003e by Michael Mace\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20111205001407/http://daringfireball.net/2008/05/blackberry_vs_iphone\"\u003eBlackBerry vs. iPhone\u003c/a\u003e by John Gruber\u003c/li\u003e\n\u003c/ul\u003e\n",
+        "plain":"Research In Motion (creator of BlackBerry devices) has been tanking for quite some time. Now, that time is up.   That’s enough Matt Alexander, writing for one37, in his piece entitled “That’s Enough, RIM”:\n The Playbook is dead.\nIt’s taken a while for you to realize that, and I’m not convinced you’re fully aware, but you should really come to acknowledge it, RIM.\n  Bargain hunters are not going to pick up a Playbook and say, “Wow! I can’t believe everyone spoke so negatively about this!” They’re going to say, “Well it looks a lot like a Kindle Fire, but it has none of the functionality.” Considering the Kindle Fire came so long after the Playbook, but is already becoming such a household name, that’s just embarrassing.\nStop pushing a dead product. Cut your losses and leave it be.\n Jim Dalrymple, writing for The Loop and commenting on Matt’s piece:\n It seems to me the problems with RIM come from the top and until the co-CEOs are replaced, the company doesn’t stand a chance of making a comeback.\n Further reading…  What’s really wrong with BlackBerry (and what to do about it) by Michael Mace BlackBerry vs. iPhone by John Gruber  ",
+        "source":"\n{{\u003cdescription\u003e}}\nResearch In Motion (creator of BlackBerry devices) has been tanking for quite some time. Now, that time is up.\n{{\u003c/description\u003e}}\n\n{{\u003cfullimage src=\"https://cdn.ryanparman.com/hugo/posts/2011/blackberry@2x.jpg\"\u003e}}\n\n## That’s enough\n\nMatt Alexander, writing for one37, in his piece entitled “[That’s Enough, RIM]({{% wayback \"http://www.one37.net/blog/2011/11/29/thats-enough-rim.html\" %}})”:\n\n\u003e The Playbook is dead.\n\u003e\n\u003e It’s taken a while for you to realize that, and I’m not convinced you’re fully aware, but you should really come to acknowledge it, RIM.\n\n\u003e Bargain hunters are not going to pick up a Playbook and say, “Wow! I can’t believe everyone spoke so negatively about this!” They’re going to say, “Well it looks a lot like a Kindle Fire, but it has none of the functionality.” Considering the Kindle Fire came so long after the Playbook, but is already becoming such a household name, that’s just embarrassing.\n\u003e\n\u003e Stop pushing a dead product. Cut your losses and leave it be.\n\nJim Dalrymple, writing for [The Loop]({{% wayback \"http://www.loopinsight.com/2011/12/04/rims-mismanagement/\" %}}) and commenting on Matt’s piece:\n\n\u003e It seems to me the problems with RIM come from the top and until the co-CEOs are replaced, the company doesn’t stand a chance of making a comeback.\n\n## Further reading…\n\n* [What’s really wrong with BlackBerry (and what to do about it)]({{% wayback \"http://mobileopportunity.blogspot.com/2010/10/whats-really-wrong-with-blackberry-and.html\" %}}) by Michael Mace\n* [BlackBerry vs. iPhone]({{% wayback \"http://daringfireball.net/2008/05/blackberry_vs_iphone\" %}}) by John Gruber\n\n"},
+    "links": {
+        "prev": {"title": "Cult of Ignorance", "permalink": "https://ryanparman.com/posts/2011/cult-of-ignorance/"},
+        "next": {"title": "Louis C.K. and a word about torrenting", "permalink": "https://ryanparman.com/posts/2011/louis-c-k-and-a-word-about-torrenting/"},
+        "ignore": "me"
+    }
+}
+
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Creative Unknowns",
+    "description": "",
+    "summary": {
+        "content": "Paul emailed me today with an invitation to check out his new Web/Design/Music/Apple/etc forum. Granted any new forum is always wanting new visitors, but it’s been cool seeing other webloggers like Paul, Andy Mac, Darice, Sken, and others. This will definitely be a new stop on the internet for me!",
+        "isTruncated": false
+    },
+    "published": "2004-04-11T01:02:46Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/creative-unknowns/",
+    "relativePermalink": "/posts/2004/creative-unknowns/",
+    "aliases": ["/2004/04/10/creative-unknowns/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 50,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040411-creative-unknowns.md",
+        "logicalName": "20040411-creative-unknowns.md",
+        "translationBaseName": "20040411-creative-unknowns",
+        "baseFileName": "20040411-creative-unknowns",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20040411010246/http://www.smithpaul.com\"\u003ePaul\u003c/a\u003e emailed me today with an invitation to check out his new \u003ca href=\"https://web.archive.org/web/20040411010246/http://www.creativeunknowns.co.uk/forum/\"\u003eWeb/Design/Music/Apple/etc forum\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eGranted any new forum is always wanting new visitors, but it’s been cool seeing other webloggers like \u003ca href=\"https://web.archive.org/web/20040411010246/http://www.smithpaul.com\"\u003ePaul\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20040411010246/http://branchleft.co.uk/\"\u003eAndy Mac\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20040411010246/http://www.darice.org\"\u003eDarice\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20040411010246/http://www.sken.be\"\u003eSken\u003c/a\u003e, and others.\u003c/p\u003e\n\u003cp\u003eThis will definitely be a new stop on the internet for me!\u003c/p\u003e\n",
+        "plain":"Paul emailed me today with an invitation to check out his new Web/Design/Music/Apple/etc forum.\nGranted any new forum is always wanting new visitors, but it’s been cool seeing other webloggers like Paul, Andy Mac, Darice, Sken, and others.\nThis will definitely be a new stop on the internet for me!\n",
+        "source":"\n[Paul]({{% wayback \"http://www.smithpaul.com\" %}}) emailed me today with an invitation to check out his new [Web/Design/Music/Apple/etc forum]({{% wayback \"http://www.creativeunknowns.co.uk/forum/\" %}}).\n\nGranted any new forum is always wanting new visitors, but it’s been cool seeing other webloggers like [Paul]({{% wayback \"http://www.smithpaul.com\" %}}), [Andy Mac]({{% wayback \"http://branchleft.co.uk/\" %}}), [Darice]({{% wayback \"http://www.darice.org\" %}}), [Sken]({{% wayback \"http://www.sken.be\" %}}), and others.\n\nThis will definitely be a new stop on the internet for me!\n"},
+    "links": {
+        "prev": {"title": "Re: How I stopped buying CDs and started loving music", "permalink": "https://ryanparman.com/posts/2004/re-how-i-stopped-buying-cds-and-started-loving-music/"},
+        "next": {"title": "Ryan: Slacker No More", "permalink": "https://ryanparman.com/posts/2004/ryan-slacker-no-more/"},
+        "ignore": "me"
+    }
+}
+
+}

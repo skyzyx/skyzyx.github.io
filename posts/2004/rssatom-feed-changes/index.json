@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "RSS/Atom Feed Changes",
+    "description": "",
+    "summary": {
+        "content": "After doing some thinking and such, I’ve made some decisions about my syndication feeds. From now on, RSS 0.91 and RSS 1.0 feeds will contain summary posts, and the RSS 2.0 feed will contain full posts. That way, people can pick and choose which they want. My Atom feed contains both. It’s pretty simple, I think. Those of you who subscribe to the Atom feed have the best of both worlds. I’m not sure if there is a news aggregator out there yet that can switch between summaries and full posts in Atom feeds, but I’ve filed a request with Nick Bradbury to add this functionality to Feed Demon.",
+        "isTruncated": true
+    },
+    "published": "2004-02-12T22:51:59Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/rssatom-feed-changes/",
+    "relativePermalink": "/posts/2004/rssatom-feed-changes/",
+    "aliases": ["/2004/02/12/rssatom-feed-changes/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 139,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040212-rssatom-feed-changes.md",
+        "logicalName": "20040212-rssatom-feed-changes.md",
+        "translationBaseName": "20040212-rssatom-feed-changes",
+        "baseFileName": "20040212-rssatom-feed-changes",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eAfter doing some thinking and such, I’ve made some decisions about my syndication feeds.\u003c/p\u003e\n\u003cp\u003eFrom now on, RSS 0.91 and RSS 1.0 feeds will contain \u003cem\u003esummary posts\u003c/em\u003e, and the RSS 2.0 feed will contain \u003cem\u003efull posts\u003c/em\u003e. That way, people can pick and choose which they want. My Atom feed contains both.\u003c/p\u003e\n\u003cp\u003eIt’s pretty simple, I think. Those of you who subscribe to the Atom feed have the best of both worlds. I’m not sure if there is a news aggregator out there yet that can switch between summaries and full posts in Atom feeds, but I’ve filed a request with Nick Bradbury to add this functionality to Feed Demon. We’ll see what happens with this in the Feed Demon 1.1 Final.\u003c/p\u003e\n\u003cp\u003eIs this a good move? Should I change it back to all summaries? Let me know your thoughts.\u003c/p\u003e\n",
+        "plain":"After doing some thinking and such, I’ve made some decisions about my syndication feeds.\nFrom now on, RSS 0.91 and RSS 1.0 feeds will contain summary posts, and the RSS 2.0 feed will contain full posts. That way, people can pick and choose which they want. My Atom feed contains both.\nIt’s pretty simple, I think. Those of you who subscribe to the Atom feed have the best of both worlds. I’m not sure if there is a news aggregator out there yet that can switch between summaries and full posts in Atom feeds, but I’ve filed a request with Nick Bradbury to add this functionality to Feed Demon. We’ll see what happens with this in the Feed Demon 1.1 Final.\nIs this a good move? Should I change it back to all summaries? Let me know your thoughts.\n",
+        "source":"\nAfter doing some thinking and such, I’ve made some decisions about my syndication feeds.\n\nFrom now on, RSS 0.91 and RSS 1.0 feeds will contain *summary posts*, and the RSS 2.0 feed will contain *full posts*. That way, people can pick and choose which they want. My Atom feed contains both.\n\nIt’s pretty simple, I think. Those of you who subscribe to the Atom feed have the best of both worlds. I’m not sure if there is a news aggregator out there yet that can switch between summaries and full posts in Atom feeds, but I’ve filed a request with Nick Bradbury to add this functionality to Feed Demon. We’ll see what happens with this in the Feed Demon 1.1 Final.\n\nIs this a good move? Should I change it back to all summaries? Let me know your thoughts.\n"},
+    "links": {
+        "prev": {"title": "Tweaking My RSS/Atom Feed Reader", "permalink": "https://ryanparman.com/posts/2004/tweaking-my-rssatom-feed-reader/"},
+        "next": {"title": "Redesign In Progress", "permalink": "https://ryanparman.com/posts/2004/redesign-in-progress-2/"},
+        "ignore": "me"
+    }
+}
+
+}

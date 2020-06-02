@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Redesign In Progress",
+    "description": "",
+    "summary": {
+        "content": "We are experiencing what is called a “redesign in progress”. I’m in the process of getting the new design up on all pages, but it’s not done yet. Give me a few more days, and please excuse the disgustingness of my webpages until then.",
+        "isTruncated": false
+    },
+    "published": "2003-08-18T02:14:50Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/redesign-in-progress/",
+    "relativePermalink": "/posts/2003/redesign-in-progress/",
+    "aliases": ["/2003/08/17/redesign-in-progress/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 44,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030818-redesign-in-progress.md",
+        "logicalName": "20030818-redesign-in-progress.md",
+        "translationBaseName": "20030818-redesign-in-progress",
+        "baseFileName": "20030818-redesign-in-progress",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eWe are experiencing what is called a “redesign in progress”. I’m in the process of getting the new design up on all pages, but it’s not done yet. Give me a few more days, and please excuse the disgustingness of my webpages until then.\u003c/p\u003e\n",
+        "plain":"We are experiencing what is called a “redesign in progress”. I’m in the process of getting the new design up on all pages, but it’s not done yet. Give me a few more days, and please excuse the disgustingness of my webpages until then.\n",
+        "source":"\nWe are experiencing what is called a “redesign in progress”. I’m in the process of getting the new design up on all pages, but it’s not done yet. Give me a few more days, and please excuse the disgustingness of my webpages until then.\n"},
+    "links": {
+        "prev": {"title": "Time For A Redesign?", "permalink": "https://ryanparman.com/posts/2003/time-for-a-redesign/"},
+        "next": {"title": "Redesign Complete", "permalink": "https://ryanparman.com/posts/2003/redesign-complete/"},
+        "ignore": "me"
+    }
+}
+
+}

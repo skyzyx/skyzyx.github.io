@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "SpamMaster Joe",
+    "description": "",
+    "summary": {
+        "content": "Joe Lieberman spammed me today! Well, kind of. He’s apparently using the very-evil “StarProse Referrer Advertising System 2004” to spam people’s Refer lists so that he can rank higher in search engines, or at least get people to click through to his site. Y’know all of that comment spam going around? Yeah, well this is the same thing, except for referrer lists. Lucky, I have “refer spam” countermeasures in place. I’ve got a series of IP’s, Referrers, Hostnames, and SpamBot User Agents that have been blocked for one reason or another.",
+        "isTruncated": true
+    },
+    "published": "2004-01-26T16:48:30Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/spammaster-joe/",
+    "relativePermalink": "/posts/2004/spammaster-joe/",
+    "aliases": ["/archives/000160.php", "/articles/000160.php", "/2004/01/26/spammaster-joe/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 153,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040126-spammaster-joe.md",
+        "logicalName": "20040126-spammaster-joe.md",
+        "translationBaseName": "20040126-spammaster-joe",
+        "baseFileName": "20040126-spammaster-joe",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003ca href=\"#update-hahahugoshortcode-s1-hbhb\"\u003eUpdate (HAHAHUGOSHORTCODE-s1-HBHB)\u003c/a\u003e\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/nav\u003e",
+        "html":"\u003cp itemprop=\"description\" class=\"f5 f4-m f3-l mt0 lh-copy p-summary entry-summary\"\u003e\nJoe Lieberman spammed me today!\n\u003c/p\u003e\n\n\u003cp\u003eWell, kind of. He’s apparently using the very-evil “StarProse Referrer Advertising System 2004” to spam people’s Refer lists so that he can rank higher in search engines, or at least get people to click through to his site. Y’know all of that comment spam going around? Yeah, well this is the same thing, except for referrer lists.\u003c/p\u003e\n\u003cp\u003eLucky, I have “refer spam” countermeasures in place. I’ve got a series of IP’s, Referrers, Hostnames, and SpamBot User Agents that have been blocked for one reason or another. Usually, it’s because they’ve done something not too cool, so I’ve banned them. Generally, these are spammers. If anyone wants this list, let me know.\u003c/p\u003e\n\u003cp\u003eIf Joe wants to be president, then he can go about doing it the right way. But spamming my website is not one of those ways.\u003c/p\u003e\n\u003ch2 id=\"update-hahahugoshortcode-s1-hbhb\"\u003eUpdate (\u003ctime datetime=\"2004-02-12\"\u003e2004-02-12\u003c/time\u003e\n)\u003c/h2\u003e\n\u003cp\u003eNow \u003ca href=\"https://web.archive.org/web/20040126164830/http://blog.johnkerry.com/\"\u003eJohn Kerry\u003c/a\u003e is doing it too. *sigh*\u003c/p\u003e\n",
+        "plain":"Joe Lieberman spammed me today! Well, kind of. He’s apparently using the very-evil “StarProse Referrer Advertising System 2004” to spam people’s Refer lists so that he can rank higher in search engines, or at least get people to click through to his site. Y’know all of that comment spam going around? Yeah, well this is the same thing, except for referrer lists.\nLucky, I have “refer spam” countermeasures in place. I’ve got a series of IP’s, Referrers, Hostnames, and SpamBot User Agents that have been blocked for one reason or another. Usually, it’s because they’ve done something not too cool, so I’ve banned them. Generally, these are spammers. If anyone wants this list, let me know.\nIf Joe wants to be president, then he can go about doing it the right way. But spamming my website is not one of those ways.\nUpdate (2004-02-12 ) Now John Kerry is doing it too. *sigh*\n",
+        "source":"\n{{\u003cdescription\u003e}}\nJoe Lieberman spammed me today!\n{{\u003c/description\u003e}}\n\nWell, kind of. He’s apparently using the very-evil “StarProse Referrer Advertising System 2004” to spam people’s Refer lists so that he can rank higher in search engines, or at least get people to click through to his site. Y’know all of that comment spam going around? Yeah, well this is the same thing, except for referrer lists.\n\nLucky, I have “refer spam” countermeasures in place. I’ve got a series of IP’s, Referrers, Hostnames, and SpamBot User Agents that have been blocked for one reason or another. Usually, it’s because they’ve done something not too cool, so I’ve banned them. Generally, these are spammers. If anyone wants this list, let me know.\n\nIf Joe wants to be president, then he can go about doing it the right way. But spamming my website is not one of those ways.\n\n## Update ({{\u003cdate \"2004-02-12\"\u003e}})\n\nNow [John Kerry]({{% wayback \"http://blog.johnkerry.com/\" %}}) is doing it too. \\*sigh\\*\n"},
+    "links": {
+        "prev": {"title": "Corporate-Speak", "permalink": "https://ryanparman.com/posts/2004/corporate-speak/"},
+        "next": {"title": "The Power of Feedback", "permalink": "https://ryanparman.com/posts/2004/the-power-of-feedback/"},
+        "ignore": "me"
+    }
+}
+
+}

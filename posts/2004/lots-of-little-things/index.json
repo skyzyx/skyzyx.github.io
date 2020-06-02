@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Lots of Little Things",
+    "description": "",
+    "summary": {
+        "content": "I’ve got two posts on my laptop that I simply haven’t had the time to post. I’ll try to get to it this evening. Meanwhile, I recently found out that my cookie script has been recommended on IBM’s forums, my Java detection script has been talked about on Sun’s Java forums, my Message Center 5.5 script is gaining popularity at Coding Forums, and I continue to get help with ideas to improve my Flash detection script (which uses a format that I will soon switch all of my other detection scripts to because it’s more flexible).",
+        "isTruncated": true
+    },
+    "published": "2004-07-07T20:30:55Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/lots-of-little-things/",
+    "relativePermalink": "/posts/2004/lots-of-little-things/",
+    "aliases": ["/2004/07/07/lots-of-little-things/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 306,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040707-lots-of-little-things.md",
+        "logicalName": "20040707-lots-of-little-things.md",
+        "translationBaseName": "20040707-lots-of-little-things",
+        "baseFileName": "20040707-lots-of-little-things",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve got two posts on my laptop that I simply haven’t had the time to post. I’ll try to get to it this evening.\u003c/p\u003e\n\u003cp\u003eMeanwhile, I recently found out that my \u003ca href=\"/scripts/cookies.php\"\u003ecookie script\u003c/a\u003e has been recommended on IBM’s forums, my \u003ca href=\"/scripts/java.php\"\u003eJava detection script\u003c/a\u003e has been talked about on Sun’s Java forums, my \u003ca href=\"/scripts/messagecenter.php\"\u003eMessage Center 5.5\u003c/a\u003e script is gaining popularity at \u003ca href=\"https://web.archive.org/web/20040707203055/http://www.codingforums.com\"\u003eCoding Forums\u003c/a\u003e, and I continue to get help with ideas to improve my \u003ca href=\"/scripts/flash.php\"\u003eFlash detection script\u003c/a\u003e (which uses a format that I will soon switch all of my other detection scripts to because it’s more flexible).\u003c/p\u003e\n\u003cp\u003eI’m aware of two different projects that are using the \u003ca href=\"/downloads/\"\u003estandalone IE’s\u003c/a\u003e: \u003ca href=\"https://web.archive.org/web/20040707203055/http://kreacom.dk/tools/optool/2.0/\"\u003eOpTool\u003c/a\u003e, which appears to add the ability to load any URL into any browser, and \u003ca href=\"https://web.archive.org/web/20040707203055/http://www.zeit.ca/mozie/\"\u003eMozIE\u003c/a\u003e that allows you to have a split-screen view of a webpage with multiple browsers at once.\u003c/p\u003e\n\u003cp\u003eI’ve also been contacted about using my \u003ca href=\"/projects/feedparser/\"\u003eFeed Parser\u003c/a\u003e engine in an upcoming application he’s writing. Nothing too nailed down yet though, as I’m still working out bugs for a v0.7 release.\u003c/p\u003e\n\u003cp\u003eLastly, I came across a site today that points to one of my posts about the browser wars. This is what she had to say:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eThis article/story about the Browser Wars is brilliant. How the writer has managed to make a fairy story out of the browser wars makes it amusing to read. It provides the story in such a way that you would find it so easy to understand. I feel that he is more biased towards Netscape than to Internet Explorer. He talks about the domination of King Explorer and the Emperor of AOL. But waiting in the wings patiently is Inigo Mozilla.\u003c/p\u003e\n\u003cp\u003eI think this is the best article I have read in a long time.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20040707203055/http://oufcnt2.open.ac.uk/~sue_holland_2/part3.html\"\u003eSue Holland\u003c/a\u003e\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eIf you missed it when I first wrote it, \u003ca href=\"/archives/000166.php\"\u003ehere it is again\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":"I’ve got two posts on my laptop that I simply haven’t had the time to post. I’ll try to get to it this evening.\nMeanwhile, I recently found out that my cookie script has been recommended on IBM’s forums, my Java detection script has been talked about on Sun’s Java forums, my Message Center 5.5 script is gaining popularity at Coding Forums, and I continue to get help with ideas to improve my Flash detection script (which uses a format that I will soon switch all of my other detection scripts to because it’s more flexible).\nI’m aware of two different projects that are using the standalone IE’s: OpTool, which appears to add the ability to load any URL into any browser, and MozIE that allows you to have a split-screen view of a webpage with multiple browsers at once.\nI’ve also been contacted about using my Feed Parser engine in an upcoming application he’s writing. Nothing too nailed down yet though, as I’m still working out bugs for a v0.7 release.\nLastly, I came across a site today that points to one of my posts about the browser wars. This is what she had to say:\n This article/story about the Browser Wars is brilliant. How the writer has managed to make a fairy story out of the browser wars makes it amusing to read. It provides the story in such a way that you would find it so easy to understand. I feel that he is more biased towards Netscape than to Internet Explorer. He talks about the domination of King Explorer and the Emperor of AOL. But waiting in the wings patiently is Inigo Mozilla.\nI think this is the best article I have read in a long time.\nSue Holland\n If you missed it when I first wrote it, here it is again.\n",
+        "source":"\nI’ve got two posts on my laptop that I simply haven’t had the time to post. I’ll try to get to it this evening.\n\nMeanwhile, I recently found out that my [cookie script](/scripts/cookies.php) has been recommended on IBM’s forums, my [Java detection script](/scripts/java.php) has been talked about on Sun’s Java forums, my [Message Center 5.5](/scripts/messagecenter.php) script is gaining popularity at [Coding Forums]({{% wayback \"http://www.codingforums.com\" %}}), and I continue to get help with ideas to improve my [Flash detection script](/scripts/flash.php) (which uses a format that I will soon switch all of my other detection scripts to because it’s more flexible).\n\nI’m aware of two different projects that are using the [standalone IE’s](/downloads/): [OpTool]({{% wayback \"http://kreacom.dk/tools/optool/2.0/\" %}}), which appears to add the ability to load any URL into any browser, and [MozIE]({{% wayback \"http://www.zeit.ca/mozie/\" %}}) that allows you to have a split-screen view of a webpage with multiple browsers at once.\n\nI’ve also been contacted about using my [Feed Parser](/projects/feedparser/) engine in an upcoming application he’s writing. Nothing too nailed down yet though, as I’m still working out bugs for a v0.7 release.\n\nLastly, I came across a site today that points to one of my posts about the browser wars. This is what she had to say:\n\n\u003e This article/story about the Browser Wars is brilliant. How the writer has managed to make a fairy story out of the browser wars makes it amusing to read. It provides the story in such a way that you would find it so easy to understand. I feel that he is more biased towards Netscape than to Internet Explorer. He talks about the domination of King Explorer and the Emperor of AOL. But waiting in the wings patiently is Inigo Mozilla.\n\u003e\n\u003e I think this is the best article I have read in a long time.\n\u003e\n\u003e [Sue Holland]({{% wayback \"http://oufcnt2.open.ac.uk/~sue_holland_2/part3.html\" %}})\n\nIf you missed it when I first wrote it, [here it is again](/archives/000166.php).\n"},
+    "links": {
+        "prev": {"title": "Growwwwwl...", "permalink": "https://ryanparman.com/posts/2004/growwwwwl/"},
+        "next": {"title": "My Apple Store Experience", "permalink": "https://ryanparman.com/posts/2004/my-apple-store-experience/"},
+        "ignore": "me"
+    }
+}
+
+}

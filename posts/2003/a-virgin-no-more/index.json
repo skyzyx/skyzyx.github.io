@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "A Virgin No More",
+    "description": "",
+    "summary": {
+        "content": "Just want to say congratulations to Jeffrey Zeldman on his marriage. May it be good, healthy, and full of spastic children.",
+        "isTruncated": false
+    },
+    "published": "2003-07-02T09:24:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/a-virgin-no-more/",
+    "relativePermalink": "/posts/2003/a-virgin-no-more/",
+    "aliases": ["/2003/07/02/a-virgin-no-more/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Interesting People"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 21,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030702-a-virgin-no-more.md",
+        "logicalName": "20030702-a-virgin-no-more.md",
+        "translationBaseName": "20030702-a-virgin-no-more",
+        "baseFileName": "20030702-a-virgin-no-more",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eJust want to say congratulations to \u003ca href=\"https://web.archive.org/web/20030702092400/http://www.zeldman.com\"\u003eJeffrey Zeldman\u003c/a\u003e on his marriage. May it be good, healthy, and full of spastic children.\u003c/p\u003e\n",
+        "plain":"Just want to say congratulations to Jeffrey Zeldman on his marriage. May it be good, healthy, and full of spastic children.\n",
+        "source":"\nJust want to say congratulations to [Jeffrey Zeldman]({{% wayback \"http://www.zeldman.com\" %}}) on his marriage. May it be good, healthy, and full of spastic children.\n"},
+    "links": {
+        "prev": {"title": "The Internet Is Retarded", "permalink": "https://ryanparman.com/posts/2003/the-internet-is-retarded/"},
+        "next": {"title": "Another Hole Plugged", "permalink": "https://ryanparman.com/posts/2003/another-hole-plugged/"},
+        "ignore": "me"
+    }
+}
+
+}

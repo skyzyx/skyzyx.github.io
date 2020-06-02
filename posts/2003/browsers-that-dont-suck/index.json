@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Browsers That Don't Suck",
+    "description": "",
+    "summary": {
+        "content": "I’ve begun some preliminary work to launch a Mozilla/Opera 7/Standards-compliant browser website. Many web designers and developers are fed-up with Internet Explorer, but many end-users are okay with IE. The goal of this new site will be to promote the use of browsers other than IE, or at the very least, to get people to upgrade to IE6. I’m still working on a name for the site, along with some artwork and other types of propaganda. This can be used kinda like the WaSP’s “Browser Upgrade Campaign” that was recently disbanded, except to push for non-IE browsers.",
+        "isTruncated": true
+    },
+    "published": "2003-10-14T19:12:02Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/browsers-that-dont-suck/",
+    "relativePermalink": "/posts/2003/browsers-that-dont-suck/",
+    "aliases": ["/2003/10/14/browsers-that-dont-suck/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 103,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20031014-browsers-that-dont-suck.md",
+        "logicalName": "20031014-browsers-that-dont-suck.md",
+        "translationBaseName": "20031014-browsers-that-dont-suck",
+        "baseFileName": "20031014-browsers-that-dont-suck",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve begun some preliminary work to launch a Mozilla/Opera 7/Standards-compliant browser website. Many web designers and developers are fed-up with Internet Explorer, but many end-users are okay with IE. The goal of this new site will be to promote the use of browsers other than IE, or at the very least, to get people to upgrade to IE6. I’m still working on a name for the site, along with some artwork and other types of propaganda. This can be used kinda like the WaSP’s “Browser Upgrade Campaign” that was recently disbanded, except to push for non-IE browsers. We’ll see how it all goes.\u003c/p\u003e\n",
+        "plain":"I’ve begun some preliminary work to launch a Mozilla/Opera 7/Standards-compliant browser website. Many web designers and developers are fed-up with Internet Explorer, but many end-users are okay with IE. The goal of this new site will be to promote the use of browsers other than IE, or at the very least, to get people to upgrade to IE6. I’m still working on a name for the site, along with some artwork and other types of propaganda. This can be used kinda like the WaSP’s “Browser Upgrade Campaign” that was recently disbanded, except to push for non-IE browsers. We’ll see how it all goes.\n",
+        "source":"\nI’ve begun some preliminary work to launch a Mozilla/Opera 7/Standards-compliant browser website. Many web designers and developers are fed-up with Internet Explorer, but many end-users are okay with IE. The goal of this new site will be to promote the use of browsers other than IE, or at the very least, to get people to upgrade to IE6. I’m still working on a name for the site, along with some artwork and other types of propaganda. This can be used kinda like the WaSP’s “Browser Upgrade Campaign” that was recently disbanded, except to push for non-IE browsers. We’ll see how it all goes.\n"},
+    "links": {
+        "prev": {"title": "Cah-Lee-Foh-Nee-Ahh", "permalink": "https://ryanparman.com/posts/2003/cah-lee-foh-nee-ahh/"},
+        "next": {"title": "iTunes for Windows", "permalink": "https://ryanparman.com/posts/2003/itunes-for-windows/"},
+        "ignore": "me"
+    }
+}
+
+}

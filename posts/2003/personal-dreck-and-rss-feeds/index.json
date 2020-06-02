@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Personal Dreck and RSS Feeds",
+    "description": "",
+    "summary": {
+        "content": "Although there is a bit of personal dreck on this site, I’ve done away with the “Dreck Selector”. All personal comments are still marked « Personal », but there is no longer a way to turn it off. Also, I’ve gotten a hold of a PHP script that parses RSS 0.9x/2.0 feeds. Currently, you can view news from Zeldman.com and C|Net’s News.com right here at Skyzyx.com. We also now have our own RSS feed, in case you’re interested. Interestingly enough, removing the “Dreck Selector” fixed the bug I came across in Opera 7.",
+        "isTruncated": true
+    },
+    "published": "2003-06-02T22:31:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/personal-dreck-and-rss-feeds/",
+    "relativePermalink": "/posts/2003/personal-dreck-and-rss-feeds/",
+    "aliases": ["/2003/06/02/personal-dreck-and-rss-feeds/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 94,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030602-personal-dreck-and-rss-feeds.md",
+        "logicalName": "20030602-personal-dreck-and-rss-feeds.md",
+        "translationBaseName": "20030602-personal-dreck-and-rss-feeds",
+        "baseFileName": "20030602-personal-dreck-and-rss-feeds",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eAlthough there is a bit of personal dreck on this site, I’ve done away with the “Dreck Selector”. All personal comments are still marked \u003cspan class=\"personal\"\u003e« Personal »\u003c/span\u003e, but there is no longer a way to turn it off.\u003c/p\u003e\n\u003cp\u003eAlso, I’ve gotten a hold of a PHP script that parses RSS 0.9x/2.0 feeds. Currently, you can view news from \u003ca href=\"/rss/?feed=http://www.zeldman.com/feed/zeldman.xml\"\u003eZeldman.com\u003c/a\u003e and C|Net’s \u003ca href=\"../rss/?feed=http://rss.com.com/2547-12-0-20.xml\"\u003eNews.com\u003c/a\u003e right here at Skyzyx.com. We also now have our own \u003ca href=\"/rss/skyzyx.xml\"\u003eRSS feed\u003c/a\u003e, in case you’re interested.\u003c/p\u003e\n\u003cp\u003eInterestingly enough, removing the “Dreck Selector” fixed the bug I came across in Opera 7.11. Hmmm…\u003c/p\u003e\n",
+        "plain":"Although there is a bit of personal dreck on this site, I’ve done away with the “Dreck Selector”. All personal comments are still marked « Personal », but there is no longer a way to turn it off.\nAlso, I’ve gotten a hold of a PHP script that parses RSS 0.9x/2.0 feeds. Currently, you can view news from Zeldman.com and C|Net’s News.com right here at Skyzyx.com. We also now have our own RSS feed, in case you’re interested.\nInterestingly enough, removing the “Dreck Selector” fixed the bug I came across in Opera 7.11. Hmmm…\n",
+        "source":"\nAlthough there is a bit of personal dreck on this site, I’ve done away with the “Dreck Selector”. All personal comments are still marked \u003cspan class=\"personal\"\u003e« Personal »\u003c/span\u003e, but there is no longer a way to turn it off.\n\nAlso, I’ve gotten a hold of a PHP script that parses RSS 0.9x/2.0 feeds. Currently, you can view news from [Zeldman.com](/rss/?feed=http://www.zeldman.com/feed/zeldman.xml) and C|Net’s [News.com](../rss/?feed=http://rss.com.com/2547-12-0-20.xml) right here at Skyzyx.com. We also now have our own [RSS feed](/rss/skyzyx.xml), in case you’re interested.\n\nInterestingly enough, removing the “Dreck Selector” fixed the bug I came across in Opera 7.11. Hmmm…\n"},
+    "links": {
+        "prev": {"title": "Opera 7.11 Bug", "permalink": "https://ryanparman.com/posts/2003/opera-711-bug/"},
+        "next": {"title": "New RSS Junk", "permalink": "https://ryanparman.com/posts/2003/new-rss-junk/"},
+        "ignore": "me"
+    }
+}
+
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "iTunes Remote Control?",
+    "description": "",
+    "summary": {
+        "content": "Is this the answer that Airport Express owners have been waiting for? A USB powered remote control that can handle a variety of media apps, including iTunes. From the developer’s website: When used with AirPort Express the Express Remote provides a powerful way to locally control music being streamed from iTunes on a remote PC or Mac. It’s due to be released in November sometime. I think I’m gonna get one. Let’s just hope that it’s everything it seems to be.",
+        "isTruncated": true
+    },
+    "published": "2004-11-10T22:17:02Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/itunes-remote-control/",
+    "relativePermalink": "/posts/2004/itunes-remote-control/",
+    "aliases": ["/2004/11/10/itunes-remote-control/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Tech Life"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 81,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20041110-itunes-remote-control.md",
+        "logicalName": "20041110-itunes-remote-control.md",
+        "translationBaseName": "20041110-itunes-remote-control",
+        "baseFileName": "20041110-itunes-remote-control",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eIs this the answer that Airport Express owners have been waiting for? A \u003ca href=\"https://web.archive.org/web/20041110221702/http://www.keyspan.com/products/usb/urm17a/\"\u003eUSB powered remote control\u003c/a\u003e that can handle a variety of media apps, including iTunes. From the developer’s website:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eWhen used with AirPort Express the Express Remote provides a powerful way to locally control music being streamed from iTunes on a remote PC or Mac.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003e\u003cimg src=\"https://web.archive.org/web/20041110221702/https://cdn.ryanparman.com/img/itunesremote.jpg\" alt=\"\\[Image of iTunes Remote\\]\" title=\"iTunes Remote\"\u003e\u003c/p\u003e\n\u003cp\u003eIt’s due to be released in November sometime. I think I’m gonna get one. Let’s just hope that it’s everything it seems to be.\u003c/p\u003e\n",
+        "plain":"Is this the answer that Airport Express owners have been waiting for? A USB powered remote control that can handle a variety of media apps, including iTunes. From the developer’s website:\n When used with AirPort Express the Express Remote provides a powerful way to locally control music being streamed from iTunes on a remote PC or Mac.\n It’s due to be released in November sometime. I think I’m gonna get one. Let’s just hope that it’s everything it seems to be.\n",
+        "source":"\nIs this the answer that Airport Express owners have been waiting for? A [USB powered remote control]({{% wayback \"http://www.keyspan.com/products/usb/urm17a/\" %}}) that can handle a variety of media apps, including iTunes. From the developer’s website:\n\n\u003e When used with AirPort Express the Express Remote provides a powerful way to locally control music being streamed from iTunes on a remote PC or Mac.\n\n![\\[Image of iTunes Remote\\]]({{% wayback \"https://cdn.ryanparman.com/img/itunesremote.jpg\" %}} \"iTunes Remote\")\n\nIt’s due to be released in November sometime. I think I’m gonna get one. Let’s just hope that it’s everything it seems to be.\n"},
+    "links": {
+        "prev": {"title": "Firefox Mirrors", "permalink": "https://ryanparman.com/posts/2004/firefox-mirrors/"},
+        "next": {"title": "I Got iBalls… I mean iSight", "permalink": "https://ryanparman.com/posts/2004/i-got-iballs-i-mean-isight/"},
+        "ignore": "me"
+    }
+}
+
+}

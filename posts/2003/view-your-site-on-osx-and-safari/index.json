@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "View Your Site on OSX and Safari",
+    "description": "",
+    "summary": {
+        "content": "I came across a website that shows you what your website looks like in Safari 1.1 under Mac OS X 10.3. I think it’s awfully amazing myself. This will definitely help me with some of my Mac development. I never realized how good the web looks on Mac OS X. It’s so much different than on Mac OS 9. Mac OS 9 looks disgusting compared to Windows XP, and XP looks bad compared to OSX. Hat tip: Taylor McKnight.",
+        "isTruncated": false
+    },
+    "published": "2003-11-23T20:56:29Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/view-your-site-on-osx-and-safari/",
+    "relativePermalink": "/posts/2003/view-your-site-on-osx-and-safari/",
+    "aliases": ["/2003/11/23/view-your-site-on-osx-and-safari/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 79,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20031123-view-your-site-on-osx-and-safari.md",
+        "logicalName": "20031123-view-your-site-on-osx-and-safari.md",
+        "translationBaseName": "20031123-view-your-site-on-osx-and-safari",
+        "baseFileName": "20031123-view-your-site-on-osx-and-safari",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI came across a website that \u003ca href=\"https://web.archive.org/web/20031123205629/http://www.danvine.com/capture/\"\u003eshows you what your website looks like in Safari 1.1 under Mac OS X 10.3\u003c/a\u003e. I think it’s awfully amazing myself. This will definitely help me with some of my Mac development. I never realized how \u003cem\u003egood\u003c/em\u003e the web looks on Mac OS X. It’s so much different than on Mac OS 9. Mac OS 9 looks disgusting compared to Windows XP, and XP looks bad compared to OSX.\u003c/p\u003e\n\u003cp\u003eHat tip: \u003ca href=\"https://web.archive.org/web/20031123205629/http://www.gtmcknight.com/\"\u003eTaylor McKnight\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":"I came across a website that shows you what your website looks like in Safari 1.1 under Mac OS X 10.3. I think it’s awfully amazing myself. This will definitely help me with some of my Mac development. I never realized how good the web looks on Mac OS X. It’s so much different than on Mac OS 9. Mac OS 9 looks disgusting compared to Windows XP, and XP looks bad compared to OSX.\nHat tip: Taylor McKnight.\n",
+        "source":"\nI came across a website that [shows you what your website looks like in Safari 1.1 under Mac OS X 10.3]({{% wayback \"http://www.danvine.com/capture/\" %}}). I think it’s awfully amazing myself. This will definitely help me with some of my Mac development. I never realized how *good* the web looks on Mac OS X. It’s so much different than on Mac OS 9. Mac OS 9 looks disgusting compared to Windows XP, and XP looks bad compared to OSX.\n\nHat tip: [Taylor McKnight]({{% wayback \"http://www.gtmcknight.com/\" %}}).\n"},
+    "links": {
+        "prev": {"title": "Better Living Through Web Standards", "permalink": "https://ryanparman.com/posts/2003/better-living-through-web-standards/"},
+        "next": {"title": "My Stapler!  No Touchie!", "permalink": "https://ryanparman.com/posts/2003/my-stapler-no-touchie/"},
+        "ignore": "me"
+    }
+}
+
+}

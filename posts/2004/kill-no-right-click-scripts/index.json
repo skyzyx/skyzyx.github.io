@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Kill “No Right Click” Scripts",
+    "description": "",
+    "summary": {
+        "content": "I was being a nerd today, and was digging through the list of bugs for Mozilla 1.7b (and the latest Firefox). I came across this bug that I thought was very interesting. It allows you to kill scripts that attempt to block users from right-clicking on the page. Quoted from the bug report: Here’s the layman’s explanation: In the address bar, type about:config and press Enter Search for a Preference named dom.event.contextmenu.enabled Double click its entry and change it to false Mozilla will now show the context menu even in pages that try to hide or replace it.",
+        "isTruncated": true
+    },
+    "published": "2004-03-31T03:09:16Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/kill-no-right-click-scripts/",
+    "relativePermalink": "/posts/2004/kill-no-right-click-scripts/",
+    "aliases": ["/archives/000226.php", "/articles/000226.php", "/2004/03/30/kill-no-right-click-scripts/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 102,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040331-kill-no-right-click-scripts.md",
+        "logicalName": "20040331-kill-no-right-click-scripts.md",
+        "translationBaseName": "20040331-kill-no-right-click-scripts",
+        "baseFileName": "20040331-kill-no-right-click-scripts",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI was being a nerd today, and was digging through the \u003ca href=\"https://web.archive.org/web/20040331030916/http://www.mozilla.org/releases/mozilla1.7b/changelog.html\"\u003elist of bugs\u003c/a\u003e for Mozilla 1.7b (and the latest Firefox). I came across \u003ca href=\"https://web.archive.org/web/20040331030916/http://bugzilla.mozilla.org/show_bug.cgi?id=86193\"\u003ethis bug\u003c/a\u003e that I thought was very interesting. It allows you to kill scripts that attempt to block users from right-clicking on the page.\u003c/p\u003e\n\u003cp\u003eQuoted from the bug report:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eHere’s the layman’s explanation:\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003eIn the address bar, type \u003ccode\u003eabout:config\u003c/code\u003e and press Enter\u003c/li\u003e\n\u003cli\u003eSearch for a Preference named \u003ccode\u003edom.event.contextmenu.enabled\u003c/code\u003e\u003c/li\u003e\n\u003cli\u003eDouble click its entry and change it to \u003ccode\u003efalse\u003c/code\u003e\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eMozilla will now show the context menu even in pages that try to hide or replace it.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eHow cool is that?\u003c/p\u003e\n",
+        "plain":"I was being a nerd today, and was digging through the list of bugs for Mozilla 1.7b (and the latest Firefox). I came across this bug that I thought was very interesting. It allows you to kill scripts that attempt to block users from right-clicking on the page.\nQuoted from the bug report:\n Here’s the layman’s explanation:\n In the address bar, type about:config and press Enter Search for a Preference named dom.event.contextmenu.enabled Double click its entry and change it to false  Mozilla will now show the context menu even in pages that try to hide or replace it.\n How cool is that?\n",
+        "source":"\nI was being a nerd today, and was digging through the [list of bugs]({{% wayback \"http://www.mozilla.org/releases/mozilla1.7b/changelog.html\" %}}) for Mozilla 1.7b (and the latest Firefox). I came across [this bug]({{% wayback \"http://bugzilla.mozilla.org/show_bug.cgi?id=86193\" %}}) that I thought was very interesting. It allows you to kill scripts that attempt to block users from right-clicking on the page.\n\nQuoted from the bug report:\n\n\u003e Here’s the layman’s explanation:\n\u003e\n\u003e 1. In the address bar, type `about:config` and press Enter\n\u003e 2. Search for a Preference named `dom.event.contextmenu.enabled`\n\u003e 3. Double click its entry and change it to `false`\n\u003e\n\u003e Mozilla will now show the context menu even in pages that try to hide or replace it.\n\nHow cool is that?\n"},
+    "links": {
+        "prev": {"title": "Bye, Bye, BuyMusic.com", "permalink": "https://ryanparman.com/posts/2004/bye-bye-buymusiccom/"},
+        "next": {"title": "Eternal Sunshine of the Spotless Mind", "permalink": "https://ryanparman.com/posts/2004/eternal-sunshine-of-the-spotless-mind/"},
+        "ignore": "me"
+    }
+}
+
+}

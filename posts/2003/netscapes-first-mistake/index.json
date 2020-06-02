@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Netscape's First Mistake",
+    "description": "",
+    "summary": {
+        "content": "I had really been hoping to get a job with Netscape doing some sort of Standards Evangelism. Oh well. Anyways, I just read this post on Zeldman’s site. I thought it was interesting.",
+        "isTruncated": false
+    },
+    "published": "2003-07-17T18:50:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/netscapes-first-mistake/",
+    "relativePermalink": "/posts/2003/netscapes-first-mistake/",
+    "aliases": ["/2003/07/17/netscapes-first-mistake/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Tech Life"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 33,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030717-netscapes-first-mistake.md",
+        "logicalName": "20030717-netscapes-first-mistake.md",
+        "translationBaseName": "20030717-netscapes-first-mistake",
+        "baseFileName": "20030717-netscapes-first-mistake",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI had really been hoping to get a job with Netscape doing some sort of Standards Evangelism. Oh well. Anyways, I just read \u003ca href=\"https://web.archive.org/web/20030717185000/http://www.zeldman.com/daily/0703a.shtml#jl1603\"\u003ethis post\u003c/a\u003e on Zeldman’s site. I thought it was interesting.\u003c/p\u003e\n",
+        "plain":"I had really been hoping to get a job with Netscape doing some sort of Standards Evangelism. Oh well. Anyways, I just read this post on Zeldman’s site. I thought it was interesting.\n",
+        "source":"\nI had really been hoping to get a job with Netscape doing some sort of Standards Evangelism. Oh well. Anyways, I just read [this post]({{% wayback \"http://www.zeldman.com/daily/0703a.shtml#jl1603\" %}}) on Zeldman’s site. I thought it was interesting.\n"},
+    "links": {
+        "prev": {"title": "A Moment of Silence...", "permalink": "https://ryanparman.com/posts/2003/a-moment-of-silence/"},
+        "next": {"title": "Play By The Rules", "permalink": "https://ryanparman.com/posts/2003/play-by-the-rules/"},
+        "ignore": "me"
+    }
+}
+
+}

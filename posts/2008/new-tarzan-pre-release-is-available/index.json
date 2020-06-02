@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "New Tarzan pre-release is available!",
+    "description": "",
+    "summary": {
+        "content": "Today we announce an updated Tarzan pre-release build for any developers not using the subversion trunk. A lot of work has gone into Tarzan over the past 2 months since the last release, namely: Added the ability to change the content-type of an existing object in S3. Fixed some minor bugs in SimpleDB and S3. Re-wrote all of the documentation in the entire project (which enables us to generate awesome documentation which can be found on the Tarzan documentation page).",
+        "isTruncated": true
+    },
+    "published": "2008-10-11T08:32:06Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2008/new-tarzan-pre-release-is-available/",
+    "relativePermalink": "/posts/2008/new-tarzan-pre-release-is-available/",
+    "aliases": ["/2008/10/11/new-tarzan-pre-release-is-available/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 151,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2008/20081011-new-tarzan-pre-release-is-available.md",
+        "logicalName": "20081011-new-tarzan-pre-release-is-available.md",
+        "translationBaseName": "20081011-new-tarzan-pre-release-is-available",
+        "baseFileName": "20081011-new-tarzan-pre-release-is-available",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2008/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eToday we announce an updated Tarzan pre-release build for any developers not using the subversion trunk. A lot of work has gone into Tarzan over the past 2 months since the last release, namely:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003eAdded the ability to change the content-type of an existing object in S3.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eFixed some minor bugs in SimpleDB and S3.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eRe-wrote all of the documentation in the entire project (which enables us to generate awesome documentation which can be found on the \u003ca href=\"https://web.archive.org/web/20081011083206/http://tarzan-aws.com/docs/\"\u003eTarzan documentation\u003c/a\u003e page).\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eLaunched an entirely \u003ca href=\"https://web.archive.org/web/20081011083206/http://tarzan-aws.com\"\u003enew website\u003c/a\u003e!\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eAdded support for caching frequently requested data to enhance performance. Caching types currently include file-based, APC, MySQL, PostgreSQL, and SQLite. Informal tests tend to show a speed-up of between 600x–1000x, depending on the request and the type of cache being used.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eIf you’d rather not use the bleeding-edge subversion trunk builds, you can grab the latest pre-release build from the \u003ca href=\"https://web.archive.org/web/20081011083206/http://tarzan-aws.com/download/\"\u003eTarzan download\u003c/a\u003e page. Check it out!\u003c/p\u003e\n",
+        "plain":"Today we announce an updated Tarzan pre-release build for any developers not using the subversion trunk. A lot of work has gone into Tarzan over the past 2 months since the last release, namely:\n  Added the ability to change the content-type of an existing object in S3.\n  Fixed some minor bugs in SimpleDB and S3.\n  Re-wrote all of the documentation in the entire project (which enables us to generate awesome documentation which can be found on the Tarzan documentation page).\n  Launched an entirely new website!\n  Added support for caching frequently requested data to enhance performance. Caching types currently include file-based, APC, MySQL, PostgreSQL, and SQLite. Informal tests tend to show a speed-up of between 600x–1000x, depending on the request and the type of cache being used.\n  If you’d rather not use the bleeding-edge subversion trunk builds, you can grab the latest pre-release build from the Tarzan download page. Check it out!\n",
+        "source":"\nToday we announce an updated Tarzan pre-release build for any developers not using the subversion trunk. A lot of work has gone into Tarzan over the past 2 months since the last release, namely:\n\n* Added the ability to change the content-type of an existing object in S3.\n\n* Fixed some minor bugs in SimpleDB and S3.\n\n* Re-wrote all of the documentation in the entire project (which enables us to generate awesome documentation which can be found on the [Tarzan documentation]({{% wayback \"http://tarzan-aws.com/docs/\" %}}) page).\n\n* Launched an entirely [new website]({{% wayback \"http://tarzan-aws.com\" %}})!\n\n* Added support for caching frequently requested data to enhance performance. Caching types currently include file-based, APC, MySQL, PostgreSQL, and SQLite. Informal tests tend to show a speed-up of between 600x–1000x, depending on the request and the type of cache being used.\n\nIf you’d rather not use the bleeding-edge subversion trunk builds, you can grab the latest pre-release build from the [Tarzan download]({{% wayback \"http://tarzan-aws.com/download/\" %}}) page. Check it out!\n"},
+    "links": {
+        "prev": {"title": "Tarzan 2", "permalink": "https://ryanparman.com/posts/2008/tarzan-2/"},
+        "next": {"title": "Loving my new iPhone 3G!", "permalink": "https://ryanparman.com/posts/2008/loving-my-new-iphone-3g/"},
+        "ignore": "me"
+    }
+}
+
+}

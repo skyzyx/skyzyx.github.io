@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Blogs and Scripts and Code, Oh My!",
+    "description": "",
+    "summary": {
+        "content": "I’ve been eyeing PPK’s Flash Detection Script for quite some time now. The only problem is that the IE part is written in VBScript, and I’m not familiar with the nuances of VBScript yet. After taking a look at the security hole in Internet Explorer posted below, and looking at the VBScript version that I’ve posted as “CD Voodoo”, I managed to figure out (with the help of try-catch error handling) how to re-write PPK’s script in JavaScript/JScript, thus enabling the script to live happily inside a JavaScript Library (.",
+        "isTruncated": true
+    },
+    "published": "2003-06-13T01:30:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/blogs-and-scripts-and-code-oh-my/",
+    "relativePermalink": "/posts/2003/blogs-and-scripts-and-code-oh-my/",
+    "aliases": ["/2003/06/12/blogs-and-scripts-and-code-oh-my/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 160,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030613-blogs-and-scripts-and-code-oh-my.md",
+        "logicalName": "20030613-blogs-and-scripts-and-code-oh-my.md",
+        "translationBaseName": "20030613-blogs-and-scripts-and-code-oh-my",
+        "baseFileName": "20030613-blogs-and-scripts-and-code-oh-my",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve been eyeing \u003ca href=\"https://web.archive.org/web/20030613013000/http://www.xs4all.nl/~ppk/js/index.html?/~ppk/js/flash.html\"\u003ePPK’s Flash Detection Script\u003c/a\u003e for quite some time now. The only problem is that the IE part is written in VBScript, and I’m not familiar with the nuances of VBScript yet. After taking a look at the \u003ca href=\"/2003/06/11/another-internet-explorer-feature/\"\u003esecurity hole in Internet Explorer\u003c/a\u003e posted below, and looking at the VBScript version that I’ve posted as \u003ca href=\"/scripts/cdvoodoo.htm\"\u003e“CD Voodoo”\u003c/a\u003e, I managed to figure out (with the help of try-catch error handling) how to re-write PPK’s script in JavaScript/JScript, thus enabling the script to live happily inside a JavaScript Library (\u003ccode\u003e.js\u003c/code\u003e). From there, I managed to write one for Adobe Acrobat, and Windows Media Player. Check them out in the \u003ca href=\"/scripts/\"\u003e“Scripts”\u003c/a\u003e section of this site.\u003c/p\u003e\n\u003cp\u003eI’ve also added a couple more “MozBlogs”, or “Weblogs concerning Mozilla”. One of which is Dave Hyatt’s \u003ca href=\"https://web.archive.org/web/20030613013000/http://weblogs.mozillazine.org/hyatt/\"\u003eSurfin’ Safari\u003c/a\u003e (if that counts as a MozBlog), and the other is called \u003ca href=\"https://web.archive.org/web/20030613013000/http://weblogs.mozillazine.org/pinkerton/\"\u003e“Sucking less, on a budget”\u003c/a\u003e. They’re pretty good! Check them out in the \u003ca href=\"/rss/feeds.php\"\u003e“RSS Feeds”\u003c/a\u003e section.\u003c/p\u003e\n",
+        "plain":"I’ve been eyeing PPK’s Flash Detection Script for quite some time now. The only problem is that the IE part is written in VBScript, and I’m not familiar with the nuances of VBScript yet. After taking a look at the security hole in Internet Explorer posted below, and looking at the VBScript version that I’ve posted as “CD Voodoo”, I managed to figure out (with the help of try-catch error handling) how to re-write PPK’s script in JavaScript/JScript, thus enabling the script to live happily inside a JavaScript Library (.js). From there, I managed to write one for Adobe Acrobat, and Windows Media Player. Check them out in the “Scripts” section of this site.\nI’ve also added a couple more “MozBlogs”, or “Weblogs concerning Mozilla”. One of which is Dave Hyatt’s Surfin’ Safari (if that counts as a MozBlog), and the other is called “Sucking less, on a budget”. They’re pretty good! Check them out in the “RSS Feeds” section.\n",
+        "source":"\nI’ve been eyeing [PPK’s Flash Detection Script]({{% wayback \"http://www.xs4all.nl/~ppk/js/index.html?/~ppk/js/flash.html\" %}}) for quite some time now. The only problem is that the IE part is written in VBScript, and I’m not familiar with the nuances of VBScript yet. After taking a look at the [security hole in Internet Explorer](/2003/06/11/another-internet-explorer-feature/) posted below, and looking at the VBScript version that I’ve posted as [“CD Voodoo”](/scripts/cdvoodoo.htm), I managed to figure out (with the help of try-catch error handling) how to re-write PPK’s script in JavaScript/JScript, thus enabling the script to live happily inside a JavaScript Library (`.js`). From there, I managed to write one for Adobe Acrobat, and Windows Media Player. Check them out in the [“Scripts”](/scripts/) section of this site.\n\nI’ve also added a couple more “MozBlogs”, or “Weblogs concerning Mozilla”. One of which is Dave Hyatt’s [Surfin’ Safari]({{% wayback \"http://weblogs.mozillazine.org/hyatt/\" %}}) (if that counts as a MozBlog), and the other is called [“Sucking less, on a budget”]({{% wayback \"http://weblogs.mozillazine.org/pinkerton/\" %}}). They’re pretty good! Check them out in the [“RSS Feeds”](/rss/feeds.php) section.\n"},
+    "links": {
+        "prev": {"title": "Nearing Mozilla 1.4rc2", "permalink": "https://ryanparman.com/posts/2003/nearing-mozilla-14rc2/"},
+        "next": {"title": "Twenty Cows and a Chicken", "permalink": "https://ryanparman.com/posts/2003/twenty-cows-and-a-chicken/"},
+        "ignore": "me"
+    }
+}
+
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Redesign Complete",
+    "description": "",
+    "summary": {
+        "content": "As I completed my recent website redesign, I came across a strange CSS bug in IE6/Win. I see similar bugs in IE5 and 5.5 all the time, but this is a first for me in IE6. The background color for my \u0026lt;h2\u0026gt; tag disappears on the first visible instance of it. The text is there, as well as the padding and margins. Only the background disappears. As far as it being visible, I had hoped to apply an invisible \u0026lt;h2\u0026gt; tag right above the first, but to no avail.",
+        "isTruncated": true
+    },
+    "published": "2003-08-21T01:20:15Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/redesign-complete/",
+    "relativePermalink": "/posts/2003/redesign-complete/",
+    "aliases": ["/archives/000053.php", "/articles/000053.php", "/2003/08/20/redesign-complete/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 299,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030821-redesign-complete.md",
+        "logicalName": "20030821-redesign-complete.md",
+        "translationBaseName": "20030821-redesign-complete",
+        "baseFileName": "20030821-redesign-complete",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eAs I completed my recent website redesign, I came across a strange CSS bug in IE6/Win. I see similar bugs in IE5 and 5.5 all the time, but this is a first for me in IE6. The background color for my \u003ccode\u003e\u0026lt;h2\u0026gt;\u003c/code\u003e tag disappears on the first \u003cem\u003evisible\u003c/em\u003e instance of it. The text is there, as well as the padding and margins. Only the background disappears. As far as it being visible, I had hoped to apply an invisible \u003ccode\u003e\u0026lt;h2\u0026gt;\u003c/code\u003e tag right above the first, but to no avail.\u003c/p\u003e\n\u003cdiv class=\"highlight\"\u003e\u003cpre style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"\u003e\u003ccode class=\"language-html\" data-lang=\"html\"\u003e\u0026lt;\u003cspan style=\"color:#f92672\"\u003eh2\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003estyle\u003c/span\u003e\u003cspan style=\"color:#f92672\"\u003e=\u003c/span\u003e\u003cspan style=\"color:#e6db74\"\u003e\u0026#34;display:none;\u0026#34;\u003c/span\u003e\u0026gt;\u0026lt;/\u003cspan style=\"color:#f92672\"\u003eh2\u003c/span\u003e\u0026gt;\n\u003c/code\u003e\u003c/pre\u003e\u003c/div\u003e\u003cp\u003eAs we all know, there will be no more updates to IE/Win until Longhorn is released in the 2005–2006 timeframe. Mainstream use of this OS is not anticipated until circa 2008. I’m open to suggestions on how to workaround this bug. Mozilla 1.4 and Opera 7.11 don’t seem to be affected. Gotta love that IE…\u003c/p\u003e\n\u003cp\u003eTo quote some of the other Coding Forums members, “IE, you are the weakest link. Goodbye.”\u003c/p\u003e\n\u003cp\u003eOne of the cooler things I did in this version is begin to use PHP more liberally. As I’ve come to understand it more, I’ve realized that it’s really similar to JavaScript in syntax and thought. I like it.\u003c/p\u003e\n\u003cp\u003eA few years ago, I would use JavaScript libraries to draw my layouts to the screen. The most obvious drawback, of course, is the fact that JavaScript is a client-side language. With PHP, I can do (and do do) the same thing, except when you look at the source, it looks like normal HTML. Therefore, it processes just like HTML, and I don’t have to worry (very much) about browser JavaScript compatibility issues. If I want to change part of the layout, I just modify the code in a single PHP file, and voila!\u003c/p\u003e\n\u003cp\u003eI love the web.\u003c/p\u003e\n",
+        "plain":"As I completed my recent website redesign, I came across a strange CSS bug in IE6/Win. I see similar bugs in IE5 and 5.5 all the time, but this is a first for me in IE6. The background color for my \u0026lt;h2\u0026gt; tag disappears on the first visible instance of it. The text is there, as well as the padding and margins. Only the background disappears. As far as it being visible, I had hoped to apply an invisible \u0026lt;h2\u0026gt; tag right above the first, but to no avail.\n\u0026lt;h2 style=\u0026#34;display:none;\u0026#34;\u0026gt;\u0026lt;/h2\u0026gt; As we all know, there will be no more updates to IE/Win until Longhorn is released in the 2005–2006 timeframe. Mainstream use of this OS is not anticipated until circa 2008. I’m open to suggestions on how to workaround this bug. Mozilla 1.4 and Opera 7.11 don’t seem to be affected. Gotta love that IE…\nTo quote some of the other Coding Forums members, “IE, you are the weakest link. Goodbye.”\nOne of the cooler things I did in this version is begin to use PHP more liberally. As I’ve come to understand it more, I’ve realized that it’s really similar to JavaScript in syntax and thought. I like it.\nA few years ago, I would use JavaScript libraries to draw my layouts to the screen. The most obvious drawback, of course, is the fact that JavaScript is a client-side language. With PHP, I can do (and do do) the same thing, except when you look at the source, it looks like normal HTML. Therefore, it processes just like HTML, and I don’t have to worry (very much) about browser JavaScript compatibility issues. If I want to change part of the layout, I just modify the code in a single PHP file, and voila!\nI love the web.\n",
+        "source":"\nAs I completed my recent website redesign, I came across a strange CSS bug in IE6/Win. I see similar bugs in IE5 and 5.5 all the time, but this is a first for me in IE6. The background color for my `\u003ch2\u003e` tag disappears on the first *visible* instance of it. The text is there, as well as the padding and margins. Only the background disappears. As far as it being visible, I had hoped to apply an invisible `\u003ch2\u003e` tag right above the first, but to no avail.\n\n```html\n\u003ch2 style=\"display:none;\"\u003e\u003c/h2\u003e\n```\n\nAs we all know, there will be no more updates to IE/Win until Longhorn is released in the 2005–2006 timeframe. Mainstream use of this OS is not anticipated until circa 2008. I’m open to suggestions on how to workaround this bug. Mozilla 1.4 and Opera 7.11 don’t seem to be affected. Gotta love that IE…\n\nTo quote some of the other Coding Forums members, “IE, you are the weakest link. Goodbye.”\n\nOne of the cooler things I did in this version is begin to use PHP more liberally. As I’ve come to understand it more, I’ve realized that it’s really similar to JavaScript in syntax and thought. I like it.\n\nA few years ago, I would use JavaScript libraries to draw my layouts to the screen. The most obvious drawback, of course, is the fact that JavaScript is a client-side language. With PHP, I can do (and do do) the same thing, except when you look at the source, it looks like normal HTML. Therefore, it processes just like HTML, and I don’t have to worry (very much) about browser JavaScript compatibility issues. If I want to change part of the layout, I just modify the code in a single PHP file, and voila!\n\nI love the web.\n"},
+    "links": {
+        "prev": {"title": "Redesign In Progress", "permalink": "https://ryanparman.com/posts/2003/redesign-in-progress/"},
+        "next": {"title": "Gemal's Gettin' Hitched!", "permalink": "https://ryanparman.com/posts/2003/gemals-gettin-hitched/"},
+        "ignore": "me"
+    }
+}
+
+}

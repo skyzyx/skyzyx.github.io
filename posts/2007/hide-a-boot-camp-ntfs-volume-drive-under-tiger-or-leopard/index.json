@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Hide a Boot Camp NTFS Volume (Drive) under Tiger or Leopard",
+    "description": "",
+    "summary": {
+        "content": "I was trying to figure out how to hide my Boot Camp NTFS drive icon from my desktop, and after some searching I discovered a relatively simple 4-step process. If your Boot Camp drive is FAT32, you can skip the first 2 steps, and begin with step 3. Install MacFUSE. This is a Google project that allows you to mount other file systems on your desktop, including even things like SSH and FTP. Install the NTFS–3G plugin for MacFUSE, which will allow us to not only read, but also write to NTFS drives.",
+        "isTruncated": true
+    },
+    "published": "2007-11-24T02:04:51Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2007/hide-a-boot-camp-ntfs-volume-drive-under-tiger-or-leopard/",
+    "relativePermalink": "/posts/2007/hide-a-boot-camp-ntfs-volume-drive-under-tiger-or-leopard/",
+    "aliases": ["/2007/11/23/hide-a-boot-camp-ntfs-volume-drive-under-tiger-or-leopard/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Software"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 165,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2007/20071124-hide-a-boot-camp-ntfs-volume-drive-under-tiger-or-leopard.md",
+        "logicalName": "20071124-hide-a-boot-camp-ntfs-volume-drive-under-tiger-or-leopard.md",
+        "translationBaseName": "20071124-hide-a-boot-camp-ntfs-volume-drive-under-tiger-or-leopard",
+        "baseFileName": "20071124-hide-a-boot-camp-ntfs-volume-drive-under-tiger-or-leopard",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2007/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI was trying to figure out how to hide my Boot Camp NTFS drive icon from my desktop, and after some searching I discovered a relatively simple 4-step process. If your Boot Camp drive is FAT32, you can skip the first 2 steps, and begin with step 3.\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eInstall \u003ca href=\"https://web.archive.org/web/20071124020451/http://code.google.com/p/macfuse/\"\u003eMacFUSE\u003c/a\u003e. This is a Google project that allows you to mount other file systems on your desktop, including even things like SSH and FTP.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eInstall the \u003ca href=\"https://web.archive.org/web/20071124020451/http://macntfs-3g.blogspot.com/\"\u003eNTFS–3G\u003c/a\u003e plugin for MacFUSE, which will allow us to not only read, but also write to NTFS drives.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eInstall the \u003ca href=\"https://web.archive.org/web/20071124020451/http://developer.apple.com/tools/\"\u003eMac OS X Developer Tools\u003c/a\u003e. They should be an optional install on the Mac OS X install disc, or I believe you can download them manually.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eAccording to \u003ca href=\"https://web.archive.org/web/20071124020451/http://www.gigoblog.com/2007/03/07/boot-camp-hide-a-windows-xp-volume-on-mac-desktop/\"\u003eGarbage In, Garbage Out\u003c/a\u003e, simply copy-paste this line into your Terminal, and press Enter:\u003c/p\u003e\n\u003cdiv class=\"highlight\"\u003e\u003cpre style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"\u003e\u003ccode class=\"language-bash\" data-lang=\"bash\"\u003e/Developer/Tools/SetFile -a V /Volumes/Untitled; killall Finder;\n\u003c/code\u003e\u003c/pre\u003e\u003c/div\u003e\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eYour Boot Camp drive icon should be hidden from your desktop, but may still show up in things like open/save dialogs. :)\u003c/p\u003e\n",
+        "plain":"I was trying to figure out how to hide my Boot Camp NTFS drive icon from my desktop, and after some searching I discovered a relatively simple 4-step process. If your Boot Camp drive is FAT32, you can skip the first 2 steps, and begin with step 3.\n  Install MacFUSE. This is a Google project that allows you to mount other file systems on your desktop, including even things like SSH and FTP.\n  Install the NTFS–3G plugin for MacFUSE, which will allow us to not only read, but also write to NTFS drives.\n  Install the Mac OS X Developer Tools. They should be an optional install on the Mac OS X install disc, or I believe you can download them manually.\n  According to Garbage In, Garbage Out, simply copy-paste this line into your Terminal, and press Enter:\n/Developer/Tools/SetFile -a V /Volumes/Untitled; killall Finder;   Your Boot Camp drive icon should be hidden from your desktop, but may still show up in things like open/save dialogs. :)\n",
+        "source":"\nI was trying to figure out how to hide my Boot Camp NTFS drive icon from my desktop, and after some searching I discovered a relatively simple 4-step process. If your Boot Camp drive is FAT32, you can skip the first 2 steps, and begin with step 3.\n\n1. Install [MacFUSE]({{% wayback \"http://code.google.com/p/macfuse/\" %}}). This is a Google project that allows you to mount other file systems on your desktop, including even things like SSH and FTP.\n\n2. Install the [NTFS–3G]({{% wayback \"http://macntfs-3g.blogspot.com/\" %}}) plugin for MacFUSE, which will allow us to not only read, but also write to NTFS drives.\n\n3. Install the [Mac OS X Developer Tools]({{% wayback \"http://developer.apple.com/tools/\" %}}). They should be an optional install on the Mac OS X install disc, or I believe you can download them manually.\n\n4. According to [Garbage In, Garbage Out]({{% wayback \"http://www.gigoblog.com/2007/03/07/boot-camp-hide-a-windows-xp-volume-on-mac-desktop/\" %}}), simply copy-paste this line into your Terminal, and press Enter:\n\n    ```bash\n    /Developer/Tools/SetFile -a V /Volumes/Untitled; killall Finder;\n    ```\n\nYour Boot Camp drive icon should be hidden from your desktop, but may still show up in things like open/save dialogs. :)\n"},
+    "links": {
+        "prev": {"title": "I support the Writer's Guild of America", "permalink": "https://ryanparman.com/posts/2007/i-support-the-writers-guild-of-america/"},
+        "next": {"title": "Why do you love coming back to a sales person?", "permalink": "https://ryanparman.com/posts/2008/why-do-you-love-coming-back-to-a-sales-person/"},
+        "ignore": "me"
+    }
+}
+
+}

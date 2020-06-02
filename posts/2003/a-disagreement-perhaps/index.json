@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "A Disagreement Perhaps?",
+    "description": "",
+    "summary": {
+        "content": "A guy from Coding Forums commented on my recent article \u0026ldquo;Play By The Rules\u0026rdquo; on his blog. The only problem is that it’s in German. I did some digging around on Yahoo! and found a translation service. I punched in the URL for Morded’s blog, and came up with this (rather rough) translation. Ryan Parman wrote an interesting Rant, suitable title: Play By The Rules. In the reason I understand the motives for such an article, and the constant discussion “why standards?",
+        "isTruncated": true
+    },
+    "published": "2003-07-26T23:27:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/a-disagreement-perhaps/",
+    "relativePermalink": "/posts/2003/a-disagreement-perhaps/",
+    "aliases": ["/2003/07/26/a-disagreement-perhaps/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Web Standards"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 201,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030726-a-disagreement-perhaps.md",
+        "logicalName": "20030726-a-disagreement-perhaps.md",
+        "translationBaseName": "20030726-a-disagreement-perhaps",
+        "baseFileName": "20030726-a-disagreement-perhaps",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eA guy from \u003ca href=\"https://web.archive.org/web/20030726232700/http://www.codingforums.com\"\u003eCoding Forums\u003c/a\u003e commented on my recent article \u0026ldquo;\u003ca href=\"../articles/playbytherules.htm\"\u003ePlay By The Rules\u003c/a\u003e\u0026rdquo; on his blog. The only problem is that it’s in German. I did some digging around on \u003ca href=\"https://web.archive.org/web/20030726232700/http://search.yahoo.com/bin/search?p=translate+german\"\u003eYahoo!\u003c/a\u003e and found a \u003ca href=\"https://web.archive.org/web/20030726232700/http://www.systranbox.com/\"\u003etranslation service\u003c/a\u003e. I punched in the URL for \u003ca href=\"https://web.archive.org/web/20030726232700/http://www.trollscript.de/blog/\"\u003eMorded’s blog\u003c/a\u003e, and came up with this (rather rough) translation.\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eRyan Parman wrote an interesting Rant, suitable title: Play By The Rules. In the reason I understand the motives for such an article, and the constant discussion “why standards?” knows naturally nerves. But it nerves both sides. Both the eternal critics and the W3C-Apologeten. Also standards can disappear again in sinking if it for application are too complicated. Or they are accordingly adapted stop.\u003c/p\u003e\n\u003cp\u003eTo that extent I join in not with the tenor of the article over. It is too aggressive me, and swears to me to often the picture of the W3C as all crucial instance, after whose whistle each professional developer has to dance. A few arguments for standards are ever better than an insulted withdrawing to argumentative residual items as “we are the professionals and are right”. Even if the arguments constantly repeat themselves.\u003c/p\u003e\n\u003cp\u003eAnyhow the article involved a \u003ca href=\"https://web.archive.org/web/20030726232700/http://www.codingforums.com/showthread.php?s=\u0026amp;threadid=23750\"\u003equite long discussion\u003c/a\u003e on codingforums.com.\u003c/p\u003e\n\u003c/blockquote\u003e\n",
+        "plain":"A guy from Coding Forums commented on my recent article \u0026ldquo;Play By The Rules\u0026rdquo; on his blog. The only problem is that it’s in German. I did some digging around on Yahoo! and found a translation service. I punched in the URL for Morded’s blog, and came up with this (rather rough) translation.\n Ryan Parman wrote an interesting Rant, suitable title: Play By The Rules. In the reason I understand the motives for such an article, and the constant discussion “why standards?” knows naturally nerves. But it nerves both sides. Both the eternal critics and the W3C-Apologeten. Also standards can disappear again in sinking if it for application are too complicated. Or they are accordingly adapted stop.\nTo that extent I join in not with the tenor of the article over. It is too aggressive me, and swears to me to often the picture of the W3C as all crucial instance, after whose whistle each professional developer has to dance. A few arguments for standards are ever better than an insulted withdrawing to argumentative residual items as “we are the professionals and are right”. Even if the arguments constantly repeat themselves.\nAnyhow the article involved a quite long discussion on codingforums.com.\n ",
+        "source":"\nA guy from [Coding Forums]({{% wayback \"http://www.codingforums.com\" %}}) commented on my recent article \"[Play By The Rules](../articles/playbytherules.htm)\" on his blog. The only problem is that it’s in German. I did some digging around on [Yahoo!]({{% wayback \"http://search.yahoo.com/bin/search?p=translate+german\" %}}) and found a [translation service]({{% wayback \"http://www.systranbox.com/\" %}}). I punched in the URL for [Morded’s blog]({{% wayback \"http://www.trollscript.de/blog/\" %}}), and came up with this (rather rough) translation.\n\n\u003e Ryan Parman wrote an interesting Rant, suitable title: Play By The Rules. In the reason I understand the motives for such an article, and the constant discussion “why standards?” knows naturally nerves. But it nerves both sides. Both the eternal critics and the W3C-Apologeten. Also standards can disappear again in sinking if it for application are too complicated. Or they are accordingly adapted stop.\n\u003e\n\u003e To that extent I join in not with the tenor of the article over. It is too aggressive me, and swears to me to often the picture of the W3C as all crucial instance, after whose whistle each professional developer has to dance. A few arguments for standards are ever better than an insulted withdrawing to argumentative residual items as “we are the professionals and are right”. Even if the arguments constantly repeat themselves.\n\u003e\n\u003e Anyhow the article involved a [quite long discussion]({{% wayback \"http://www.codingforums.com/showthread.php?s=\u0026threadid=23750\" %}}) on codingforums.com.\n"},
+    "links": {
+        "prev": {"title": "Mozilla SeaMonkey vs Mozilla Firebird™", "permalink": "https://ryanparman.com/posts/2003/mozilla-seamonkey-vs-mozilla-firebird/"},
+        "next": {"title": "ReleaseOne™", "permalink": "https://ryanparman.com/posts/2003/releaseone/"},
+        "ignore": "me"
+    }
+}
+
+}

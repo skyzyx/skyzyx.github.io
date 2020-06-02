@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Draggable Lists",
+    "description": "",
+    "summary": {
+        "content": "I’ve been working a lot with Oracle Portal over the last few months. My company is in the process of moving everything over to Oracle technology, and I’m a UI designer on the Portal team. We’ve been in the midst of usability testing over the last week or so, and one thing that has been coming up is the suggestion to make the “Other Tools” list of links customizable in some way. Most implementations typically involve clicking a button or link to go to the Edit page.",
+        "isTruncated": true
+    },
+    "published": "2005-09-13T05:32:54Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/draggable-lists/",
+    "relativePermalink": "/posts/2005/draggable-lists/",
+    "aliases": ["/2005/09/12/draggable-lists/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 305,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050913-draggable-lists.md",
+        "logicalName": "20050913-draggable-lists.md",
+        "translationBaseName": "20050913-draggable-lists",
+        "baseFileName": "20050913-draggable-lists",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve been working a lot with Oracle Portal over the last few months. My company is in the process of moving everything over to Oracle technology, and I’m a UI designer on the Portal team. We’ve been in the midst of usability testing over the last week or so, and one thing that has been coming up is the suggestion to make the “Other Tools” list of links customizable in some way.\u003c/p\u003e\n\u003cp\u003eMost implementations typically involve clicking a button or link to go to the Edit page. From there, you typically have to go through some moderately unusable process for reordering links, changing descriptions or current links, or adding new links. This may or may not include several pages and several page refreshes to get it all done the way you want it to be. Quite frankly, that sucks.\u003c/p\u003e\n\u003cp\u003eSo, I spent several hours over the weekend digging through the documentation for \u003ca href=\"https://web.archive.org/web/20050913053254/http://prototype.conio.net/\"\u003ePrototype\u003c/a\u003e and Scriptaculous in order to build a much more usable, natural, intuitive system for making these kinds of customizations. It’s not quite the same as the lists used in \u003ca href=\"https://web.archive.org/web/20050913053254/http://www.basecamphq.com\"\u003eBasecamp\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20050913053254/http://www.backpackit.com\"\u003eBackpack\u003c/a\u003e, or \u003ca href=\"https://web.archive.org/web/20050913053254/http://www.tadalist.com\"\u003eTa-Da\u003c/a\u003e lists, but these services were definitely an inspiration. \u003ca href=\"https://web.archive.org/web/20050913053254/http://downloads.skyzyx.net/Video%20Clips/Draggable%20Links.mov\"\u003eHere’s a video\u003c/a\u003e of what I’ve got so far. The video is a little tall for standard 1024x768 monitors, so you may have to size it down a smidge to see it all. QuickTime 6 or 7 should be plenty new enough to watch the video.\u003c/p\u003e\n\u003cp\u003eI’m not quite ready to release the code yet, as it’s not completely done, but once I add the few more things to it that I plan to, you can download the code and do whatever you want with it. The backend is done in PHP with text files, and shouldn’t require anything special except for a relatively modern browser (released in 2001 or later).\u003c/p\u003e\n",
+        "plain":"I’ve been working a lot with Oracle Portal over the last few months. My company is in the process of moving everything over to Oracle technology, and I’m a UI designer on the Portal team. We’ve been in the midst of usability testing over the last week or so, and one thing that has been coming up is the suggestion to make the “Other Tools” list of links customizable in some way.\nMost implementations typically involve clicking a button or link to go to the Edit page. From there, you typically have to go through some moderately unusable process for reordering links, changing descriptions or current links, or adding new links. This may or may not include several pages and several page refreshes to get it all done the way you want it to be. Quite frankly, that sucks.\nSo, I spent several hours over the weekend digging through the documentation for Prototype and Scriptaculous in order to build a much more usable, natural, intuitive system for making these kinds of customizations. It’s not quite the same as the lists used in Basecamp, Backpack, or Ta-Da lists, but these services were definitely an inspiration. Here’s a video of what I’ve got so far. The video is a little tall for standard 1024x768 monitors, so you may have to size it down a smidge to see it all. QuickTime 6 or 7 should be plenty new enough to watch the video.\nI’m not quite ready to release the code yet, as it’s not completely done, but once I add the few more things to it that I plan to, you can download the code and do whatever you want with it. The backend is done in PHP with text files, and shouldn’t require anything special except for a relatively modern browser (released in 2001 or later).\n",
+        "source":"\nI’ve been working a lot with Oracle Portal over the last few months. My company is in the process of moving everything over to Oracle technology, and I’m a UI designer on the Portal team. We’ve been in the midst of usability testing over the last week or so, and one thing that has been coming up is the suggestion to make the “Other Tools” list of links customizable in some way.\n\nMost implementations typically involve clicking a button or link to go to the Edit page. From there, you typically have to go through some moderately unusable process for reordering links, changing descriptions or current links, or adding new links. This may or may not include several pages and several page refreshes to get it all done the way you want it to be. Quite frankly, that sucks.\n\nSo, I spent several hours over the weekend digging through the documentation for [Prototype]({{% wayback \"http://prototype.conio.net/\" %}}) and Scriptaculous in order to build a much more usable, natural, intuitive system for making these kinds of customizations. It’s not quite the same as the lists used in [Basecamp]({{% wayback \"http://www.basecamphq.com\" %}}), [Backpack]({{% wayback \"http://www.backpackit.com\" %}}), or [Ta-Da]({{% wayback \"http://www.tadalist.com\" %}}) lists, but these services were definitely an inspiration. [Here’s a video]({{% wayback \"http://downloads.skyzyx.net/Video%20Clips/Draggable%20Links.mov\" %}}) of what I’ve got so far. The video is a little tall for standard 1024x768 monitors, so you may have to size it down a smidge to see it all. QuickTime 6 or 7 should be plenty new enough to watch the video.\n\nI’m not quite ready to release the code yet, as it’s not completely done, but once I add the few more things to it that I plan to, you can download the code and do whatever you want with it. The backend is done in PHP with text files, and shouldn’t require anything special except for a relatively modern browser (released in 2001 or later).\n"},
+    "links": {
+        "prev": {"title": "iCal TV Show Schedules", "permalink": "https://ryanparman.com/posts/2005/ical-tv-show-schedules/"},
+        "next": {"title": "Status Icon Sets: Flat, Glass, and Shadow", "permalink": "https://ryanparman.com/posts/2005/status-icon-sets-flat-glass-and-shadow/"},
+        "ignore": "me"
+    }
+}
+
+}

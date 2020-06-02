@@ -1,0 +1,114 @@
+{
+    "data": {
+        
+        "section": "articles",
+        
+        
+        "count": 2,
+        "items": [
+            
+            {
+    "kind": "section",
+    "title": "Article: Play By the Rules",
+    "description": "",
+    "summary": {
+        "content": "This page has moved to https://web.archive.org/web/20031213110648/http://www.skyzyx.com:80/articles/playbytherules.php.",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/articles/playbytherules.php/",
+    "relativePermalink": "/articles/playbytherules.php/",
+    "aliases": ["/articles/playbytherules.htm", "/2003/08/10/articles/playbytherules.htm"],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 6,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "articles/playbytherules.php/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "articles/playbytherules.php/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://web.archive.org/web/20031213110648/http://www.skyzyx.com:80/articles/playbytherules.php\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://web.archive.org/web/20031213110648/http://www.skyzyx.com:80/articles/playbytherules.php\"\u003ehttps://web.archive.org/web/20031213110648/http://www.skyzyx.com:80/articles/playbytherules.php\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":" This page has moved to https://web.archive.org/web/20031213110648/http://www.skyzyx.com:80/articles/playbytherules.php.\n",
+        "source":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://web.archive.org/web/20031213110648/http://www.skyzyx.com:80/articles/playbytherules.php\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://web.archive.org/web/20031213110648/http://www.skyzyx.com:80/articles/playbytherules.php\"\u003ehttps://web.archive.org/web/20031213110648/http://www.skyzyx.com:80/articles/playbytherules.php\u003c/a\u003e.\u003c/p\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Article: Politics and Religion, Part I",
+    "description": "",
+    "summary": {
+        "content": "This page has moved to https://web.archive.org/web/20031005143615/http://www.skyzyx.com:80/articles/conservative.php.",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/articles/conservative.php/",
+    "relativePermalink": "/articles/conservative.php/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 6,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "articles/conservative.php/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "articles/conservative.php/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://web.archive.org/web/20031005143615/http://www.skyzyx.com:80/articles/conservative.php\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://web.archive.org/web/20031005143615/http://www.skyzyx.com:80/articles/conservative.php\"\u003ehttps://web.archive.org/web/20031005143615/http://www.skyzyx.com:80/articles/conservative.php\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":" This page has moved to https://web.archive.org/web/20031005143615/http://www.skyzyx.com:80/articles/conservative.php.\n",
+        "source":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://web.archive.org/web/20031005143615/http://www.skyzyx.com:80/articles/conservative.php\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://web.archive.org/web/20031005143615/http://www.skyzyx.com:80/articles/conservative.php\"\u003ehttps://web.archive.org/web/20031005143615/http://www.skyzyx.com:80/articles/conservative.php\u003c/a\u003e.\u003c/p\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+        ]
+    }
+}

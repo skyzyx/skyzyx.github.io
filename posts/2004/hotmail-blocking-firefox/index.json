@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Hotmail blocking Firefox?",
+    "description": "",
+    "summary": {
+        "content": "At first I thought that Hotmail was down when it hung as I logged in with Firefox. After a bit, I tried to login again. Still no luck. I tried logging in with IE. No problems. I tried again with Mozilla. No problems. I tried with Opera. No problems. I tried with Firefox. Problems. Is Microsoft beginning to see Firefox as a threat? Is that why they’re blocking access to Hotmail from the oh-so-popular Firefox? Of course, it might just be me wanting to rag on M* for something else, but it doesn’t appear that they were trying to be subtle about this one.",
+        "isTruncated": true
+    },
+    "published": "2004-05-17T23:57:39Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/hotmail-blocking-firefox/",
+    "relativePermalink": "/posts/2004/hotmail-blocking-firefox/",
+    "aliases": ["/2004/05/17/hotmail-blocking-firefox/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 113,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040517-hotmail-blocking-firefox.md",
+        "logicalName": "20040517-hotmail-blocking-firefox.md",
+        "translationBaseName": "20040517-hotmail-blocking-firefox",
+        "baseFileName": "20040517-hotmail-blocking-firefox",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eAt first I thought that Hotmail was down when it hung as I logged in with Firefox. After a bit, I tried to login again. Still no luck.\u003c/p\u003e\n\u003cp\u003eI tried logging in with IE. No problems. I tried again with Mozilla. No problems. I tried with Opera. No problems. I tried with Firefox. Problems.\u003c/p\u003e\n\u003cp\u003eIs Microsoft beginning to see Firefox as a threat? Is that why they’re blocking access to Hotmail from the oh-so-popular Firefox? Of course, it might just be me wanting to rag on M*  for something else, but it doesn’t appear that they were trying to be subtle about this one.\u003c/p\u003e\n\u003cp\u003eI’m off to write a nasty letter to them…\u003c/p\u003e\n",
+        "plain":"At first I thought that Hotmail was down when it hung as I logged in with Firefox. After a bit, I tried to login again. Still no luck.\nI tried logging in with IE. No problems. I tried again with Mozilla. No problems. I tried with Opera. No problems. I tried with Firefox. Problems.\nIs Microsoft beginning to see Firefox as a threat? Is that why they’re blocking access to Hotmail from the oh-so-popular Firefox? Of course, it might just be me wanting to rag on M* for something else, but it doesn’t appear that they were trying to be subtle about this one.\nI’m off to write a nasty letter to them…\n",
+        "source":"\nAt first I thought that Hotmail was down when it hung as I logged in with Firefox. After a bit, I tried to login again. Still no luck.\n\nI tried logging in with IE. No problems. I tried again with Mozilla. No problems. I tried with Opera. No problems. I tried with Firefox. Problems.\n\nIs Microsoft beginning to see Firefox as a threat? Is that why they’re blocking access to Hotmail from the oh-so-popular Firefox? Of course, it might just be me wanting to rag on M*  for something else, but it doesn’t appear that they were trying to be subtle about this one.\n\nI’m off to write a nasty letter to them…\n"},
+    "links": {
+        "prev": {"title": "Firefox: Fixing the startup page", "permalink": "https://ryanparman.com/posts/2004/firefox-fixing-the-startup-page/"},
+        "next": {"title": "Dead Hard Drive", "permalink": "https://ryanparman.com/posts/2004/dead-hard-drive/"},
+        "ignore": "me"
+    }
+}
+
+}

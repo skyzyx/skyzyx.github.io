@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "OpenBeOS Is Moving Right Along",
+    "description": "",
+    "summary": {
+        "content": "If you’re one of the 15–20 people who ever used the BeOS, I’m sure you were pretty bummed out when they were bought out by Palm Computing a while back. We were all going to miss our brilliant little alternative-OS. Those of you who miss the BeOS may be able to see it again very soon. The OpenBeOS Project is moving right along in resurrecting a fully-functional, completely re-written from the ground-up, R5-compatible version of BeOS 5. At the moment, the project is still called OpenBeOS.",
+        "isTruncated": true
+    },
+    "published": "2003-06-17T11:03:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/openbeos-is-moving-right-along/",
+    "relativePermalink": "/posts/2003/openbeos-is-moving-right-along/",
+    "aliases": ["/2003/06/17/openbeos-is-moving-right-along/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Tech Life"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 165,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030617-openbeos-is-moving-right-along.md",
+        "logicalName": "20030617-openbeos-is-moving-right-along.md",
+        "translationBaseName": "20030617-openbeos-is-moving-right-along",
+        "baseFileName": "20030617-openbeos-is-moving-right-along",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eIf you’re one of the 15–20 people who ever used the \u003ca href=\"https://web.archive.org/web/20030617110300/http://www.bebits.com/app/2680\"\u003eBeOS\u003c/a\u003e, I’m sure you were pretty bummed out when they were bought out by \u003ca href=\"https://web.archive.org/web/20030617110300/http://www.palm.com/us/\"\u003ePalm Computing\u003c/a\u003e a while back. We were all going to miss our brilliant little alternative-OS.\u003c/p\u003e\n\u003cp\u003eThose of you who miss the BeOS may be able to see it again very soon. The \u003ca href=\"https://web.archive.org/web/20030617110300/http://www.openbeos.info\"\u003eOpenBeOS Project\u003c/a\u003e is moving right along in resurrecting a fully-functional, completely re-written from the ground-up, R5-compatible version of BeOS 5. At the moment, the project is still called OpenBeOS. However, they have selected a new name, and are in the middle of the trademark process (which has hit a few snags).\u003c/p\u003e\n\u003cp\u003eThe Game Kit, Media Kit, Interface Kit, Input Kit, Kernel, and Networking are the last (and hardest) parts to be completed. The \u003ca href=\"https://web.archive.org/web/20030617110300/http://prdownloads.sourceforge.net/open-beos/media_kit_alpha_1_x86.zip?download\"\u003eMedia Kit, Alpha 1\u003c/a\u003e is available for download to run on BeOS 5. The Be File System project has released \u003ca href=\"https://web.archive.org/web/20030617110300/http://www.bug-br.org.br/openbfs\"\u003eOpenBFS 1.0 Beta 6\u003c/a\u003e, which I’m running as we speak.\u003c/p\u003e\n\u003cp\u003eBe-lovers, our time is approaching…\u003c/p\u003e\n",
+        "plain":"If you’re one of the 15–20 people who ever used the BeOS, I’m sure you were pretty bummed out when they were bought out by Palm Computing a while back. We were all going to miss our brilliant little alternative-OS.\nThose of you who miss the BeOS may be able to see it again very soon. The OpenBeOS Project is moving right along in resurrecting a fully-functional, completely re-written from the ground-up, R5-compatible version of BeOS 5. At the moment, the project is still called OpenBeOS. However, they have selected a new name, and are in the middle of the trademark process (which has hit a few snags).\nThe Game Kit, Media Kit, Interface Kit, Input Kit, Kernel, and Networking are the last (and hardest) parts to be completed. The Media Kit, Alpha 1 is available for download to run on BeOS 5. The Be File System project has released OpenBFS 1.0 Beta 6, which I’m running as we speak.\nBe-lovers, our time is approaching…\n",
+        "source":"\nIf you’re one of the 15–20 people who ever used the [BeOS]({{% wayback \"http://www.bebits.com/app/2680\" %}}), I’m sure you were pretty bummed out when they were bought out by [Palm Computing]({{% wayback \"http://www.palm.com/us/\" %}}) a while back. We were all going to miss our brilliant little alternative-OS.\n\nThose of you who miss the BeOS may be able to see it again very soon. The [OpenBeOS Project]({{% wayback \"http://www.openbeos.info\" %}}) is moving right along in resurrecting a fully-functional, completely re-written from the ground-up, R5-compatible version of BeOS 5. At the moment, the project is still called OpenBeOS. However, they have selected a new name, and are in the middle of the trademark process (which has hit a few snags).\n\nThe Game Kit, Media Kit, Interface Kit, Input Kit, Kernel, and Networking are the last (and hardest) parts to be completed. The [Media Kit, Alpha 1]({{% wayback \"http://prdownloads.sourceforge.net/open-beos/media_kit_alpha_1_x86.zip?download\" %}}) is available for download to run on BeOS 5. The Be File System project has released [OpenBFS 1.0 Beta 6]({{% wayback \"http://www.bug-br.org.br/openbfs\" %}}), which I’m running as we speak.\n\nBe-lovers, our time is approaching…\n"},
+    "links": {
+        "prev": {"title": "Internet Explorer for Mac Is Dead", "permalink": "https://ryanparman.com/posts/2003/internet-explorer-for-mac-is-dead/"},
+        "next": {"title": "Mozilla 1.4rc2 Is Available", "permalink": "https://ryanparman.com/posts/2003/mozilla-14rc2-is-available/"},
+        "ignore": "me"
+    }
+}
+
+}

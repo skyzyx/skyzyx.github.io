@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Happy Birthday, Emily Ann Boydston",
+    "description": "",
+    "summary": {
+        "content": "Happy Birthday, Emily Ann Boydston! I know it’s been a while since we’ve talked, and I know that this is an old picture (1998), but happy 22nd birthday. I hope that things are going great for you! ",
+        "isTruncated": false
+    },
+    "published": "2004-12-08T00:12:13Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/happy-birthday-emily-ann-boydston/",
+    "relativePermalink": "/posts/2004/happy-birthday-emily-ann-boydston/",
+    "aliases": ["/2004/12/07/happy-birthday-emily-ann-boydston/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Family Life"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 37,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20041208-happy-birthday-emily-ann-boydston.md",
+        "logicalName": "20041208-happy-birthday-emily-ann-boydston.md",
+        "translationBaseName": "20041208-happy-birthday-emily-ann-boydston",
+        "baseFileName": "20041208-happy-birthday-emily-ann-boydston",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eHappy Birthday, Emily Ann Boydston! I know it’s been a while since we’ve talked, and I know that this is an old picture (1998), but happy 22nd birthday. I hope that things are going great for you!\u003c/p\u003e\n\u003cdiv class=\"pa2-ns\"\u003e\n\t\u003camp-img src=\"https://cdn.ryanparman.com/img/emily.jpg\" layout=\"responsive\" width=\"\" height=\"\"\u003e\u003c/amp-img\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n",
+        "plain":"Happy Birthday, Emily Ann Boydston! I know it’s been a while since we’ve talked, and I know that this is an old picture (1998), but happy 22nd birthday. I hope that things are going great for you!\n  ",
+        "source":"\nHappy Birthday, Emily Ann Boydston! I know it’s been a while since we’ve talked, and I know that this is an old picture (1998), but happy 22nd birthday. I hope that things are going great for you!\n\n{{\u003cfullimage src=\"https://cdn.ryanparman.com/img/emily.jpg\" alt=\"Emily Ann Boydston in 1998\"\u003e}}\n"},
+    "links": {
+        "prev": {"title": "SimplePie Beta Testing", "permalink": "https://ryanparman.com/posts/2004/simplepie-beta-testing/"},
+        "next": {"title": "Using Del.icio.us Feeds With SimplePie", "permalink": "https://ryanparman.com/posts/2004/using-delicious-feeds-with-simplepie/"},
+        "ignore": "me"
+    }
+}
+
+}

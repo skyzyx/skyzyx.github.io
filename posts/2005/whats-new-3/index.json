@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "What's New?",
+    "description": "",
+    "summary": {
+        "content": "Sometimes I’m working on my site so much, that I don’t stop to realize that I haven’t posted anything in a while. I think we all do that, but here’s a bit of what’s been going on lately: Tarzan 1.2: I’ve been very hard at work on the next Tarzan release. This release will be everything I’d hoped the last release would be, before I realized it was a bit too ambitious. Rather than talk about the things I want to do, there are a few things that are already done and in the bag.",
+        "isTruncated": true
+    },
+    "published": "2005-03-23T17:56:58Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/whats-new-3/",
+    "relativePermalink": "/posts/2005/whats-new-3/",
+    "aliases": ["/archives/000404.php", "/articles/000404.php", "/2005/03/23/whats-new-3/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Personal"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 374,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050323-whats-new-3.md",
+        "logicalName": "20050323-whats-new-3.md",
+        "translationBaseName": "20050323-whats-new-3",
+        "baseFileName": "20050323-whats-new-3",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eSometimes I’m working on my site so much, that I don’t stop to realize that I haven’t posted anything in a while. I think we all do that, but here’s a bit of what’s been going on lately:\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eTarzan 1.2:\u003c/strong\u003e I’ve been very hard at work on the next Tarzan release. This release will be everything I’d hoped the last release would be, before I realized it was a bit too ambitious. Rather than talk about the things I \u003cem\u003ewant\u003c/em\u003e to do, there are a few things that are already done and in the bag.\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003eA significantly improved caching system. This sucker flies!\u003c/li\u003e\n\u003cli\u003eImproved image processing functionality. Supports multiple output formats among other things.\u003c/li\u003e\n\u003cli\u003eCustom Descriptions for products. You can overwrite Amazon’s default values, or even use your own custom images for products.\u003c/li\u003e\n\u003cli\u003eA much improved Control Panel. Nearly everything can be tweaked from the web interface.\u003c/li\u003e\n\u003cli\u003eiTunes Music Store integration for CD tracklistings.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eVery cool stuff, and I’ve still got more that I’m working on. Tarzan 1.2 will be awesome!\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSkyzyx.com, v22:\u003c/strong\u003e The redesign that I promised over a year ago is underway. I’ve switched to WordPress, and am in the process of fixing things that were broken in Movable Type. I’m working on a fresh clean design, and am frantically studying HTACCESS redirects.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eBuying a house:\u003c/strong\u003e My wife and I are looking to buy our first place. I’ve realized that Bay Area housing costs are absolutely ridiculous! We’re looking at buying a 1500 sq. ft. townhouse, 3 bedroom, 2 bath, for $500k… and that’s a \u003cem\u003egood deal\u003c/em\u003e. In the small town of Sanger where I grew up, a place like that would go for a whopping $150k. Anyways, we put a bid on the place, and just got a counter-offer last night. Let’s hope that everything goes through!\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eNew baby on the way:\u003c/strong\u003e I didn’t want to mention this publically when we first found out, because you never know what might happen at early stages of pregnancy, but then I forgot to say anything once we were relatively in-the-clear. My wife and I are expecting a baby boy in June! It’s very exciting, but very nerve-racking at the same time.\u003c/p\u003e\n\u003cp\u003eAnyways, lots of stuff. So, what’s going on for you these days?\u003c/p\u003e\n",
+        "plain":"Sometimes I’m working on my site so much, that I don’t stop to realize that I haven’t posted anything in a while. I think we all do that, but here’s a bit of what’s been going on lately:\nTarzan 1.2: I’ve been very hard at work on the next Tarzan release. This release will be everything I’d hoped the last release would be, before I realized it was a bit too ambitious. Rather than talk about the things I want to do, there are a few things that are already done and in the bag.\n A significantly improved caching system. This sucker flies! Improved image processing functionality. Supports multiple output formats among other things. Custom Descriptions for products. You can overwrite Amazon’s default values, or even use your own custom images for products. A much improved Control Panel. Nearly everything can be tweaked from the web interface. iTunes Music Store integration for CD tracklistings.  Very cool stuff, and I’ve still got more that I’m working on. Tarzan 1.2 will be awesome!\nSkyzyx.com, v22: The redesign that I promised over a year ago is underway. I’ve switched to WordPress, and am in the process of fixing things that were broken in Movable Type. I’m working on a fresh clean design, and am frantically studying HTACCESS redirects.\nBuying a house: My wife and I are looking to buy our first place. I’ve realized that Bay Area housing costs are absolutely ridiculous! We’re looking at buying a 1500 sq. ft. townhouse, 3 bedroom, 2 bath, for $500k… and that’s a good deal. In the small town of Sanger where I grew up, a place like that would go for a whopping $150k. Anyways, we put a bid on the place, and just got a counter-offer last night. Let’s hope that everything goes through!\nNew baby on the way: I didn’t want to mention this publically when we first found out, because you never know what might happen at early stages of pregnancy, but then I forgot to say anything once we were relatively in-the-clear. My wife and I are expecting a baby boy in June! It’s very exciting, but very nerve-racking at the same time.\nAnyways, lots of stuff. So, what’s going on for you these days?\n",
+        "source":"\nSometimes I’m working on my site so much, that I don’t stop to realize that I haven’t posted anything in a while. I think we all do that, but here’s a bit of what’s been going on lately:\n\n**Tarzan 1.2:** I’ve been very hard at work on the next Tarzan release. This release will be everything I’d hoped the last release would be, before I realized it was a bit too ambitious. Rather than talk about the things I *want* to do, there are a few things that are already done and in the bag.\n\n1. A significantly improved caching system. This sucker flies!\n2. Improved image processing functionality. Supports multiple output formats among other things.\n3. Custom Descriptions for products. You can overwrite Amazon’s default values, or even use your own custom images for products.\n4. A much improved Control Panel. Nearly everything can be tweaked from the web interface.\n5. iTunes Music Store integration for CD tracklistings.\n\nVery cool stuff, and I’ve still got more that I’m working on. Tarzan 1.2 will be awesome!\n\n**Skyzyx.com, v22:** The redesign that I promised over a year ago is underway. I’ve switched to WordPress, and am in the process of fixing things that were broken in Movable Type. I’m working on a fresh clean design, and am frantically studying HTACCESS redirects.\n\n**Buying a house:** My wife and I are looking to buy our first place. I’ve realized that Bay Area housing costs are absolutely ridiculous! We’re looking at buying a 1500 sq. ft. townhouse, 3 bedroom, 2 bath, for $500k… and that’s a *good deal*. In the small town of Sanger where I grew up, a place like that would go for a whopping $150k. Anyways, we put a bid on the place, and just got a counter-offer last night. Let’s hope that everything goes through!\n\n**New baby on the way:** I didn’t want to mention this publically when we first found out, because you never know what might happen at early stages of pregnancy, but then I forgot to say anything once we were relatively in-the-clear. My wife and I are expecting a baby boy in June! It’s very exciting, but very nerve-racking at the same time.\n\nAnyways, lots of stuff. So, what’s going on for you these days?\n"},
+    "links": {
+        "prev": {"title": "Tarzan 1.1 Now Available!", "permalink": "https://ryanparman.com/posts/2005/tarzan-11-now-available/"},
+        "next": {"title": "Sneak Peek", "permalink": "https://ryanparman.com/posts/2005/sneak-peek/"},
+        "ignore": "me"
+    }
+}
+
+}

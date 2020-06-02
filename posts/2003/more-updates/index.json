@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "More Updates",
+    "description": "",
+    "summary": {
+        "content": "I’ve erased the Skyzyx.com-formatted versions of the articles that were posted. Now, I’ve linked to them in order to avoid any type of copyright infringement issues. I still think they look better with my formatting though… I’ve added the About Me page, which is basically a resume, except it’s in a story format and is written in more of a conversational style as opposed to a dull resume/interview/say-the-right-thing-if-you-want-this-job style. Realizing that the site really doesn’t look that great at 800x600, I added a button that will toggle the navigation sidebar on/off.",
+        "isTruncated": true
+    },
+    "published": "2003-05-07T19:30:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/more-updates/",
+    "relativePermalink": "/posts/2003/more-updates/",
+    "aliases": ["/2003/05/07/more-updates/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 118,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030507-more-updates.md",
+        "logicalName": "20030507-more-updates.md",
+        "translationBaseName": "20030507-more-updates",
+        "baseFileName": "20030507-more-updates",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve erased the Skyzyx.com-formatted versions of the articles that were posted. Now, I’ve linked to them in order to avoid any type of copyright infringement issues. I still think they look better with my formatting though…\u003c/p\u003e\n\u003cp\u003eI’ve added the About Me page, which is basically a resume, except it’s in a story format and is written in more of a conversational style as opposed to a dull resume/interview/say-the-right-thing-if-you-want-this-job style.\u003c/p\u003e\n\u003cp\u003eRealizing that the site really doesn’t look that great at 800x600, I added a button that will toggle the navigation sidebar on/off. You can’t get anywhere without the navigation, but articles and documentation are easier to read with the extra space. I added cookies to remember your personal settings.\u003c/p\u003e\n",
+        "plain":"I’ve erased the Skyzyx.com-formatted versions of the articles that were posted. Now, I’ve linked to them in order to avoid any type of copyright infringement issues. I still think they look better with my formatting though…\nI’ve added the About Me page, which is basically a resume, except it’s in a story format and is written in more of a conversational style as opposed to a dull resume/interview/say-the-right-thing-if-you-want-this-job style.\nRealizing that the site really doesn’t look that great at 800x600, I added a button that will toggle the navigation sidebar on/off. You can’t get anywhere without the navigation, but articles and documentation are easier to read with the extra space. I added cookies to remember your personal settings.\n",
+        "source":"\nI’ve erased the Skyzyx.com-formatted versions of the articles that were posted. Now, I’ve linked to them in order to avoid any type of copyright infringement issues. I still think they look better with my formatting though…\n\nI’ve added the About Me page, which is basically a resume, except it’s in a story format and is written in more of a conversational style as opposed to a dull resume/interview/say-the-right-thing-if-you-want-this-job style.\n\nRealizing that the site really doesn’t look that great at 800x600, I added a button that will toggle the navigation sidebar on/off. You can’t get anywhere without the navigation, but articles and documentation are easier to read with the extra space. I added cookies to remember your personal settings.\n"},
+    "links": {
+        "prev": {"title": "The Web Standards Project, Animated GIF", "permalink": "https://ryanparman.com/posts/2003/the-web-standards-project-animated-gif/"},
+        "next": {"title": "Video Game Updates", "permalink": "https://ryanparman.com/posts/2003/video-game-updates/"},
+        "ignore": "me"
+    }
+}
+
+}

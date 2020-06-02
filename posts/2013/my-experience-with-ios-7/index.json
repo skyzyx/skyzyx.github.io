@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "My experience with iOS 7",
+    "description": "",
+    "summary": {
+        "content": "I’ve been spending time with iOS 7 since WWDC this year, and I wanted to post a few notes. I installed Beta 1 on my iPhone 5 the day it was available at WWDC. I toyed with it for an hour before returning to 6.1.4. It was appallingly ugly and very, very slow. The icons looked garish, and the typography was unrefined. Not surprising for a Beta 1, but it was still pretty bad. I installed Beta 2 on my iPad mini, just so that I had one device that was running the latest beta.",
+        "isTruncated": true
+    },
+    "published": "2013-09-20T18:14:25Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2013/my-experience-with-ios-7/",
+    "relativePermalink": "/posts/2013/my-experience-with-ios-7/",
+    "aliases": ["/2013/09/20/my-experience-with-ios-7/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Apple"],
+    "tags": ["apple", "ios", "wwdc", "beta", "webos"],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 413,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2013/20130920-my-experience-with-ios-7.md",
+        "logicalName": "20130920-my-experience-with-ios-7.md",
+        "translationBaseName": "20130920-my-experience-with-ios-7",
+        "baseFileName": "20130920-my-experience-with-ios-7",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2013/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve been spending time with iOS 7 since WWDC this year, and I wanted to post a few notes.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003eI installed Beta 1 on my iPhone 5 the day it was available at WWDC. I toyed with it for an hour before returning to 6.1.4. It was appallingly ugly and very, very slow. The icons looked garish, and the typography was unrefined. Not surprising for a Beta 1, but it was still pretty bad.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eI installed Beta 2 on my iPad mini, just so that I had one device that was running the latest beta. It was still really rough though.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eI installed Beta 5 on my iPhone 5, and it was much, much better than before. I invested a bit more time with it, and once I got past the garish icon colors, I really began to appreciate the more subtle touches and interactions throughout the OS.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eI installed Beta 6 on my iPad 3 just because it was about darn time.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eThe GM dropped to developers almost 2 weeks ago. I’ve been running it full-time ever since.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eOver the past 3 days, I’ve seen 20-something app updates come through. Some of those updates were superficially “flatter” (e.g., Twitter, Facebook, Instapaper), while a few took the time to really rethink things (e.g., Drafts, Evernote, Instacast).\u003c/p\u003e\n\u003cp\u003eBy and large, the primary interactions throughout the entire OS are mostly the same. It’s the subtle things that are better. The way that messages bubbles bounce in iMessage. The way that they cleaned things up in Notification center. The “cards” UI that they borrowed/stole from Palm webOS when switching applications. The remastered system sounds. The subtle reshaping of the round-rects on the homescreen icons. The profile photos in the phone favorites. Overall, I think it’s a net-positive (especially since the shock of the new icons has worn off). The battery life is a bit worse, but I expect that to be resolved in an upcoming 7.0.x release.\u003c/p\u003e\n\u003cp\u003eMostly, I’m interested to see what app developers create/build/invent next. How will they leverage the changes in canvas, depth, and the underlying system APIs (e.g., smarter network connection pooling, broader multitasking support, smarter integration with built-in social services) to create richer, more useful user experiences? Apps that will allow me to set aside the rut and rigor of being a technologist, and enable me to better appreciate the craftsmanship of a quality experience and interaction.\u003c/p\u003e\n\u003cp\u003eIt’s a brand-new day in iOS-land, and I’m excited to see what’s next. :)\u003c/p\u003e\n",
+        "plain":"I’ve been spending time with iOS 7 since WWDC this year, and I wanted to post a few notes.\n  I installed Beta 1 on my iPhone 5 the day it was available at WWDC. I toyed with it for an hour before returning to 6.1.4. It was appallingly ugly and very, very slow. The icons looked garish, and the typography was unrefined. Not surprising for a Beta 1, but it was still pretty bad.\n  I installed Beta 2 on my iPad mini, just so that I had one device that was running the latest beta. It was still really rough though.\n  I installed Beta 5 on my iPhone 5, and it was much, much better than before. I invested a bit more time with it, and once I got past the garish icon colors, I really began to appreciate the more subtle touches and interactions throughout the OS.\n  I installed Beta 6 on my iPad 3 just because it was about darn time.\n  The GM dropped to developers almost 2 weeks ago. I’ve been running it full-time ever since.\n  Over the past 3 days, I’ve seen 20-something app updates come through. Some of those updates were superficially “flatter” (e.g., Twitter, Facebook, Instapaper), while a few took the time to really rethink things (e.g., Drafts, Evernote, Instacast).\nBy and large, the primary interactions throughout the entire OS are mostly the same. It’s the subtle things that are better. The way that messages bubbles bounce in iMessage. The way that they cleaned things up in Notification center. The “cards” UI that they borrowed/stole from Palm webOS when switching applications. The remastered system sounds. The subtle reshaping of the round-rects on the homescreen icons. The profile photos in the phone favorites. Overall, I think it’s a net-positive (especially since the shock of the new icons has worn off). The battery life is a bit worse, but I expect that to be resolved in an upcoming 7.0.x release.\nMostly, I’m interested to see what app developers create/build/invent next. How will they leverage the changes in canvas, depth, and the underlying system APIs (e.g., smarter network connection pooling, broader multitasking support, smarter integration with built-in social services) to create richer, more useful user experiences? Apps that will allow me to set aside the rut and rigor of being a technologist, and enable me to better appreciate the craftsmanship of a quality experience and interaction.\nIt’s a brand-new day in iOS-land, and I’m excited to see what’s next. :)\n",
+        "source":"\nI’ve been spending time with iOS 7 since WWDC this year, and I wanted to post a few notes.\n\n* I installed Beta 1 on my iPhone 5 the day it was available at WWDC. I toyed with it for an hour before returning to 6.1.4. It was appallingly ugly and very, very slow. The icons looked garish, and the typography was unrefined. Not surprising for a Beta 1, but it was still pretty bad.\n\n* I installed Beta 2 on my iPad mini, just so that I had one device that was running the latest beta. It was still really rough though.\n\n* I installed Beta 5 on my iPhone 5, and it was much, much better than before. I invested a bit more time with it, and once I got past the garish icon colors, I really began to appreciate the more subtle touches and interactions throughout the OS.\n\n* I installed Beta 6 on my iPad 3 just because it was about darn time.\n\n* The GM dropped to developers almost 2 weeks ago. I’ve been running it full-time ever since.\n\nOver the past 3 days, I’ve seen 20-something app updates come through. Some of those updates were superficially “flatter” (e.g., Twitter, Facebook, Instapaper), while a few took the time to really rethink things (e.g., Drafts, Evernote, Instacast).\n\nBy and large, the primary interactions throughout the entire OS are mostly the same. It’s the subtle things that are better. The way that messages bubbles bounce in iMessage. The way that they cleaned things up in Notification center. The “cards” UI that they borrowed/stole from Palm webOS when switching applications. The remastered system sounds. The subtle reshaping of the round-rects on the homescreen icons. The profile photos in the phone favorites. Overall, I think it’s a net-positive (especially since the shock of the new icons has worn off). The battery life is a bit worse, but I expect that to be resolved in an upcoming 7.0.x release.\n\nMostly, I’m interested to see what app developers create/build/invent next. How will they leverage the changes in canvas, depth, and the underlying system APIs (e.g., smarter network connection pooling, broader multitasking support, smarter integration with built-in social services) to create richer, more useful user experiences? Apps that will allow me to set aside the rut and rigor of being a technologist, and enable me to better appreciate the craftsmanship of a quality experience and interaction.\n\nIt’s a brand-new day in iOS-land, and I’m excited to see what’s next. :)\n"},
+    "links": {
+        "prev": {"title": "Apple’s Fall 2013 Product Announcement", "permalink": "https://ryanparman.com/posts/2013/apples-fall-2013-product-announcement/"},
+        "next": {"title": "Apple’s 2013 iPad Announcement", "permalink": "https://ryanparman.com/posts/2013/apples-2013-ipad-announcement/"},
+        "ignore": "me"
+    }
+}
+
+}

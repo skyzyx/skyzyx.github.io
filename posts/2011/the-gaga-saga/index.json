@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "The Gaga Saga",
+    "description": "",
+    "summary": {
+        "content": "Weird Al’s reaction to not being able to put a Lady Gaga parody on his upcoming album: My parodies have always fallen under what the courts call “fair use,” and this one was no different, legally allowing me to record and release it without permission. But it has always been my personal policy to get the consent of the original artist before including my parodies on any album, so of course I will respect Gaga’s wishes. However, given the circumstances, I have no problem with allowing people to hear it online, because I also have a personal policy not to completely waste my stinking time.",
+        "isTruncated": true
+    },
+    "published": "2011-04-20T20:30:45Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2011/the-gaga-saga/",
+    "relativePermalink": "/posts/2011/the-gaga-saga/",
+    "aliases": ["/2011/04/20/the-gaga-saga/"],
+    "images": [],
+    "videos": [],
+    "categories": ["For Funsies"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 114,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2011/20110420-the-gaga-saga.md",
+        "logicalName": "20110420-the-gaga-saga.md",
+        "translationBaseName": "20110420-the-gaga-saga",
+        "baseFileName": "20110420-the-gaga-saga",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2011/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eWeird Al’s reaction to \u003ca href=\"https://web.archive.org/web/20110420203045/https://alyankovic.wordpress.com/the-gaga-saga/\"\u003enot being able to put a Lady Gaga parody\u003c/a\u003e on his upcoming album:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eMy parodies have always fallen under what the courts call “fair use,” and this one was no different, legally allowing me to record and release it without permission. But it has always been my personal policy to get the consent of the original artist before including my parodies on any album, so of course I will respect Gaga’s wishes. However, given the circumstances, I have no problem with allowing people to hear it online, because I also have a personal policy not to \u003cem\u003ecompletely waste my stinking time\u003c/em\u003e.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eUpdate: Here’s the song, \u0026ldquo;\u003ca href=\"https://web.archive.org/web/20110420203045/http://youtu.be/fUxXKfQkswE\"\u003ePerform this Way\u003c/a\u003e\u0026rdquo; on YouTube.\u003c/p\u003e\n",
+        "plain":"Weird Al’s reaction to not being able to put a Lady Gaga parody on his upcoming album:\n My parodies have always fallen under what the courts call “fair use,” and this one was no different, legally allowing me to record and release it without permission. But it has always been my personal policy to get the consent of the original artist before including my parodies on any album, so of course I will respect Gaga’s wishes. However, given the circumstances, I have no problem with allowing people to hear it online, because I also have a personal policy not to completely waste my stinking time.\n Update: Here’s the song, \u0026ldquo;Perform this Way\u0026rdquo; on YouTube.\n",
+        "source":"\nWeird Al’s reaction to [not being able to put a Lady Gaga parody]({{% wayback \"https://alyankovic.wordpress.com/the-gaga-saga/\" %}}) on his upcoming album:\n\n\u003e My parodies have always fallen under what the courts call “fair use,” and this one was no different, legally allowing me to record and release it without permission. But it has always been my personal policy to get the consent of the original artist before including my parodies on any album, so of course I will respect Gaga’s wishes. However, given the circumstances, I have no problem with allowing people to hear it online, because I also have a personal policy not to *completely waste my stinking time*.\n\nUpdate: Here’s the song, \"[Perform this Way]({{% wayback \"http://youtu.be/fUxXKfQkswE\" %}})\" on YouTube.\n"},
+    "links": {
+        "prev": {"title": "Lessons I've learned from running a startup", "permalink": "https://ryanparman.com/posts/2011/lessons-ive-learned-from-running-a-startup/"},
+        "next": {"title": "3D iPad? I don't believe it.", "permalink": "https://ryanparman.com/posts/2011/3d-ipad-i-dont-believe-it/"},
+        "ignore": "me"
+    }
+}
+
+}

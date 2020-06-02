@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Awesome view-source trick for JavaScript developers",
+    "description": "",
+    "summary": {
+        "content": "Maybe I’m a little slow, but I’ve found an awesome little trick for people who use Firefox, and who need to dynamically add elements to the page via JavaScript. I’ve been doing a lot of Ajax development lately for an internal webapp where I need to dynamically add nodes to lists. In my source code, I’ll have an empty \u0026lt;ul\u0026gt; tag with an ID, then I use that ID when I go and add \u0026lt;li\u0026gt;’s to it. No big deal, right?",
+        "isTruncated": true
+    },
+    "published": "2006-02-15T01:15:39Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/awesome-view-source-trick-for-javascript-developers/",
+    "relativePermalink": "/posts/2006/awesome-view-source-trick-for-javascript-developers/",
+    "aliases": ["/2006/02/14/awesome-view-source-trick-for-javascript-developers/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 191,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060215-awesome-view-source-trick-for-javascript-developers.md",
+        "logicalName": "20060215-awesome-view-source-trick-for-javascript-developers.md",
+        "translationBaseName": "20060215-awesome-view-source-trick-for-javascript-developers",
+        "baseFileName": "20060215-awesome-view-source-trick-for-javascript-developers",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eMaybe I’m a little slow, but I’ve found an awesome little trick for people who use Firefox, and who need to dynamically add elements to the page via JavaScript.\u003c/p\u003e\n\u003cp\u003eI’ve been doing a lot of Ajax development lately for an internal webapp where I need to dynamically add nodes to lists. In my source code, I’ll have an empty \u003ccode\u003e\u0026lt;ul\u0026gt;\u003c/code\u003e tag with an ID, then I use that ID when I go and add \u003ccode\u003e\u0026lt;li\u0026gt;\u003c/code\u003e’s to it. No big deal, right? If you use the standard view-source contextual menu item, it will show you the source code that you coded in: the empty \u003ccode\u003e\u0026lt;ul\u0026gt;\u003c/code\u003e tag. BUT, if after you’ve added your \u003ccode\u003e\u0026lt;li\u0026gt;\u003c/code\u003e nodes dynamically, you click-and-drag to select the rendered area, and choose “View Selection Source”, Firefox will show you the fully-rendered HTML for that area.\u003c/p\u003e\n\u003cp\u003eAs in, it will show you the \u003ccode\u003e\u0026lt;ul\u0026gt;\u003c/code\u003e tag with all of your \u003ccode\u003e\u0026lt;li\u0026gt;\u003c/code\u003e tags inside of it… just as though you’d coded it like that in the first place. How awesome is that? So if you need to see what HTML your JavaScript is generating, simply select the area, and choose “View Selection Source”.\u003c/p\u003e\n",
+        "plain":"Maybe I’m a little slow, but I’ve found an awesome little trick for people who use Firefox, and who need to dynamically add elements to the page via JavaScript.\nI’ve been doing a lot of Ajax development lately for an internal webapp where I need to dynamically add nodes to lists. In my source code, I’ll have an empty \u0026lt;ul\u0026gt; tag with an ID, then I use that ID when I go and add \u0026lt;li\u0026gt;’s to it. No big deal, right? If you use the standard view-source contextual menu item, it will show you the source code that you coded in: the empty \u0026lt;ul\u0026gt; tag. BUT, if after you’ve added your \u0026lt;li\u0026gt; nodes dynamically, you click-and-drag to select the rendered area, and choose “View Selection Source”, Firefox will show you the fully-rendered HTML for that area.\nAs in, it will show you the \u0026lt;ul\u0026gt; tag with all of your \u0026lt;li\u0026gt; tags inside of it… just as though you’d coded it like that in the first place. How awesome is that? So if you need to see what HTML your JavaScript is generating, simply select the area, and choose “View Selection Source”.\n",
+        "source":"\nMaybe I’m a little slow, but I’ve found an awesome little trick for people who use Firefox, and who need to dynamically add elements to the page via JavaScript.\n\nI’ve been doing a lot of Ajax development lately for an internal webapp where I need to dynamically add nodes to lists. In my source code, I’ll have an empty `\u003cul\u003e` tag with an ID, then I use that ID when I go and add `\u003cli\u003e`’s to it. No big deal, right? If you use the standard view-source contextual menu item, it will show you the source code that you coded in: the empty `\u003cul\u003e` tag. BUT, if after you’ve added your `\u003cli\u003e` nodes dynamically, you click-and-drag to select the rendered area, and choose “View Selection Source”, Firefox will show you the fully-rendered HTML for that area.\n\nAs in, it will show you the `\u003cul\u003e` tag with all of your `\u003cli\u003e` tags inside of it… just as though you’d coded it like that in the first place. How awesome is that? So if you need to see what HTML your JavaScript is generating, simply select the area, and choose “View Selection Source”.\n"},
+    "links": {
+        "prev": {"title": "Okay, some people are seriously retarded", "permalink": "https://ryanparman.com/posts/2006/okay-some-people-are-seriously-retarded/"},
+        "next": {"title": "YouTube: Travis Barker - Snare Drum Solo", "permalink": "https://ryanparman.com/posts/2006/youtube-travis-barker-snare-drum-solo/"},
+        "ignore": "me"
+    }
+}
+
+}

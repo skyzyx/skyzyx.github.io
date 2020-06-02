@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Flailing Wildly</title>
+    <link>https://ryanparman.com/tags/</link>
+    <description>Recent content in Tags on Flailing Wildly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Oct 2019 09:00:32 +0000</lastBuildDate>
+    
+	<atom:link href="https://ryanparman.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>apple music</title>
+      <link>https://ryanparman.com/tags/apple-music/</link>
+      <pubDate>Wed, 02 Oct 2019 09:00:32 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/tags/apple-music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>foo fighters</title>
+      <link>https://ryanparman.com/tags/foo-fighters/</link>
+      <pubDate>Wed, 02 Oct 2019 09:00:32 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/tags/foo-fighters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://ryanparman.com/tags/music/</link>
+      <pubDate>Wed, 02 Oct 2019 09:00:32 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pandora</title>
+      <link>https://ryanparman.com/tags/pandora/</link>
+      <pubDate>Wed, 02 Oct 2019 09:00:32 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/tags/pandora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>player</title>
+      <link>https://ryanparman.com/tags/player/</link>
+      <pubDate>Wed, 02 Oct 2019 09:00:32 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/tags/player/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>playlist</title>
+      <link>https://ryanparman.com/tags/playlist/</link>
+      <pubDate>Wed, 02 Oct 2019 09:00:32 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/tags/playlist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pod</title>
+      <link>https://ryanparman.com/tags/pod/</link>
+      <pubDate>Wed, 02 Oct 2019 09:00:32 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/tags/pod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spotify</title>
+      <link>https://ryanparman.com/tags/spotify/</link>
+      <pubDate>Wed, 02 Oct 2019 09:00:32 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/tags/spotify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>certificate</title>
+      <link>https://ryanparman.com/tags/certificate/</link>
+      <pubDate>Mon, 05 Aug 2019 19:52:30 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/tags/certificate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>certificate authority</title>
+      <link>https://ryanparman.com/tags/certificate-authority/</link>
+      <pubDate>Mon, 05 Aug 2019 19:52:30 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/tags/certificate-authority/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://ryanparman.com/tags/development/</link>
+      <pubDate>Mon, 05 Aug 2019 19:52:30 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>encryption</title>
+      <link>https://ryanparman.com/tags/encryption/</link>
+      <pubDate>Mon, 05 Aug 2019 19:52:30 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/tags/encryption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keychain</title>
+      <link>https://ryanparman.com/tags/keychain/</link>
+      <pubDate>Mon, 05 Aug 2019 19:52:30 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/tags/keychain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>local</title>
+      <link>https://ryanparman.com/tags/local/</link>
+      <pubDate>Mon, 05 Aug 2019 19:52:30 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/tags/local/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>macos</title>
+      <link>https://ryanparman.com/tags/macos/</link>
+      <pubDate>Mon, 05 Aug 2019 19:52:30 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/tags/macos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pki</title>
+      <link>https://ryanparman.com/tags/pki/</link>
+      <pubDate>Mon, 05 Aug 2019 19:52:30 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/tags/pki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>self-signed</title>
+      <link>https://ryanparman.com/tags/self-signed/</link>
+      <pubDate>Mon, 05 Aug 2019 19:52:30 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/tags/self-signed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ssl</title>
+      <link>https://ryanparman.com/tags/ssl/</link>
+      <pubDate>Mon, 05 Aug 2019 19:52:30 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/tags/ssl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tls</title>
+      <link>https://ryanparman.com/tags/tls/</link>
+      <pubDate>Mon, 05 Aug 2019 19:52:30 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/tags/tls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trust</title>
+      <link>https://ryanparman.com/tags/trust/</link>
+      <pubDate>Mon, 05 Aug 2019 19:52:30 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/tags/trust/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

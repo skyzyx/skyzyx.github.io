@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "100 Miles an Hour with My Hair on Fire!",
+    "description": "",
+    "summary": {
+        "content": "Things have been rather hecktic lately. I recently moved into a new apartment, I had my car accident, and I started a brand-new job all in a span of a week and a half. I’m still getting used to my new job. I have to take the train to get to work and back everyday, and it has so far proven to be less than reliable (it took 2.5 hours to move 45 miles last Friday). I’ve been keeping up decently with the blogs I read over the last few weeks, particularly SxSW this weekend (I hope I can go next year), but I’m still unpacking my stuff, and am still waiting on the delivery of my new computer desk which is now two weeks late (I’ll never shop Office Max again).",
+        "isTruncated": true
+    },
+    "published": "2004-03-15T17:53:50Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/100-miles-an-hour-with-my-hair-on-fire/",
+    "relativePermalink": "/posts/2004/100-miles-an-hour-with-my-hair-on-fire/",
+    "aliases": ["/2004/03/15/100-miles-an-hour-with-my-hair-on-fire/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Personal"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 350,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040315-100-miles-an-hour-with-my-hair-on-fire.md",
+        "logicalName": "20040315-100-miles-an-hour-with-my-hair-on-fire.md",
+        "translationBaseName": "20040315-100-miles-an-hour-with-my-hair-on-fire",
+        "baseFileName": "20040315-100-miles-an-hour-with-my-hair-on-fire",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eThings have been rather hecktic lately. I recently moved into a new apartment, I had my \u003ca href=\"/archives/000191.php\"\u003ecar accident\u003c/a\u003e, and I started a brand-new job all in a span of a week and a half.\u003c/p\u003e\n\u003cp\u003eI’m still getting used to my new job. I have to take the train to get to work and back everyday, and it has so far proven to be less than reliable (it took 2.5 hours to move 45 miles last Friday). I’ve been keeping up decently with the \u003ca href=\"/blogs/\"\u003eblogs I read\u003c/a\u003e over the last few weeks, particularly SxSW this weekend (I hope I can go next year), but I’m still unpacking my stuff, and am still waiting on the delivery of my new computer desk which is now two weeks late (I’ll never shop \u003ca href=\"https://web.archive.org/web/20040315175350/http://www.officemax.com/\"\u003eOffice Max\u003c/a\u003e again).\u003c/p\u003e\n\u003cp\u003eSo, my ever-so-exciting \u003ca href=\"/archives/000181.php\"\u003eupcoming redesign\u003c/a\u003e has been on the back burner for longer than I’ve wanted it to be. I also haven’t had time to complete and release the updates to \u003ca href=\"/projects/blocker/\"\u003eBlocker\u003c/a\u003e I had been working on, nor have I had the time to do any more work on \u003ca href=\"/projects/feedparser/\"\u003eFeed Parser\u003c/a\u003e. Grrr… I don’t like falling behind on projects.\u003c/p\u003e\n\u003cp\u003eI’m also working on a easier-to-use version of my blogroll system. Currently it’s just kinda hacked together, but I’m working on a version that would be easy for anyone to just start using. This system just reads through my OPML files that I export from Feed Demon, and parses it out to finds the RSS/Atom feeds, then parses those feeds to display content about it. Currently, I’m relying on a modified version of Magpie for the RSS/Atom parsing, but I’m tempted to try to implement a custom-built, simplified, RSS/Atom parser into the new Blogroll system. Really it just depends on my ability to figure out how to implement some sort of reliable caching system.\u003c/p\u003e\n\u003cp\u003eI submitted a link to \u003ca href=\"https://web.archive.org/web/20040315175350/http://www.cameronmoll.com/v2/\"\u003eCameron Moll’s\u003c/a\u003e website to the \u003ca href=\"https://web.archive.org/web/20040315175350/http://www.cssvault.com/gallery/cameron_moll.php\"\u003eCSS Vault\u003c/a\u003e, and it got accepted! Cameron has a fantastically beautiful site. Go congratulate him on it!\u003c/p\u003e\n\u003cp\u003eAnyways, that’s all from California’s Silicon Valley for today. Talk to you again as soon as I can.\u003c/p\u003e\n",
+        "plain":"Things have been rather hecktic lately. I recently moved into a new apartment, I had my car accident, and I started a brand-new job all in a span of a week and a half.\nI’m still getting used to my new job. I have to take the train to get to work and back everyday, and it has so far proven to be less than reliable (it took 2.5 hours to move 45 miles last Friday). I’ve been keeping up decently with the blogs I read over the last few weeks, particularly SxSW this weekend (I hope I can go next year), but I’m still unpacking my stuff, and am still waiting on the delivery of my new computer desk which is now two weeks late (I’ll never shop Office Max again).\nSo, my ever-so-exciting upcoming redesign has been on the back burner for longer than I’ve wanted it to be. I also haven’t had time to complete and release the updates to Blocker I had been working on, nor have I had the time to do any more work on Feed Parser. Grrr… I don’t like falling behind on projects.\nI’m also working on a easier-to-use version of my blogroll system. Currently it’s just kinda hacked together, but I’m working on a version that would be easy for anyone to just start using. This system just reads through my OPML files that I export from Feed Demon, and parses it out to finds the RSS/Atom feeds, then parses those feeds to display content about it. Currently, I’m relying on a modified version of Magpie for the RSS/Atom parsing, but I’m tempted to try to implement a custom-built, simplified, RSS/Atom parser into the new Blogroll system. Really it just depends on my ability to figure out how to implement some sort of reliable caching system.\nI submitted a link to Cameron Moll’s website to the CSS Vault, and it got accepted! Cameron has a fantastically beautiful site. Go congratulate him on it!\nAnyways, that’s all from California’s Silicon Valley for today. Talk to you again as soon as I can.\n",
+        "source":"\nThings have been rather hecktic lately. I recently moved into a new apartment, I had my [car accident](/archives/000191.php), and I started a brand-new job all in a span of a week and a half.\n\nI’m still getting used to my new job. I have to take the train to get to work and back everyday, and it has so far proven to be less than reliable (it took 2.5 hours to move 45 miles last Friday). I’ve been keeping up decently with the [blogs I read](/blogs/) over the last few weeks, particularly SxSW this weekend (I hope I can go next year), but I’m still unpacking my stuff, and am still waiting on the delivery of my new computer desk which is now two weeks late (I’ll never shop [Office Max]({{% wayback \"http://www.officemax.com/\" %}}) again).\n\nSo, my ever-so-exciting [upcoming redesign](/archives/000181.php) has been on the back burner for longer than I’ve wanted it to be. I also haven’t had time to complete and release the updates to [Blocker](/projects/blocker/) I had been working on, nor have I had the time to do any more work on [Feed Parser](/projects/feedparser/). Grrr… I don’t like falling behind on projects.\n\nI’m also working on a easier-to-use version of my blogroll system. Currently it’s just kinda hacked together, but I’m working on a version that would be easy for anyone to just start using. This system just reads through my OPML files that I export from Feed Demon, and parses it out to finds the RSS/Atom feeds, then parses those feeds to display content about it. Currently, I’m relying on a modified version of Magpie for the RSS/Atom parsing, but I’m tempted to try to implement a custom-built, simplified, RSS/Atom parser into the new Blogroll system. Really it just depends on my ability to figure out how to implement some sort of reliable caching system.\n\nI submitted a link to [Cameron Moll’s]({{% wayback \"http://www.cameronmoll.com/v2/\" %}}) website to the [CSS Vault]({{% wayback \"http://www.cssvault.com/gallery/cameron_moll.php\" %}}), and it got accepted! Cameron has a fantastically beautiful site. Go congratulate him on it!\n\nAnyways, that’s all from California’s Silicon Valley for today. Talk to you again as soon as I can.\n"},
+    "links": {
+        "prev": {"title": "Lockergnome Regresses", "permalink": "https://ryanparman.com/posts/2004/lockergnome-regresses/"},
+        "next": {"title": "Feed Parser and Blocker Updates", "permalink": "https://ryanparman.com/posts/2004/feed-parser-and-blocker-updates/"},
+        "ignore": "me"
+    }
+}
+
+}

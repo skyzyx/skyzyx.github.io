@@ -1,0 +1,318 @@
+{
+    "data": {
+        
+        "section": "projects",
+        
+        
+        "count": 6,
+        "items": [
+            
+            {
+    "kind": "section",
+    "title": "Blocker",
+    "description": "",
+    "summary": {
+        "content": "This project was short-lived. It was intended to block robots from accessing your website. It was lost in the annals of Internet history.",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/projects/blocker/",
+    "relativePermalink": "/projects/blocker/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 23,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "projects/blocker/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "projects/blocker/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cp\u003eThis project was short-lived.\u003c/p\u003e\n\u003cp\u003eIt was intended to block robots from accessing your website.\u003c/p\u003e\n\u003cp\u003eIt was lost in the annals of Internet history.\u003c/p\u003e\n",
+        "plain":" This project was short-lived.\nIt was intended to block robots from accessing your website.\nIt was lost in the annals of Internet history.\n",
+        "source":"\n\u003cp\u003eThis project was short-lived.\u003c/p\u003e\n\u003cp\u003eIt was intended to block robots from accessing your website.\u003c/p\u003e\n\u003cp\u003eIt was lost in the annals of Internet history.\u003c/p\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Blogroller",
+    "description": "",
+    "summary": {
+        "content": "This project never ended up existing. It was meant to be a project which relied on SimplePie, but no lines of code were ever written.",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/projects/blogroller/",
+    "relativePermalink": "/projects/blogroller/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 25,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "projects/blogroller/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "projects/blogroller/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cp\u003eThis project never ended up existing.\u003c/p\u003e\n\u003cp\u003eIt was meant to be a project which relied on SimplePie, but no lines of code were ever written.\u003c/p\u003e\n",
+        "plain":" This project never ended up existing.\nIt was meant to be a project which relied on SimplePie, but no lines of code were ever written.\n",
+        "source":"\n\u003cp\u003eThis project never ended up existing.\u003c/p\u003e\n\u003cp\u003eIt was meant to be a project which relied on SimplePie, but no lines of code were ever written.\u003c/p\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "FeedParser",
+    "description": "",
+    "summary": {
+        "content": "This project was short-lived. It was a pre-cursor to SimplePie. It attempted to parse RSS 2.0 feeds using JavaScript in the browser. It was lost in the annals of Internet history.",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/projects/feedparser/",
+    "relativePermalink": "/projects/feedparser/",
+    "aliases": ["/projects/feedparser/documentation.htm", "/projects/feedparser/contact.php"],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 31,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "projects/feedparser/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "projects/feedparser/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cp\u003eThis project was short-lived.\u003c/p\u003e\n\u003cp\u003eIt was a pre-cursor to \u003ca href=\"/projects/simplepie/\"\u003eSimplePie\u003c/a\u003e. It attempted to parse RSS 2.0 feeds using JavaScript in the browser.\u003c/p\u003e\n\u003cp\u003eIt was lost in the annals of Internet history.\u003c/p\u003e\n",
+        "plain":" This project was short-lived.\nIt was a pre-cursor to SimplePie. It attempted to parse RSS 2.0 feeds using JavaScript in the browser.\nIt was lost in the annals of Internet history.\n",
+        "source":"\n\u003cp\u003eThis project was short-lived.\u003c/p\u003e\n\u003cp\u003eIt was a pre-cursor to \u003ca href=\"/projects/simplepie/\"\u003eSimplePie\u003c/a\u003e. It attempted to parse RSS 2.0 feeds using JavaScript in the browser.\u003c/p\u003e\n\u003cp\u003eIt was lost in the annals of Internet history.\u003c/p\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "RequestCore",
+    "description": "",
+    "summary": {
+        "content": "This was used as the HTTP handler in AWS SDK for PHP v1. It was replaced by Guzzle in SDK v2 and later.",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/projects/requestcore/",
+    "relativePermalink": "/projects/requestcore/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 23,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "projects/requestcore/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "projects/requestcore/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://github.com/guzzle/\" /\u003e\n\u003cp\u003eThis was used as the HTTP handler in \u003ca href=\"https://github.com/amazonwebservices/aws-sdk-for-php\"\u003eAWS SDK for PHP v1\u003c/a\u003e. It was replaced by \u003ca href=\"https://github.com/guzzle/\"\u003eGuzzle\u003c/a\u003e in \u003ca href=\"https://github.com/aws/aws-sdk-php\"\u003eSDK v2\u003c/a\u003e and later.\u003c/p\u003e\n",
+        "plain":" This was used as the HTTP handler in AWS SDK for PHP v1. It was replaced by Guzzle in SDK v2 and later.\n",
+        "source":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://github.com/guzzle/\" /\u003e\n\u003cp\u003eThis was used as the HTTP handler in \u003ca href=\"https://github.com/amazonwebservices/aws-sdk-for-php\"\u003eAWS SDK for PHP v1\u003c/a\u003e. It was replaced by \u003ca href=\"https://github.com/guzzle/\"\u003eGuzzle\u003c/a\u003e in \u003ca href=\"https://github.com/aws/aws-sdk-php\"\u003eSDK v2\u003c/a\u003e and later.\u003c/p\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "SimplePie",
+    "description": "",
+    "summary": {
+        "content": "This page has moved to https://github.com/simplepie/.",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/projects/simplepie/",
+    "relativePermalink": "/projects/simplepie/",
+    "aliases": ["/projects/simplepie/documentation.htm", "/projects/simplepie/contact.php"],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 6,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "projects/simplepie/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "projects/simplepie/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://github.com/simplepie\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://github.com/simplepie/\"\u003ehttps://github.com/simplepie/\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":" This page has moved to https://github.com/simplepie/.\n",
+        "source":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://github.com/simplepie\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://github.com/simplepie/\"\u003ehttps://github.com/simplepie/\u003c/a\u003e.\u003c/p\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Tarzan",
+    "description": "",
+    "summary": {
+        "content": "This page has moved to https://aws.amazon.com/sdk-for-php/.",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/projects/tarzan/",
+    "relativePermalink": "/projects/tarzan/",
+    "aliases": ["/projects/tarzan/docs/", "/projects/tarzan/docs/documentation.htm", "/projects/tarzan/demo.php"],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 6,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "projects/tarzan/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "projects/tarzan/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://aws.amazon.com/sdk-for-php/\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://aws.amazon.com/sdk-for-php/\"\u003ehttps://aws.amazon.com/sdk-for-php/\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":" This page has moved to https://aws.amazon.com/sdk-for-php/.\n",
+        "source":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://aws.amazon.com/sdk-for-php/\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://aws.amazon.com/sdk-for-php/\"\u003ehttps://aws.amazon.com/sdk-for-php/\u003c/a\u003e.\u003c/p\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+        ]
+    }
+}

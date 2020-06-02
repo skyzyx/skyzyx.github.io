@@ -1,0 +1,319 @@
+{
+    "data": {
+        
+        
+        "taxonomy": "category",
+        "term": "Design",
+        
+        "count": 6,
+        "items": [
+            
+            {
+    "kind": "page",
+    "title": "The Measurement of ‘Nice’",
+    "description": "",
+    "summary": {
+        "content": "In his piece entitled iPhone 5, John Gruber made a statement that really stuck out to me: […] but there is no benchmark, no tech spec, to measure nice. But you can feel it. And that is what resonates with millions of people around the world. As soon as I read this, I was struck by how true this statement is for companies like Intel, Google and Amazon that claim to be “metrics-driven”. The unfortunate side-effect is that they focus so much on metrics that they end up being driven only by metrics — which ultimately results in consistently sub-par experiences.",
+        "isTruncated": true
+    },
+    "published": "2012-09-23T23:39:54Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2012/the-measurement-of-nice/",
+    "relativePermalink": "/posts/2012/the-measurement-of-nice/",
+    "aliases": ["/2012/09/23/the-measurement-of-nice/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Design"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 174,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2012/20120923-the-measurement-of-nice.md",
+        "logicalName": "20120923-the-measurement-of-nice.md",
+        "translationBaseName": "20120923-the-measurement-of-nice",
+        "baseFileName": "20120923-the-measurement-of-nice",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2012/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eIn his piece entitled \u003cem\u003e\u003ca href=\"https://web.archive.org/web/20120923233954/http://daringfireball.net/2012/09/iphone_5\"\u003eiPhone 5\u003c/a\u003e\u003c/em\u003e, John Gruber made a statement that really stuck out to me:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e[…] but there is no benchmark, no tech spec, to measure \u003cem\u003enice\u003c/em\u003e. But you can feel it.\u003c/p\u003e\n\u003cp\u003eAnd that is what resonates with millions of people around the world.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eAs soon as I read this, I was struck by how true this statement is for companies like Intel, Google and Amazon that claim to be “metrics-driven”. The unfortunate side-effect is that they focus so much on metrics that they end up being driven \u003cem\u003eonly\u003c/em\u003e by metrics — which ultimately results in consistently sub-par experiences. Companies that are driven by metrics — at the exclusion of \u003cem\u003einstinct\u003c/em\u003e and \u003cem\u003ehumanity\u003c/em\u003e — will never produce the kind of quality that they truly need to in order to create the best experiences for their customers.\u003c/p\u003e\n\u003cp\u003eClaiming to be both “metrics-driven” and “customer-obsessed” is going to be an untenable stance unless you’re willing to both hire and \u003cem\u003eenable\u003c/em\u003e people who really, really understand the fundamentals of how to make really great \u003cem\u003eproducts\u003c/em\u003e.\u003c/p\u003e\n",
+        "plain":"In his piece entitled iPhone 5, John Gruber made a statement that really stuck out to me:\n […] but there is no benchmark, no tech spec, to measure nice. But you can feel it.\nAnd that is what resonates with millions of people around the world.\n As soon as I read this, I was struck by how true this statement is for companies like Intel, Google and Amazon that claim to be “metrics-driven”. The unfortunate side-effect is that they focus so much on metrics that they end up being driven only by metrics — which ultimately results in consistently sub-par experiences. Companies that are driven by metrics — at the exclusion of instinct and humanity — will never produce the kind of quality that they truly need to in order to create the best experiences for their customers.\nClaiming to be both “metrics-driven” and “customer-obsessed” is going to be an untenable stance unless you’re willing to both hire and enable people who really, really understand the fundamentals of how to make really great products.\n",
+        "source":"\nIn his piece entitled *[iPhone 5]({{% wayback \"http://daringfireball.net/2012/09/iphone_5\" %}})*, John Gruber made a statement that really stuck out to me:\n\n\u003e \\[…\\] but there is no benchmark, no tech spec, to measure *nice*. But you can feel it.\n\u003e\n\u003e And that is what resonates with millions of people around the world.\n\nAs soon as I read this, I was struck by how true this statement is for companies like Intel, Google and Amazon that claim to be “metrics-driven”. The unfortunate side-effect is that they focus so much on metrics that they end up being driven *only* by metrics — which ultimately results in consistently sub-par experiences. Companies that are driven by metrics — at the exclusion of *instinct* and *humanity* — will never produce the kind of quality that they truly need to in order to create the best experiences for their customers.\n\nClaiming to be both “metrics-driven” and “customer-obsessed” is going to be an untenable stance unless you’re willing to both hire and *enable* people who really, really understand the fundamentals of how to make really great *products*.\n"},
+    "links": {
+        "prev": {"title": "Clueless Recruiters, Issue #6", "permalink": "https://ryanparman.com/posts/2012/clueless-recruiters-issue-6/"},
+        "next": {"title": "App Judgment and sloppy reporting", "permalink": "https://ryanparman.com/posts/2012/app-judgment-and-sloppy-reporting/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "Dieter Rams on Creative Engineers",
+    "description": "",
+    "summary": {
+        "content": "A common misunderstanding that you often find in Engineering-centric organizations is that “design” is simply the way it looks. In truth, design is the way it works. Dieter Rams had the following to say: “A designer who wants to achieve good design must not regard himself as an artist who, according to taste and aesthetics, is merely dressing-up products with a last-minute garment. The designer must be the gestaltingenieur or creative engineer. They synthesise the completed product from the various elements that make up its design.",
+        "isTruncated": true
+    },
+    "published": "2012-06-27T18:34:44Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2012/dieter-rams-on-creative-engineers/",
+    "relativePermalink": "/posts/2012/dieter-rams-on-creative-engineers/",
+    "aliases": ["/2012/06/27/dieter-rams-on-creative-engineers/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Design"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 190,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2012/20120627-dieter-rams-on-creative-engineers.md",
+        "logicalName": "20120627-dieter-rams-on-creative-engineers.md",
+        "translationBaseName": "20120627-dieter-rams-on-creative-engineers",
+        "baseFileName": "20120627-dieter-rams-on-creative-engineers",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2012/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eA common misunderstanding that you often find in Engineering-centric organizations is that “design” is simply the way it \u003cem\u003elooks\u003c/em\u003e. In truth, design is the way it \u003cem\u003eworks\u003c/em\u003e.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20120627183444/https://en.wikipedia.org/wiki/Dieter_Rams\"\u003eDieter Rams\u003c/a\u003e had the \u003ca href=\"https://web.archive.org/web/20120627183444/http://www.vitsoe.com/en/gb/newsandevents/article/dieter-rams-to-celebrate-80th-birthday\"\u003efollowing to say\u003c/a\u003e:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e“A designer who wants to achieve good design must not regard himself as an artist who, according to taste and aesthetics, is merely dressing-up products with a last-minute garment. The designer must be the gestaltingenieur or creative engineer. They synthesise the completed product from the various elements that make up its design. Their work is largely rational, meaning that aesthetic decisions are justified by an understanding of the product’s purpose.”\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20120627183444/https://en.wikipedia.org/wiki/Steve_Jobs\"\u003eSteve Jobs\u003c/a\u003e had something \u003ca href=\"http://thinkexist.com/quotation/in-most-people-s-vocabularies-design-means-veneer/403290.html\"\u003every similar to say\u003c/a\u003e:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e“In most people’s vocabularies, design means veneer. It’s interior decorating. It’s the fabric of the curtains of the sofa. But to me, nothing could be further from the meaning of design. Design is the fundamental soul of a human-made creation that ends up expressing itself in successive outer layers of the product or service.”\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eIf you are doing UX work in an organization that either doesn’t understand or doesn’t appreciate the \u003cem\u003escience\u003c/em\u003e of design, keep your chin up.\u003c/p\u003e\n",
+        "plain":"A common misunderstanding that you often find in Engineering-centric organizations is that “design” is simply the way it looks. In truth, design is the way it works.\nDieter Rams had the following to say:\n “A designer who wants to achieve good design must not regard himself as an artist who, according to taste and aesthetics, is merely dressing-up products with a last-minute garment. The designer must be the gestaltingenieur or creative engineer. They synthesise the completed product from the various elements that make up its design. Their work is largely rational, meaning that aesthetic decisions are justified by an understanding of the product’s purpose.”\n Steve Jobs had something very similar to say:\n “In most people’s vocabularies, design means veneer. It’s interior decorating. It’s the fabric of the curtains of the sofa. But to me, nothing could be further from the meaning of design. Design is the fundamental soul of a human-made creation that ends up expressing itself in successive outer layers of the product or service.”\n If you are doing UX work in an organization that either doesn’t understand or doesn’t appreciate the science of design, keep your chin up.\n",
+        "source":"\nA common misunderstanding that you often find in Engineering-centric organizations is that “design” is simply the way it *looks*. In truth, design is the way it *works*.\n\n[Dieter Rams]({{% wayback \"https://en.wikipedia.org/wiki/Dieter_Rams\" %}}) had the [following to say]({{% wayback \"http://www.vitsoe.com/en/gb/newsandevents/article/dieter-rams-to-celebrate-80th-birthday\" %}}):\n\n\u003e “A designer who wants to achieve good design must not regard himself as an artist who, according to taste and aesthetics, is merely dressing-up products with a last-minute garment. The designer must be the gestaltingenieur or creative engineer. They synthesise the completed product from the various elements that make up its design. Their work is largely rational, meaning that aesthetic decisions are justified by an understanding of the product’s purpose.”\n\n[Steve Jobs]({{% wayback \"https://en.wikipedia.org/wiki/Steve_Jobs\" %}}) had something [very similar to say](http://thinkexist.com/quotation/in-most-people-s-vocabularies-design-means-veneer/403290.html):\n\n\u003e “In most people’s vocabularies, design means veneer. It’s interior decorating. It’s the fabric of the curtains of the sofa. But to me, nothing could be further from the meaning of design. Design is the fundamental soul of a human-made creation that ends up expressing itself in successive outer layers of the product or service.”\n\nIf you are doing UX work in an organization that either doesn’t understand or doesn’t appreciate the *science* of design, keep your chin up.\n"},
+    "links": {
+        "prev": {"title": "Clueless Recruiters, Issue #4", "permalink": "https://ryanparman.com/posts/2012/clueless-recruiters-issue-4/"},
+        "next": {"title": "The New iPhone", "permalink": "https://ryanparman.com/posts/2012/the-new-iphone/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "Status Icon Sets: Flat, Glass, and Shadow",
+    "description": "",
+    "summary": {
+        "content": "I’ve been doing tons of Ajax development at work lately. One of my projects (that I built on my own time, and therefore own complete rights to — just in case there was a question) was a very very simple content management system designed only to read/write news postings to the database (with support for Textile formatting), and generate an RSS feed, all with a slick Ajax-based interface. I pitched it to my boss as a replacement for the one we currently had in place, and then implemented it as a tool for our in-house intranet.",
+        "isTruncated": true
+    },
+    "published": "2005-09-17T03:10:56Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/status-icon-sets-flat-glass-and-shadow/",
+    "relativePermalink": "/posts/2005/status-icon-sets-flat-glass-and-shadow/",
+    "aliases": ["/2005/09/16/status-icon-sets-flat-glass-and-shadow/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Design"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 200,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050917-status-icon-sets-flat-glass-and-shadow.md",
+        "logicalName": "20050917-status-icon-sets-flat-glass-and-shadow.md",
+        "translationBaseName": "20050917-status-icon-sets-flat-glass-and-shadow",
+        "baseFileName": "20050917-status-icon-sets-flat-glass-and-shadow",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve been doing tons of Ajax development at work lately. One of my projects (that I built on my own time, and therefore own complete rights to — just in case there was a question) was a very very simple content management system designed only to read/write news postings to the database (with support for Textile formatting), and generate an RSS feed, all with a slick Ajax-based interface. I pitched it to my boss as a replacement for the one we currently had in place, and then implemented it as a tool for our in-house intranet.\u003c/p\u003e\n\u003cp\u003eAnyways, I thought that some nice status icons would be a nice touch to top off the script.aculo.us effects I was using, to show success, failure, and other information. So I sat down with Fireworks, and went to work. I designed one set, then modified it to create another, then modifed more to make another. And now I’m giving them away.\u003c/p\u003e\n\u003cp\u003eI’ve bundled 3 sets with 5 icons each. The sets are “Flat”, “Shadow”, and “Glass”, with a fourth set called “Mini-Flat” that’s just a 16x16 version of the “Flat” style. Check ’em out:\u003c/p\u003e\n\u003cdiv class=\"pa2-ns\"\u003e\n  \u003ca href=\"https://cdn.ryanparman.com/wp-content/uploads/2005/09/status_icons.zip\"\u003e\n    \u003cimg src=\"https://cdn.ryanparman.com/wp-content/uploads/2005/09/status_display.png\" alt=\"Status Icon Set\" class=\"db fullimage\"\u003e\n  \u003c/a\u003e\n\u003c/div\u003e\n\u003cp\u003eIf you like ’em, go ahead and \u003ca href=\"https://web.archive.org/web/20050917031056/https://cdn.ryanparman.com/wp-content/uploads/2005/09/status_icons.zip\"\u003edownload\u003c/a\u003e them. Enjoy!\u003c/p\u003e\n",
+        "plain":"I’ve been doing tons of Ajax development at work lately. One of my projects (that I built on my own time, and therefore own complete rights to — just in case there was a question) was a very very simple content management system designed only to read/write news postings to the database (with support for Textile formatting), and generate an RSS feed, all with a slick Ajax-based interface. I pitched it to my boss as a replacement for the one we currently had in place, and then implemented it as a tool for our in-house intranet.\nAnyways, I thought that some nice status icons would be a nice touch to top off the script.aculo.us effects I was using, to show success, failure, and other information. So I sat down with Fireworks, and went to work. I designed one set, then modified it to create another, then modifed more to make another. And now I’m giving them away.\nI’ve bundled 3 sets with 5 icons each. The sets are “Flat”, “Shadow”, and “Glass”, with a fourth set called “Mini-Flat” that’s just a 16x16 version of the “Flat” style. Check ’em out:\n  If you like ’em, go ahead and download them. Enjoy!\n",
+        "source":"\nI’ve been doing tons of Ajax development at work lately. One of my projects (that I built on my own time, and therefore own complete rights to — just in case there was a question) was a very very simple content management system designed only to read/write news postings to the database (with support for Textile formatting), and generate an RSS feed, all with a slick Ajax-based interface. I pitched it to my boss as a replacement for the one we currently had in place, and then implemented it as a tool for our in-house intranet.\n\nAnyways, I thought that some nice status icons would be a nice touch to top off the script.aculo.us effects I was using, to show success, failure, and other information. So I sat down with Fireworks, and went to work. I designed one set, then modified it to create another, then modifed more to make another. And now I’m giving them away.\n\nI’ve bundled 3 sets with 5 icons each. The sets are “Flat”, “Shadow”, and “Glass”, with a fourth set called “Mini-Flat” that’s just a 16x16 version of the “Flat” style. Check ’em out:\n\n\u003cdiv class=\"pa2-ns\"\u003e\n  \u003ca href=\"https://cdn.ryanparman.com/wp-content/uploads/2005/09/status_icons.zip\"\u003e\n    \u003cimg src=\"https://cdn.ryanparman.com/wp-content/uploads/2005/09/status_display.png\" alt=\"Status Icon Set\" class=\"db fullimage\"\u003e\n  \u003c/a\u003e\n\u003c/div\u003e\n\nIf you like ’em, go ahead and [download]({{% wayback \"https://cdn.ryanparman.com/wp-content/uploads/2005/09/status_icons.zip\" %}}) them. Enjoy!\n"},
+    "links": {
+        "prev": {"title": "Draggable Lists", "permalink": "https://ryanparman.com/posts/2005/draggable-lists/"},
+        "next": {"title": "Fix: QuickTime Playing Flash Files in my Browser", "permalink": "https://ryanparman.com/posts/2005/fix-quicktime-playing-flash-files-in-my-browser/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "Windows Vista Fonts",
+    "description": "",
+    "summary": {
+        "content": "I found these a couple of weeks back, and I think they’re really good, so I wanted to share them. They’re 6 fonts that are supposed to be included in Windows Vista, but they seem to work for both Windows XP and Mac OS X. Also for you sIFR users out there, I created sIFR versions that you can apply to your sites. I found these floating around online, and presumably they’ll be free at some point, so I think it would be reasonable to assume that it’s okay to pass these around.",
+        "isTruncated": true
+    },
+    "published": "2005-09-01T07:21:10Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/windows-vista-fonts/",
+    "relativePermalink": "/posts/2005/windows-vista-fonts/",
+    "aliases": ["/2005/08/31/windows-vista-fonts/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Design"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 154,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050901-windows-vista-fonts.md",
+        "logicalName": "20050901-windows-vista-fonts.md",
+        "translationBaseName": "20050901-windows-vista-fonts",
+        "baseFileName": "20050901-windows-vista-fonts",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI found these a couple of weeks back, and I think they’re really good, so I wanted to share them. They’re 6 fonts that are supposed to be included in Windows Vista, but they seem to work for both Windows XP and Mac OS X. Also for you sIFR users out there, I created sIFR versions that you can apply to your sites.\u003c/p\u003e\n\u003cp\u003eI found these floating around online, and presumably they’ll be free at some point, so I think it would be \u003cem\u003ereasonable\u003c/em\u003e to assume that it’s okay to pass these around. I didn’t see anything in the zip file to tell me otherwise, so that’s what I’m going to believe. If someone at Microsoft has a problem with this, \u003ca href=\"/contact/\"\u003elet me know\u003c/a\u003e and I’ll pull them offline.\u003c/p\u003e\n\u003cp\u003e« Update » It was suggested to me that it would be wise to remove these links. I’ve decided to heed that advice. Sorry folks!\u003c/p\u003e\n",
+        "plain":"I found these a couple of weeks back, and I think they’re really good, so I wanted to share them. They’re 6 fonts that are supposed to be included in Windows Vista, but they seem to work for both Windows XP and Mac OS X. Also for you sIFR users out there, I created sIFR versions that you can apply to your sites.\nI found these floating around online, and presumably they’ll be free at some point, so I think it would be reasonable to assume that it’s okay to pass these around. I didn’t see anything in the zip file to tell me otherwise, so that’s what I’m going to believe. If someone at Microsoft has a problem with this, let me know and I’ll pull them offline.\n« Update » It was suggested to me that it would be wise to remove these links. I’ve decided to heed that advice. Sorry folks!\n",
+        "source":"\nI found these a couple of weeks back, and I think they’re really good, so I wanted to share them. They’re 6 fonts that are supposed to be included in Windows Vista, but they seem to work for both Windows XP and Mac OS X. Also for you sIFR users out there, I created sIFR versions that you can apply to your sites.\n\nI found these floating around online, and presumably they’ll be free at some point, so I think it would be *reasonable* to assume that it’s okay to pass these around. I didn’t see anything in the zip file to tell me otherwise, so that’s what I’m going to believe. If someone at Microsoft has a problem with this, [let me know](/contact/) and I’ll pull them offline.\n\n« Update » It was suggested to me that it would be wise to remove these links. I’ve decided to heed that advice. Sorry folks!\n"},
+    "links": {
+        "prev": {"title": "Welcome to Wordpress!", "permalink": "https://ryanparman.com/posts/2005/welcome-to-wordpress/"},
+        "next": {"title": "My Move To Services", "permalink": "https://ryanparman.com/posts/2005/my-move-to-services/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "Pirated Sites",
+    "description": "",
+    "summary": {
+        "content": "I just checked out Pirated Sites website, and saw my submission at the top of the front page. Granted, it says “Anonymous”, but it was me. Really it was. Destroy Drop was designed by Geir Landro (who is also the guy who wrote dTree). His site was copied in the form of Emoticate.net by a guy who calls himself “Krycek”. I recognized Krycek’s design, and submitted it. If I remember correctly, Krycek tried to play it off as though he was the one who came up with the design, but I knew he was caught.",
+        "isTruncated": true
+    },
+    "published": "2003-09-09T22:43:24Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/pirated-sites/",
+    "relativePermalink": "/posts/2003/pirated-sites/",
+    "aliases": ["/2003/09/09/pirated-sites/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Design"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 96,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030909-pirated-sites.md",
+        "logicalName": "20030909-pirated-sites.md",
+        "translationBaseName": "20030909-pirated-sites",
+        "baseFileName": "20030909-pirated-sites",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI just checked out \u003ca href=\"https://web.archive.org/web/20030909224324/http://www.pirated-sites.com\"\u003ePirated Sites\u003c/a\u003e website, and saw my submission at the top of the front page. Granted, it says “Anonymous”, but it was me. Really it was.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20030909224324/http://www.destroydrop.com:80/\"\u003eDestroy Drop\u003c/a\u003e was designed by Geir Landro (who is also the guy who wrote \u003ca href=\"/scripts/dtree.php\"\u003edTree\u003c/a\u003e). His site was copied in the form of \u003ca href=\"https://web.archive.org/web/20030909224324/http://www.emoticate.net\"\u003eEmoticate.net\u003c/a\u003e by a guy who calls himself “Krycek”. I recognized Krycek’s design, and submitted it.\u003c/p\u003e\n\u003cp\u003eIf I remember correctly, Krycek tried to play it off as though \u003cem\u003ehe\u003c/em\u003e was the one who came up with the design, but I knew he was caught. Mwah-ha-hah!\u003c/p\u003e\n",
+        "plain":"I just checked out Pirated Sites website, and saw my submission at the top of the front page. Granted, it says “Anonymous”, but it was me. Really it was.\nDestroy Drop was designed by Geir Landro (who is also the guy who wrote dTree). His site was copied in the form of Emoticate.net by a guy who calls himself “Krycek”. I recognized Krycek’s design, and submitted it.\nIf I remember correctly, Krycek tried to play it off as though he was the one who came up with the design, but I knew he was caught. Mwah-ha-hah!\n",
+        "source":"\nI just checked out [Pirated Sites]({{% wayback \"http://www.pirated-sites.com\" %}}) website, and saw my submission at the top of the front page. Granted, it says “Anonymous”, but it was me. Really it was.\n\n[Destroy Drop]({{% wayback \"http://www.destroydrop.com:80/\" %}}) was designed by Geir Landro (who is also the guy who wrote [dTree](/scripts/dtree.php)). His site was copied in the form of [Emoticate.net]({{% wayback \"http://www.emoticate.net\" %}}) by a guy who calls himself “Krycek”. I recognized Krycek’s design, and submitted it.\n\nIf I remember correctly, Krycek tried to play it off as though *he* was the one who came up with the design, but I knew he was caught. Mwah-ha-hah!\n"},
+    "links": {
+        "prev": {"title": "My Portfolio and Sitemap", "permalink": "https://ryanparman.com/posts/2003/my-portfolio-and-sitemap/"},
+        "next": {"title": "Simple Pleasures", "permalink": "https://ryanparman.com/posts/2003/simple-pleasures/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "ReleaseOne™",
+    "description": "",
+    "summary": {
+        "content": "I was just sitting at my desk at work, trying to kill some time before I leave for my vacation at 5pm. I went to CSS Zen Garden to check out some new CSS designs, and was blown away by one particular design. Outstanding! I wanna be like this guy when I grow up.",
+        "isTruncated": false
+    },
+    "published": "2003-08-01T00:57:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/releaseone/",
+    "relativePermalink": "/posts/2003/releaseone/",
+    "aliases": ["/2003/07/31/releaseone/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Design"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 54,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030801-releaseone.md",
+        "logicalName": "20030801-releaseone.md",
+        "translationBaseName": "20030801-releaseone",
+        "baseFileName": "20030801-releaseone",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI was just sitting at my desk at \u003ca href=\"https://web.archive.org/web/20030801005700/http://www.goldenruleproduce.com\"\u003ework\u003c/a\u003e, trying to kill some time before I leave for my vacation at 5pm. I went to \u003ca href=\"https://web.archive.org/web/20030801005700/http://www.csszengarden.com\"\u003eCSS Zen Garden\u003c/a\u003e to check out some new CSS designs, and was blown away by \u003ca href=\"https://web.archive.org/web/20030801005700/http://www.csszengarden.com/?cssfile=/035/035.css\u0026amp;page=0\"\u003eone particular design\u003c/a\u003e. Outstanding!\u003c/p\u003e\n\u003cp\u003eI wanna be like this guy when I grow up.\u003c/p\u003e\n",
+        "plain":"I was just sitting at my desk at work, trying to kill some time before I leave for my vacation at 5pm. I went to CSS Zen Garden to check out some new CSS designs, and was blown away by one particular design. Outstanding!\nI wanna be like this guy when I grow up.\n",
+        "source":"\nI was just sitting at my desk at [work]({{% wayback \"http://www.goldenruleproduce.com\" %}}), trying to kill some time before I leave for my vacation at 5pm. I went to [CSS Zen Garden]({{% wayback \"http://www.csszengarden.com\" %}}) to check out some new CSS designs, and was blown away by [one particular design]({{% wayback \"http://www.csszengarden.com/?cssfile=/035/035.css\u0026page=0\" %}}). Outstanding!\n\nI wanna be like this guy when I grow up.\n"},
+    "links": {
+        "prev": {"title": "A Disagreement Perhaps?", "permalink": "https://ryanparman.com/posts/2003/a-disagreement-perhaps/"},
+        "next": {"title": "Movie Reviews 2003", "permalink": "https://ryanparman.com/posts/2003/movie-reviews-2003/"},
+        "ignore": "me"
+    }
+}
+
+            
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Designing With Web Standards",
+    "description": "",
+    "summary": {
+        "content": "I just received my copy of “Designing with Web Standards” today from Amazon.com. I started reading about an hour ago, and I’m on page 45, the beginning of chapter 2. So far, the book is fantastic! Zeldman’s work helped open my eyes to web standards nearly a year ago, and I can’t wait to get through his new book. I hope this isn’t a violation of any copyright laws or anything, but here’s the blurb from the back cover: You code.",
+        "isTruncated": true
+    },
+    "published": "2003-05-31T08:22:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/designing-with-web-standards/",
+    "relativePermalink": "/posts/2003/designing-with-web-standards/",
+    "aliases": ["/2003/05/31/designing-with-web-standards/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Reading"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 222,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030531-designing-with-web-standards.md",
+        "logicalName": "20030531-designing-with-web-standards.md",
+        "translationBaseName": "20030531-designing-with-web-standards",
+        "baseFileName": "20030531-designing-with-web-standards",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI just received my copy of “Designing with Web Standards” today from Amazon.com. I started reading about an hour ago, and I’m on page 45, the beginning of chapter 2. So far, the book is fantastic! Zeldman’s work helped open my eyes to web standards nearly a year ago, and I can’t wait to get through his new book. I hope this isn’t a violation of any copyright laws or anything, but here’s the blurb from the back cover:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eYou code. And code. And code. You build only to rebuild. You focus on making your site compatible with almost every browser or wireless device ever put out there. Then along comes a new device or a new browser, and you start all over again.\u003c/p\u003e\n\u003cp\u003eYou can get off the merry-go-round.\u003c/p\u003e\n\u003cp\u003eIt’s time to stop living in the past and get away from the days of spaghetti code, insanely nested table layouts, \u0026lt;FONT\u0026gt; tags, and other redundancies that double and triple the bandwidth of even the simplest sites. Instead, it’s time for forward compatibility.\u003c/p\u003e\n\u003cp\u003eIsn’t it high time you started designing with web standards?\u003c/p\u003e\n\u003cp\u003eStandards aren’t about leaving users behind or adhering to inflexible rules. Standards are about building sophisticated, beautiful sites that will work as well tomorrow as they do today. You can’t afford to design tomorrow’s sites with yesterday’s piecemeal methods.\u003c/p\u003e\n\u003c/blockquote\u003e\n",
+        "plain":"I just received my copy of “Designing with Web Standards” today from Amazon.com. I started reading about an hour ago, and I’m on page 45, the beginning of chapter 2. So far, the book is fantastic! Zeldman’s work helped open my eyes to web standards nearly a year ago, and I can’t wait to get through his new book. I hope this isn’t a violation of any copyright laws or anything, but here’s the blurb from the back cover:\n You code. And code. And code. You build only to rebuild. You focus on making your site compatible with almost every browser or wireless device ever put out there. Then along comes a new device or a new browser, and you start all over again.\nYou can get off the merry-go-round.\nIt’s time to stop living in the past and get away from the days of spaghetti code, insanely nested table layouts, \u0026lt;FONT\u0026gt; tags, and other redundancies that double and triple the bandwidth of even the simplest sites. Instead, it’s time for forward compatibility.\nIsn’t it high time you started designing with web standards?\nStandards aren’t about leaving users behind or adhering to inflexible rules. Standards are about building sophisticated, beautiful sites that will work as well tomorrow as they do today. You can’t afford to design tomorrow’s sites with yesterday’s piecemeal methods.\n ",
+        "source":"\nI just received my copy of “Designing with Web Standards” today from Amazon.com. I started reading about an hour ago, and I’m on page 45, the beginning of chapter 2. So far, the book is fantastic! Zeldman’s work helped open my eyes to web standards nearly a year ago, and I can’t wait to get through his new book. I hope this isn’t a violation of any copyright laws or anything, but here’s the blurb from the back cover:\n\n\u003e You code. And code. And code. You build only to rebuild. You focus on making your site compatible with almost every browser or wireless device ever put out there. Then along comes a new device or a new browser, and you start all over again.\n\u003e \n\u003e You can get off the merry-go-round.\n\u003e \n\u003e It’s time to stop living in the past and get away from the days of spaghetti code, insanely nested table layouts, \u0026lt;FONT\u0026gt; tags, and other redundancies that double and triple the bandwidth of even the simplest sites. Instead, it’s time for forward compatibility.\n\u003e \n\u003e Isn’t it high time you started designing with web standards?\n\u003e \n\u003e Standards aren’t about leaving users behind or adhering to inflexible rules. Standards are about building sophisticated, beautiful sites that will work as well tomorrow as they do today. You can’t afford to design tomorrow’s sites with yesterday’s piecemeal methods.\n"},
+    "links": {
+        "prev": {"title": "AOL will continue using Internet Explorer", "permalink": "https://ryanparman.com/posts/2003/aol-will-continue-using-internet-explorer/"},
+        "next": {"title": "Making Peace with MILFs?", "permalink": "https://ryanparman.com/posts/2003/making-peace-with-milfs/"},
+        "ignore": "me"
+    }
+}
+
+}

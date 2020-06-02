@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Okay, some people are seriously retarded",
+    "description": "",
+    "summary": {
+        "content": "I just came across a BBC article about man suing over an iPod ‘hearing risk’. OMFG. Are you kidding me? How stupid can some people be? And it’s all a matter of money. Stupid lawsuits brought on by stupid lawyers are really dragging our legal system through the mud, not to mention using up my tax dollars to do it. Maybe Apple really should discontinue sales to stupid people…",
+        "isTruncated": false
+    },
+    "published": "2006-02-04T00:27:14Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/okay-some-people-are-seriously-retarded/",
+    "relativePermalink": "/posts/2006/okay-some-people-are-seriously-retarded/",
+    "aliases": ["/2006/02/03/okay-some-people-are-seriously-retarded/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Tech Industry"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 69,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060204-okay-some-people-are-seriously-retarded.md",
+        "logicalName": "20060204-okay-some-people-are-seriously-retarded.md",
+        "translationBaseName": "20060204-okay-some-people-are-seriously-retarded",
+        "baseFileName": "20060204-okay-some-people-are-seriously-retarded",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI just came across a BBC article about \u003ca href=\"https://web.archive.org/web/20060204002714/http://news.bbc.co.uk/2/hi/technology/4673584.stm\"\u003eman suing over an iPod ‘hearing risk’\u003c/a\u003e. OMFG. Are you kidding me? How stupid can some people be? And it’s all a matter of money. Stupid lawsuits brought on by stupid lawyers are really dragging our legal system through the mud, not to mention using up my tax dollars to do it. Maybe Apple really should \u003ca href=\"https://web.archive.org/web/20060204002714/http://www.crazyapplerumors.com/archives/000643.html\"\u003ediscontinue sales to stupid people\u003c/a\u003e…\u003c/p\u003e\n",
+        "plain":"I just came across a BBC article about man suing over an iPod ‘hearing risk’. OMFG. Are you kidding me? How stupid can some people be? And it’s all a matter of money. Stupid lawsuits brought on by stupid lawyers are really dragging our legal system through the mud, not to mention using up my tax dollars to do it. Maybe Apple really should discontinue sales to stupid people…\n",
+        "source":"\nI just came across a BBC article about [man suing over an iPod ‘hearing risk’]({{% wayback \"http://news.bbc.co.uk/2/hi/technology/4673584.stm\" %}}). OMFG. Are you kidding me? How stupid can some people be? And it’s all a matter of money. Stupid lawsuits brought on by stupid lawyers are really dragging our legal system through the mud, not to mention using up my tax dollars to do it. Maybe Apple really should [discontinue sales to stupid people]({{% wayback \"http://www.crazyapplerumors.com/archives/000643.html\" %}})…\n"},
+    "links": {
+        "prev": {"title": "Internet Explorer 7.0 Beta 2 Standalone is available", "permalink": "https://ryanparman.com/posts/2006/internet-explorer-70-beta-2-standalone-is-available/"},
+        "next": {"title": "Awesome view-source trick for JavaScript developers", "permalink": "https://ryanparman.com/posts/2006/awesome-view-source-trick-for-javascript-developers/"},
+        "ignore": "me"
+    }
+}
+
+}

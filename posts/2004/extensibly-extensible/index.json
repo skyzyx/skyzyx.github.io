@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Extensibly Extensible",
+    "description": "",
+    "summary": {
+        "content": "Well, I know that I haven’t been talking much about web stuff lately, so I figured that I might as well make up for it with a doozie… Yesterday, the W3C released a shiny new recommendation called XML 1.1, and another called Namespaces in XML 1.1. The changes in XML 1.1 are seemingly minimal, and appear to primarily affect certain character entities defined in newer versions of Unicode. The W3C’s XML 1.0 Recommendation was first issued in 1998, and despite the issuance of many errata culminating in a Third Edition of 2004, has remained (by intention) unchanged with respect to what is well-formed XML and what is not.",
+        "isTruncated": true
+    },
+    "published": "2004-02-06T02:05:26Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/extensibly-extensible/",
+    "relativePermalink": "/posts/2004/extensibly-extensible/",
+    "aliases": ["/2004/02/05/extensibly-extensible/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Reading"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 370,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040206-extensibly-extensible.md",
+        "logicalName": "20040206-extensibly-extensible.md",
+        "translationBaseName": "20040206-extensibly-extensible",
+        "baseFileName": "20040206-extensibly-extensible",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eWell, I know that I haven’t been talking much about web stuff lately, so I figured that I might as well make up for it with a doozie…\u003c/p\u003e\n\u003cp\u003eYesterday, the \u003ca href=\"https://web.archive.org/web/20040206020526/http://www.w3.org\" title=\"World Wide Web Consortium\"\u003eW3C\u003c/a\u003e released a shiny new recommendation called \u003ca href=\"https://web.archive.org/web/20040206020526/http://www.w3.org/TR/2004/REC-xml11-20040204/\"\u003eXML 1.1\u003c/a\u003e, and another called \u003ca href=\"https://web.archive.org/web/20040206020526/http://www.w3.org/TR/2004/REC-xml-names11-20040204/\"\u003eNamespaces in XML 1.1\u003c/a\u003e. The changes in XML 1.1 are seemingly minimal, and appear to primarily affect certain character entities defined in newer versions of Unicode.\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eThe W3C’s XML 1.0 Recommendation was first issued in 1998, and despite the issuance of many errata culminating in a Third Edition of 2004, has remained (by intention) unchanged with respect to what is well-formed XML and what is not. This stability has been extremely useful for interoperability. However, the Unicode Standard on which XML 1.0 relies for character specifications has not remained static, evolving from version 2.0 to version 4.0 and beyond. Characters not present in Unicode 2.0 may already be used in XML 1.0 character data. However, they are not allowed in XML names such as element type names, attribute names, enumerated attribute values, processing instruction targets, and so on. In addition, some characters that should have been permitted in XML names were not, due to oversights and inconsistencies in Unicode 2.0. Namespaces, however, have been completely revamped, from what I can tell. From what I understand, instead of having namespaces add support for certain tags, it will instead forbid support for certain tags. The W3C says it best:\u003c/p\u003e\n\u003cp\u003eThe overall philosophy of names has changed since XML 1.0. Whereas XML 1.0 provided a rigid definition of names, wherein everything that was not permitted was forbidden, XML 1.1 names are designed so that everything that is not forbidden (for a specific reason) is permitted. Since Unicode will continue to grow past version 4.0, further changes to XML can be avoided by allowing almost any character, including those not yet assigned, in names.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eI’m just curious as to how this will effect news syndication feed formats like RSS 1.0, RSS 2.0, and Atom. Whereas the first two seem to be pretty much complete, Atom looks like it will continue to develop. From what it seems, XML 1.0 will continue to be the best bet for syndication formats. You never know though.\u003c/p\u003e\n",
+        "plain":"Well, I know that I haven’t been talking much about web stuff lately, so I figured that I might as well make up for it with a doozie…\nYesterday, the W3C released a shiny new recommendation called XML 1.1, and another called Namespaces in XML 1.1. The changes in XML 1.1 are seemingly minimal, and appear to primarily affect certain character entities defined in newer versions of Unicode.\n The W3C’s XML 1.0 Recommendation was first issued in 1998, and despite the issuance of many errata culminating in a Third Edition of 2004, has remained (by intention) unchanged with respect to what is well-formed XML and what is not. This stability has been extremely useful for interoperability. However, the Unicode Standard on which XML 1.0 relies for character specifications has not remained static, evolving from version 2.0 to version 4.0 and beyond. Characters not present in Unicode 2.0 may already be used in XML 1.0 character data. However, they are not allowed in XML names such as element type names, attribute names, enumerated attribute values, processing instruction targets, and so on. In addition, some characters that should have been permitted in XML names were not, due to oversights and inconsistencies in Unicode 2.0. Namespaces, however, have been completely revamped, from what I can tell. From what I understand, instead of having namespaces add support for certain tags, it will instead forbid support for certain tags. The W3C says it best:\nThe overall philosophy of names has changed since XML 1.0. Whereas XML 1.0 provided a rigid definition of names, wherein everything that was not permitted was forbidden, XML 1.1 names are designed so that everything that is not forbidden (for a specific reason) is permitted. Since Unicode will continue to grow past version 4.0, further changes to XML can be avoided by allowing almost any character, including those not yet assigned, in names.\n I’m just curious as to how this will effect news syndication feed formats like RSS 1.0, RSS 2.0, and Atom. Whereas the first two seem to be pretty much complete, Atom looks like it will continue to develop. From what it seems, XML 1.0 will continue to be the best bet for syndication formats. You never know though.\n",
+        "source":"\nWell, I know that I haven’t been talking much about web stuff lately, so I figured that I might as well make up for it with a doozie…\n\nYesterday, the [W3C]({{% wayback \"http://www.w3.org\" %}} \"World Wide Web Consortium\") released a shiny new recommendation called [XML 1.1]({{% wayback \"http://www.w3.org/TR/2004/REC-xml11-20040204/\" %}}), and another called [Namespaces in XML 1.1]({{% wayback \"http://www.w3.org/TR/2004/REC-xml-names11-20040204/\" %}}). The changes in XML 1.1 are seemingly minimal, and appear to primarily affect certain character entities defined in newer versions of Unicode.\n\n\u003e The W3C’s XML 1.0 Recommendation was first issued in 1998, and despite the issuance of many errata culminating in a Third Edition of 2004, has remained (by intention) unchanged with respect to what is well-formed XML and what is not. This stability has been extremely useful for interoperability. However, the Unicode Standard on which XML 1.0 relies for character specifications has not remained static, evolving from version 2.0 to version 4.0 and beyond. Characters not present in Unicode 2.0 may already be used in XML 1.0 character data. However, they are not allowed in XML names such as element type names, attribute names, enumerated attribute values, processing instruction targets, and so on. In addition, some characters that should have been permitted in XML names were not, due to oversights and inconsistencies in Unicode 2.0. Namespaces, however, have been completely revamped, from what I can tell. From what I understand, instead of having namespaces add support for certain tags, it will instead forbid support for certain tags. The W3C says it best:\n\u003e\n\u003e The overall philosophy of names has changed since XML 1.0. Whereas XML 1.0 provided a rigid definition of names, wherein everything that was not permitted was forbidden, XML 1.1 names are designed so that everything that is not forbidden (for a specific reason) is permitted. Since Unicode will continue to grow past version 4.0, further changes to XML can be avoided by allowing almost any character, including those not yet assigned, in names.\n\nI’m just curious as to how this will effect news syndication feed formats like RSS 1.0, RSS 2.0, and Atom. Whereas the first two seem to be pretty much complete, Atom looks like it will continue to develop. From what it seems, XML 1.0 will continue to be the best bet for syndication formats. You never know though.\n"},
+    "links": {
+        "prev": {"title": "37 Signal's Basecamp™ Is Cool!", "permalink": "https://ryanparman.com/posts/2004/37-signals-basecamp-is-cool/"},
+        "next": {"title": "Blocking Spambots", "permalink": "https://ryanparman.com/posts/2004/blocking-spambots/"},
+        "ignore": "me"
+    }
+}
+
+}

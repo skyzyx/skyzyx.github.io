@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Time For A Redesign?",
+    "description": "",
+    "summary": {
+        "content": "I’m sitting here looking at my website. I think it’s one of my better “simple” designs, but I started coding it earlier in my web standards days. Although it validates, it’s not semantic. I’ve designed a few sites using semantic XHTML+CSS… particularly Golden Rule Produce and a quick mock-up for Pajaro Valley Fresh. I’d like to rewrite my code to be semantic. I definitely want to keep the same general design and color scheme, but I want to clean up the code a bit, and do something better with the right-hand menu so I can nix the single layout table I have.",
+        "isTruncated": true
+    },
+    "published": "2003-08-15T00:47:43Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/time-for-a-redesign/",
+    "relativePermalink": "/posts/2003/time-for-a-redesign/",
+    "aliases": ["/2003/08/14/time-for-a-redesign/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 193,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030815-time-for-a-redesign.md",
+        "logicalName": "20030815-time-for-a-redesign.md",
+        "translationBaseName": "20030815-time-for-a-redesign",
+        "baseFileName": "20030815-time-for-a-redesign",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’m sitting here looking at my website. I think it’s one of my better “simple” designs, but I started coding it earlier in my web standards days. Although it validates, it’s not semantic. I’ve designed a few sites using \u003cem\u003esemantic\u003c/em\u003e XHTML+CSS… particularly \u003ca href=\"https://web.archive.org/web/20030815004743/http://www.goldenruleproduce.com\"\u003eGolden Rule Produce\u003c/a\u003e and a quick mock-up for \u003ca href=\"https://web.archive.org/web/20030815004743/http://www.goldenruleproduce.com/pajaro/\"\u003ePajaro Valley Fresh\u003c/a\u003e. I’d like to rewrite my code to be semantic.\u003c/p\u003e\n\u003cp\u003eI definitely want to keep the same general design and color scheme, but I want to clean up the code a bit, and do something better with the right-hand menu so I can nix the single layout table I have. Especially with the introduction of Movable Type and all of it’s automation glory, I think I should make room for the features that it offers.\u003c/p\u003e\n\u003cp\u003eIt’ll be nice to not have to hand-roll my own RSS 2.0 feeds. I can get feedback on articles and posts, and hopefully it’ll generate more hits. At the moment, I get \u003ca href=\"../refer/\"\u003eroughly 20 hits a day\u003c/a\u003e from Google, but it’d be nice to see that increase through an easier to manage content management system.\u003c/p\u003e\n\u003cp\u003eI think I’ll take a crack at it over the weekend.\u003c/p\u003e\n",
+        "plain":"I’m sitting here looking at my website. I think it’s one of my better “simple” designs, but I started coding it earlier in my web standards days. Although it validates, it’s not semantic. I’ve designed a few sites using semantic XHTML+CSS… particularly Golden Rule Produce and a quick mock-up for Pajaro Valley Fresh. I’d like to rewrite my code to be semantic.\nI definitely want to keep the same general design and color scheme, but I want to clean up the code a bit, and do something better with the right-hand menu so I can nix the single layout table I have. Especially with the introduction of Movable Type and all of it’s automation glory, I think I should make room for the features that it offers.\nIt’ll be nice to not have to hand-roll my own RSS 2.0 feeds. I can get feedback on articles and posts, and hopefully it’ll generate more hits. At the moment, I get roughly 20 hits a day from Google, but it’d be nice to see that increase through an easier to manage content management system.\nI think I’ll take a crack at it over the weekend.\n",
+        "source":"\nI’m sitting here looking at my website. I think it’s one of my better “simple” designs, but I started coding it earlier in my web standards days. Although it validates, it’s not semantic. I’ve designed a few sites using *semantic* XHTML+CSS… particularly [Golden Rule Produce]({{% wayback \"http://www.goldenruleproduce.com\" %}}) and a quick mock-up for [Pajaro Valley Fresh]({{% wayback \"http://www.goldenruleproduce.com/pajaro/\" %}}). I’d like to rewrite my code to be semantic.\n\nI definitely want to keep the same general design and color scheme, but I want to clean up the code a bit, and do something better with the right-hand menu so I can nix the single layout table I have. Especially with the introduction of Movable Type and all of it’s automation glory, I think I should make room for the features that it offers.\n\nIt’ll be nice to not have to hand-roll my own RSS 2.0 feeds. I can get feedback on articles and posts, and hopefully it’ll generate more hits. At the moment, I get [roughly 20 hits a day](../refer/) from Google, but it’d be nice to see that increase through an easier to manage content management system.\n\nI think I’ll take a crack at it over the weekend.\n"},
+    "links": {
+        "prev": {"title": "Welcome Movable Type!", "permalink": "https://ryanparman.com/posts/2003/welcome-movable-type/"},
+        "next": {"title": "Redesign In Progress", "permalink": "https://ryanparman.com/posts/2003/redesign-in-progress/"},
+        "ignore": "me"
+    }
+}
+
+}

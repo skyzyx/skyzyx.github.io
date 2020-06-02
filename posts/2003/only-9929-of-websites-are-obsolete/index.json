@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Only 99.29% of Websites Are Obsolete",
+    "description": "",
+    "summary": {
+        "content": "Apparently Zeldman’s accusation that 99.9% of all websites are obsolete is inaccurate. According to this thesis, only 99.29% of websites are obsolete out of an examined 2.4 million. Zeldman has formally retracted his earlier estimate.",
+        "isTruncated": false
+    },
+    "published": "2003-06-13T21:09:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/only-9929-of-websites-are-obsolete/",
+    "relativePermalink": "/posts/2003/only-9929-of-websites-are-obsolete/",
+    "aliases": ["/2003/06/13/only-9929-of-websites-are-obsolete/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Tech Life"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 35,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030613-only-9929-of-websites-are-obsolete.md",
+        "logicalName": "20030613-only-9929-of-websites-are-obsolete.md",
+        "translationBaseName": "20030613-only-9929-of-websites-are-obsolete",
+        "baseFileName": "20030613-only-9929-of-websites-are-obsolete",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eApparently \u003ca href=\"https://web.archive.org/web/20030613210900/http://www.zeldman.com\" title=\"Venture capitalists: Give Zeldman your money!\"\u003eZeldman’s\u003c/a\u003e accusation that \u003ca href=\"https://web.archive.org/web/20030613210900/http://www.digital-web.com/features/feature_2002-09.shtml\" title=\"It's not that unbelievable...\"\u003e99.9% of all websites are obsolete\u003c/a\u003e is inaccurate. According to \u003ca href=\"https://web.archive.org/web/20030613210900/http://www.ub.uib.no/elpub/2001/h/413001/\"\u003ethis thesis\u003c/a\u003e, only \u003ca href=\"https://web.archive.org/web/20030613210900/http://www.benmeadowcroft.com/me/archive/2003/january.shtml#link25th\"\u003e99.29% of websites are obsolete\u003c/a\u003e out of an examined 2.4 million.\u003c/p\u003e\n\u003cp\u003eZeldman has formally retracted his \u003ca href=\"https://web.archive.org/web/20030613210900/http://meet-the-makers.com/conversations/dwws/6/\"\u003eearlier estimate\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":"Apparently Zeldman’s accusation that 99.9% of all websites are obsolete is inaccurate. According to this thesis, only 99.29% of websites are obsolete out of an examined 2.4 million.\nZeldman has formally retracted his earlier estimate.\n",
+        "source":"\nApparently [Zeldman’s]({{% wayback \"http://www.zeldman.com\" %}} \"Venture capitalists: Give Zeldman your money!\") accusation that [99.9% of all websites are obsolete]({{% wayback \"http://www.digital-web.com/features/feature_2002-09.shtml\" %}} \"It's not that unbelievable...\") is inaccurate. According to [this thesis]({{% wayback \"http://www.ub.uib.no/elpub/2001/h/413001/\" %}}), only [99.29% of websites are obsolete]({{% wayback \"http://www.benmeadowcroft.com/me/archive/2003/january.shtml#link25th\" %}}) out of an examined 2.4 million.\n\nZeldman has formally retracted his [earlier estimate]({{% wayback \"http://meet-the-makers.com/conversations/dwws/6/\" %}}).\n"},
+    "links": {
+        "prev": {"title": "Twenty Cows and a Chicken", "permalink": "https://ryanparman.com/posts/2003/twenty-cows-and-a-chicken/"},
+        "next": {"title": "Internet Explorer for Mac Is Dead", "permalink": "https://ryanparman.com/posts/2003/internet-explorer-for-mac-is-dead/"},
+        "ignore": "me"
+    }
+}
+
+}

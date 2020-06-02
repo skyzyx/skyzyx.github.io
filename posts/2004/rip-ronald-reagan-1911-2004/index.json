@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "RIP: Ronald Reagan, 1911-2004",
+    "description": "",
+    "summary": {
+        "content": "Ronald Reagan, 40th President of the United States, dies at 93.",
+        "isTruncated": false
+    },
+    "published": "2004-06-05T22:44:57Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/rip-ronald-reagan-1911-2004/",
+    "relativePermalink": "/posts/2004/rip-ronald-reagan-1911-2004/",
+    "aliases": ["/2004/06/05/rip-ronald-reagan-1911-2004/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Death"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 11,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040605-rip-ronald-reagan-1911-2004.md",
+        "logicalName": "20040605-rip-ronald-reagan-1911-2004.md",
+        "translationBaseName": "20040605-rip-ronald-reagan-1911-2004",
+        "baseFileName": "20040605-rip-ronald-reagan-1911-2004",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eRonald Reagan, 40th President of the United States, dies at 93.\u003c/p\u003e\n",
+        "plain":"Ronald Reagan, 40th President of the United States, dies at 93.\n",
+        "source":"\nRonald Reagan, 40th President of the United States, dies at 93.\n"},
+    "links": {
+        "prev": {"title": "Dead Hard Drive", "permalink": "https://ryanparman.com/posts/2004/dead-hard-drive/"},
+        "next": {"title": "The Ant and the Grasshopper", "permalink": "https://ryanparman.com/posts/2004/the-ant-and-the-grasshopper/"},
+        "ignore": "me"
+    }
+}
+
+}

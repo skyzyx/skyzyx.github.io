@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Switching to Apple Mail/Safari",
+    "description": "",
+    "summary": {
+        "content": "Ever since I first bought my Mac, I’ve been using Thunderbird as my email client. I really like Thunderbird, and being a Mozilla advocate, I wanted to use the software that I promote to so many people. However, with the impending release of Tiger and the new Mail 2.0 (with Smart Folders), I decided it was time to give Apple Mail a try for the first time. Now, there’s no easy way to import your Thunderbird email into Apple Mail. After about 30 minutes of Google searching, I came across the simplest way to convert my mailbox from one client to another.",
+        "isTruncated": true
+    },
+    "published": "2005-04-21T05:54:34Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/switching-to-apple-mailsafari/",
+    "relativePermalink": "/posts/2005/switching-to-apple-mailsafari/",
+    "aliases": ["/2005/04/20/switching-to-apple-mailsafari/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Software"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 329,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050421-switching-to-apple-mailsafari.md",
+        "logicalName": "20050421-switching-to-apple-mailsafari.md",
+        "translationBaseName": "20050421-switching-to-apple-mailsafari",
+        "baseFileName": "20050421-switching-to-apple-mailsafari",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eEver since \u003ca href=\"/archives/000269.php\"\u003eI first bought my Mac\u003c/a\u003e, I’ve been using \u003ca href=\"https://web.archive.org/web/20050421055434/http://www.getthunderbird.com\"\u003eThunderbird\u003c/a\u003e as my email client. I really like Thunderbird, and being a Mozilla advocate, I wanted to use the software that I promote to so many people. However, with the impending release of \u003ca href=\"https://web.archive.org/web/20050421055434/http://www.apple.com/macosx/\"\u003eTiger\u003c/a\u003e and the new \u003ca href=\"https://web.archive.org/web/20050421055434/http://www.apple.com/macosx/features/mail/\"\u003eMail 2.0\u003c/a\u003e (with Smart Folders), I decided it was time to give Apple Mail a try for the first time.\u003c/p\u003e\n\u003cp\u003eNow, there’s no easy way to import your Thunderbird email into Apple Mail. After about 30 minutes of Google searching, I came across the \u003ca href=\"https://web.archive.org/web/20050421055434/http://www.macosxhints.com/article.php?story=20050402143519725\"\u003esimplest way to convert my mailbox\u003c/a\u003e from one client to another. After the initial import, it took some tweaking to get everything organized the way I wanted it, but overall it was a relatively simple process considering that there is absolutely no Thunderbird import feature. Hopefully, when my copy of Tiger comes in, the upgrade will be smooth and I’ll be able to immediately take advantage of the new Mail 2.0 features.\u003c/p\u003e\n\u003cp\u003eIn terms of my web browser, I’ve been using Omniweb 5.1 for the last few months. I liked the side-tab layout as well as the per-site settings that Omniweb offered, but after hearing about all of the speed improvements in Safari 1.3, I had to give it another whirl.\u003c/p\u003e\n\u003cp\u003eOh. My. Goodness.\u003c/p\u003e\n\u003cp\u003eSafari 1.3 flies! That, and for some reason, things just look a little nicer and a little smoother in Safari. Don’t even get me started on Firefox for OSX. Firefox for OSX is about as ugly as Netscape 4.x for Windows 95. Well, maybe I’m exaggerating a bit, but it’s still pretty ugly on OSX.\u003c/p\u003e\n\u003cp\u003eBack to the point, I went ahead and re-imported my bookmarks back into Safari, and reset it as my default browser in OSX. The new features in Safari 2.0 will be awesome, I think, and hopefully Firefox 1.1 will get its long-awaited “Aquification”.\u003c/p\u003e\n\u003cp\u003eAnyways, my copy of Tiger is on track to be shipped on April 29th. Is yours?\u003c/p\u003e\n",
+        "plain":"Ever since I first bought my Mac, I’ve been using Thunderbird as my email client. I really like Thunderbird, and being a Mozilla advocate, I wanted to use the software that I promote to so many people. However, with the impending release of Tiger and the new Mail 2.0 (with Smart Folders), I decided it was time to give Apple Mail a try for the first time.\nNow, there’s no easy way to import your Thunderbird email into Apple Mail. After about 30 minutes of Google searching, I came across the simplest way to convert my mailbox from one client to another. After the initial import, it took some tweaking to get everything organized the way I wanted it, but overall it was a relatively simple process considering that there is absolutely no Thunderbird import feature. Hopefully, when my copy of Tiger comes in, the upgrade will be smooth and I’ll be able to immediately take advantage of the new Mail 2.0 features.\nIn terms of my web browser, I’ve been using Omniweb 5.1 for the last few months. I liked the side-tab layout as well as the per-site settings that Omniweb offered, but after hearing about all of the speed improvements in Safari 1.3, I had to give it another whirl.\nOh. My. Goodness.\nSafari 1.3 flies! That, and for some reason, things just look a little nicer and a little smoother in Safari. Don’t even get me started on Firefox for OSX. Firefox for OSX is about as ugly as Netscape 4.x for Windows 95. Well, maybe I’m exaggerating a bit, but it’s still pretty ugly on OSX.\nBack to the point, I went ahead and re-imported my bookmarks back into Safari, and reset it as my default browser in OSX. The new features in Safari 2.0 will be awesome, I think, and hopefully Firefox 1.1 will get its long-awaited “Aquification”.\nAnyways, my copy of Tiger is on track to be shipped on April 29th. Is yours?\n",
+        "source":"\nEver since [I first bought my Mac](/archives/000269.php), I’ve been using [Thunderbird]({{% wayback \"http://www.getthunderbird.com\" %}}) as my email client. I really like Thunderbird, and being a Mozilla advocate, I wanted to use the software that I promote to so many people. However, with the impending release of [Tiger]({{% wayback \"http://www.apple.com/macosx/\" %}}) and the new [Mail 2.0]({{% wayback \"http://www.apple.com/macosx/features/mail/\" %}}) (with Smart Folders), I decided it was time to give Apple Mail a try for the first time.\n\nNow, there’s no easy way to import your Thunderbird email into Apple Mail. After about 30 minutes of Google searching, I came across the [simplest way to convert my mailbox]({{% wayback \"http://www.macosxhints.com/article.php?story=20050402143519725\" %}}) from one client to another. After the initial import, it took some tweaking to get everything organized the way I wanted it, but overall it was a relatively simple process considering that there is absolutely no Thunderbird import feature. Hopefully, when my copy of Tiger comes in, the upgrade will be smooth and I’ll be able to immediately take advantage of the new Mail 2.0 features.\n\nIn terms of my web browser, I’ve been using Omniweb 5.1 for the last few months. I liked the side-tab layout as well as the per-site settings that Omniweb offered, but after hearing about all of the speed improvements in Safari 1.3, I had to give it another whirl.\n\nOh. My. Goodness.\n\nSafari 1.3 flies! That, and for some reason, things just look a little nicer and a little smoother in Safari. Don’t even get me started on Firefox for OSX. Firefox for OSX is about as ugly as Netscape 4.x for Windows 95. Well, maybe I’m exaggerating a bit, but it’s still pretty ugly on OSX.\n\nBack to the point, I went ahead and re-imported my bookmarks back into Safari, and reset it as my default browser in OSX. The new features in Safari 2.0 will be awesome, I think, and hopefully Firefox 1.1 will get its long-awaited “Aquification”.\n\nAnyways, my copy of Tiger is on track to be shipped on April 29th. Is yours?\n"},
+    "links": {
+        "prev": {"title": "Tarzan Incomplete Pre-Release Nightly Beta", "permalink": "https://ryanparman.com/posts/2005/tarzan-incomplete-pre-release-nightly-beta/"},
+        "next": {"title": "Thoughts on Mac OS X 10.4", "permalink": "https://ryanparman.com/posts/2005/thoughts-on-mac-os-x-104/"},
+        "ignore": "me"
+    }
+}
+
+}

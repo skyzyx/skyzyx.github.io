@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "All Automated, All The Time",
+    "description": "",
+    "summary": {
+        "content": "I recently posted that I was going to begin redesigning my site. Beyond just a change of colors and images, I wanted to create a more powerful underlying system. Movable Type offers a lot of options and features that are built-in to the CMS, but I get a few too many 500 errors to stay happy. In that vein, I’m wanting to extend the functionality of my website using PHP, MySQL, XML, and other related technologies that I’m learning as we speak.",
+        "isTruncated": true
+    },
+    "published": "2004-02-20T18:31:29Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/all-automated-all-the-time/",
+    "relativePermalink": "/posts/2004/all-automated-all-the-time/",
+    "aliases": ["/2004/02/20/all-automated-all-the-time/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 246,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040220-all-automated-all-the-time.md",
+        "logicalName": "20040220-all-automated-all-the-time.md",
+        "translationBaseName": "20040220-all-automated-all-the-time",
+        "baseFileName": "20040220-all-automated-all-the-time",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI \u003ca href=\"/archives/000181.php\"\u003erecently posted\u003c/a\u003e that I was going to begin redesigning my site. Beyond just a change of colors and images, I wanted to create a more powerful underlying system.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20040220183129/http://www.movabletype.org\"\u003eMovable Type\u003c/a\u003e offers a lot of options and features that are built-in to the CMS, but I get a few too many 500 errors to stay happy. In that vein, I’m wanting to extend the functionality of my website using PHP, MySQL, XML, and other related technologies that I’m learning as we speak.\u003c/p\u003e\n\u003cp\u003eOne of the first new features for this site has little impact on you, but saves me a bit of work. That is the \u003ca href=\"/blogs/\"\u003eBlogs I Read\u003c/a\u003e section. Using a combination of RSS, OPML, and PHP, I’ve got a pretty spiffy system in place. If I come across a site that I like, I’ll add its RSS feed to \u003ca href=\"https://web.archive.org/web/20040220183129/http://www.feeddemon.com\"\u003eFeed Demon\u003c/a\u003e. From there, I simply export the OPML file to my hard drive, then upload it to my webserver.\u003c/p\u003e\n\u003cp\u003eFrom there, PHP does all the handling to dynamically generate the content of each of the pages: Apple, CSS Design, General Web, etc. If a feed fails to be read, I use the information supplied in my OPML file to create a filler spot. No problem.\u003c/p\u003e\n\u003cp\u003eGranted, not everybody prefers to create a section of their site for this, but if anyone does, I’ll be releasing the PHP source as soon as I get all the bugs and quirks worked out.\u003c/p\u003e\n\u003cp\u003eHow’s that for automated?\u003c/p\u003e\n",
+        "plain":"I recently posted that I was going to begin redesigning my site. Beyond just a change of colors and images, I wanted to create a more powerful underlying system.\nMovable Type offers a lot of options and features that are built-in to the CMS, but I get a few too many 500 errors to stay happy. In that vein, I’m wanting to extend the functionality of my website using PHP, MySQL, XML, and other related technologies that I’m learning as we speak.\nOne of the first new features for this site has little impact on you, but saves me a bit of work. That is the Blogs I Read section. Using a combination of RSS, OPML, and PHP, I’ve got a pretty spiffy system in place. If I come across a site that I like, I’ll add its RSS feed to Feed Demon. From there, I simply export the OPML file to my hard drive, then upload it to my webserver.\nFrom there, PHP does all the handling to dynamically generate the content of each of the pages: Apple, CSS Design, General Web, etc. If a feed fails to be read, I use the information supplied in my OPML file to create a filler spot. No problem.\nGranted, not everybody prefers to create a section of their site for this, but if anyone does, I’ll be releasing the PHP source as soon as I get all the bugs and quirks worked out.\nHow’s that for automated?\n",
+        "source":"\nI [recently posted](/archives/000181.php) that I was going to begin redesigning my site. Beyond just a change of colors and images, I wanted to create a more powerful underlying system.\n\n[Movable Type]({{% wayback \"http://www.movabletype.org\" %}}) offers a lot of options and features that are built-in to the CMS, but I get a few too many 500 errors to stay happy. In that vein, I’m wanting to extend the functionality of my website using PHP, MySQL, XML, and other related technologies that I’m learning as we speak.\n\nOne of the first new features for this site has little impact on you, but saves me a bit of work. That is the [Blogs I Read](/blogs/) section. Using a combination of RSS, OPML, and PHP, I’ve got a pretty spiffy system in place. If I come across a site that I like, I’ll add its RSS feed to [Feed Demon]({{% wayback \"http://www.feeddemon.com\" %}}). From there, I simply export the OPML file to my hard drive, then upload it to my webserver.\n\nFrom there, PHP does all the handling to dynamically generate the content of each of the pages: Apple, CSS Design, General Web, etc. If a feed fails to be read, I use the information supplied in my OPML file to create a filler spot. No problem.\n\nGranted, not everybody prefers to create a section of their site for this, but if anyone does, I’ll be releasing the PHP source as soon as I get all the bugs and quirks worked out.\n\nHow’s that for automated?\n"},
+    "links": {
+        "prev": {"title": "Redesign In Progress", "permalink": "https://ryanparman.com/posts/2004/redesign-in-progress-2/"},
+        "next": {"title": "Jumping Ship", "permalink": "https://ryanparman.com/posts/2004/jumping-ship/"},
+        "ignore": "me"
+    }
+}
+
+}

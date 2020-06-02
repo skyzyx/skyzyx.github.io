@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "A New Blog?",
+    "description": "",
+    "summary": {
+        "content": "I’ve been thinking about creating another blog. I want to keep the same exteroceptive, web-related blog I have, but I’m thinking about also keeping an introspective blog as well. That could be pretty dangerous though. One that involves my personal life could be okay, but one that exposes my inner thoughts and feelings could be very dangerous… like cooking with Hydrogen. It’s been a while since I’ve updated or commented on my daughter’s website, JuliannaGrace.com. I suppose more commenting about her could be fine.",
+        "isTruncated": true
+    },
+    "published": "2003-08-31T19:38:42Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/a-new-blog/",
+    "relativePermalink": "/posts/2003/a-new-blog/",
+    "aliases": ["/2003/08/31/a-new-blog/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 99,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030831-a-new-blog.md",
+        "logicalName": "20030831-a-new-blog.md",
+        "translationBaseName": "20030831-a-new-blog",
+        "baseFileName": "20030831-a-new-blog",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve been thinking about creating another blog. I want to keep the same \u003ca href=\"https://duckduckgo.com/?q=define exteroceptive\"\u003eexteroceptive\u003c/a\u003e, web-related blog I have, but I’m thinking about also keeping an introspective blog as well. That could be pretty dangerous though. One that involves my personal life could be okay, but one that exposes my inner thoughts and feelings could be very dangerous… like cooking with Hydrogen.\u003c/p\u003e\n\u003cp\u003eIt’s been a while since I’ve updated or commented on my daughter’s website, \u003ca href=\"https://web.archive.org/web/20030831193842/http://www.juliannagrace.com\"\u003eJuliannaGrace.com\u003c/a\u003e. I suppose more commenting about her could be fine. Video games I’m playing, and schoolwork would be fine. I suppose I’ll think about it…\u003c/p\u003e\n",
+        "plain":"I’ve been thinking about creating another blog. I want to keep the same exteroceptive, web-related blog I have, but I’m thinking about also keeping an introspective blog as well. That could be pretty dangerous though. One that involves my personal life could be okay, but one that exposes my inner thoughts and feelings could be very dangerous… like cooking with Hydrogen.\nIt’s been a while since I’ve updated or commented on my daughter’s website, JuliannaGrace.com. I suppose more commenting about her could be fine. Video games I’m playing, and schoolwork would be fine. I suppose I’ll think about it…\n",
+        "source":"\nI’ve been thinking about creating another blog. I want to keep the same [exteroceptive]({{\u003csearch \"define exteroceptive\"\u003e}}), web-related blog I have, but I’m thinking about also keeping an introspective blog as well. That could be pretty dangerous though. One that involves my personal life could be okay, but one that exposes my inner thoughts and feelings could be very dangerous… like cooking with Hydrogen.\n\nIt’s been a while since I’ve updated or commented on my daughter’s website, [JuliannaGrace.com]({{% wayback \"http://www.juliannagrace.com\" %}}). I suppose more commenting about her could be fine. Video games I’m playing, and schoolwork would be fine. I suppose I’ll think about it…\n"},
+    "links": {
+        "prev": {"title": "The Latest Goings-On", "permalink": "https://ryanparman.com/posts/2003/the-latest-goings-on/"},
+        "next": {"title": "Luposlipaphobia", "permalink": "https://ryanparman.com/posts/2003/luposlipaphobia/"},
+        "ignore": "me"
+    }
+}
+
+}

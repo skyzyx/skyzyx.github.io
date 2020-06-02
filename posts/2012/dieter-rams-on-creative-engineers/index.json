@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Dieter Rams on Creative Engineers",
+    "description": "",
+    "summary": {
+        "content": "A common misunderstanding that you often find in Engineering-centric organizations is that “design” is simply the way it looks. In truth, design is the way it works. Dieter Rams had the following to say: “A designer who wants to achieve good design must not regard himself as an artist who, according to taste and aesthetics, is merely dressing-up products with a last-minute garment. The designer must be the gestaltingenieur or creative engineer. They synthesise the completed product from the various elements that make up its design.",
+        "isTruncated": true
+    },
+    "published": "2012-06-27T18:34:44Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2012/dieter-rams-on-creative-engineers/",
+    "relativePermalink": "/posts/2012/dieter-rams-on-creative-engineers/",
+    "aliases": ["/2012/06/27/dieter-rams-on-creative-engineers/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Design"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 190,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2012/20120627-dieter-rams-on-creative-engineers.md",
+        "logicalName": "20120627-dieter-rams-on-creative-engineers.md",
+        "translationBaseName": "20120627-dieter-rams-on-creative-engineers",
+        "baseFileName": "20120627-dieter-rams-on-creative-engineers",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2012/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eA common misunderstanding that you often find in Engineering-centric organizations is that “design” is simply the way it \u003cem\u003elooks\u003c/em\u003e. In truth, design is the way it \u003cem\u003eworks\u003c/em\u003e.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20120627183444/https://en.wikipedia.org/wiki/Dieter_Rams\"\u003eDieter Rams\u003c/a\u003e had the \u003ca href=\"https://web.archive.org/web/20120627183444/http://www.vitsoe.com/en/gb/newsandevents/article/dieter-rams-to-celebrate-80th-birthday\"\u003efollowing to say\u003c/a\u003e:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e“A designer who wants to achieve good design must not regard himself as an artist who, according to taste and aesthetics, is merely dressing-up products with a last-minute garment. The designer must be the gestaltingenieur or creative engineer. They synthesise the completed product from the various elements that make up its design. Their work is largely rational, meaning that aesthetic decisions are justified by an understanding of the product’s purpose.”\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20120627183444/https://en.wikipedia.org/wiki/Steve_Jobs\"\u003eSteve Jobs\u003c/a\u003e had something \u003ca href=\"http://thinkexist.com/quotation/in-most-people-s-vocabularies-design-means-veneer/403290.html\"\u003every similar to say\u003c/a\u003e:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e“In most people’s vocabularies, design means veneer. It’s interior decorating. It’s the fabric of the curtains of the sofa. But to me, nothing could be further from the meaning of design. Design is the fundamental soul of a human-made creation that ends up expressing itself in successive outer layers of the product or service.”\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eIf you are doing UX work in an organization that either doesn’t understand or doesn’t appreciate the \u003cem\u003escience\u003c/em\u003e of design, keep your chin up.\u003c/p\u003e\n",
+        "plain":"A common misunderstanding that you often find in Engineering-centric organizations is that “design” is simply the way it looks. In truth, design is the way it works.\nDieter Rams had the following to say:\n “A designer who wants to achieve good design must not regard himself as an artist who, according to taste and aesthetics, is merely dressing-up products with a last-minute garment. The designer must be the gestaltingenieur or creative engineer. They synthesise the completed product from the various elements that make up its design. Their work is largely rational, meaning that aesthetic decisions are justified by an understanding of the product’s purpose.”\n Steve Jobs had something very similar to say:\n “In most people’s vocabularies, design means veneer. It’s interior decorating. It’s the fabric of the curtains of the sofa. But to me, nothing could be further from the meaning of design. Design is the fundamental soul of a human-made creation that ends up expressing itself in successive outer layers of the product or service.”\n If you are doing UX work in an organization that either doesn’t understand or doesn’t appreciate the science of design, keep your chin up.\n",
+        "source":"\nA common misunderstanding that you often find in Engineering-centric organizations is that “design” is simply the way it *looks*. In truth, design is the way it *works*.\n\n[Dieter Rams]({{% wayback \"https://en.wikipedia.org/wiki/Dieter_Rams\" %}}) had the [following to say]({{% wayback \"http://www.vitsoe.com/en/gb/newsandevents/article/dieter-rams-to-celebrate-80th-birthday\" %}}):\n\n\u003e “A designer who wants to achieve good design must not regard himself as an artist who, according to taste and aesthetics, is merely dressing-up products with a last-minute garment. The designer must be the gestaltingenieur or creative engineer. They synthesise the completed product from the various elements that make up its design. Their work is largely rational, meaning that aesthetic decisions are justified by an understanding of the product’s purpose.”\n\n[Steve Jobs]({{% wayback \"https://en.wikipedia.org/wiki/Steve_Jobs\" %}}) had something [very similar to say](http://thinkexist.com/quotation/in-most-people-s-vocabularies-design-means-veneer/403290.html):\n\n\u003e “In most people’s vocabularies, design means veneer. It’s interior decorating. It’s the fabric of the curtains of the sofa. But to me, nothing could be further from the meaning of design. Design is the fundamental soul of a human-made creation that ends up expressing itself in successive outer layers of the product or service.”\n\nIf you are doing UX work in an organization that either doesn’t understand or doesn’t appreciate the *science* of design, keep your chin up.\n"},
+    "links": {
+        "prev": {"title": "Clueless Recruiters, Issue #4", "permalink": "https://ryanparman.com/posts/2012/clueless-recruiters-issue-4/"},
+        "next": {"title": "The New iPhone", "permalink": "https://ryanparman.com/posts/2012/the-new-iphone/"},
+        "ignore": "me"
+    }
+}
+
+}

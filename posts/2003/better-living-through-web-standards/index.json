@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Better Living Through Web Standards",
+    "description": "",
+    "summary": {
+        "content": "Absolutely beautiful! Read this.",
+        "isTruncated": false
+    },
+    "published": "2003-11-20T23:02:47Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/better-living-through-web-standards/",
+    "relativePermalink": "/posts/2003/better-living-through-web-standards/",
+    "aliases": ["/2003/11/20/better-living-through-web-standards/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Reading"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 4,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20031120-better-living-through-web-standards.md",
+        "logicalName": "20031120-better-living-through-web-standards.md",
+        "translationBaseName": "20031120-better-living-through-web-standards",
+        "baseFileName": "20031120-better-living-through-web-standards",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eAbsolutely beautiful! \u003ca href=\"https://web.archive.org/web/20031120230247/http://www.sidesh0w.com/weblog/2003/11/19/better_living_through_standards.html\"\u003eRead this\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":"Absolutely beautiful! Read this.\n",
+        "source":"\nAbsolutely beautiful! [Read this]({{% wayback \"http://www.sidesh0w.com/weblog/2003/11/19/better_living_through_standards.html\" %}}).\n"},
+    "links": {
+        "prev": {"title": "Winamp 5 Skins", "permalink": "https://ryanparman.com/posts/2003/winamp-5-skins/"},
+        "next": {"title": "View Your Site on OSX and Safari", "permalink": "https://ryanparman.com/posts/2003/view-your-site-on-osx-and-safari/"},
+        "ignore": "me"
+    }
+}
+
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "You've got to be kidding me!",
+    "description": "",
+    "summary": {
+        "content": "I just finished watching ABC News. Barbara Walters (who I can’t stand… however…) was interviewing four women who were Iraqi refugees from the last Gulf War. They described the public hangings of dissidents, and the torture, electric shock of private parts, and the public rape of women who were or knew dissidents of the Iraqi government. Anti-war activists are bitching about human rights? Let’s blow Saddam to smithereens…",
+        "isTruncated": false
+    },
+    "published": "2003-03-22T03:48:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/youve-got-to-be-kidding-me/",
+    "relativePermalink": "/posts/2003/youve-got-to-be-kidding-me/",
+    "aliases": ["/2003/03/21/youve-got-to-be-kidding-me/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Politics"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 68,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030322-youve-got-to-be-kidding-me.md",
+        "logicalName": "20030322-youve-got-to-be-kidding-me.md",
+        "translationBaseName": "20030322-youve-got-to-be-kidding-me",
+        "baseFileName": "20030322-youve-got-to-be-kidding-me",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI just finished watching ABC News. Barbara Walters (who I can’t stand… however…) was interviewing four women who were Iraqi refugees from the last Gulf War. They described the public hangings of dissidents, and the torture, electric shock of private parts, and the public rape of women who were or knew dissidents of the Iraqi government.\u003c/p\u003e\n\u003cp\u003eAnti-war activists are bitching about human rights? Let’s blow Saddam to smithereens…\u003c/p\u003e\n",
+        "plain":"I just finished watching ABC News. Barbara Walters (who I can’t stand… however…) was interviewing four women who were Iraqi refugees from the last Gulf War. They described the public hangings of dissidents, and the torture, electric shock of private parts, and the public rape of women who were or knew dissidents of the Iraqi government.\nAnti-war activists are bitching about human rights? Let’s blow Saddam to smithereens…\n",
+        "source":"\nI just finished watching ABC News. Barbara Walters (who I can’t stand… however…) was interviewing four women who were Iraqi refugees from the last Gulf War. They described the public hangings of dissidents, and the torture, electric shock of private parts, and the public rape of women who were or knew dissidents of the Iraqi government.\n\nAnti-war activists are bitching about human rights? Let’s blow Saddam to smithereens…\n"},
+    "links": {
+        "prev": {"title": "War with Iraq", "permalink": "https://ryanparman.com/posts/2003/war-with-iraq/"},
+        "next": {"title": "Standards-Compliant Browsers", "permalink": "https://ryanparman.com/posts/2003/standards-compliant-browsers/"},
+        "ignore": "me"
+    }
+}
+
+}

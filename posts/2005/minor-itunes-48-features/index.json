@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Minor iTunes 4.8 Features",
+    "description": "",
+    "summary": {
+        "content": "iTunes 4.8 is now available! It’s pretty much exactly the same as 4.7 with a couple of minor things that are cool. Video Playback Option: In the advanced preferences, there’s an option for how video files should be displayed. Can we look forward to movies in iTunes 5? “Now Playing” Artwork: I’ve been looking for an AppleScript to do this for a while, but never found one. In the album art preview pane, there’s a little arrow that allows you to see the album art of the currently playing track (assuming you’ve added it of course).",
+        "isTruncated": true
+    },
+    "published": "2005-05-09T23:22:20Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/minor-itunes-48-features/",
+    "relativePermalink": "/posts/2005/minor-itunes-48-features/",
+    "aliases": ["/2005/05/09/minor-itunes-48-features/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Apple"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 155,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050509-minor-itunes-48-features.md",
+        "logicalName": "20050509-minor-itunes-48-features.md",
+        "translationBaseName": "20050509-minor-itunes-48-features",
+        "baseFileName": "20050509-minor-itunes-48-features",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20050509232220/http://www.apple.com/itunes/download/\"\u003eiTunes 4.8 is now available!\u003c/a\u003e It’s pretty much exactly the same as 4.7 with a couple of minor things that are cool.\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eVideo Playback Option:\u003c/strong\u003e In the advanced preferences, there’s an option for how video files should be displayed. Can we look forward to movies in iTunes 5?\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003e“Now Playing” Artwork:\u003c/strong\u003e I’ve been looking for an AppleScript to do this for a while, but never found one. In the album art preview pane, there’s a little arrow that allows you to see the album art of the currently playing track (assuming you’ve added it of course). Granted you need to have a lot of your album art in place for this to be useful, and I do. Yippee!\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eDigital Rights Enablers:\u003c/strong\u003e iTunes 4.8 doesn’t take away my fair use rights that I’ve enabled with JHymn… which is good, because this is a deal-breaker for me.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eAnyone else have any thoughts to this minor iTunes update?\u003c/p\u003e\n",
+        "plain":"iTunes 4.8 is now available! It’s pretty much exactly the same as 4.7 with a couple of minor things that are cool.\n  Video Playback Option: In the advanced preferences, there’s an option for how video files should be displayed. Can we look forward to movies in iTunes 5?\n  “Now Playing” Artwork: I’ve been looking for an AppleScript to do this for a while, but never found one. In the album art preview pane, there’s a little arrow that allows you to see the album art of the currently playing track (assuming you’ve added it of course). Granted you need to have a lot of your album art in place for this to be useful, and I do. Yippee!\n  Digital Rights Enablers: iTunes 4.8 doesn’t take away my fair use rights that I’ve enabled with JHymn… which is good, because this is a deal-breaker for me.\n  Anyone else have any thoughts to this minor iTunes update?\n",
+        "source":"\n[iTunes 4.8 is now available!]({{% wayback \"http://www.apple.com/itunes/download/\" %}}) It’s pretty much exactly the same as 4.7 with a couple of minor things that are cool.\n\n1. **Video Playback Option:** In the advanced preferences, there’s an option for how video files should be displayed. Can we look forward to movies in iTunes 5?\n\n2. **“Now Playing” Artwork:** I’ve been looking for an AppleScript to do this for a while, but never found one. In the album art preview pane, there’s a little arrow that allows you to see the album art of the currently playing track (assuming you’ve added it of course). Granted you need to have a lot of your album art in place for this to be useful, and I do. Yippee!\n\n3. **Digital Rights Enablers:** iTunes 4.8 doesn’t take away my fair use rights that I’ve enabled with JHymn… which is good, because this is a deal-breaker for me.\n\nAnyone else have any thoughts to this minor iTunes update?\n"},
+    "links": {
+        "prev": {"title": "TiVo/iTunes Media Center System", "permalink": "https://ryanparman.com/posts/2005/tivo-itunes-media-center-system/"},
+        "next": {"title": "*Pwang*  I've Been Batoned", "permalink": "https://ryanparman.com/posts/2005/pwang-ive-been-batoned/"},
+        "ignore": "me"
+    }
+}
+
+}

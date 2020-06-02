@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Standards-Compliant Browsers",
+    "description": "",
+    "summary": {
+        "content": "I’ve just finished up the browser downloads page. It covers every browser I could think of within the realm of Gecko, KHTML, Internet Explorer, and Opera technologies. You can check it now, if you wish.",
+        "isTruncated": false
+    },
+    "published": "2003-03-23T19:40:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/standards-compliant-browsers/",
+    "relativePermalink": "/posts/2003/standards-compliant-browsers/",
+    "aliases": ["/2003/03/23/standards-compliant-browsers/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 35,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030323-standards-compliant-browsers.md",
+        "logicalName": "20030323-standards-compliant-browsers.md",
+        "translationBaseName": "20030323-standards-compliant-browsers",
+        "baseFileName": "20030323-standards-compliant-browsers",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve just finished up the browser downloads page. It covers every browser I could think of within the realm of Gecko, KHTML, Internet Explorer, and Opera technologies. You can check it now, if you wish.\u003c/p\u003e\n",
+        "plain":"I’ve just finished up the browser downloads page. It covers every browser I could think of within the realm of Gecko, KHTML, Internet Explorer, and Opera technologies. You can check it now, if you wish.\n",
+        "source":"\nI’ve just finished up the browser downloads page. It covers every browser I could think of within the realm of Gecko, KHTML, Internet Explorer, and Opera technologies. You can check it now, if you wish.\n"},
+    "links": {
+        "prev": {"title": "You've got to be kidding me!", "permalink": "https://ryanparman.com/posts/2003/youve-got-to-be-kidding-me/"},
+        "next": {"title": "Zelda: Wind Waker and Final Fantasy Tactics", "permalink": "https://ryanparman.com/posts/2003/zelda-wind-waker-and-final-fantasy-tactics/"},
+        "ignore": "me"
+    }
+}
+
+}

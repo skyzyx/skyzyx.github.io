@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Zeldman in 1996",
+    "description": "",
+    "summary": {
+        "content": "I had posted this link in my sidebar a while back, but it’s something that I get a kick out of every time I see it. It’s always interesting to see how the father of the web standards movement got started… Zeldman.com in 1996 »",
+        "isTruncated": false
+    },
+    "published": "2005-09-17T06:11:16Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/zeldman-in-1996/",
+    "relativePermalink": "/posts/2005/zeldman-in-1996/",
+    "aliases": ["/2005/09/16/zeldman-in-1996/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Tech Life"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 45,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050917-zeldman-in-1996.md",
+        "logicalName": "20050917-zeldman-in-1996.md",
+        "translationBaseName": "20050917-zeldman-in-1996",
+        "baseFileName": "20050917-zeldman-in-1996",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI had posted this link in my sidebar a while back, but it’s something that I get a kick out of every time I see it. It’s always interesting to see how the father of the web standards movement got started…\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"http://web.archive.org/web/19961219051816/www.zeldman.com/toc.html\"\u003eZeldman.com in 1996 »\u003c/a\u003e\u003c/p\u003e\n",
+        "plain":"I had posted this link in my sidebar a while back, but it’s something that I get a kick out of every time I see it. It’s always interesting to see how the father of the web standards movement got started…\nZeldman.com in 1996 »\n",
+        "source":"\nI had posted this link in my sidebar a while back, but it’s something that I get a kick out of every time I see it. It’s always interesting to see how the father of the web standards movement got started…\n\n[Zeldman.com in 1996 »](http://web.archive.org/web/19961219051816/www.zeldman.com/toc.html)\n"},
+    "links": {
+        "prev": {"title": "Fix: QuickTime Playing Flash Files in my Browser", "permalink": "https://ryanparman.com/posts/2005/fix-quicktime-playing-flash-files-in-my-browser/"},
+        "next": {"title": "Movie Reviews 2005", "permalink": "https://ryanparman.com/posts/2005/movie-reviews-2005/"},
+        "ignore": "me"
+    }
+}
+
+}

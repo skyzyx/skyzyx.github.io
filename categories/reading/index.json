@@ -1,0 +1,319 @@
+{
+    "data": {
+        
+        
+        "taxonomy": "category",
+        "term": "Reading",
+        
+        "count": 6,
+        "items": [
+            
+            {
+    "kind": "page",
+    "title": "Extensibly Extensible",
+    "description": "",
+    "summary": {
+        "content": "Well, I know that I haven’t been talking much about web stuff lately, so I figured that I might as well make up for it with a doozie… Yesterday, the W3C released a shiny new recommendation called XML 1.1, and another called Namespaces in XML 1.1. The changes in XML 1.1 are seemingly minimal, and appear to primarily affect certain character entities defined in newer versions of Unicode. The W3C’s XML 1.0 Recommendation was first issued in 1998, and despite the issuance of many errata culminating in a Third Edition of 2004, has remained (by intention) unchanged with respect to what is well-formed XML and what is not.",
+        "isTruncated": true
+    },
+    "published": "2004-02-06T02:05:26Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/extensibly-extensible/",
+    "relativePermalink": "/posts/2004/extensibly-extensible/",
+    "aliases": ["/2004/02/05/extensibly-extensible/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Reading"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 370,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040206-extensibly-extensible.md",
+        "logicalName": "20040206-extensibly-extensible.md",
+        "translationBaseName": "20040206-extensibly-extensible",
+        "baseFileName": "20040206-extensibly-extensible",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eWell, I know that I haven’t been talking much about web stuff lately, so I figured that I might as well make up for it with a doozie…\u003c/p\u003e\n\u003cp\u003eYesterday, the \u003ca href=\"https://web.archive.org/web/20040206020526/http://www.w3.org\" title=\"World Wide Web Consortium\"\u003eW3C\u003c/a\u003e released a shiny new recommendation called \u003ca href=\"https://web.archive.org/web/20040206020526/http://www.w3.org/TR/2004/REC-xml11-20040204/\"\u003eXML 1.1\u003c/a\u003e, and another called \u003ca href=\"https://web.archive.org/web/20040206020526/http://www.w3.org/TR/2004/REC-xml-names11-20040204/\"\u003eNamespaces in XML 1.1\u003c/a\u003e. The changes in XML 1.1 are seemingly minimal, and appear to primarily affect certain character entities defined in newer versions of Unicode.\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eThe W3C’s XML 1.0 Recommendation was first issued in 1998, and despite the issuance of many errata culminating in a Third Edition of 2004, has remained (by intention) unchanged with respect to what is well-formed XML and what is not. This stability has been extremely useful for interoperability. However, the Unicode Standard on which XML 1.0 relies for character specifications has not remained static, evolving from version 2.0 to version 4.0 and beyond. Characters not present in Unicode 2.0 may already be used in XML 1.0 character data. However, they are not allowed in XML names such as element type names, attribute names, enumerated attribute values, processing instruction targets, and so on. In addition, some characters that should have been permitted in XML names were not, due to oversights and inconsistencies in Unicode 2.0. Namespaces, however, have been completely revamped, from what I can tell. From what I understand, instead of having namespaces add support for certain tags, it will instead forbid support for certain tags. The W3C says it best:\u003c/p\u003e\n\u003cp\u003eThe overall philosophy of names has changed since XML 1.0. Whereas XML 1.0 provided a rigid definition of names, wherein everything that was not permitted was forbidden, XML 1.1 names are designed so that everything that is not forbidden (for a specific reason) is permitted. Since Unicode will continue to grow past version 4.0, further changes to XML can be avoided by allowing almost any character, including those not yet assigned, in names.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eI’m just curious as to how this will effect news syndication feed formats like RSS 1.0, RSS 2.0, and Atom. Whereas the first two seem to be pretty much complete, Atom looks like it will continue to develop. From what it seems, XML 1.0 will continue to be the best bet for syndication formats. You never know though.\u003c/p\u003e\n",
+        "plain":"Well, I know that I haven’t been talking much about web stuff lately, so I figured that I might as well make up for it with a doozie…\nYesterday, the W3C released a shiny new recommendation called XML 1.1, and another called Namespaces in XML 1.1. The changes in XML 1.1 are seemingly minimal, and appear to primarily affect certain character entities defined in newer versions of Unicode.\n The W3C’s XML 1.0 Recommendation was first issued in 1998, and despite the issuance of many errata culminating in a Third Edition of 2004, has remained (by intention) unchanged with respect to what is well-formed XML and what is not. This stability has been extremely useful for interoperability. However, the Unicode Standard on which XML 1.0 relies for character specifications has not remained static, evolving from version 2.0 to version 4.0 and beyond. Characters not present in Unicode 2.0 may already be used in XML 1.0 character data. However, they are not allowed in XML names such as element type names, attribute names, enumerated attribute values, processing instruction targets, and so on. In addition, some characters that should have been permitted in XML names were not, due to oversights and inconsistencies in Unicode 2.0. Namespaces, however, have been completely revamped, from what I can tell. From what I understand, instead of having namespaces add support for certain tags, it will instead forbid support for certain tags. The W3C says it best:\nThe overall philosophy of names has changed since XML 1.0. Whereas XML 1.0 provided a rigid definition of names, wherein everything that was not permitted was forbidden, XML 1.1 names are designed so that everything that is not forbidden (for a specific reason) is permitted. Since Unicode will continue to grow past version 4.0, further changes to XML can be avoided by allowing almost any character, including those not yet assigned, in names.\n I’m just curious as to how this will effect news syndication feed formats like RSS 1.0, RSS 2.0, and Atom. Whereas the first two seem to be pretty much complete, Atom looks like it will continue to develop. From what it seems, XML 1.0 will continue to be the best bet for syndication formats. You never know though.\n",
+        "source":"\nWell, I know that I haven’t been talking much about web stuff lately, so I figured that I might as well make up for it with a doozie…\n\nYesterday, the [W3C]({{% wayback \"http://www.w3.org\" %}} \"World Wide Web Consortium\") released a shiny new recommendation called [XML 1.1]({{% wayback \"http://www.w3.org/TR/2004/REC-xml11-20040204/\" %}}), and another called [Namespaces in XML 1.1]({{% wayback \"http://www.w3.org/TR/2004/REC-xml-names11-20040204/\" %}}). The changes in XML 1.1 are seemingly minimal, and appear to primarily affect certain character entities defined in newer versions of Unicode.\n\n\u003e The W3C’s XML 1.0 Recommendation was first issued in 1998, and despite the issuance of many errata culminating in a Third Edition of 2004, has remained (by intention) unchanged with respect to what is well-formed XML and what is not. This stability has been extremely useful for interoperability. However, the Unicode Standard on which XML 1.0 relies for character specifications has not remained static, evolving from version 2.0 to version 4.0 and beyond. Characters not present in Unicode 2.0 may already be used in XML 1.0 character data. However, they are not allowed in XML names such as element type names, attribute names, enumerated attribute values, processing instruction targets, and so on. In addition, some characters that should have been permitted in XML names were not, due to oversights and inconsistencies in Unicode 2.0. Namespaces, however, have been completely revamped, from what I can tell. From what I understand, instead of having namespaces add support for certain tags, it will instead forbid support for certain tags. The W3C says it best:\n\u003e\n\u003e The overall philosophy of names has changed since XML 1.0. Whereas XML 1.0 provided a rigid definition of names, wherein everything that was not permitted was forbidden, XML 1.1 names are designed so that everything that is not forbidden (for a specific reason) is permitted. Since Unicode will continue to grow past version 4.0, further changes to XML can be avoided by allowing almost any character, including those not yet assigned, in names.\n\nI’m just curious as to how this will effect news syndication feed formats like RSS 1.0, RSS 2.0, and Atom. Whereas the first two seem to be pretty much complete, Atom looks like it will continue to develop. From what it seems, XML 1.0 will continue to be the best bet for syndication formats. You never know though.\n"},
+    "links": {
+        "prev": {"title": "37 Signal's Basecamp™ Is Cool!", "permalink": "https://ryanparman.com/posts/2004/37-signals-basecamp-is-cool/"},
+        "next": {"title": "Blocking Spambots", "permalink": "https://ryanparman.com/posts/2004/blocking-spambots/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "New (To Me) Blogs and RSS/Atom Support",
+    "description": "",
+    "summary": {
+        "content": "I’ve added some more sites to the Blogs I Read section lately. With how many sites I follow, I should really rename it to “Blogs I Scan”, but I still read more than I scan. On top of that, some aren’t even blogs. They’re news sites. Oh well. Most of them are read in heavy rotation by many people already, but I’m fairly picky with what I bother to read. Anyways, here they are (in alphabetical order). All of them have been added within the last 2–3 weeks.",
+        "isTruncated": true
+    },
+    "published": "2004-01-14T00:58:59Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/new-to-me-blogs-and-rssatom-support/",
+    "relativePermalink": "/posts/2004/new-to-me-blogs-and-rssatom-support/",
+    "aliases": ["/2004/01/13/new-to-me-blogs-and-rssatom-support/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Reading"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 297,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040114-new-to-me-blogs-and-rssatom-support.md",
+        "logicalName": "20040114-new-to-me-blogs-and-rssatom-support.md",
+        "translationBaseName": "20040114-new-to-me-blogs-and-rssatom-support",
+        "baseFileName": "20040114-new-to-me-blogs-and-rssatom-support",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve added some more sites to the \u003ca href=\"/blogs/\"\u003eBlogs I Read\u003c/a\u003e section lately. With how many sites I follow, I should really rename it to “Blogs I Scan”, but I still read more than I scan. On top of that, some aren’t even blogs. They’re news sites. Oh well. Most of them are read in heavy rotation by many people already, but I’m fairly picky with what I bother to read. Anyways, here they are (in alphabetical order). All of them have been added within the last 2–3 weeks.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://www.afterdawn.com/\"\u003eAfterdawn\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://www.arstechnica.com/\"\u003eArs Technica\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://www.brainstormsandraves.com/\"\u003eBrainstorms and Raves\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://www.branchleft.co.uk/\"\u003eBranchleft\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://www.clagnut.com/\"\u003eClagnut\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://www.designbyfire.com/\"\u003eDesign By Fire\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://www.designmeme.com/\"\u003eDesign Meme\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://www.dooce.com/\"\u003eDooce\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://blog.vinniegarcia.com/\"\u003eIBeBloggin’\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://nick.typepad.com/blog/\"\u003eNick Bradbury\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://www.osnews.com/\"\u003eOS News\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://www.plasticbag.org/\"\u003ePlasticbag.org\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://www.theregister.co.uk/\"\u003eThe Register\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://www.robotjohnny.com/\"\u003eRobot Johnny\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://www.sken.be/\"\u003eSken.be\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://www.37signals.com/svn/\"\u003eSignal vs Noise\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://www.splorp.com/\"\u003eSlorp!\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://www.somethingnormal.com/\"\u003eSomething Normal\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://weblogs.mozillazine.org/hyatt/\"\u003eSurfin’ Safari\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://www.textbased.com/\"\u003eTextbased\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://www.thinksecret.com/\"\u003eThink Secret\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://www.twenty4.org/\"\u003eTwenty4.org\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20040114005859/http://www.wired.com/\"\u003eWired News\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eI’ve also categorized them all into various sections. Each section has an OPML feed so that you can import any or all of these feeds straight into your RSS/Atom Reader.\u003c/p\u003e\n\u003cp\u003eThe “Recent Posts” part of each blog listing displays the 3 most recent posts to each website. There is also a fourth option, “Read More »”, that allows you to read the RSS feed through the normal Skyzyx.com interface, via my \u003ca href=\"/rss/\"\u003eRSS/Atom Reader\u003c/a\u003e. Simple, cool, easy.\u003c/p\u003e\n\u003cp\u003eAlso, I know that I just gave it away, but I’ve added \u003ca href=\"https://web.archive.org/web/20040114005859/http://www.papascott.de/2004/01/03/2785.php\"\u003eReally Stupid Atom Support\u003c/a\u003e to my installation of the \u003ca href=\"https://web.archive.org/web/20040114005859/http://magpierss.sourceforge.net/\"\u003eMagpie RSS Parser\u003c/a\u003e. It now supports Atom 0.3 feeds, but I haven’t tested earlier Atom feeds. If anyone thinks Atom 0.2 or 0.1 support is worthwhile, \u003ca href=\"/contact/\"\u003econtact me\u003c/a\u003e with a feed URL.\u003c/p\u003e\n\u003cp\u003eI’ve been asked about parsing RSS feeds for people who don’t have PHP. Since I don’t know Perl, and some people couldn’t use it anyways, I’ve begun writing an RSS/Atom parser in JavaScript. No ETA yet, but it’s on the way.\u003c/p\u003e\n",
+        "plain":"I’ve added some more sites to the Blogs I Read section lately. With how many sites I follow, I should really rename it to “Blogs I Scan”, but I still read more than I scan. On top of that, some aren’t even blogs. They’re news sites. Oh well. Most of them are read in heavy rotation by many people already, but I’m fairly picky with what I bother to read. Anyways, here they are (in alphabetical order). All of them have been added within the last 2–3 weeks.\n Afterdawn Ars Technica Brainstorms and Raves Branchleft Clagnut Design By Fire Design Meme Dooce IBeBloggin’ Nick Bradbury OS News Plasticbag.org The Register Robot Johnny Sken.be Signal vs Noise Slorp! Something Normal Surfin’ Safari Textbased Think Secret Twenty4.org Wired News  I’ve also categorized them all into various sections. Each section has an OPML feed so that you can import any or all of these feeds straight into your RSS/Atom Reader.\nThe “Recent Posts” part of each blog listing displays the 3 most recent posts to each website. There is also a fourth option, “Read More »”, that allows you to read the RSS feed through the normal Skyzyx.com interface, via my RSS/Atom Reader. Simple, cool, easy.\nAlso, I know that I just gave it away, but I’ve added Really Stupid Atom Support to my installation of the Magpie RSS Parser. It now supports Atom 0.3 feeds, but I haven’t tested earlier Atom feeds. If anyone thinks Atom 0.2 or 0.1 support is worthwhile, contact me with a feed URL.\nI’ve been asked about parsing RSS feeds for people who don’t have PHP. Since I don’t know Perl, and some people couldn’t use it anyways, I’ve begun writing an RSS/Atom parser in JavaScript. No ETA yet, but it’s on the way.\n",
+        "source":"\nI’ve added some more sites to the [Blogs I Read](/blogs/) section lately. With how many sites I follow, I should really rename it to “Blogs I Scan”, but I still read more than I scan. On top of that, some aren’t even blogs. They’re news sites. Oh well. Most of them are read in heavy rotation by many people already, but I’m fairly picky with what I bother to read. Anyways, here they are (in alphabetical order). All of them have been added within the last 2–3 weeks.\n\n* [Afterdawn]({{% wayback \"http://www.afterdawn.com/\" %}})\n* [Ars Technica]({{% wayback \"http://www.arstechnica.com/\" %}})\n* [Brainstorms and Raves]({{% wayback \"http://www.brainstormsandraves.com/\" %}})\n* [Branchleft]({{% wayback \"http://www.branchleft.co.uk/\" %}})\n* [Clagnut]({{% wayback \"http://www.clagnut.com/\" %}})\n* [Design By Fire]({{% wayback \"http://www.designbyfire.com/\" %}})\n* [Design Meme]({{% wayback \"http://www.designmeme.com/\" %}})\n* [Dooce]({{% wayback \"http://www.dooce.com/\" %}})\n* [IBeBloggin’]({{% wayback \"http://blog.vinniegarcia.com/\" %}})\n* [Nick Bradbury]({{% wayback \"http://nick.typepad.com/blog/\" %}})\n* [OS News]({{% wayback \"http://www.osnews.com/\" %}})\n* [Plasticbag.org]({{% wayback \"http://www.plasticbag.org/\" %}})\n* [The Register]({{% wayback \"http://www.theregister.co.uk/\" %}})\n* [Robot Johnny]({{% wayback \"http://www.robotjohnny.com/\" %}})\n* [Sken.be]({{% wayback \"http://www.sken.be/\" %}})\n* [Signal vs Noise]({{% wayback \"http://www.37signals.com/svn/\" %}})\n* [Slorp!]({{% wayback \"http://www.splorp.com/\" %}})\n* [Something Normal]({{% wayback \"http://www.somethingnormal.com/\" %}})\n* [Surfin’ Safari]({{% wayback \"http://weblogs.mozillazine.org/hyatt/\" %}})\n* [Textbased]({{% wayback \"http://www.textbased.com/\" %}})\n* [Think Secret]({{% wayback \"http://www.thinksecret.com/\" %}})\n* [Twenty4.org]({{% wayback \"http://www.twenty4.org/\" %}})\n* [Wired News]({{% wayback \"http://www.wired.com/\" %}})\n\nI’ve also categorized them all into various sections. Each section has an OPML feed so that you can import any or all of these feeds straight into your RSS/Atom Reader.\n\nThe “Recent Posts” part of each blog listing displays the 3 most recent posts to each website. There is also a fourth option, “Read More »”, that allows you to read the RSS feed through the normal Skyzyx.com interface, via my [RSS/Atom Reader](/rss/). Simple, cool, easy.\n\nAlso, I know that I just gave it away, but I’ve added [Really Stupid Atom Support]({{% wayback \"http://www.papascott.de/2004/01/03/2785.php\" %}}) to my installation of the [Magpie RSS Parser]({{% wayback \"http://magpierss.sourceforge.net/\" %}}). It now supports Atom 0.3 feeds, but I haven’t tested earlier Atom feeds. If anyone thinks Atom 0.2 or 0.1 support is worthwhile, [contact me](/contact/) with a feed URL.\n\nI’ve been asked about parsing RSS feeds for people who don’t have PHP. Since I don’t know Perl, and some people couldn’t use it anyways, I’ve begun writing an RSS/Atom parser in JavaScript. No ETA yet, but it’s on the way.\n"},
+    "links": {
+        "prev": {"title": "Apple+HP: Stunning The World", "permalink": "https://ryanparman.com/posts/2004/applehp-stunning-the-world/"},
+        "next": {"title": "Lord of the Rings Name Translator", "permalink": "https://ryanparman.com/posts/2004/lord-of-the-rings-name-translator/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "A Second Voice",
+    "description": "",
+    "summary": {
+        "content": "I stumbled across Mezzoblue’s “A Second Voice” today. I remember coming across it before, near the end of summer, but I was pressed for time and didn’t get through them. A few days later, I forgot about them. I came across them again this morning, and actually read through each of the three articles. Fantastic! Web Standards: Designing For The Future by Ian Lloyd Bulletproof XHTML by Evan Goer Accessibility: Build it, and They Will Come by Nic Steenhout These three articles definitely rival many from A List Apart (I use the term “rival” somewhat loosely).",
+        "isTruncated": true
+    },
+    "published": "2003-12-04T19:54:13Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/a-second-voice/",
+    "relativePermalink": "/posts/2003/a-second-voice/",
+    "aliases": ["/2003/12/04/a-second-voice/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Reading"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 107,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20031204-a-second-voice.md",
+        "logicalName": "20031204-a-second-voice.md",
+        "translationBaseName": "20031204-a-second-voice",
+        "baseFileName": "20031204-a-second-voice",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI stumbled across Mezzoblue’s \u003ca href=\"https://web.archive.org/web/20031204195413/http://mezzoblue.com/archives/2003/09/03/a_second_voi/\"\u003e“A Second Voice”\u003c/a\u003e today. I remember coming across it before, near the end of summer, but I was pressed for time and didn’t get through them. A few days later, I forgot about them.\u003c/p\u003e\n\u003cp\u003eI came across them again this morning, and actually read through each of the three articles. \u003cem\u003eFantastic!\u003c/em\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031204195413/http://www.mezzoblue.com/archives/2003/08/27/standards_de/\"\u003eWeb Standards: Designing For The Future\u003c/a\u003e \u003cem\u003eby Ian Lloyd\u003c/em\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031204195413/http://www.mezzoblue.com/archives/2003/09/03/markup_bulle/\"\u003eBulletproof XHTML\u003c/a\u003e \u003cem\u003eby Evan Goer\u003c/em\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031204195413/http://www.mezzoblue.com/archives/2003/08/10/accessibilit/\"\u003eAccessibility: Build it, and They Will Come\u003c/a\u003e \u003cem\u003eby Nic Steenhout\u003c/em\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eThese three articles definitely rival many from \u003ca href=\"https://web.archive.org/web/20031204195413/http://www.alistapart.com\"\u003eA List Apart\u003c/a\u003e (I use the term “rival” somewhat loosely). I’ve added them to my \u003ca href=\"/resources/\"\u003eWeb Resources\u003c/a\u003e. Be enlightened. Please enjoy.\u003c/p\u003e\n",
+        "plain":"I stumbled across Mezzoblue’s “A Second Voice” today. I remember coming across it before, near the end of summer, but I was pressed for time and didn’t get through them. A few days later, I forgot about them.\nI came across them again this morning, and actually read through each of the three articles. Fantastic!\n Web Standards: Designing For The Future by Ian Lloyd Bulletproof XHTML by Evan Goer Accessibility: Build it, and They Will Come by Nic Steenhout  These three articles definitely rival many from A List Apart (I use the term “rival” somewhat loosely). I’ve added them to my Web Resources. Be enlightened. Please enjoy.\n",
+        "source":"\nI stumbled across Mezzoblue’s [“A Second Voice”]({{% wayback \"http://mezzoblue.com/archives/2003/09/03/a_second_voi/\" %}}) today. I remember coming across it before, near the end of summer, but I was pressed for time and didn’t get through them. A few days later, I forgot about them.\n\nI came across them again this morning, and actually read through each of the three articles. *Fantastic!*\n\n* [Web Standards: Designing For The Future]({{% wayback \"http://www.mezzoblue.com/archives/2003/08/27/standards_de/\" %}}) *by Ian Lloyd*\n* [Bulletproof XHTML]({{% wayback \"http://www.mezzoblue.com/archives/2003/09/03/markup_bulle/\" %}}) *by Evan Goer*\n* [Accessibility: Build it, and They Will Come]({{% wayback \"http://www.mezzoblue.com/archives/2003/08/10/accessibilit/\" %}}) *by Nic Steenhout*\n\nThese three articles definitely rival many from [A List Apart]({{% wayback \"http://www.alistapart.com\" %}}) (I use the term “rival” somewhat loosely). I’ve added them to my [Web Resources](/resources/). Be enlightened. Please enjoy.\n"},
+    "links": {
+        "prev": {"title": "Welcome WaSP Buzzers!", "permalink": "https://ryanparman.com/posts/2003/welcome-wasp-buzzers/"},
+        "next": {"title": "Britney Is So Freaking Hot!", "permalink": "https://ryanparman.com/posts/2003/britney-is-so-freaking-hot/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "Better Living Through Web Standards",
+    "description": "",
+    "summary": {
+        "content": "Absolutely beautiful! Read this.",
+        "isTruncated": false
+    },
+    "published": "2003-11-20T23:02:47Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/better-living-through-web-standards/",
+    "relativePermalink": "/posts/2003/better-living-through-web-standards/",
+    "aliases": ["/2003/11/20/better-living-through-web-standards/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Reading"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 4,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20031120-better-living-through-web-standards.md",
+        "logicalName": "20031120-better-living-through-web-standards.md",
+        "translationBaseName": "20031120-better-living-through-web-standards",
+        "baseFileName": "20031120-better-living-through-web-standards",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eAbsolutely beautiful! \u003ca href=\"https://web.archive.org/web/20031120230247/http://www.sidesh0w.com/weblog/2003/11/19/better_living_through_standards.html\"\u003eRead this\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":"Absolutely beautiful! Read this.\n",
+        "source":"\nAbsolutely beautiful! [Read this]({{% wayback \"http://www.sidesh0w.com/weblog/2003/11/19/better_living_through_standards.html\" %}}).\n"},
+    "links": {
+        "prev": {"title": "Winamp 5 Skins", "permalink": "https://ryanparman.com/posts/2003/winamp-5-skins/"},
+        "next": {"title": "View Your Site on OSX and Safari", "permalink": "https://ryanparman.com/posts/2003/view-your-site-on-osx-and-safari/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "Links From Around",
+    "description": "",
+    "summary": {
+        "content": "Here are a few interesting reads from around the world wide web this evening. Microsoft trying to control blogging. Gator tries to shed it’s self-inflicted unpopularity by changing it’s name to Claria. Napster’s back (well, it’s pretending to be…). MSN splits in two. Mozilla Firebird is a viable (and better) alternative to Microsoft Internet Explorer. Well, duh! Eolas, don’t make the W3C smack you down… ",
+        "isTruncated": false
+    },
+    "published": "2003-10-30T06:48:05Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/links-from-around/",
+    "relativePermalink": "/posts/2003/links-from-around/",
+    "aliases": ["/2003/10/29/links-from-around/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Reading"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 65,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20031030-links-from-around.md",
+        "logicalName": "20031030-links-from-around.md",
+        "translationBaseName": "20031030-links-from-around",
+        "baseFileName": "20031030-links-from-around",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eHere are a few interesting reads from around the world wide web this evening.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031030064805/http://www.michaelhanscom.com/eclecticism/2003/10/even_microsoft_.html\"\u003eMicrosoft trying to control blogging.\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031030064805/http://news.com.com/2100-1024_3-5099212.html?tag=nefd_top\"\u003eGator tries to shed it’s self-inflicted unpopularity by changing it’s name to Claria.\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031030064805/http://www.napster.com\"\u003eNapster’s back (well, it’s pretending to be…).\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031030064805/http://news.com.com/2100-1038_3-5098985.html?tag=nefd_top\"\u003eMSN splits in two.\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031030064805/http://www.smartcomputing.com/editorial/article.asp?article=articles/2003/s1411/31s11/31s11.asp\"\u003eMozilla Firebird is a viable (and better) alternative to Microsoft Internet Explorer. Well, duh!\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031030064805/http://www.webstandards.org/buzz/archive/2003_10.html#a000237\"\u003eEolas, don’t make the W3C smack you down…\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n",
+        "plain":"Here are a few interesting reads from around the world wide web this evening.\n Microsoft trying to control blogging. Gator tries to shed it’s self-inflicted unpopularity by changing it’s name to Claria. Napster’s back (well, it’s pretending to be…). MSN splits in two. Mozilla Firebird is a viable (and better) alternative to Microsoft Internet Explorer. Well, duh! Eolas, don’t make the W3C smack you down…  ",
+        "source":"\nHere are a few interesting reads from around the world wide web this evening.\n\n* [Microsoft trying to control blogging.]({{% wayback \"http://www.michaelhanscom.com/eclecticism/2003/10/even_microsoft_.html\" %}})\n* [Gator tries to shed it’s self-inflicted unpopularity by changing it’s name to Claria.]({{% wayback \"http://news.com.com/2100-1024_3-5099212.html?tag=nefd_top\" %}})\n* [Napster’s back (well, it’s pretending to be…).]({{% wayback \"http://www.napster.com\" %}})\n* [MSN splits in two.]({{% wayback \"http://news.com.com/2100-1038_3-5098985.html?tag=nefd_top\" %}})\n* [Mozilla Firebird is a viable (and better) alternative to Microsoft Internet Explorer. Well, duh!]({{% wayback \"http://www.smartcomputing.com/editorial/article.asp?article=articles/2003/s1411/31s11/31s11.asp\" %}})\n* [Eolas, don’t make the W3C smack you down…]({{% wayback \"http://www.webstandards.org/buzz/archive/2003_10.html#a000237\" %}})\n"},
+    "links": {
+        "prev": {"title": "Winamp 5 Beta", "permalink": "https://ryanparman.com/posts/2003/winamp-5-beta/"},
+        "next": {"title": "Fewer Posts", "permalink": "https://ryanparman.com/posts/2003/fewer-posts/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "Designing With Web Standards",
+    "description": "",
+    "summary": {
+        "content": "I just received my copy of “Designing with Web Standards” today from Amazon.com. I started reading about an hour ago, and I’m on page 45, the beginning of chapter 2. So far, the book is fantastic! Zeldman’s work helped open my eyes to web standards nearly a year ago, and I can’t wait to get through his new book. I hope this isn’t a violation of any copyright laws or anything, but here’s the blurb from the back cover: You code.",
+        "isTruncated": true
+    },
+    "published": "2003-05-31T08:22:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/designing-with-web-standards/",
+    "relativePermalink": "/posts/2003/designing-with-web-standards/",
+    "aliases": ["/2003/05/31/designing-with-web-standards/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Reading"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 222,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030531-designing-with-web-standards.md",
+        "logicalName": "20030531-designing-with-web-standards.md",
+        "translationBaseName": "20030531-designing-with-web-standards",
+        "baseFileName": "20030531-designing-with-web-standards",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI just received my copy of “Designing with Web Standards” today from Amazon.com. I started reading about an hour ago, and I’m on page 45, the beginning of chapter 2. So far, the book is fantastic! Zeldman’s work helped open my eyes to web standards nearly a year ago, and I can’t wait to get through his new book. I hope this isn’t a violation of any copyright laws or anything, but here’s the blurb from the back cover:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eYou code. And code. And code. You build only to rebuild. You focus on making your site compatible with almost every browser or wireless device ever put out there. Then along comes a new device or a new browser, and you start all over again.\u003c/p\u003e\n\u003cp\u003eYou can get off the merry-go-round.\u003c/p\u003e\n\u003cp\u003eIt’s time to stop living in the past and get away from the days of spaghetti code, insanely nested table layouts, \u0026lt;FONT\u0026gt; tags, and other redundancies that double and triple the bandwidth of even the simplest sites. Instead, it’s time for forward compatibility.\u003c/p\u003e\n\u003cp\u003eIsn’t it high time you started designing with web standards?\u003c/p\u003e\n\u003cp\u003eStandards aren’t about leaving users behind or adhering to inflexible rules. Standards are about building sophisticated, beautiful sites that will work as well tomorrow as they do today. You can’t afford to design tomorrow’s sites with yesterday’s piecemeal methods.\u003c/p\u003e\n\u003c/blockquote\u003e\n",
+        "plain":"I just received my copy of “Designing with Web Standards” today from Amazon.com. I started reading about an hour ago, and I’m on page 45, the beginning of chapter 2. So far, the book is fantastic! Zeldman’s work helped open my eyes to web standards nearly a year ago, and I can’t wait to get through his new book. I hope this isn’t a violation of any copyright laws or anything, but here’s the blurb from the back cover:\n You code. And code. And code. You build only to rebuild. You focus on making your site compatible with almost every browser or wireless device ever put out there. Then along comes a new device or a new browser, and you start all over again.\nYou can get off the merry-go-round.\nIt’s time to stop living in the past and get away from the days of spaghetti code, insanely nested table layouts, \u0026lt;FONT\u0026gt; tags, and other redundancies that double and triple the bandwidth of even the simplest sites. Instead, it’s time for forward compatibility.\nIsn’t it high time you started designing with web standards?\nStandards aren’t about leaving users behind or adhering to inflexible rules. Standards are about building sophisticated, beautiful sites that will work as well tomorrow as they do today. You can’t afford to design tomorrow’s sites with yesterday’s piecemeal methods.\n ",
+        "source":"\nI just received my copy of “Designing with Web Standards” today from Amazon.com. I started reading about an hour ago, and I’m on page 45, the beginning of chapter 2. So far, the book is fantastic! Zeldman’s work helped open my eyes to web standards nearly a year ago, and I can’t wait to get through his new book. I hope this isn’t a violation of any copyright laws or anything, but here’s the blurb from the back cover:\n\n\u003e You code. And code. And code. You build only to rebuild. You focus on making your site compatible with almost every browser or wireless device ever put out there. Then along comes a new device or a new browser, and you start all over again.\n\u003e \n\u003e You can get off the merry-go-round.\n\u003e \n\u003e It’s time to stop living in the past and get away from the days of spaghetti code, insanely nested table layouts, \u0026lt;FONT\u0026gt; tags, and other redundancies that double and triple the bandwidth of even the simplest sites. Instead, it’s time for forward compatibility.\n\u003e \n\u003e Isn’t it high time you started designing with web standards?\n\u003e \n\u003e Standards aren’t about leaving users behind or adhering to inflexible rules. Standards are about building sophisticated, beautiful sites that will work as well tomorrow as they do today. You can’t afford to design tomorrow’s sites with yesterday’s piecemeal methods.\n"},
+    "links": {
+        "prev": {"title": "AOL will continue using Internet Explorer", "permalink": "https://ryanparman.com/posts/2003/aol-will-continue-using-internet-explorer/"},
+        "next": {"title": "Making Peace with MILFs?", "permalink": "https://ryanparman.com/posts/2003/making-peace-with-milfs/"},
+        "ignore": "me"
+    }
+}
+
+            
+        ]
+    }
+}

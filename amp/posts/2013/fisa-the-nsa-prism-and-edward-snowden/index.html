@@ -1,0 +1,962 @@
+<!DOCTYPE html>
+<html ⚡ lang="en-us">
+  <head prefix="og:http://ogp.me/ns# fb:http://ogp.me/ns/fb# article:http://ogp.me/ns/article# profile:http://ogp.me/ns/profile# website:http://ogp.me/ns/website#">
+    <meta charset="utf-8">
+    <meta name="supported-color-schemes" content="light dark">
+    
+    <title>FISA, The NSA, PRISM and Edward Snowden • Flailing Wildly</title><link rel="dns-prefetch" href="https://cdn.ryanparman.com">
+<link rel="dns-prefetch" href="https://metadata.ryanparman.com">
+<link rel="dns-prefetch" href="https://ajax.cloudflare.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<style amp-custom>
+body {
+  background-color: #fff;
+  color: #171e21;
+  font-family: "SF Pro Text", "San Francisco", -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", Helvetica, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+}
+
+blockquote {
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-color: #408bc9;
+    border-width: .25rem;
+    font-style: normal;
+    line-height: 1.5;
+    color: #444;
+    background-color: #eee;
+    padding: 0.3rem 2rem;
+    margin: 0;
+    font-size: 1rem;
+}
+
+@media screen and (max-width: 60em) {
+    blockquote {
+        padding: 0.1rem 1rem;
+    }
+}
+
+@media screen and (min-width: 30em) and (max-width: 60em) {
+    .f4-m {
+        font-size: 1.25rem;
+    }
+}
+
+@media screen and (min-width: 60em) {
+    .f3-l {
+        font-size: 1.5rem;
+    }
+
+    img.fullimage {
+        max-width: calc(100% - 30px);
+        border: 10px solid #fff;
+        box-shadow: 0 1px 20px 5px rgba(128, 128, 128, 0.3);
+    }
+
+    img.fullimage-noshadow {
+        max-width: calc(100% - 30px);
+        width: auto !important;
+        margin: 0 auto;
+    }
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #ccc;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: 500;
+    padding: 0;
+    margin-top: 2rem;
+     
+}
+
+pre {
+    background-color: rgb(34, 34, 34);
+    box-sizing: border-box;
+    color: rgb(221, 221, 221);
+    display: block;
+    position: static;
+    overflow: hidden;
+    max-width: 45rem;
+}
+
+code {
+    display: inline-block;
+    font-family: "Meslo LG S", Menlo, Consolas, Monaco, "Courier New", monospace;
+    font-size: 0.85rem;
+
+    padding: 1px 2px;
+    background-color: #f8f8ff;
+    color: #ba2121;
+    border: 1px solid #dde;
+    border-radius: 3px;
+}
+
+pre code {
+    font-size: 0.85rem;
+    display: block;
+    line-height: 1.3em;
+    margin: 0;
+    padding: 1.5em;
+    overflow-x: auto !important;
+    overflow-y: auto;
+    white-space: pre;
+    width: auto;
+
+    background-color: inherit;
+    color: inherit;
+    border: none;
+    border-radius: 0;
+}
+
+abbr[title] {
+    border-bottom: 1px dotted;
+    text-decoration: none;
+    cursor: help;
+}
+
+.gist {
+    max-width: 40rem !important;
+}
+
+.slackmoji {
+    max-height: 32px !important;
+    max-width: 32px !important;
+    width: auto !important;
+    height: auto !important;
+}
+
+.slackmoji.small {
+    max-height: 24px !important;
+    max-width: 24px !important;
+}
+
+picture.slackmoji.small {
+    vertical-align: -15%;
+}
+
+.container:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+aside.table-of-contents {
+    color: #444;
+    background-color: #eee;
+    border-color: #ddd;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border-radius: .25rem;
+}
+
+aside.age {
+    display: block;
+     
+
+    margin-bottom: 1rem;
+    padding: 0 1.25rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    line-height: 1.5em;
+
+    max-width: 46rem;
+}
+
+aside.twenties {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+
+aside.five-years {
+    color: #856404;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+}
+
+aside.aside {
+    color: #004085;
+    background-color: #cce5ff;
+    border-color: #b8daff;
+}
+
+div.author {
+    margin-top: 2rem;
+    border: 1px solid #bee5eb;
+    color: #0c5460;
+    background-color: #d1ecf1;
+    padding: 0 1rem;
+}
+
+div.author div.photo {
+    float: left;
+    margin: 0 10px 0 0;
+}
+
+div.author div.photo img.photo {
+    display: inline-block;
+    border: 1px solid #171e21;
+}
+
+div.author div.about {
+     
+    line-height: 1.5rem;
+    font-size: 0.9rem;
+}
+
+.pagination {
+    padding: 0 !important;
+}
+
+.nested-links a {
+    text-decoration: none;
+    border-bottom: 1px dotted #357edd;
+}
+
+.nested-links a:hover {
+    text-decoration: none;
+    border-bottom: 1px solid #96ccff;
+}
+
+article.fl-l.w-25-l.pa2-ns a.ph2.ph0-ns.pb3.link.db,
+article.fl-l.w-25-l.pa2-ns a.ph2.ph0-ns.pb3.link.db:hover {
+    border-bottom: none !important;
+}
+
+.date-section a.mid-gray {
+    text-decoration: none;
+    border-bottom: 1px dotted #555;
+}
+
+div.footnotes {
+    margin-top: 2rem;
+    padding: 1rem 0;
+    font-size: 0.85rem;
+}
+
+ 
+  .chroma { color: #f8f8f2; background-color: #272822 }
+  .chroma .err { color: #960050; background-color: #1e0010 }
+  .chroma .lntd { vertical-align: top; padding: 0; margin: 0; border: 0; }
+  .chroma .lntable { border-spacing: 0; padding: 0; margin: 0; border: 0; width: auto; overflow: auto; display: block; }
+  .chroma .hl { display: block; width: 100%;background-color: #ffffcc }
+  .chroma .lnt { margin-right: 0.4em; padding: 0 0.4em 0 0.4em; }
+  .chroma .ln { margin-right: 0.4em; padding: 0 0.4em 0 0.4em; }
+  .chroma .k { color: #66d9ef }
+  .chroma .kc { color: #66d9ef }
+  .chroma .kd { color: #66d9ef }
+  .chroma .kn { color: #f92672 }
+  .chroma .kp { color: #66d9ef }
+  .chroma .kr { color: #66d9ef }
+  .chroma .kt { color: #66d9ef }
+  .chroma .na { color: #a6e22e }
+  .chroma .nc { color: #a6e22e }
+  .chroma .no { color: #66d9ef }
+  .chroma .nd { color: #a6e22e }
+  .chroma .ne { color: #a6e22e }
+  .chroma .nf { color: #a6e22e }
+  .chroma .nx { color: #a6e22e }
+  .chroma .nt { color: #f92672 }
+  .chroma .l { color: #ae81ff }
+  .chroma .ld { color: #e6db74 }
+  .chroma .s { color: #e6db74 }
+  .chroma .sa { color: #e6db74 }
+  .chroma .sb { color: #e6db74 }
+  .chroma .sc { color: #e6db74 }
+  .chroma .dl { color: #e6db74 }
+  .chroma .sd { color: #e6db74 }
+  .chroma .s2 { color: #e6db74 }
+  .chroma .se { color: #ae81ff }
+  .chroma .sh { color: #e6db74 }
+  .chroma .si { color: #e6db74 }
+  .chroma .sx { color: #e6db74 }
+  .chroma .sr { color: #e6db74 }
+  .chroma .s1 { color: #e6db74 }
+  .chroma .ss { color: #e6db74 }
+  .chroma .m { color: #ae81ff }
+  .chroma .mb { color: #ae81ff }
+  .chroma .mf { color: #ae81ff }
+  .chroma .mh { color: #ae81ff }
+  .chroma .mi { color: #ae81ff }
+  .chroma .il { color: #ae81ff }
+  .chroma .mo { color: #ae81ff }
+  .chroma .o { color: #f92672 }
+  .chroma .ow { color: #f92672 }
+  .chroma .c { color: #75715e }
+  .chroma .ch { color: #75715e }
+  .chroma .cm { color: #75715e }
+  .chroma .c1 { color: #75715e }
+  .chroma .cs { color: #75715e }
+  .chroma .cp { color: #75715e }
+  .chroma .cpf { color: #75715e }
+  .chroma .gd { color: #f92672 }
+  .chroma .ge { font-style: italic }
+  .chroma .gi { color: #a6e22e }
+  .chroma .gs { font-weight: bold }
+  .chroma .gu { color: #75715e }
+</style><link rel="home" href="https://ryanparman.com">
+<link rel="canonical" href="https://ryanparman.com/amp/posts/2013/fisa-the-nsa-prism-and-edward-snowden/">
+<link rel="archives" href="/posts/">
+<link rel="index" href="/posts/">
+<meta name="description" content="Where nothing interesting ever happens.">
+<meta name="copyright" content="Copyright (c) 2003–2020 Ryan Parman">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<meta name="application-name" content="FISA, The NSA, PRISM and Edward Snowden">
+<meta name="apple-mobile-web-app-title" content="FISA, The NSA, PRISM and Edward Snowden">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+<meta name="robots" content="index,follow">
+<meta name="googlebot" content="index,follow"><link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="profile" href="http://microformats.org/profile/h-card">
+<link rel="profile" href="http://microformats.org/profile/h-entry">
+<link rel="gravatar" href="https://cdn.ryanparman.com/hugo/gravatars/current/8c73b5fc88b88ac0d92fec541c6a4413890df291@4x.jpg">
+<link rel="pavatar" href="https://cdn.ryanparman.com/hugo/gravatars/current/8c73b5fc88b88ac0d92fec541c6a4413890df291@4x.jpg">
+<meta name="msvalidate.01" content="AAE2FC524C37F7A9E3675BDA6CB75316">
+<meta name="google-site-verification" content="m0LFjc4lG_rWlf0WeWG044B4wuYow4mYRkKXSWcEMMs">
+<meta name="norton-safeweb-site-verification" content="kuy6vndqhvxnk-bjlrxgrwt4i7nxyscxknrilmidxnu-sb8gr6mwcrxx15dn-927fm7sqoo27ld3k3z8nl5d56m30acpkebqjlx-35fz-na9p5m5cc3a8qrkn4ovo7v1">
+<meta name="p:domain_verify" content="1d179e8a1d93ea1a8515ddcd756b6ca8">
+<meta name="pocket-site-verification" content="481422baadcbeae9c3bb44b5f6b1d6">
+<meta name="yandex-verification" content="9b1a1c449b237ff9">
+
+<link rel="shortcut icon" href="https://cdn.ryanparman.com/hugo/favicons/favicon.ico" type="image/x-icon" />
+
+<meta name="theme-color" content="#171e21">
+<meta name="application-name" content="Flailing Wildly">
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="https://cdn.ryanparman.com/hugo/favicons/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="https://cdn.ryanparman.com/hugo/favicons/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="https://cdn.ryanparman.com/hugo/favicons/mstile-150x150.png">
+<meta name="msapplication-wide310x150logo" content="https://cdn.ryanparman.com/hugo/favicons/mstile-310x150.png">
+<meta name="msapplication-square310x310logo" content="https://cdn.ryanparman.com/hugo/favicons/mstile-310x310.png">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://cdn.ryanparman.com/hugo/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://cdn.ryanparman.com/hugo/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://cdn.ryanparman.com/hugo/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://cdn.ryanparman.com/hugo/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://cdn.ryanparman.com/hugo/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://cdn.ryanparman.com/hugo/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://cdn.ryanparman.com/hugo/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://cdn.ryanparman.com/hugo/favicons/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="https://cdn.ryanparman.com/hugo/favicons/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="https://cdn.ryanparman.com/hugo/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://cdn.ryanparman.com/hugo/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://cdn.ryanparman.com/hugo/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://cdn.ryanparman.com/hugo/favicons/favicon-128.png" sizes="128x128">
+
+<link rel="amphtml" type="text/html" href="https://mercury.postlight.com/amp?url=https://ryanparman.com/amp/posts/2013/fisa-the-nsa-prism-and-edward-snowden/" title="AMP">
+<link rel="alternate" type="text/html" href="https://instapaper.com/text?u=https://ryanparman.com/amp/posts/2013/fisa-the-nsa-prism-and-edward-snowden/" title="Instapaper Text Reader">
+<link rel="alternate" type="application/json" href="https://ryanparman.com/amp/posts/2013/fisa-the-nsa-prism-and-edward-snowden/index.json" title="JSON variant">
+<link rel="read-later" type="text/html" href="https://instapaper.com/edit?url=https://ryanparman.com/amp/posts/2013/fisa-the-nsa-prism-and-edward-snowden/&amp;title=FISA,%20The%20NSA,%20PRISM%20and%20Edward%20Snowden&amp;description=I%e2%80%99ve%20been%20paying%20quite%20a%20bit%20of%20attention%20to%20the%20story%20of%20Edward%20Snowden%20%e2%80%94%20the%20former%20CIA%20contractor%20who%20leaked%20classified%20information%20to%20the%20American%20public%20about%20how%20the%20government%20is%20spying%20on%20us%20through%20acronym-laden%20programs%20known%20as%20%e2%80%9cPRISM%e2%80%9d%20and%20%e2%80%9cMUSCULAR%e2%80%9d.%20%20%20Allow%20me%20to%20be%20your%20tour%20guide%20as%20we%20uncover%20just%20a%20few%20of%20the%20ways%20in%20which%20the%20NSA%20has%20broken%20the%20law%20and%20spied%20on%20American%20citizens.%0aForeign%20Intelligence%20Surveillance%20Act%20%281978%29%20It%20all%20started%20in%201978%20with%20the%20passage%20of%20FISA:" title="Instapaper">
+<link rel="read-later" type="text/html" href="https://pinboard.in/add?url=https://ryanparman.com/amp/posts/2013/fisa-the-nsa-prism-and-edward-snowden/&amp;title=FISA,%20The%20NSA,%20PRISM%20and%20Edward%20Snowden&amp;description=I%e2%80%99ve%20been%20paying%20quite%20a%20bit%20of%20attention%20to%20the%20story%20of%20Edward%20Snowden%20%e2%80%94%20the%20former%20CIA%20contractor%20who%20leaked%20classified%20information%20to%20the%20American%20public%20about%20how%20the%20government%20is%20spying%20on%20us%20through%20acronym-laden%20programs%20known%20as%20%e2%80%9cPRISM%e2%80%9d%20and%20%e2%80%9cMUSCULAR%e2%80%9d.%20%20%20Allow%20me%20to%20be%20your%20tour%20guide%20as%20we%20uncover%20just%20a%20few%20of%20the%20ways%20in%20which%20the%20NSA%20has%20broken%20the%20law%20and%20spied%20on%20American%20citizens.%0aForeign%20Intelligence%20Surveillance%20Act%20%281978%29%20It%20all%20started%20in%201978%20with%20the%20passage%20of%20FISA:" title="Pinboard">
+<link rel="read-later" type="text/html" href="https://getpocket.com/edit?url=https://ryanparman.com/amp/posts/2013/fisa-the-nsa-prism-and-edward-snowden/&amp;title=FISA,%20The%20NSA,%20PRISM%20and%20Edward%20Snowden" title="Pocket">
+<link rel="share" type="text/html" href="https://facebook.com/sharer/sharer.php?u=https://ryanparman.com/amp/posts/2013/fisa-the-nsa-prism-and-edward-snowden/" title="Facebook">
+<link rel="share" type="text/html" href="https://www.linkedin.com/sharing/share-offsite/?url=https://ryanparman.com/amp/posts/2013/fisa-the-nsa-prism-and-edward-snowden/&amp;title=FISA,%20The%20NSA,%20PRISM%20and%20Edward%20Snowden" title="LinkedIn">
+<link rel="share" type="text/html" href="https://pinterest.com/pin/create/button/?url=https://ryanparman.com/amp/posts/2013/fisa-the-nsa-prism-and-edward-snowden/&amp;description=FISA,%20The%20NSA,%20PRISM%20and%20Edward%20Snowden&amp;media=https://cdn.ryanparman.com/hugo/posts/2013/nsa@2x.jpg" title="Pinterest">
+<link rel="share" type="text/html" href="https://www.tumblr.com/share/link?url=https://ryanparman.com/amp/posts/2013/fisa-the-nsa-prism-and-edward-snowden/&amp;name=FISA,%20The%20NSA,%20PRISM%20and%20Edward%20Snowden" title="Tumblr">
+<link rel="share" type="text/html" href="https://twitter.com/intent/tweet?url=https://ryanparman.com/amp/posts/2013/fisa-the-nsa-prism-and-edward-snowden/&amp;text=FISA,%20The%20NSA,%20PRISM%20and%20Edward%20Snowden&amp;via=skyzyx" title="Twitter">
+<link rel="alternate" type="application/rss+xml" href="https://feed.ryanparman.com/" class="u-syndication" title=": Blog">
+<link rel="alternate" type="application/rss+xml" href="https://feed.ryanparman.com/conglomo" class="u-syndication" title=": Blog &#43; Link Blog &#43; YouTube &#43; Movies &#43; TV">
+<link rel="alternate" type="application/rss+xml" href="https://feed.ryanparman.com/content" class="u-syndication" title=": Blog &#43; Link Blog">
+<link rel="alternate" type="application/rss+xml" href="https://feed.ryanparman.com/linkblog" class="u-syndication" title=": Link Blog">
+<link rel="alternate" type="application/rss+xml" href="https://feed.ryanparman.com/media" class="u-syndication" title=": YouTube &#43; Movies &#43; TV">
+<link rel="alternate" type="application/rss+xml" href="https://feed.ryanparman.com/movies" class="u-syndication" title=": Movies">
+<link rel="alternate" type="application/rss+xml" href="https://feed.ryanparman.com/tv" class="u-syndication" title=": TV Shows">
+<link rel="alternate" type="application/rss+xml" href="https://feed.ryanparman.com/youtube" class="u-syndication" title=": YouTube Favorites">
+<link rel="alternate" type="application/json+oembed" href="https://metadata.ryanparman.com/oembed/?url=https%3a%2f%2fryanparman.com%2famp%2fposts%2f2013%2ffisa-the-nsa-prism-and-edward-snowden%2f" title="oEmbed">
+<meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://cdn.ryanparman.com/hugo/posts/2013/nsa@2x.jpg">
+
+
+<meta name="twitter:creator" content="@skyzyx">
+<meta name="twitter:title" content="FISA, The NSA, PRISM and Edward Snowden">
+<meta name="twitter:description" content="I’ve been paying quite a bit of attention to the story of Edward Snowden — the former CIA contractor who leaked classified information to the American public about how the government is spying on us through acronym-laden programs known as “PRISM” and “MUSCULAR”.   Allow me to be your tour guide as we uncover just a few of the ways in which the NSA has broken the law and spied on American citizens.
+Foreign Intelligence Surveillance Act (1978) It all started in 1978 with the passage of FISA:">
+<meta property="og:title" content="FISA, The NSA, PRISM and Edward Snowden">
+<meta property="og:description" content="I’ve been paying quite a bit of attention to the story of Edward Snowden — the former CIA contractor who leaked classified information to the American public about how the government is spying on us through acronym-laden programs known as “PRISM” and “MUSCULAR”.   Allow me to be your tour guide as we uncover just a few of the ways in which the NSA has broken the law and spied on American citizens.
+Foreign Intelligence Surveillance Act (1978) It all started in 1978 with the passage of FISA:">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://ryanparman.com/amp/posts/2013/fisa-the-nsa-prism-and-edward-snowden/">
+<meta property="og:locale" content="en_US"><meta property="og:image" content="https://cdn.ryanparman.com/hugo/posts/2013/nsa@2x.jpg"><meta property="og:image" content="https://cdn.ryanparman.com/hugo/posts/2013/snowden@2x.jpg"><meta property="og:image" content="https://cdn.ryanparman.com/hugo/posts/2013/prism@2x.jpg"><meta property="og:image" content="https://cdn.ryanparman.com/hugo/posts/2013/fisa@2x.jpg"><meta property="og:image" content="https://cdn.ryanparman.com/hugo/posts/2013/hands-off-my-metadata@2x.jpg"><meta property="og:image" content="https://cdn.ryanparman.com/hugo/posts/2013/gchq-building@2x.jpg">
+
+    <meta property="article:published_time" content="2013-11-14T23:10:55&#43;00:00">
+    
+
+    <meta property="article:modified_time" content="2019-02-10T21:35:12-08:00">
+<meta property="og:site_name" content="Flailing Wildly">
+    
+    
+
+    <meta property="article:author" content="https://ryanparman.com">
+    <meta property="article:author" content="Ryan Parman">
+    <meta property="article:author:first_name" content="Ryan">
+    <meta property="article:author:last_name" content="Parman">
+    <meta property="article:author:gender" content="male">
+    <meta property="article:content_tier" content="free">
+    <meta property="article:section" content="posts">
+
+    
+        <meta property="article:tag" content="edward snowden">
+    
+        <meta property="article:tag" content="fisa">
+    
+        <meta property="article:tag" content="nsa">
+    
+        <meta property="article:tag" content="cia">
+    
+        <meta property="article:tag" content="ghcq">
+    
+        <meta property="article:tag" content="fbi">
+    
+        <meta property="article:tag" content="prism">
+    
+        <meta property="article:tag" content="muscular">
+    
+        <meta property="article:tag" content="patriot act">
+    
+        <meta property="article:tag" content="protect america act">
+    
+
+
+
+<meta itemprop="copyrightYear" content="2020">
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "url": "https://ryanparman.com",
+    "logo": "https://cdn.ryanparman.com/hugo/favicons/mstile-310x310.png"
+}
+</script>
+<link rel="prev" title="Games of the Year, 2013" href="https://ryanparman.com/amp/posts/2014/games-of-the-year-2013/">
+    <link rel="next" title="Password security is important. Start treating it like it is." href="https://ryanparman.com/amp/posts/2013/password-security-is-important-start-treating-it-like-it-is/">
+
+    
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124176424-1"></script>
+<script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-124176424-1');</script>
+
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+    <script async custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script>
+  </head>
+
+  <body itemprop="mainEntityOfPage" itemscope itemtype="http://schema.org/WebPage" class="ma0 sans-serif bg-white production" id="#self">
+    
+  
+  <header><nav class="pv3 ph3 ph4-ns bg-black" role="navigation">
+    <a class="link dim white b f6 f5-ns dib mr3" href="https://ryanparman.com" title="Home">Flailing Wildly</a>
+    
+        
+          <a class="link dim light-gray f6 f5-ns dib mr3" href="/about/" title="About the Author">About the Author</a>
+        
+          <a class="link dim light-gray f6 f5-ns dib mr3" href="/posts/" title="Archive">Archive</a>
+        
+          <a class="link dim light-gray f6 f5-ns dib mr3" href="/categories/" title="Categories">Categories</a>
+        
+          <a class="link dim light-gray f6 f5-ns dib mr3" href="https://github.com/skyzyx" title="Code">Code</a>
+        
+          <a class="link dim light-gray f6 f5-ns dib mr3" href="/design/" title="Design">Design</a>
+        
+          <a class="link dim light-gray f6 f5-ns dib mr3" href="/tools/" title="DevTools">DevTools</a>
+        
+          <a class="link dim light-gray f6 f5-ns dib mr3" href="/series/editors-choice/" title="Editor’s Choice">Editor’s Choice</a>
+        
+          <a class="link dim light-gray f6 f5-ns dib mr3" href="/follow/" title="Follow">Follow</a>
+        
+          <a class="link dim light-gray f6 f5-ns dib mr3" href="/series/" title="Series’">Series’</a>
+        
+      </ul>
+    
+</nav>
+</header>
+
+    <main role="main">
+      
+  
+
+  <article itemscope itemtype="http://schema.org/BlogPosting" class="flex-l flex-wrap justify-between mw7 center ph3 ph4-ns h-entry hentry" itemref="#self">
+    <meta itemprop="accessMode" content="textual">
+    <meta itemprop="accessModeSufficient" content="textual">
+    <meta itemprop="name" content="FISA, The NSA, PRISM and Edward Snowden">
+    <meta itemprop="description" content="I’ve been paying quite a bit of attention to the story of Edward Snowden — the former CIA contractor who leaked classified information to the American public about how the government is spying on us through acronym-laden programs known as “PRISM” and “MUSCULAR”.   Allow me to be your tour guide as we uncover just a few of the ways in which the NSA has broken the law and spied on American citizens.
+Foreign Intelligence Surveillance Act (1978) It all started in 1978 with the passage of FISA:">
+    <meta itemprop="copyrightYear" content="2013">
+    <meta itemprop="keywords" content="edward snowden,fisa,nsa,cia,ghcq,fbi,prism,muscular,patriot act,protect america act,america,george w. bush,barack obama,espionage,government,whistleblower,patriotism,mark twain,clemency,google,yahoo,microsoft,apple,facebook,paytalk,aol,skype,youtube,transparency,aclu,transparency,ronald reagan,brandon downey,mike hearn,vladimir putin,martin luther king jr,">
+
+    
+    <div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Flailing Wildly">
+      <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+        <meta itemprop="url" content="https://cdn.ryanparman.com/hugo/favicons/apple-touch-icon-60x60.png">
+        <meta itemprop="width" content="60">
+        <meta itemprop="height" content="60">
+      </div>
+    </div>
+
+    
+    
+      <meta itemprop="datePublished" content="2013-11-14T23:10:55&#43;00:00">
+    
+    
+      <meta itemprop="dateModified" content="2013-11-14T23:10:55&#43;00:00">
+    
+
+    
+    
+        <meta itemprop="image" content="https://cdn.ryanparman.com/hugo/posts/2013/nsa@2x.jpg">
+    
+        <meta itemprop="image" content="https://cdn.ryanparman.com/hugo/posts/2013/snowden@2x.jpg">
+    
+        <meta itemprop="image" content="https://cdn.ryanparman.com/hugo/posts/2013/prism@2x.jpg">
+    
+        <meta itemprop="image" content="https://cdn.ryanparman.com/hugo/posts/2013/fisa@2x.jpg">
+    
+        <meta itemprop="image" content="https://cdn.ryanparman.com/hugo/posts/2013/hands-off-my-metadata@2x.jpg">
+    
+        <meta itemprop="image" content="https://cdn.ryanparman.com/hugo/posts/2013/gchq-building@2x.jpg">
+    <meta itemprop="image" content="https://cdn.ryanparman.com/hugo/home/default-oembed.jpg">
+
+    <header class="mt4 w-100 pr4-l">
+      <p itemscope itemtype="https://schema.org/BreadcrumbList" class="f6 b tracked mid-gray date-section">
+        <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a itemtype="https://schema.org/Thing" itemprop="item" href="https://ryanparman.com" class="mid-gray">
+            <span itemprop="name">HOME</span>
+          </a>
+          <meta itemprop="position" content="1">
+        </span>&nbsp;&rarr; <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a itemtype="https://schema.org/Thing" itemprop="item" href="https://ryanparman.com/posts/" class="mid-gray">
+            <span itemprop="name">POSTS</span>
+          </a>
+          <meta itemprop="position" content="2">
+        </span>&nbsp;&rarr; <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a itemtype="https://schema.org/Thing" itemprop="item" href="https://ryanparman.com/posts/2013" class="mid-gray">
+            <span itemprop="name">2013</span>
+          </a>
+          <meta itemprop="position" content="3">
+        </span>
+      </p>
+
+      <h1 class="f1-l f2-m f3-ns mb1 sans-title p-name entry-title">
+        <span itemprop="headline">FISA, The NSA, PRISM and Edward Snowden</span>
+        
+      </h1>
+      
+      <div class="db border-box mv3 lh-copy mid-gray date-section">
+        <time class="f6 dib dt-published published" itemprop="datePublished" datetime="2013-11-14T23:10:55Z">
+          <a href="/posts/2013" class="mid-gray">14 November 2013</a>
+        </time> &bull; <span class="f6 dib"><a href="/categories/privacy-and-security" class="p-category category mid-gray">Privacy and Security</a></span> &bull; <span class="f6 dib"><span itemprop="wordCount">5350</span> words</span> • <span class="f6 dib">26 minutes to read</span>
+      </div>
+    </header>
+
+    
+    <aside class="age five-years container flex">
+      <p><strong>⚠️ Author’s note:</strong> This post is more than 5 years old. Technical information may no longer be
+        accurate (or useful) and links may be broken. Continue at your own peril.</p>
+    </aside>
+    
+
+    <main class="nested-copy-line-height lh-copy sans-serif f5 nested-links nested-img mid-gray w-100">
+        
+
+
+
+<aside class="table-of-contents">
+    <details>
+    <summary>
+    <b>Table of Contents</b>
+    </summary><ul class="toc-h2"><li><a href="/amp/posts/2013/fisa-the-nsa-prism-and-edward-snowden/#foreign-intelligence-surveillance-act-1978">Foreign Intelligence Surveillance Act (1978)</a></li>
+            <li><a href="/amp/posts/2013/fisa-the-nsa-prism-and-edward-snowden/#the-nsas-prism-program">The NSA’s PRISM program</a></li>
+            <li><a href="/amp/posts/2013/fisa-the-nsa-prism-and-edward-snowden/#isnt-that-against-the-law">Isn’t that against the law?</a></li>
+            <li><a href="/amp/posts/2013/fisa-the-nsa-prism-and-edward-snowden/#so-what-are-microsoft-yahoo-google-facebook-paltalk-youtube-skype-aol-and-apple-doing-about-this">So, what are Microsoft, Yahoo!, Google, Facebook, PalTalk, YouTube, Skype, AOL and Apple doing about this?</a></li>
+            <li><a href="/amp/posts/2013/fisa-the-nsa-prism-and-edward-snowden/#what-now">What now?</a></li>
+            <li><a href="/amp/posts/2013/fisa-the-nsa-prism-and-edward-snowden/#what-about-edward-snowden">What about Edward Snowden?</a></li>
+            <li><a href="/amp/posts/2013/fisa-the-nsa-prism-and-edward-snowden/#update-20131209">Update (2013–12–09)</a></li>
+            </details>
+</aside><div itemprop="articleBody" class="e-content entry-content"><p itemprop="description" class="f5 f4-m f3-l mt0 lh-copy p-summary entry-summary">
+I’ve been paying quite a bit of attention to the story of <span itemscope itemtype="http://schema.org/Person"><a href="https://twitter.com/snowden" itemprop="url"><span itemprop="name">Edward Snowden</span></a></span> — the former CIA contractor who leaked classified information to the American public about how the government is spying on us through acronym-laden programs known as “PRISM” and “MUSCULAR”.
+</p>
+
+<div class="pa2-ns">
+	<amp-img src="https://cdn.ryanparman.com/hugo/posts/2013/nsa@2x.jpg" layout="responsive" width="" height=""></amp-img>
+    <p class="f6 gray tc db"></p>
+</div>
+
+<p>Allow me to be your tour guide as we uncover just a few of the ways in which the NSA has broken the law and spied on American citizens.</p>
+<h2 id="foreign-intelligence-surveillance-act-1978">Foreign Intelligence Surveillance Act (1978)</h2>
+<p>It all started in 1978 with the passage of <a href="https://web.archive.org/web/20131114231055/https://en.wikipedia.org/wiki/Foreign_Intelligence_Surveillance_Act">FISA</a>:</p>
+<blockquote>
+<p>The Foreign Intelligence Surveillance Act of 1978 (“FISA” Pub.L. 95–511, 92 Stat. 1783, 50 U.S.C. ch. 36) is a United States federal law which prescribes procedures for the physical and electronic surveillance and collection of “foreign intelligence information” between “foreign powers” and “agents of foreign powers” (which may include American citizens and permanent residents suspected of espionage or terrorism). The law does not apply outside the United States. It has been repeatedly amended since the September 11 attacks.</p>
+</blockquote>
+<p>FISA was amended in 2001 by <a href="https://web.archive.org/web/20131114231055/https://en.wikipedia.org/wiki/Patriot_Act">The Patriot Act</a>:</p>
+<blockquote>
+<p>The USA PATRIOT Act of 2001 is an Act of Congress that was signed into law by President <span itemscope itemtype="http://schema.org/Person"><span itemprop="name">George W. Bush</span></span>
+ on October 26, 2001. […]</p>
+<p>On May 26, 2011, President <span itemscope itemtype="http://schema.org/Person"><span itemprop="name">Barack Obama</span></span>
+ signed the PATRIOT Sunsets Extension Act of 2011, a four-year extension of three key provisions in the USA PATRIOT Act: roving wiretaps, searches of business records (the “library records provision”), and conducting surveillance of “lone wolves”—individuals suspected of terrorist-related activities not linked to terrorist groups.</p>
+</blockquote>
+<p>Then again by the <a href="https://web.archive.org/web/20131114231055/https://en.wikipedia.org/wiki/Protect_America_Act_of_2007">Protect America Act of 2007</a>:</p>
+<blockquote>
+<p>The Protect America Act of 2007 (PAA), (Pub.L. 110–55, 121 Stat. 552, enacted by S. 1927), is a controversial amendment to the Foreign Intelligence Surveillance Act (FISA) that was signed into law by U.S. President George W. Bush on August 5, 2007. It removed the warrant requirement for government surveillance of foreign intelligence targets “reasonably believed” to be outside of the United States. The FISA Amendments Act of 2008 reauthorized many provisions of the Protect America Act in Title VII of FISA.</p>
+</blockquote>
+<p>And yet again by the <a href="https://web.archive.org/web/20131114231055/https://en.wikipedia.org/wiki/FISA_Amendments_Act_of_2008">FISA Amendments Act of 2008</a>:</p>
+<blockquote>
+<p>Warrantless wiretapping by the National Security Agency (NSA) was revealed publicly in late 2005 by the New York Times and then discontinued in January 2007. […] Approximately forty lawsuits have been filed against telecommunications companies by groups and individuals alleging that the Bush administration illegally monitored their phone calls or e-mails. Whistleblower evidence suggests that AT&amp;T was complicit in the NSA’s warrantless surveillance, which could have involved the private communications of millions of Americans.</p>
+<p>The Foreign Intelligence Surveillance Act makes it illegal to intentionally engage in electronic surveillance under appearance of an official act or to disclose or use information obtained by electronic surveillance under appearance of an official act knowing that it was not authorized by statute; this is punishable with a fine of up to * 10,000 or up to five years in prison, or both. In addition, the Wiretap Act prohibits any person from illegally intercepting, disclosing, using, or divulging phone calls or electronic communications; this is punishable with a fine or up to five years in prison, or both.</p>
+</blockquote>
+<p>(All 3 sets of amendments to FISA were passed by Congresses operating during the George W. Bush administration.)</p>
+<h2 id="hahahugoshortcode-s8-hbhb-whistleblower"><span itemscope itemtype="http://schema.org/Person"><span itemprop="name">Edward Snowden</span></span>
+, Whistleblower</h2>
+<div class="pa2-ns">
+	<amp-img src="https://cdn.ryanparman.com/hugo/posts/2013/snowden@2x.jpg" layout="responsive" width="" height=""></amp-img>
+    <p class="f6 gray tc db"></p>
+</div>
+
+<p>In May 2013, <span itemscope itemtype="http://schema.org/Person"><span itemprop="name">Edward Snowden</span></span>
+’s leak of <em>Top Secret</em>-level NSA material was called <a href="https://web.archive.org/web/20131114231055/http://www.huffingtonpost.com/2013/06/10/edward-snowden-daniel-ellsberg-whistleblower-history_n_3413545.html">“the most significant leak in U.S. history”</a> by Daniel Ellsberg, leaker of the Pentagon Papers (1971).</p>
+<p>The U.S. government has <a href="https://web.archive.org/web/20131114231055/http://www.washingtonpost.com/world/national-security/us-charges-snowden-with-espionage/2013/06/21/507497d8-dab1-11e2-a016-92547bf094cc_story.html">charged Snowden with espionage</a> and <a href="https://web.archive.org/web/20131114231055/http://apps.washingtonpost.com/g/documents/world/us-vs-edward-j-snowden-criminal-complaint/496/">theft of government secrets</a>. President Obama’s response was reported by Z. Byron Wolf, <a href="https://web.archive.org/web/20131114231055/http://www.cnn.com/2013/08/12/politics/obama-snowden-whistleblower/">writing for CNN</a>:</p>
+<blockquote>
+<p>Even as he announced changes to the NSA programs, including the appointment of an independent government review, at a news conference on Friday, Obama suggested Americans would be better off if they hadn’t found out that the government collects vast amounts of phone and Internet data.</p>
+<p>“No, I don’t think Mr. Snowden was a patriot,” Obama said. A bit earlier he had argued that his administration was already in the process of reviewing the programs that most Americans didn’t know existed.</p>
+<p>The leaks, he said, hurt that process.</p>
+</blockquote>
+<p>Conor Friedersdorf, <a href="https://web.archive.org/web/20131114231055/http://www.theatlantic.com/politics/archive/2013/11/clemency-for-torturers-but-not-for-edward-snowden/281142/">writing for The Atlantic</a>, talks about why pardoning the whistleblower would be more moral and legal than Team Obama’s treatment of Bush-era interrogators:</p>
+<blockquote>
+<p>Circa 2008, Barack Obama gave his supporters reason to believe that if he were elected, he would protect whistleblowers and obey U.S. law on the subject of torture.</p>
+<p>He has disappointed on both subjects.</p>
+<p>Long before Edward Snowden exposed mass surveillance on Americans by the NSA, the Obama Administration was aggressively persecuting former civil servants who blew the whistle on objectionable behavior during the Bush Administration.</p>
+</blockquote>
+<p>Edward Snowden, in <a href="https://web.archive.org/web/20131114231055/http://www.globalresearch.ca/a-manifesto-for-the-truth/5356919">A Manifesto for the Truth</a>:</p>
+<blockquote>
+<p>Society can only understand and control these problems through an open, respectful and informed debate. At first, some governments feeling embarrassed by the revelations of mass surveillance initiated an unprecedented campaign of persecution to supress this debate. They intimidated journalists and criminalized publishing the truth. At this point, the public was not yet able to evaluate the benefits of the revelations. They relied on their governments to decide correctly. […]</p>
+<p>Citizens have to fight suppression of information on matters of vital public importance. To tell the truth is not a crime.</p>
+</blockquote>
+<p>The American public’s view has been polarized. Here is what <a href="https://web.archive.org/web/20131114231055/https://en.wikipedia.org/wiki/Edward_Snowden">Wikipedia’s entry on Edward Snowden</a> says:</p>
+<blockquote>
+<p>He has been variously called a hero, a whistleblower, a dissident, a traitor, and a patriot. Response from US officials has been similarly varied; Director of National Intelligence James Clapper condemned Snowden’s actions as having done “huge, grave damage” to US intelligence capabilities, while United States Secretary of State John Kerry admitted that the NSA had gone “too far” in some of its surveillance activities and promised that it would be stopped.</p>
+</blockquote>
+<blockquote>
+<p>“Patriotism is supporting your country all the time, and your government when it deserves it.”</p>
+<p>— <span itemscope itemtype="http://schema.org/Person"><span itemprop="name">Mark Twain</span></span>
+</p>
+</blockquote>
+<p>Rory Carroll, <a href="https://web.archive.org/web/20131114231055/http://www.theguardian.com/world/2013/nov/03/white-house-nsa-edward-snowden-clemency">writing for The Guardian</a>, says that the White House has chosen to reject clemency for Edward Snowden.</p>
+<blockquote>
+<p>The former NSA employee this week appealed for clemency and an opportunity to address members of Congress about US surveillance. He also asked for international help to lobby the US to drop the charges against him. The White House, stung by domestic and international criticism, has shown growing appetite to rein in some of the NSA programmes that Snowden exposed but it has not softened its hostility to the 30-year-old fugitive. […]</p>
+<p>Feinstein, a Democratic senator from California, remained implacable. “He’s done this enormous disservice to our country. I think the answer is ‘no clemency’,” she told CBS’s Face the Nation.</p>
+<p>The former NSA contractor could have blown the whistle on excesses by contacting the House and Senate intelligence committees, Feinstein said. “We would certainly have seen him … and looked at that information. That didn’t happen.”</p>
+</blockquote>
+<h2 id="the-nsas-prism-program">The NSA’s PRISM program</h2>
+<div class="pa2-ns">
+	<amp-img src="https://cdn.ryanparman.com/hugo/posts/2013/prism@2x.jpg" layout="responsive" width="" height=""></amp-img>
+    <p class="f6 gray tc db"></p>
+</div>
+
+<p>The information that was leaked by Snowden outlined the PRISM program, run by the NSA. Here is what we’ve learned so far.</p>
+<p>Chris Gayomali, <a href="https://web.archive.org/web/20131114231055/http://theweek.com/article/index/246349/3-big-revelations-from-the-newly-leaked-nsa-documents">writing for the The Week</a>, says that “The United States has allegedly been spying on its own allies”.</p>
+<blockquote>
+<p>Perhaps the most damning new revelation is that the U.S. government may have been spying on friends as well as foes. Thirty-eight embassies and missions are outlined as “targets” on one document, reports the Guardian.</p>
+</blockquote>
+<p>Also that “PRISM allegedly collects data from companies in real time”.</p>
+<blockquote>
+<p>The Post suggests the FBI uses “government equipment on private company property” to retrieve information on a specified target, before it is then passed on to “customers” in either the NSA, CIA, or FBI. If true, this ostensibly allows the government’s data collection to proceed in real time. To refresh your memory: Google, Yahoo, Microsoft, Apple, Facebook, PayTalk, AOL, Skype, and YouTube were all reported to be taking part in the PRISM program.</p>
+<p>And yet, all the companies have “strenuously denied” involvement, says Mike Masnick at TechDirt, which doesn’t jibe with the Post’s own annotations. Based on the slides, “it’s not at all clear” that Data Intercept Technology Units (DITU) are physically located on private the premises of private companies:</p>
+<blockquote>
+<p>Google has said in the past that when it receives a valid FISA court order under the associated program it uses secure FTP to ship the info to the government. From that, it seems like the “DITU” could just be a government computer somewhere, not on the premises of these companies, and info is uploaded to those servers following valid FISC orders. [<a href="https://web.archive.org/web/20131114231055/http://www.techdirt.com/articles/20130701/00444723675/newly-leaked-nsa-slides-prism-add-to-confusion-rather-than-clear-it-up.shtml">TechDirt</a>]</p>
+</blockquote>
+</blockquote>
+<p><em>The Washington Post</em>, in an article entitled <a href="https://web.archive.org/web/20131114231055/http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/">“NSA slides explain the PRISM data-collection program”</a>, shows slides from a classified presentation about PRISM’s purpose.</p>
+<blockquote>
+<p>The top-secret PRISM program allows the U.S. intelligence community to gain access from nine Internet companies to a wide range of digital information, including e-mails and stored data, on foreign targets operating outside the United States. The program is court-approved but does not require individual warrants. Instead, it operates under a broader authorization from federal judges who oversee the use of the Foreign Intelligence Surveillance Act (FISA). Some documents describing the program were first released by The Washington Post on June 6. The newly released documents below give additional details about how the program operates, including the levels of review and supervisory control at the NSA and FBI. The documents also show how the program interacts with the Internet companies. These slides, annotated by The Post, represent a selection from the overall document, and certain portions are redacted.</p>
+</blockquote>
+<p>This presentation lists Microsoft, Yahoo!, Google, Facebook, PalTalk, YouTube, Skype, AOL and Apple as being the sources of data for PRISM.</p>
+<div class="pa2-ns">
+	<amp-img src="https://cdn.ryanparman.com/hugo/posts/2013/prism-affected.jpg" layout="responsive" width="" height=""></amp-img>
+    <p class="f6 gray tc db"></p>
+</div>
+
+<p>Joshua Brustein, <a href="https://web.archive.org/web/20131114231055/http://www.businessweek.com/articles/2013-06-07/the-companies-lines-on-prism">writing for Bloomberg Businessweek</a>, has collected statements from all of the companies named in the leaked NSA documents.</p>
+<blockquote>
+<p>In a series of terse statement <em>(sic)</em>, all the companies named in the reports about NSA’s Internet snooping program, Prism, have denied involvement. All these companies have been compelled to share personal data with the government at some time, which they tacitly acknowledge by saying they only do so after careful consideration and court orders. “Direct access” to servers, though, is a bridge too far, they say […].</p>
+</blockquote>
+<p>Dara Kerr, <a href="https://web.archive.org/web/20131114231055/http://news.cnet.com/8301-1009_3-57610342-83/apple-google-microsoft-unite-against-nsa-spying-program/">writing for CNET</a>, says that “The tech giants [Apple, Google, Microsoft], along with Yahoo, Facebook, and AOL, call upon the Senate Judiciary Committee to substantially reform the US government’s mass surveillance practices.”</p>
+<blockquote>
+<p>Google, Apple, Microsoft, Yahoo, Facebook, and AOL penned a letter (<a href="https://web.archive.org/web/20131114231055/http://www.scribd.com/doc/180596438/USA-Freedom-Act-Letter-10-31-13-pdf">pdf</a>) to the lead members of the Senate Judiciary Committee on Thursday urging the lawmakers to substantially reform the NSA surveillance practices. The companies also asked for additional oversight and accountability mechanisms for the spying programs.</p>
+<p>“Transparency is a critical first step to an informed public debate, but it is clear that more needs to be done,” the letter reads. “We urge the Administration to work with Congress in addressing these critical reforms that would provide much needed transparency and help rebuild the trust of Internet users around the world.” […]</p>
+<p>That document leak opened the public’s eyes to the government’s collection of data on US residents through both cellular records and metadata from Internet companies. Since Snowden’s original leak, thousands more documents have surfaced. The NSA and the Obama administration have maintained that the surveillance program was carried out to protect Americans and track down foreign terrorists.</p>
+</blockquote>
+<p>The piece continues, showing precisely how good intentions mean nothing in the real world.</p>
+<blockquote>
+<p>The letter sent by the tech companies “applauds” Sen. Patrick J. Leahy (D-Vt.) and Rep. F. James Sensenbrenner Jr. (R-Wis.) who recently sponsored a bill called the USA Freedom Act. This bill has the goal of “ending eavesdropping, dragnet collection, and online monitoring” by the NSA and other government agencies.</p>
+<p>Sensenbrenner is considered one of the architects of the Patriot Act, which the NSA often cites as a legal justification for its surveillance activities. However, Sensenbrenner is adamant that mass government spying wasn’t the intention of the Patriot Act.</p>
+<p>“We have to make a balance between security and civil liberties,” Sensenbrenner told the Associated Press in an interview last week. “And the reason the intelligence community has gotten itself into such trouble is they apparently do not see why civil liberties have got to be protected.”</p>
+</blockquote>
+<h2 id="isnt-that-against-the-law">Isn’t that against the law?</h2>
+<p>You’ve asked a very complex question.</p>
+<p>If you read up on FISA and its various amendments, it is very clear that for the American government to get information from American companies on American soil, they have to provide probable cause and get a warrant from a judge.</p>
+<div class="pa2-ns">
+	<amp-img src="https://cdn.ryanparman.com/hugo/posts/2013/fisa@2x.jpg" layout="responsive" width="" height=""></amp-img>
+    <p class="f6 gray tc db"></p>
+</div>
+
+<p>What they’ve done is not break the law, but rather <em>go around it</em>. <em>The Guardian</em> has an excellent presentation entitled <a href="https://web.archive.org/web/20131114231055/http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded">“NSA Files: Decoded. What the revelations mean for you.”</a> which does a terrific job explaining everything. I would encourage you to take some time learning from it.</p>
+<blockquote>
+<p>Much of the NSA’s defence is that the public should be unconcerned, summed up by the dictum: “If you have nothing to hide, you have nothing to fear.” But civil liberties groups such as the Electronic Frontier Foundation and the American Civil Liberties Union warn that surveillance goes well beyond what Congress intended and what the US constitution allows.</p>
+</blockquote>
+<p>What the NSA has done is partner with <a href="https://web.archive.org/web/20131114231055/http://www.gchq.gov.uk">GCHQ</a> (Britain’s equivalent agency) to tap the private fiber-optic cables that transfer digital data from continent to continent.</p>
+<p>Instead of the American government getting information from American companies on American soil, they’re getting it on <em>British soil</em> — which negates all of the oversight protections that American citizens expect.</p>
+<p>The British parliament was <a href="https://web.archive.org/web/20131114231055/http://www.scotsman.com/news/uk/mps-admit-they-knew-how-powerful-gchq-had-become-1-3181385">very aware of the power they had over their own people</a>, and colluded with the NSA to dodge American law. While it’s not <em>technically</em> a violation of FISA (which itself is being contested as unconstitutional), it is <em>absolutely</em> a violation of the of the Fourth Amendment to the U.S. Constitution.</p>
+<blockquote>
+<p>“The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.”</p>
+</blockquote>
+<p>The ACLU published a piece entitled <a href="https://web.archive.org/web/20131114231055/https://www.aclu.org/national-security/surveillance-under-usa-patriot-act">“Surveillance Under the USA PATRIOT Act”</a> which explains how the Patriot Act violates our Constitutional rights.</p>
+<p>With regard to “Expanded access to personal records held by third parties”:</p>
+<blockquote>
+<p>Section 215 of the Patriot Act violates the Constitution in several ways. It:</p>
+<ul>
+<li>
+<p>Violates the Fourth Amendment, which says the government cannot conduct a search without obtaining a warrant and showing probable cause to believe that the person has committed or will commit a crime.</p>
+</li>
+<li>
+<p>Violates the First Amendment’s guarantee of free speech by prohibiting the recipients of search orders from telling others about those orders, even where there is no real need for secrecy.</p>
+</li>
+<li>
+<p>Violates the First Amendment by effectively authorizing the FBI to launch investigations of American citizens in part for exercising their freedom of speech.</p>
+</li>
+<li>
+<p>Violates the Fourth Amendment by failing to provide notice - even after the fact - to persons whose privacy has been compromised. Notice is also a key element of due process, which is guaranteed by the Fifth Amendment.</p>
+</li>
+</ul>
+</blockquote>
+<p>With regard to “secret searches”:</p>
+<blockquote>
+<p>The Patriot Act, however, unconstitutionally amends the Federal Rules of Criminal Procedure to allow the government to conduct searches without notifying the subjects, at least until long after the search has been executed. This means that the government can enter a house, apartment or office with a search warrant when the occupants are away, search through their property, take photographs, and in some cases even seize property - and not tell them until later.</p>
+<p>Notice is a crucial check on the government’s power because it forces the authorities to operate in the open, and allows the subject of searches to protect their Fourth Amendment rights. For example, it allows them to point out irregularities in a warrant, such as the fact that the police are at the wrong address, or that the scope of the warrant is being exceeded (for example, by rifling through dresser drawers in a search for a stolen car).</p>
+</blockquote>
+<p>With regard to “Expansion of the intelligence exception in wiretap law”:</p>
+<blockquote>
+<p>A 1978 law called the Foreign Intelligence Surveillance Act (FISA) created an exception to the Fourth Amendment’s requirement for probable cause when the purpose of a wiretap or search was to gather foreign intelligence. The rationale was that since the search was not conducted for the purpose of gathering evidence to put someone on trial, the standards could be loosened. In a stark demonstration of why it can be dangerous to create exceptions to fundamental rights, however, the Patriot Act expanded this once-narrow exception to cover wiretaps and searches that DO collect evidence for regular domestic criminal cases. FISA previously allowed searches only if the primary purpose was to gather foreign intelligence. But the Patriot Act changes the law to allow searches when “a significant purpose” is intelligence. That lets the government circumvent the Constitution’s probable cause requirement even when its main goal is ordinary law enforcement.</p>
+</blockquote>
+<p>With regard to “Expansion of the ‘pen register’ exception in wiretap law”:</p>
+<blockquote>
+<p>Under the Patriot Act PR/TT orders issued by a judge are no longer valid only in that judge’s jurisdiction, but can be made valid anywhere in the United States. This “nationwide service” further marginalizes the role of the judiciary, because a judge cannot meaningfully monitor the extent to which his or her order is being used. In addition, this provision authorizes the equivalent of a blank warrant: the court issues the order, and the law enforcement agent fills in the places to be searched. That is a direct violation of the Fourth Amendment’s explicit requirement that warrants be written “particularly describing the place to be searched.” […]</p>
+<p>Web addresses are rich and revealing content. The URLs or “addresses” of the Web pages we read are not really addresses, they are the titles of documents that we download from the Internet. When we “visit” a Web page what we are really doing is downloading that page from the Internet onto our computer, where it is displayed. […] That is much richer information than a simple list of the people we have communicated with; it is intimate information that reveals who we are and what we are thinking about - much more like the content of a phone call than the number dialed. After all, it is often said that reading is a “conversation” with the author.</p>
+</blockquote>
+<p>In order for a federal law to be recognized as unconstitutional, a court case needs to go before the U.S. Supreme Court to be decided. Not many court cases against a federal agency have been able to make it that far, but on occasion, <a href="https://web.archive.org/web/20131114231055/http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded#interactive/7">something gets caught</a>.</p>
+<blockquote>
+<p>In January 2009, the FISA court was notified that the NSA had been querying business records metadata “in a manner that appear[ed] to the Court to be directly contrary” to the court’s order allowing it to so. In response, the FISA court ordered the government to explain itself. These documents detail this exchange as the NSA struggled to understand the business records program and ensure compliance.</p>
+<blockquote>
+<p>“The court is exceptionally concerned about what appears to be a flagrant violation of its order in this matter and, while the court will not direct that specific officials of the executive branch provide sworn declarations in response to this order, the court expects that the declarants will be officials of sufficient stature that they have the authority to speak on behalf of the executive branch.”</p>
+<p>— <span itemscope itemtype="http://schema.org/Person"><span itemprop="name">Reggie Walton</span></span>
+</p>
+</blockquote>
+</blockquote>
+<p>Using <a href="https://web.archive.org/web/20131114231055/http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded#interactive/14">this interactive diagram</a>, you can see which laws, amendments and executive orders have enabled the NSA to operate as it currently does.</p>
+<h2 id="so-what-are-microsoft-yahoo-google-facebook-paltalk-youtube-skype-aol-and-apple-doing-about-this">So, what are Microsoft, Yahoo!, Google, Facebook, PalTalk, YouTube, Skype, AOL and Apple doing about this?</h2>
+<p>First of all, it needs to be clear that <strong>they never knowingly gave this kind of information to the NSA</strong>. The NSA colluded with the GCHQ to subvert American law by directly tapping the fiber optic cables that sends data between continents.</p>
+<div class="pa2-ns">
+	<amp-img src="https://cdn.ryanparman.com/hugo/posts/2013/gchq-building@2x.jpg" layout="responsive" width="" height=""></amp-img>
+    <p class="f6 gray tc db">GCHQ offices in England, UK</p>
+</div>
+
+<p>Barton Gellman, Ashkan Soltani and Andrea Peterson, <a href="https://web.archive.org/web/20131114231055/http://www.washingtonpost.com/blogs/the-switch/wp/2013/11/04/how-we-know-the-nsa-had-access-to-internal-google-and-yahoo-cloud-data/">writing for The Washington Post</a>, explain “How we know the NSA had access to internal Google and Yahoo cloud data” (emphasis <strong>mine</strong>).</p>
+<blockquote>
+<p>Immediately after the story posted online, a reporter asked NSA Director Keith B. Alexander about it at a cybersecurity event hosted by Bloomberg Government. Neither the reporter nor Alexander had read the story yet.</p>
+<blockquote>
+<p>General, we’re getting some news that’s crossing right now being reported in The Washington Post that there are new Snowden allegations that say the NSA broke into Yahoo and Google’s databases worldwide, that they infiltrated these databases?</p>
+</blockquote>
+<p>Alexander replied:</p>
+<blockquote>
+<p>That’s never happened. […] This is not the NSA breaking into any databases. It would be illegal for us to do that. And so I don’t know what the report is, but I can tell you factually we do not have access to Google servers, Yahoo servers.</p>
+</blockquote>
+<p>The story did not say the NSA breaks into “servers” or “databases.” It said the agency, working with its British counterpart, <strong>intercepts communications that run on private circuits between the fortress-like data centers that each company operates on multiple continents</strong>.</p>
+<p>The distinction is between “data at rest” and “data on the fly.” The NSA and GCHQ do not break into user accounts that are stored on Yahoo and Google computers. <strong>They intercept the information as it travels over fiber optic cables from one data center to another</strong>. […]</p>
+<p>The two companies do not entrust their data center communications to the “public internet,” which is comparable to an international highway system that anyone can use. <strong>Instead, they link their data centers with thousands of miles of privately owned or privately leased fiber optic cable – in effect, a system of private highways.</strong> When Google and Yahoo have to share a stretch of road with the public internet, they take other precautions to keep their traffic secure. […]</p>
+<p>Our Wednesday story noted that the NSA is governed by fewer rules and less oversight when it does its intelligence collection outside U.S. territory:</p>
+<blockquote>
+<p>Intercepting communications overseas has clear advantages for the NSA, with looser restrictions and less oversight. <strong>NSA documents about the effort refer directly to “full take,” “bulk access” and “high volume” operations on Yahoo and Google networks.</strong> Such large-scale collection of Internet content would be illegal in the United States, but the operations take place overseas, where the NSA is allowed to presume that anyone using a foreign data link is a foreigner.</p>
+<p>Outside U.S. territory, statutory restrictions on surveillance seldom apply and the FISC has no jurisdiction. Senate Intelligence Committee Chairman Dianne Feinstein (D-Calif.) has acknowledged that <strong>Congress conducts little oversight of intelligence-gathering under the presidential authority of Executive Order 12333, which defines the basic powers and responsibilities of the intelligence agencies</strong>.</p>
+</blockquote>
+</blockquote>
+<p>(<a href="https://web.archive.org/web/20131114231055/https://en.wikipedia.org/wiki/Executive_Order_12333">EO 12333</a> was signed by <span itemscope itemtype="http://schema.org/Person"><span itemprop="name">Ronald Reagan</span></span>
+. It was superseded and amended by <a href="https://web.archive.org/web/20131114231055/https://en.wikipedia.org/wiki/Executive_Order_13355">EO 13355</a> and <a href="https://web.archive.org/web/20131114231055/https://en.wikipedia.org/wiki/Executive_Order_13470">EO 13470</a>, both signed by George W. Bush.)</p>
+<p><span itemscope itemtype="http://schema.org/Person"><span itemprop="name">Brandon Downey</span></span>
+, a security engineer at Google, <a href="https://web.archive.org/web/20131114231055/https://plus.google.com/108799184931623330498/posts/SfYy8xbDWGG">had this to say</a>:</p>
+<blockquote>
+<p>Fuck these guys.</p>
+<p>I’ve spent the last ten years of my life trying to keep Google’s users safe and secure from the many diverse threats Google faces. […]</p>
+<p>It makes me sad because I believe in America.</p>
+<p>Not in that flag-waving bullshit we’ve-got-our-big-trucks-and-bigger-tanks sort of way, but in the way that you can looked a good friend who has a lot of flaws, but every time you meet him, you think, “That guy still has some good ideas going on”.</p>
+<p>But after spending all that time helping in my tiny way to protect Google — one of the greatest things to arise from the internet — seeing this, well, it’s just a little like coming home from War with Sauron, destroying the One Ring, only to discover the NSA is on the front porch of the Shire chopping down the Party Tree and outsourcing all the hobbit farmers with half-orcs and whips.</p>
+</blockquote>
+<p><span itemscope itemtype="http://schema.org/Person"><span itemprop="name">Mike Hearn</span></span>
+, another security engineer at Google, <a href="https://web.archive.org/web/20131114231055/https://plus.google.com/+MikeHearn/posts/LW1DXJ2BK8k">had this to say</a>:</p>
+<blockquote>
+<p>I now join him in issuing a giant Fuck You to the people who made these slides. I am not American, I am a Brit, but it’s no different - GCHQ turns out to be even worse than the NSA.</p>
+<p>We designed this system to keep criminals out. There’s no ambiguity here. The warrant system with skeptical judges, paths for appeal, and rules of evidence was built from centuries of hard won experience. When it works, it represents as good a balance as we’ve got between the need to restrain the state and the need to keep crime in check. Bypassing that system is illegal for a good reason.</p>
+<p>Unfortunately we live in a world where all too often, laws are for the little people. Nobody at GCHQ or the NSA will ever stand before a judge and answer for this industrial-scale subversion of the judicial process. In the absence of working law enforcement, we therefore do what internet engineers have always done - build more secure software. The traffic shown in the slides below is now all encrypted and the work the NSA/GCHQ staff did on understanding it, ruined.</p>
+<p>Thank you Edward Snowden. For me personally, this is the most interesting revelation all summer.</p>
+</blockquote>
+<p>Later, in the comments of his post, he explains the following:</p>
+<blockquote>
+<p>Encryption was being worked on prior to Snowden but it didn’t seem like a high priority because there was no evidence it would achieve anything useful, and it cost a lot of resources. Once it became clear how badly compromised the fiber paths were, there was a crash effort to encrypt everything.</p>
+</blockquote>
+<p>Sean Gallagher, <a href="https://web.archive.org/web/20131114231055/http://arstechnica.com/information-technology/2013/11/googlers-say-f-you-to-nsa-company-encrypts-internal-network/">writing for Ars Technica</a>, says that “Googlers say ‘F*** you’ to NSA, company encrypts internal network”.</p>
+<blockquote>
+<p>Google has started to encrypt its traffic between its data centers, effectively halting the broad surveillance of its inner workings by the joint National Security Agency-GCHQ program known as MUSCULAR. The move turns off a giant source of information to the two agencies, which at one point accounted for nearly a third of the NSA’s daily data intake for its primary intelligence analysis database—at least for now.</p>
+<p>As of 2012, the NSA developed “defeat fingerprints” to scan the server-to-server communications that powered Google Adwords, Blogger, the BigTable database that powers Google Drive and other applications, and the TeraGoogle search index interface. These fingerprints allowed the NSA to scan Google internal traffic and identify elements associated with the usage of specific individuals or for searches and other behavior around a particular subject of interest (like, say, “pressure cooker bomb”). […]</p>
+<p>A second set of NSA tools, called Serendipity, gave the agency the ability to target specific Google accounts for monitoring as they accessed service, including:</p>
+<ul>
+<li>Chrome synchronization, including bookmark sync to the cloud</li>
+<li>“Talkgadget,” the Google Talk component of Gmail</li>
+<li>The now-defunct iGoogle personalized pages</li>
+<li>Google searches</li>
+<li>Picasa photo sharing</li>
+<li>YouTube […]</li>
+</ul>
+<p>For Yahoo, the NSA had developed another set of hooks, fully accessing its internal mail protocols as well as its Messenger instant messaging service, advertising tracker, and “Web beacons” used to track whether users had opened HTML-formatted emails. And the agency had to respond to a flood of unwanted data from these sources by instituting blocks—mostly to deal with Yahoo’s periodic movement of entire user mailboxes.</p>
+</blockquote>
+<p>Chris Baraniuk, <a href="https://web.archive.org/web/20131114231055/http://arstechnica.com/security/2013/11/we-still-dont-encrypt-server-to-server-data-admits-microsoft/">writing for Wired</a>, says that Microsoft still doesn’t encrypt server-to-server data.</p>
+<blockquote>
+<p>A senior Microsoft executive has told a European parliamentary committee that the company does not encrypt its server-to-server data communications.</p>
+<p>Dorothee Belz, EMEA VP for Legal and Corporate Affairs, made the remark when answering a question from Claude Moraes, MEP, during a meeting at the European Parliament on Monday.</p>
+<p>“Generally, what I can say today is server-to-server transportation is generally not encrypted,” she said. “This is why we are currently reviewing our security system.” […]</p>
+<p>It’s just one of several leaks by former intelligence agency contractor Edward Snowden that has concerned the EU’s Committee for Civil Liberties, Justice, and Home Affairs (LIBE) in a series of parliamentary hearings.</p>
+<p>Prior to taking questions from MEPs, Belz, who appeared alongside executives from Google and Facebook, reiterated earlier statements from Microsoft by stressing that the company did not openly provide “direct access” to its servers. However, her later admission that the firm has as yet failed to establish server-to-server encryption has raised fears among many within digital liberties groups that a significant breach of privacy could still be perpetrated.</p>
+<p>Sam Smith, a technologist at Privacy International, said the unencrypted data could hypothetically relate to any of Microsoft’s cloud services, from Hotmail and Outlook.com email accounts to Xbox Live, Office 365, and SkyDrive cloud storage.</p>
+</blockquote>
+<h2 id="what-now">What now?</h2>
+<div class="pa2-ns">
+	<amp-img src="https://cdn.ryanparman.com/hugo/posts/2013/hands-off-my-metadata@2x.jpg" layout="responsive" width="" height=""></amp-img>
+    <p class="f6 gray tc db"></p>
+</div>
+
+<p><a href="https://web.archive.org/web/20131114231055/http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded#section/6">The debate Snowden wanted is happening</a>. That in itself is a major achievement.</p>
+<blockquote>
+<p>Public opinion is polarized over surveillance, but polls show a jump in concern over privacy in the wake of Snowden’s revelations. A <a href="https://web.archive.org/web/20131114231055/http://www.theguardian.com/commentisfree/2013/jul/29/poll-nsa-surveillance-privacy-pew">Pew poll at the end of July</a> found that for the first time in a decade, the majority of Americans are more concerned about the government infringing on their civil liberties than about a potential terrorist attack. […]</p>
+<p>According to a recent study, the majority of Americans believe that preserving the rights of US citizens is more important than preventing terrorist attacks. Since the NSA revelations, Americans have become more opposed to government surveillance that infringes on civil liberties.</p>
+</blockquote>
+<p>People are turning to the court system more and more.</p>
+<blockquote>
+<p>In the end, it may be through the courts rather than Congress that genuine reform may come. Privacy groups such as the Electronic Privacy Information Center and the Electronic Frontier Foundation launched lawsuits that have led to disclosure of hundreds of pages of Fisa <em>(sic)</em> rulings on Section 215. GCHQ and NSA surveillance is facing a legal challenge at the European court of human rights from Big Brother Watch, English PEN and Open Rights Group.</p>
+<p>Silicon Valley is also taking action through the courts. Google, Microsoft and Yahoo, facing a backlash from their users in the US and overseas over mass surveillance, are fighting to be allowed to be more transparent about their dealings with the intelligence agencies. These companies, along with Facebook, Apple and AOL have also written to the Senate intelligence committee demanding reform.</p>
+</blockquote>
+<p>With as much hate and backbiting I’ve seen among American citizens and Congressional members since 2000, something strange has happened around this issue.</p>
+<blockquote>
+<p>There are now several major pieces of legislation going through Congress that would introduce at least some reform of the NSA. Among those, the one backed by Feinstein and passed by her committee is the least radical, offering proposals for greater transparency but basically maintaining the status quo. The bulk collection of Americans’ phone call data would be enshrined in US law.</p>
+<p>More far-reaching is the proposed Intelligence Oversight and Reform Act, with bipartisan support from senators Wyden, Udall, Richard Blumenthal and Rand Paul. It would ban the collection of internet communication data; close loopholes that allow snooping on Americans without a warrant; reform the Fisa court; and provide some protection for companies faced with handing over data to the NSA.</p>
+</blockquote>
+<h2 id="what-about-edward-snowden">What about Edward Snowden?</h2>
+<p>After leaving Hawai’i and his job as an NSA contractor, he fled to Hong Kong before winding up in Moscow, where Russian President <span itemscope itemtype="http://schema.org/Person"><span itemprop="name">Vladimir Putin</span></span>
+ granted him temporary asylum and protection from the U.S. government.</p>
+<p>He most certainly has a rough road ahead of him. There’s no way you can piss-off the U.S. government as badly as he has and plan to remain free forever. Then again, they also said that about Bobby Fischer.</p>
+<p><span itemscope itemtype="http://schema.org/Person"><span itemprop="name">Dr. Martin Luther King Jr.</span></span>
+ once said:</p>
+<blockquote>
+<p>“An individual who breaks a law that conscience tells him is unjust, and who willingly accepts the penalty of imprisonment in order to arouse the conscience of the community over its injustice, is in reality expressing the highest respect for the law.”</p>
+</blockquote>
+<p>I, for one, consider Edward Snowden a hero and a patriot to the highest degree.</p>
+<h2 id="update-20131209">Update (2013–12–09)</h2>
+<p>Aol, Facebook, Google, LinkedIn, Microsoft, Twitter and Yahoo! have all gotten together and put forward this new initiative: <a href="https://web.archive.org/web/20131114231055/http://reformgovernmentsurviellance.com">ReformGovernmentSurviellance.com</a>.</p>
+<p>I’m disappointed that Apple isn’t on this list.</p>
+</div>
+        <div class="vcard p-author author container">
+  <div class="photo">
+    <p class="mb0 mb5-ns">
+      <amp-img src="https://cdn.ryanparman.com/hugo/gravatars/current/8c73b5fc88b88ac0d92fec541c6a4413890df291@4x.jpg" alt="Ryan Parman" width="640" height="640"></amp-img>
+    </p>
+  </div>
+  <div class="about p-note note">
+    <p><strong itemprop="name" class="p-name fn n" rel="author"><span itemprop="givenName" class="p-given-name given-name">Ryan</span> <span itemprop="familyName" class="p-family-name family-name">Parman</span></strong> is an <span itemprop="jobTitle" class="p-role">engineering manager</span> with over 20 years of experience across <span itemprop="knowsAbout">software development</span>, <span itemprop="knowsAbout">site reliability engineering</span>, and <span itemprop="knowsAbout">security</span>. He is the creator of <a href="http://simplepie.org" class="u-url p-org">SimplePie</a> and <a href="https://aws.amazon.com/sdk-for-php/" class="u-url">AWS SDK for PHP</a>, patented <a href="https://patents.google.com/patent/US20160241536A1/en?inventor=Ryan+Parman">multifactor-authentication-as-a-service</a> at <span itemprop="alumniOf" itemscope itemtype="http://schema.org/Organization"><a href="https://wepay.com" itemprop="name url" class="u-url p-org"><span itemprop="name">WePay</span></a></span>, defined much of the <span itemprop="knowsAbout"><abbr title="Continuous Integration, Continuous Delivery">CI/CD</abbr></span> and <span itemprop="knowsAbout"><abbr title="Site Reliability Engineering">SRE</abbr></span> disciplines at <span itemprop="worksFor" itemscope itemtype="http://schema.org/Organization"><a href="https://www.mheducation.com" itemprop="name url" class="u-url p-org"><span itemprop="name">McGraw-Hill Education</span></a></span>, and came up with the idea of “<a href="https://aws.amazon.com/lambda/">serverless, event-driven, responsive functions in the cloud</a>” while at <span itemprop="alumniOf" itemscope itemtype="http://schema.org/Organization"><a href="https://aws.amazon.com" itemprop="name url" class="u-url p-org"><span itemprop="name">Amazon Web Services</span></a></span> in 2010. Ryan's aptly-named blog, <span itemprop="memberOf" itemscope itemtype="http://schema.org/WebSite"><a href="https://ryanparman.com" itemprop="url" rel="me" class="u-url"><span itemprop="name">Flailing Wildly</span></a></span>, is where he writes about ideas longer than <span itemscope itemtype="http://schema.org/FollowAction"><a href="https://twitter.com/skyzyx" itemprop="url" rel="me" class="u-url">280 characters</a></span>. Ambivert. Curious. Not a coffee drinker.</p>
+
+  </div>
+
+  <meta itemprop="gender" content="male">
+  <meta itemprop="honorificPrefix" content="Mr.">
+  <meta itemprop="knowsLanguage" content="en">
+  <meta itemprop="nationality" content="United States of America">
+</div>
+
+<div itemprop="publisher" itemscope itemtype="http://schema.org/Organization" itemid="#publisher">
+  <meta itemprop="name" content="Flailing Wildly">
+  <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+    <link itemprop="url contentUrl" href="https://cdn.ryanparman.com/hugo/favicons/apple-touch-icon-60x60.png">
+    <meta itemprop="width" content="60">
+    <meta itemprop="height" content="60">
+  </div>
+</div>
+
+<nav class="db border-box pa3 cf">
+        <div class="db v-mid tl-l fl">
+          <a href="https://ryanparman.com/amp/posts/2013/password-security-is-important-start-treating-it-like-it-is/" title="Password security is important. Start treating it like it is." class="link dim dark-gray f6 f5-l dib">&larr; Previous</a>
+        </div>
+        <div class="db v-mid tr-l fr">
+          <a href="https://ryanparman.com/amp/posts/2014/games-of-the-year-2013/" title="Games of the Year, 2013" class="link dim dark-gray f6 f5-l dib">Next &rarr;</a>
+        </div>
+      </nav>
+
+    </main>
+
+  </article>
+
+    </main>
+    <footer class="pv4 ph3 ph5-ns tc" role="contentinfo">
+  
+
+<div class="pv4 ph3 tc">
+  
+  <a class="link-transition twitter link dib z-999 pt3 pt0-l mr2" href="https://twitter.com/skyzyx" title="Twitter">
+    <svg class="dib h2 w2" fill="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="32px" width="32px" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M16 3.038c-.59.26-1.22.437-1.885.517.677-.407 1.198-1.05 1.443-1.816-.634.375-1.337.648-2.085.795-.598-.638-1.45-1.036-2.396-1.036-1.812 0-3.282 1.468-3.282 3.28 0 .258.03.51.085.75C5.152 5.39 2.733 4.084 1.114 2.1.83 2.583.67 3.147.67 3.75c0 1.14.58 2.143 1.46 2.732-.538-.017-1.045-.165-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22-.276.074-.566.114-.865.114-.21 0-.416-.02-.617-.058.418 1.304 1.63 2.253 3.067 2.28-1.124.88-2.54 1.404-4.077 1.404-.265 0-.526-.015-.783-.045 1.453.93 3.178 1.474 5.032 1.474 6.038 0 9.34-5 9.34-9.338 0-.143-.004-.284-.01-.425.64-.463 1.198-1.04 1.638-1.7z" fill-rule="nonzero"/></svg>
+
+  </a>
+  
+  
+  <a class="link-transition youtube link dib z-999 pt3 pt0-l mr2" href="https://www.youtube.com/user/Skyzyx" title="YouTube">
+    <svg class="dib w2 h2" fill="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="32px" width="32px" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M0 7.345c0-1.294.16-2.59.16-2.59s.156-1.1.636-1.587c.608-.637 1.408-.617 1.764-.684C3.84 2.36 8 2.324 8 2.324s3.362.004 5.6.166c.314.038.996.04 1.604.678.48.486.636 1.588.636 1.588S16 6.05 16 7.346v1.258c0 1.296-.16 2.59-.16 2.59s-.156 1.102-.636 1.588c-.608.638-1.29.64-1.604.678-2.238.162-5.6.166-5.6.166s-4.16-.037-5.44-.16c-.356-.067-1.156-.047-1.764-.684-.48-.487-.636-1.587-.636-1.587S0 9.9 0 8.605v-1.26zm6.348 2.73V5.58l4.323 2.255-4.32 2.24h-.002z"/></svg>
+
+  </a>
+  
+  
+  <a class="link-transition linkedin link dib z-999 pt3 pt0-l mr2" href="https://www.linkedin.com/in/rparman" title="LinkedIn">
+    <svg class="dib h2 w2" fill="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="32px" width="32px" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M13.632 13.635h-2.37V9.922c0-.886-.018-2.025-1.234-2.025-1.235 0-1.424.964-1.424 1.96v3.778h-2.37V6H8.51V7.04h.03c.318-.6 1.092-1.233 2.247-1.233 2.4 0 2.845 1.58 2.845 3.637v4.188zM3.558 4.955c-.762 0-1.376-.617-1.376-1.377 0-.758.614-1.375 1.376-1.375.76 0 1.376.617 1.376 1.375 0 .76-.617 1.377-1.376 1.377zm1.188 8.68H2.37V6h2.376v7.635zM14.816 0H1.18C.528 0 0 .516 0 1.153v13.694C0 15.484.528 16 1.18 16h13.635c.652 0 1.185-.516 1.185-1.153V1.153C16 .516 15.467 0 14.815 0z" fill-rule="nonzero"/></svg>
+
+  </a>
+  
+  
+  <a class="link-transition github link dib z-999 pt3 pt0-l mr2" href="https://github.com/skyzyx" title="GitHub">
+    <svg class="dib h2 w2" fill="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="32px" width="32px" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M8 0C3.58 0 0 3.582 0 8c0 3.535 2.292 6.533 5.47 7.59.4.075.547-.172.547-.385 0-.19-.007-.693-.01-1.36-2.226.483-2.695-1.073-2.695-1.073-.364-.924-.89-1.17-.89-1.17-.725-.496.056-.486.056-.486.803.056 1.225.824 1.225.824.714 1.223 1.873.87 2.33.665.072-.517.278-.87.507-1.07-1.777-.2-3.644-.888-3.644-3.953 0-.873.31-1.587.823-2.147-.083-.202-.358-1.015.077-2.117 0 0 .672-.215 2.2.82.638-.178 1.323-.266 2.003-.27.68.004 1.364.092 2.003.27 1.527-1.035 2.198-.82 2.198-.82.437 1.102.163 1.915.08 2.117.513.56.823 1.274.823 2.147 0 3.073-1.87 3.75-3.653 3.947.287.246.543.735.543 1.48 0 1.07-.01 1.933-.01 2.195 0 .215.144.463.55.385C13.71 14.53 16 11.534 16 8c0-4.418-3.582-8-8-8"/></svg>
+
+  </a>
+  
+  
+  <a class="link-transition stackoverflow link dib z-999 pt3 pt0-l mr2" href="https://stackoverflow.com/users/228514/ryan-parman" title="Stack Overflow">
+    <svg class="dib h2 w2" fill="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="32px" width="32px" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M12.658 14.577v-4.27h1.423V16H1.23v-5.693H2.65v4.27h10.006zm-8.583-1.423h7.16V11.73h-7.16v1.424zm.173-3.235l6.987 1.465.3-1.38L4.55 8.54l-.302 1.38zm.906-3.365l6.47 3.02.602-1.295-6.47-3.02-.602 1.295zm1.81-3.19l5.478 4.57.906-1.078-5.477-4.57-.905 1.077zM10.502 0L9.338.863l4.27 5.735 1.164-.862L10.5 0z"/></svg>
+
+  </a>
+  
+  
+  <a class="link-transition medium link dib z-999 pt3 pt0-l mr2" href="https://medium.com/@skyzyx" title="Medium">
+    <svg class="dib h2 w2" fill="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="32px" width="32px" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M11.824 12.628l-.276.45.798.398 2.744 1.372c.15.076.294.11.418.11.278 0 .467-.177.467-.492V5.883l-4.15 6.745zm4.096-8.67c-.004-.003 0-.01-.003-.012l-4.825-2.412c-.06-.03-.123-.038-.187-.044-.016 0-.03-.01-.047-.01-.184 0-.368.092-.467.254l-.24.39-.5.814-1.89 3.08 1.89 3.076.5.813.5.812.59.95 4.71-7.64c.02-.03.01-.06-.02-.08zm-6.27 7.045L7.17 6.97l-.295-.477-.294-.477-.25-.416v4.867l3.32 1.663.5.25.5.25-.5-.813-.5-.813zM.737 1.68L.59 1.608c-.085-.042-.166-.062-.24-.062-.206 0-.35.16-.35.427v10.162c0 .272.2.594.442.716l4.145 2.08c.107.06.208.08.3.08.257 0 .438-.2.438-.53V4.01c0-.02-.012-.04-.03-.047L.738 1.68z"/></svg>
+
+  </a>
+  
+  
+  <a class="link-transition codepen link dib z-999 pt3 pt0-l mr2" href="https://codepen.io/skyzyx/" title="CodePen">
+    <svg class="dib h2 w2" fill="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="32px" width="32px" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M15.988 5.443c-.004-.02-.007-.04-.012-.058l-.01-.033c-.006-.017-.012-.034-.02-.05-.003-.012-.01-.023-.014-.034l-.023-.045-.02-.032-.03-.04-.024-.03c-.01-.013-.022-.026-.034-.038l-.027-.027-.04-.032-.03-.024-.012-.01L8.38.117c-.23-.155-.53-.155-.76 0L.305 4.99.296 5c-.012.007-.022.015-.032.023-.014.01-.027.02-.04.032l-.027.027-.034.037-.024.03-.03.04c-.006.012-.013.022-.02.033l-.023.045-.015.034c-.007.016-.012.033-.018.05l-.01.032c-.005.02-.01.038-.012.058l-.006.03C.002 5.5 0 5.53 0 5.56v4.875c0 .03.002.06.006.09l.007.03c.003.02.006.04.013.058l.01.033c.006.018.01.035.018.05l.015.033c.006.016.014.03.023.047l.02.03c.008.016.018.03.03.042.007.01.014.02.023.03.01.012.02.025.034.036.01.01.018.02.028.026l.04.033.03.023.01.01 7.31 4.876c.116.078.248.117.382.116.134 0 .266-.04.38-.116l7.314-4.875.01-.01c.012-.007.022-.015.032-.023.014-.01.027-.02.04-.032l.027-.027.034-.037.024-.03.03-.04.02-.032.023-.046.015-.033.018-.052.01-.033c.005-.02.01-.038.013-.058 0-.01.003-.02.004-.03.004-.03.006-.06.006-.09V5.564c0-.03-.002-.06-.006-.09l-.007-.03zM8 9.626L5.568 8 8 6.374 10.432 8 8 9.626zM7.312 5.18l-2.98 1.993-2.406-1.61 5.386-3.59v3.206zM3.095 8l-1.72 1.15v-2.3L3.095 8zm1.237.828l2.98 1.993v3.208l-5.386-3.59 2.406-1.61zm4.355 1.993l2.98-1.993 2.407 1.61-5.387 3.59v-3.206zM12.905 8l1.72-1.15v2.3L12.905 8zm-1.237-.827L8.688 5.18V1.97l5.386 3.59-2.406 1.61z" fill-rule="nonzero"/></svg>
+
+  </a>
+  
+</div>
+
+  <div>
+  	<span class="f6 link gray dib">&copy; 2003–2020 Ryan Parman</span><br>
+  	<span class="f6 link gray dib"><a href="/content-license/" rel="license" class="f6 gray dib">Content License</a> &bull; <a href="/privacy/" class="f6 gray dib">Privacy Policy</a> &bull; <a href="/contact/" class="f6 gray dib">Follow</a> &bull; <a href="/feeds/" class="f6 gray dib">Subscribe</a> &bull; <a href="/wishlist/" class="f6 gray dib">Wishlist</a></span>
+  </div>
+</footer>
+
+
+  </body>
+</html>

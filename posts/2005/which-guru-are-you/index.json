@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Which Guru Are You?",
+    "description": "",
+    "summary": {
+        "content": "Which Guru Are You?",
+        "isTruncated": false
+    },
+    "published": "2005-06-09T04:41:04Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/which-guru-are-you/",
+    "relativePermalink": "/posts/2005/which-guru-are-you/",
+    "aliases": ["/2005/06/08/which-guru-are-you/"],
+    "images": [],
+    "videos": [],
+    "categories": ["For Funsies"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 4,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050609-which-guru-are-you.md",
+        "logicalName": "20050609-which-guru-are-you.md",
+        "translationBaseName": "20050609-which-guru-are-you",
+        "baseFileName": "20050609-which-guru-are-you",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cdiv class=\"pa2-ns\"\u003e\n\t\u003camp-img src=\"https://cdn.ryanparman.com/img/inman.gif\" layout=\"responsive\" width=\"\" height=\"\"\u003e\u003c/amp-img\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20050609044104/http://www.thewatchmakerproject.com/which-guru-are-you/\"\u003eWhich Guru Are You?\u003c/a\u003e\u003c/p\u003e\n",
+        "plain":"  Which Guru Are You?\n",
+        "source":"\n{{\u003cfullimage src=\"https://cdn.ryanparman.com/img/inman.gif\" alt=\"You are Shaun Inman\"\u003e}}\n\n[Which Guru Are You?]({{% wayback \"http://www.thewatchmakerproject.com/which-guru-are-you/\" %}})\n"},
+    "links": {
+        "prev": {"title": "Tiger Revisited: A Month Into It", "permalink": "https://ryanparman.com/posts/2005/tiger-revisited-a-month-into-it/"},
+        "next": {"title": "Apple's NeXT Step: Mac OS X86™", "permalink": "https://ryanparman.com/posts/2005/apples-next-step-mac-os-x86/"},
+        "ignore": "me"
+    }
+}
+
+}

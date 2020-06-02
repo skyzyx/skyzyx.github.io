@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Homeland Security Rating Scale",
+    "description": "",
+    "summary": {
+        "content": "I just came across this over at WhiteHouse.org. I thought it was funny, so I decided to share it. ",
+        "isTruncated": false
+    },
+    "published": "2003-11-27T03:39:58Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/homeland-security-rating-scale/",
+    "relativePermalink": "/posts/2003/homeland-security-rating-scale/",
+    "aliases": ["/2003/11/26/homeland-security-rating-scale/"],
+    "images": [],
+    "videos": [],
+    "categories": ["For Funsies"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 19,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20031127-homeland-security-rating-scale.md",
+        "logicalName": "20031127-homeland-security-rating-scale.md",
+        "translationBaseName": "20031127-homeland-security-rating-scale",
+        "baseFileName": "20031127-homeland-security-rating-scale",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI just came across this over at \u003ca href=\"https://web.archive.org/web/20031127033958/http://www.whitehouse.org\"\u003eWhiteHouse.org\u003c/a\u003e. I thought it was funny, so I decided to share it.\u003c/p\u003e\n\u003cdiv class=\"pa2-ns\"\u003e\n\t\u003camp-img src=\"https://cdn.ryanparman.com/img/homelandsecurity.jpg\" layout=\"responsive\" width=\"\" height=\"\"\u003e\u003c/amp-img\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n",
+        "plain":"I just came across this over at WhiteHouse.org. I thought it was funny, so I decided to share it.\n  ",
+        "source":"\nI just came across this over at [WhiteHouse.org]({{% wayback \"http://www.whitehouse.org\" %}}). I thought it was funny, so I decided to share it.\n\n{{\u003cfullimage src=\"https://cdn.ryanparman.com/img/homelandsecurity.jpg\" alt=\"Homeland Security Warning System\"\u003e}}\n"},
+    "links": {
+        "prev": {"title": "Interesting Stuff", "permalink": "https://ryanparman.com/posts/2003/interesting-stuff/"},
+        "next": {"title": "Broken Nintendo GameCube™", "permalink": "https://ryanparman.com/posts/2003/broken-nintendo-gamecube/"},
+        "ignore": "me"
+    }
+}
+
+}

@@ -1,0 +1,63 @@
+{
+    "data": {
+        
+        "section": "tools",
+        
+        
+        "count": 1,
+        "items": [
+            
+            {
+    "kind": "section",
+    "title": "Certificate Checker",
+    "description": "Will show you information about the certificate, certificate chain, time-to-expiration, etc.",
+    "summary": {
+        "content": "Will show you information about the certificate, certificate chain, time-to-expiration, etc. Hostname (without https:// at the beginning) The hostname whose TLS certificate you’d like to scan. Port The response is returned in JSON format. If the number of days until expiration is closer than the days query string parameter, then it will respond with an HTTP 400 status code. Otherwise, it will return with a HTTP 200 status code. This makes the response suitable for adding to your uptime ping checks with a 24-hour frequency.",
+        "isTruncated": true
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2020-03-03T19:30:37-08:00",
+    "permalink": "https://ryanparman.com/tools/cert-checker/",
+    "relativePermalink": "/tools/cert-checker/",
+    "aliases": [],
+    "images": ["https://cdn.ryanparman.com/hugo/posts/2019/tls-check@2x.png"],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 105,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "tools/cert-checker/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "tools/cert-checker/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cp itemprop=\"description\" class=\"f5 f4-m f3-l mt0 lh-copy p-summary entry-summary\"\u003e\nWill show you information about the certificate, certificate chain, time-to-expiration, etc.\n\u003c/p\u003e\n\n\n\u003chr\u003e\n\n\u003cform action=\"https://cert-checker.ryanparman.com/cert-checker\" method=\"get\" class=\"black-80 w-100 pv3\"\u003e\n    \u003cdiv class=\"container\"\u003e\n        \u003cdiv class=\"fl w-90 pr4\"\u003e\n            \u003clabel for=\"domain\" class=\"b db mb2\"\u003eHostname \u003cspan class=\"normal black-60\"\u003e(without \u003ccode\u003ehttps://\u003c/code\u003e at the beginning)\u003c/span\u003e\u003c/label\u003e\n            \u003cinput name=\"domain\" id=\"domain\" class=\"input-reset ba b--black-20 pa2 mb2 db w-100\" type=\"text\" placeholder=\"ryanparman.com\" aria-describedby=\"domain-desc\" autocapitalize=\"off\" autocorrect=\"off\" autofocus\u003e\n            \u003csmall id=\"domain-desc\" class=\"f6 black-60 db mb2\"\u003eThe hostname whose TLS certificate you’d like to scan.\u003c/small\u003e\n        \u003c/div\u003e\n        \u003cdiv class=\"fr w-10\"\u003e\n            \u003clabel for=\"port\" class=\"b db mb2\"\u003ePort\u003c/label\u003e\n            \u003cinput name=\"port\" id=\"port\" class=\"input-reset ba b--black-20 pa2 mb2 db w-100\" type=\"text\" placeholder=\"443\"\u003e\n        \u003c/div\u003e\n    \u003c/div\u003e\n    \u003cdiv class=\"container\"\u003e\n        \u003cinput type=\"submit\" value=\"Submit\" class=\"input-reset w-100 f3 br2 ph3 pv2 mv4 dib white bg-green\"\u003e\n    \u003c/div\u003e\n\n    \u003caside class=\"age aside container flex\"\u003e\n        \u003cp\u003eThe response is returned in \u003cstrong\u003eJSON format\u003c/strong\u003e.\u003c/p\u003e\n        \u003cp\u003eIf the number of days until expiration is closer than the \u003ccode\u003edays\u003c/code\u003e query string parameter, then it will respond with an \u003ca href=\"https://httpstatuses.com/400\"\u003eHTTP 400\u003c/a\u003e status code. Otherwise, it will return with a \u003ca href=\"https://httpstatuses.com/200\"\u003eHTTP 200\u003c/a\u003e status code.\u003c/p\u003e\n        \u003cp\u003eThis makes the response suitable for adding to your uptime ping checks with a 24-hour frequency. If the alert goes off, you have the given number of days to rotate your TLS certificates for your hostname.\u003c/p\u003e\n    \u003c/aside\u003e\n\n    \u003cinput type=\"hidden\" name=\"days\" value=\"30\"\u003e\n\n\u003c/form\u003e\n",
+        "plain":" Will show you information about the certificate, certificate chain, time-to-expiration, etc.  Hostname (without https:// at the beginning) The hostname whose TLS certificate you’d like to scan.  Port    The response is returned in JSON format.\nIf the number of days until expiration is closer than the days query string parameter, then it will respond with an HTTP 400 status code. Otherwise, it will return with a HTTP 200 status code.\nThis makes the response suitable for adding to your uptime ping checks with a 24-hour frequency. If the alert goes off, you have the given number of days to rotate your TLS certificates for your hostname.\n  ",
+        "source":"\n{{\u003cdescription\u003e}}\nWill show you information about the certificate, certificate chain, time-to-expiration, etc.\n{{\u003c/description\u003e}}\n\n\u003chr\u003e\n\n\u003cform action=\"https://cert-checker.ryanparman.com/cert-checker\" method=\"get\" class=\"black-80 w-100 pv3\"\u003e\n    \u003cdiv class=\"container\"\u003e\n        \u003cdiv class=\"fl w-90 pr4\"\u003e\n            \u003clabel for=\"domain\" class=\"b db mb2\"\u003eHostname \u003cspan class=\"normal black-60\"\u003e(without \u003ccode\u003ehttps://\u003c/code\u003e at the beginning)\u003c/span\u003e\u003c/label\u003e\n            \u003cinput name=\"domain\" id=\"domain\" class=\"input-reset ba b--black-20 pa2 mb2 db w-100\" type=\"text\" placeholder=\"ryanparman.com\" aria-describedby=\"domain-desc\" autocapitalize=\"off\" autocorrect=\"off\" autofocus\u003e\n            \u003csmall id=\"domain-desc\" class=\"f6 black-60 db mb2\"\u003eThe hostname whose TLS certificate you’d like to scan.\u003c/small\u003e\n        \u003c/div\u003e\n        \u003cdiv class=\"fr w-10\"\u003e\n            \u003clabel for=\"port\" class=\"b db mb2\"\u003ePort\u003c/label\u003e\n            \u003cinput name=\"port\" id=\"port\" class=\"input-reset ba b--black-20 pa2 mb2 db w-100\" type=\"text\" placeholder=\"443\"\u003e\n        \u003c/div\u003e\n    \u003c/div\u003e\n    \u003cdiv class=\"container\"\u003e\n        \u003cinput type=\"submit\" value=\"Submit\" class=\"input-reset w-100 f3 br2 ph3 pv2 mv4 dib white bg-green\"\u003e\n    \u003c/div\u003e\n\n    \u003caside class=\"age aside container flex\"\u003e\n        \u003cp\u003eThe response is returned in \u003cstrong\u003eJSON format\u003c/strong\u003e.\u003c/p\u003e\n        \u003cp\u003eIf the number of days until expiration is closer than the \u003ccode\u003edays\u003c/code\u003e query string parameter, then it will respond with an \u003ca href=\"https://httpstatuses.com/400\"\u003eHTTP 400\u003c/a\u003e status code. Otherwise, it will return with a \u003ca href=\"https://httpstatuses.com/200\"\u003eHTTP 200\u003c/a\u003e status code.\u003c/p\u003e\n        \u003cp\u003eThis makes the response suitable for adding to your uptime ping checks with a 24-hour frequency. If the alert goes off, you have the given number of days to rotate your TLS certificates for your hostname.\u003c/p\u003e\n    \u003c/aside\u003e\n\n    \u003cinput type=\"hidden\" name=\"days\" value=\"30\"\u003e\n\n\u003c/form\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+        ]
+    }
+}

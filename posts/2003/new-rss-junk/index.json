@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "New RSS Junk",
+    "description": "",
+    "summary": {
+        "content": "After two days of using the Fase4 RDF Parser, I decided to move to the Magpie RSS Parser. This one is much easier to use and implement, and it handles both the simpler RSS 0.9x/2.0 (Really Simple Syndication) format, as well as the RDF-based RSS 1.0 (RDF Site Summary) format. I also messed around with Onyx RSS, ProjectNeo™, and the Aggreg8 parsers. Magpie RSS Parser is just plain better. I’ve also added an RSS/RDF Feed section, so that you can checkout/get other feeds from other sites.",
+        "isTruncated": true
+    },
+    "published": "2003-06-05T07:19:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/new-rss-junk/",
+    "relativePermalink": "/posts/2003/new-rss-junk/",
+    "aliases": ["/2003/06/04/new-rss-junk/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 115,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030605-new-rss-junk.md",
+        "logicalName": "20030605-new-rss-junk.md",
+        "translationBaseName": "20030605-new-rss-junk",
+        "baseFileName": "20030605-new-rss-junk",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eAfter two days of using the \u003ca href=\"https://web.archive.org/web/20030605071900/http://www.fase4.com/rdf/\" title=\"A typical PHP-based RSS Parser\"\u003eFase4 RDF Parser\u003c/a\u003e, I decided to move to the \u003ca href=\"https://web.archive.org/web/20030605071900/http://magpierss.sourceforge.net/\" title=\"The most flexible RSS Parser I've come across.\"\u003eMagpie RSS Parser\u003c/a\u003e. This one is \u003cem\u003emuch\u003c/em\u003e easier to use and implement, and it handles both the simpler \u003ca href=\"https://web.archive.org/web/20030605071900/http://backend.userland.com/rss\" title=\"Developed by Netscape, maintained by Userland.\"\u003eRSS 0.9x/2.0\u003c/a\u003e (Really Simple Syndication) format, as well as the RDF-based \u003ca href=\"https://web.archive.org/web/20030605071900/http://web.resource.org/rss/1.0/spec\" title=\"Developed by the W3C.\"\u003eRSS 1.0\u003c/a\u003e (RDF Site Summary) format.\u003c/p\u003e\n\u003cp\u003eI also messed around with \u003ca href=\"https://web.archive.org/web/20030605071900/http://www.readinged.com/onyx/rss/\"\u003eOnyx RSS\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20030605071900/http://www.razor.dk\"\u003eProjectNeo™\u003c/a\u003e, and the \u003ca href=\"https://web.archive.org/web/20030605071900/http://www.aggreg8.net/RSS/RSSParser.php\"\u003eAggreg8\u003c/a\u003e parsers. \u003ca href=\"https://web.archive.org/web/20030605071900/http://magpierss.sourceforge.net/\" title=\"The most flexible RSS Parser I've come across.\"\u003eMagpie RSS Parser\u003c/a\u003e is just plain better.\u003c/p\u003e\n\u003cp\u003eI’ve also added an RSS/RDF Feed section, so that you can checkout/get other feeds from other sites. And if you’re one of the few people who targeted my RSS feed already, I’ve changed the URL from “skyzyx.xml” to \u003ca href=\"../news/index.xml\"\u003e“index.xml”\u003c/a\u003e. It just made more sense that way.\u003c/p\u003e\n",
+        "plain":"After two days of using the Fase4 RDF Parser, I decided to move to the Magpie RSS Parser. This one is much easier to use and implement, and it handles both the simpler RSS 0.9x/2.0 (Really Simple Syndication) format, as well as the RDF-based RSS 1.0 (RDF Site Summary) format.\nI also messed around with Onyx RSS, ProjectNeo™, and the Aggreg8 parsers. Magpie RSS Parser is just plain better.\nI’ve also added an RSS/RDF Feed section, so that you can checkout/get other feeds from other sites. And if you’re one of the few people who targeted my RSS feed already, I’ve changed the URL from “skyzyx.xml” to “index.xml”. It just made more sense that way.\n",
+        "source":"\nAfter two days of using the [Fase4 RDF Parser]({{% wayback \"http://www.fase4.com/rdf/\" %}} \"A typical PHP-based RSS Parser\"), I decided to move to the [Magpie RSS Parser]({{% wayback \"http://magpierss.sourceforge.net/\" %}} \"The most flexible RSS Parser I've come across.\"). This one is *much* easier to use and implement, and it handles both the simpler [RSS 0.9x/2.0]({{% wayback \"http://backend.userland.com/rss\" %}} \"Developed by Netscape, maintained by Userland.\") (Really Simple Syndication) format, as well as the RDF-based [RSS 1.0]({{% wayback \"http://web.resource.org/rss/1.0/spec\" %}} \"Developed by the W3C.\") (RDF Site Summary) format.\n\nI also messed around with [Onyx RSS]({{% wayback \"http://www.readinged.com/onyx/rss/\" %}}), [ProjectNeo™]({{% wayback \"http://www.razor.dk\" %}}), and the [Aggreg8]({{% wayback \"http://www.aggreg8.net/RSS/RSSParser.php\" %}}) parsers. [Magpie RSS Parser]({{% wayback \"http://magpierss.sourceforge.net/\" %}} \"The most flexible RSS Parser I've come across.\") is just plain better.\n\nI’ve also added an RSS/RDF Feed section, so that you can checkout/get other feeds from other sites. And if you’re one of the few people who targeted my RSS feed already, I’ve changed the URL from “skyzyx.xml” to [“index.xml”](../news/index.xml). It just made more sense that way.\n"},
+    "links": {
+        "prev": {"title": "Personal Dreck and RSS Feeds", "permalink": "https://ryanparman.com/posts/2003/personal-dreck-and-rss-feeds/"},
+        "next": {"title": "Link To Me!", "permalink": "https://ryanparman.com/posts/2003/link-to-me/"},
+        "ignore": "me"
+    }
+}
+
+}

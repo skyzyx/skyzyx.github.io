@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Standalone Internet Explorer and Hosting",
+    "description": "",
+    "summary": {
+        "content": "For those interested, I’ve added a few more mirrors for the Standalone IE downloads. I’m really beginning to feel the download stress here at Skyzyx.com, as I hit ~25GB transfer last month and my max is 30GB per month. So, I signed up for a Dreamhost account (I caught the 1 year for $7.77 deal!) which added another 40 or 60 GB of transfer a month… I forget which. Either way, I’m not too worried anymore about going over my transfer bandwidth for the month anymore.",
+        "isTruncated": true
+    },
+    "published": "2004-11-06T02:10:15Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/standalone-internet-explorer-and-hosting/",
+    "relativePermalink": "/posts/2004/standalone-internet-explorer-and-hosting/",
+    "aliases": ["/2004/11/05/standalone-internet-explorer-and-hosting/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Software"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 226,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20041106-standalone-internet-explorer-and-hosting.md",
+        "logicalName": "20041106-standalone-internet-explorer-and-hosting.md",
+        "translationBaseName": "20041106-standalone-internet-explorer-and-hosting",
+        "baseFileName": "20041106-standalone-internet-explorer-and-hosting",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003ca href=\"#update\"\u003eUpdate\u003c/a\u003e\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/nav\u003e",
+        "html":"\u003cp\u003eFor those interested, I’ve added a few more mirrors for the \u003ca href=\"/downloads/\"\u003eStandalone IE downloads\u003c/a\u003e. I’m really beginning to feel the download stress here at Skyzyx.com, as I hit ~25GB transfer last month and my max is 30GB per month. So, I signed up for a \u003ca href=\"https://web.archive.org/web/20041106021015/http://www.dreamhost.com\"\u003eDreamhost\u003c/a\u003e account (I caught the 1 year for $7.77 deal!) which added another 40 or 60 GB of transfer a month… I forget which. Either way, I’m not too worried anymore about going over my transfer bandwidth for the month anymore.\u003c/p\u003e\n\u003cp\u003eI’ve gone ahead and added my new server (\u003ca href=\"http://www.skyzyx.net\"\u003ewww.skyzyx.net\u003c/a\u003e) to the download list as “Primary Download 1”. I’ve also finally gotten around to adding the \u003ca href=\"https://web.archive.org/web/20041106021015/http://www.mackhosting.com\"\u003eMackHosting.com\u003c/a\u003e mirror. Chris at MackHosting.com has turned out to be a cool guy that I’ve gotten a chance to talk to a bit via IM. Although he’s not a weblogger, he does offer really good small business hosting plans (100 MB space and 1GB transfer for $30/year). Go give his website some love.\u003c/p\u003e\n\u003cp\u003eI’ve also been contacted by someone who knows how to enable conditional comments in the Standalone IE’s. I’ve really been lagging on getting this information out to the public, but I’m hoping to get to it this weekend. Keep an eye out.\u003c/p\u003e\n\u003ch2 id=\"update\"\u003eUpdate\u003c/h2\u003e\n\u003cp\u003eI figured out how to get Bit Torrent setup, so you can now download these files via BT too!\u003c/p\u003e\n",
+        "plain":"For those interested, I’ve added a few more mirrors for the Standalone IE downloads. I’m really beginning to feel the download stress here at Skyzyx.com, as I hit ~25GB transfer last month and my max is 30GB per month. So, I signed up for a Dreamhost account (I caught the 1 year for $7.77 deal!) which added another 40 or 60 GB of transfer a month… I forget which. Either way, I’m not too worried anymore about going over my transfer bandwidth for the month anymore.\nI’ve gone ahead and added my new server (www.skyzyx.net) to the download list as “Primary Download 1”. I’ve also finally gotten around to adding the MackHosting.com mirror. Chris at MackHosting.com has turned out to be a cool guy that I’ve gotten a chance to talk to a bit via IM. Although he’s not a weblogger, he does offer really good small business hosting plans (100 MB space and 1GB transfer for $30/year). Go give his website some love.\nI’ve also been contacted by someone who knows how to enable conditional comments in the Standalone IE’s. I’ve really been lagging on getting this information out to the public, but I’m hoping to get to it this weekend. Keep an eye out.\nUpdate I figured out how to get Bit Torrent setup, so you can now download these files via BT too!\n",
+        "source":"\nFor those interested, I’ve added a few more mirrors for the [Standalone IE downloads](/downloads/). I’m really beginning to feel the download stress here at Skyzyx.com, as I hit ~25GB transfer last month and my max is 30GB per month. So, I signed up for a [Dreamhost]({{% wayback \"http://www.dreamhost.com\" %}}) account (I caught the 1 year for $7.77 deal!) which added another 40 or 60 GB of transfer a month… I forget which. Either way, I’m not too worried anymore about going over my transfer bandwidth for the month anymore.\n\nI’ve gone ahead and added my new server (www.skyzyx.net) to the download list as “Primary Download 1”. I’ve also finally gotten around to adding the [MackHosting.com]({{% wayback \"http://www.mackhosting.com\" %}}) mirror. Chris at MackHosting.com has turned out to be a cool guy that I’ve gotten a chance to talk to a bit via IM. Although he’s not a weblogger, he does offer really good small business hosting plans (100 MB space and 1GB transfer for $30/year). Go give his website some love.\n\nI’ve also been contacted by someone who knows how to enable conditional comments in the Standalone IE’s. I’ve really been lagging on getting this information out to the public, but I’m hoping to get to it this weekend. Keep an eye out.\n\n## Update\n\nI figured out how to get Bit Torrent setup, so you can now download these files via BT too!\n"},
+    "links": {
+        "prev": {"title": "Why Did The Chicken Cross The Road?", "permalink": "https://ryanparman.com/posts/2004/why-did-the-chicken-cross-the-road/"},
+        "next": {"title": "Firefox Optimized for G4/G5", "permalink": "https://ryanparman.com/posts/2004/firefox-optimized-for-g4g5/"},
+        "ignore": "me"
+    }
+}
+
+}

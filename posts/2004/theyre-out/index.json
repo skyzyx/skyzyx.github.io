@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "They're Out!",
+    "description": "",
+    "summary": {
+        "content": "New releases of Blocker and Feed Parser are now available. Blocker 1.3 sports the blocking of 120 more bots than v1.2 did, as well as some new referrers that I’ve just been made aware of over the last week. I’ll be releasing point-point-releases to this as I’m able to analyze more Blocker data from users. Feed Parser 0.6 sports support for RSS 0.9x, RSS 2.0, RSS 1.0 (RDF), and Atom 0.3. Support for RSS 1.0 Modules and OPML is in the works.",
+        "isTruncated": true
+    },
+    "published": "2004-03-23T17:30:57Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/theyre-out/",
+    "relativePermalink": "/posts/2004/theyre-out/",
+    "aliases": ["/2004/03/23/theyre-out/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 110,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040323-theyre-out.md",
+        "logicalName": "20040323-theyre-out.md",
+        "translationBaseName": "20040323-theyre-out",
+        "baseFileName": "20040323-theyre-out",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eNew releases of \u003ca href=\"/projects/blocker/\"\u003eBlocker\u003c/a\u003e and \u003ca href=\"/projects/feedparser/\"\u003eFeed Parser\u003c/a\u003e are now available. Blocker 1.3 sports the blocking of 120 more bots than v1.2 did, as well as some new referrers that I’ve just been made aware of over the last week. I’ll be releasing point-point-releases to this as I’m able to analyze more Blocker data from users. Feed Parser 0.6 sports support for RSS 0.9x, RSS 2.0, RSS 1.0 (RDF), and Atom 0.3. Support for RSS 1.0 Modules and OPML is in the works.\u003c/p\u003e\n\u003cp\u003eHere, you can get the latest and greatest version of both \u003ca href=\"/projects/blocker/blocker_1.3r1.zip\"\u003eBlocker\u003c/a\u003e and \u003ca href=\"/projects/feedparser/feedparser_0.6.zip\"\u003eFeed Parser\u003c/a\u003e. Have any questions or comments? Let me know about them in the comments!\u003c/p\u003e\n",
+        "plain":"New releases of Blocker and Feed Parser are now available. Blocker 1.3 sports the blocking of 120 more bots than v1.2 did, as well as some new referrers that I’ve just been made aware of over the last week. I’ll be releasing point-point-releases to this as I’m able to analyze more Blocker data from users. Feed Parser 0.6 sports support for RSS 0.9x, RSS 2.0, RSS 1.0 (RDF), and Atom 0.3. Support for RSS 1.0 Modules and OPML is in the works.\nHere, you can get the latest and greatest version of both Blocker and Feed Parser. Have any questions or comments? Let me know about them in the comments!\n",
+        "source":"\nNew releases of [Blocker](/projects/blocker/) and [Feed Parser](/projects/feedparser/) are now available. Blocker 1.3 sports the blocking of 120 more bots than v1.2 did, as well as some new referrers that I’ve just been made aware of over the last week. I’ll be releasing point-point-releases to this as I’m able to analyze more Blocker data from users. Feed Parser 0.6 sports support for RSS 0.9x, RSS 2.0, RSS 1.0 (RDF), and Atom 0.3. Support for RSS 1.0 Modules and OPML is in the works.\n\nHere, you can get the latest and greatest version of both [Blocker](/projects/blocker/blocker_1.3r1.zip) and [Feed Parser](/projects/feedparser/feedparser_0.6.zip). Have any questions or comments? Let me know about them in the comments!\n"},
+    "links": {
+        "prev": {"title": "Feed Parser and Blocker Updates", "permalink": "https://ryanparman.com/posts/2004/feed-parser-and-blocker-updates/"},
+        "next": {"title": "iPod Goodness", "permalink": "https://ryanparman.com/posts/2004/ipod-goodness/"},
+        "ignore": "me"
+    }
+}
+
+}

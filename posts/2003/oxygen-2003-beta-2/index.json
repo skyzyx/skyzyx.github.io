@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Oxygen 2003, Beta 2",
+    "description": "",
+    "summary": {
+        "content": "My website has been down for the last year or so. After 2001’s Rhapsody and Rhapsody 2 projects, I decided to re-write the entire site around what I called the Element 3 Kernal, thus producing 2002’s Element 3. Element 3 maintained many of the interface elements from Rhapsody and R2, but was completely re-engineered to be more code-efficient. Element 3 was never officially launched as a Skyzyx.com site, but the interface lives on at Golden Rule Produce. I’ve been studying standards-compliance alot over the last several months, and decided to try it out with The Unknown Jeromes.",
+        "isTruncated": true
+    },
+    "published": "2003-03-21T16:03:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/oxygen-2003-beta-2/",
+    "relativePermalink": "/posts/2003/oxygen-2003-beta-2/",
+    "aliases": ["/2003/03/21/oxygen-2003-beta-2/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 255,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030321-oxygen-2003-beta-2.md",
+        "logicalName": "20030321-oxygen-2003-beta-2.md",
+        "translationBaseName": "20030321-oxygen-2003-beta-2",
+        "baseFileName": "20030321-oxygen-2003-beta-2",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eMy website has been down for the last year or so. After 2001’s Rhapsody and Rhapsody 2 projects, I decided to re-write the entire site around what I called the Element 3 Kernal, thus producing 2002’s Element 3. Element 3 maintained many of the interface elements from Rhapsody and R2, but was completely re-engineered to be more code-efficient. Element 3 was never officially launched as a Skyzyx.com site, but the interface lives on at \u003ca href=\"https://web.archive.org/web/20030321160300/http://www.goldenruleproduce.com/home/\" title=\"Really nice people.\"\u003eGolden Rule Produce\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eI’ve been studying standards-compliance alot over the last several months, and decided to try it out with \u003ca href=\"https://web.archive.org/web/20030321160300/http://www.unknownjeromes.com\" title=\"The funk, and nothin' but the funk!\"\u003eThe Unknown Jeromes\u003c/a\u003e. It worked well. Because of this, I’ve decided to go with the same concepts for Oxygen 2003. As with Apple’s term \u003ca href=\"https://web.archive.org/web/20030321160300/http://developer.apple.com/carbon/\" title=\"Allows for Mac OS X features under OSX, but still runs on Mac OS 9.\"\u003e“Carbon”\u003c/a\u003e, from which all life on Earth is based (referring to the toolbox used to port Mac OS 9 applications to support Mac OS X features), the term “Oxygen” represents what the web needs in order to survive. Web designers and developers need to make the move away from the \u003ca href=\"https://web.archive.org/web/20030321160300/http://www.w3.org/TR/html4/present/graphics.html#h-15.2.2\" title=\"FONT has been depreciated as of 1999.\"\u003e\u003ccode\u003e\u0026lt;font\u0026gt;\u003c/code\u003e\u003c/a\u003e tag of old, as well as \u003ca href=\"https://web.archive.org/web/20030321160300/http://www.alistapart.com/stories/flexiblelayouts/\" title=\"CSS layouts can be much better when you learn them.\"\u003e\u003ccode\u003e\u0026lt;table\u0026gt;\u003c/code\u003e based layouts\u003c/a\u003e. I have completely eliminated the archaic \u003ccode\u003e\u0026lt;font\u0026gt;\u003c/code\u003e tag, and have minimized use of the \u003ccode\u003e\u0026lt;table\u0026gt;\u003c/code\u003e tag down to one. Of course, the only reason why I left that one in is because of a retarded rendering bug in Internet Explorer that doesn’t want to obey rules regarding absolute-right positioning within nested \u003ccode\u003e\u0026lt;div\u0026gt;\u003c/code\u003e tags. Grrr…\u003c/p\u003e\n\u003cp\u003eAnyway, the point is that this is a work in progress. Take it at that. I’ll let you know when it’s ready. =)\u003c/p\u003e\n",
+        "plain":"My website has been down for the last year or so. After 2001’s Rhapsody and Rhapsody 2 projects, I decided to re-write the entire site around what I called the Element 3 Kernal, thus producing 2002’s Element 3. Element 3 maintained many of the interface elements from Rhapsody and R2, but was completely re-engineered to be more code-efficient. Element 3 was never officially launched as a Skyzyx.com site, but the interface lives on at Golden Rule Produce.\nI’ve been studying standards-compliance alot over the last several months, and decided to try it out with The Unknown Jeromes. It worked well. Because of this, I’ve decided to go with the same concepts for Oxygen 2003. As with Apple’s term “Carbon”, from which all life on Earth is based (referring to the toolbox used to port Mac OS 9 applications to support Mac OS X features), the term “Oxygen” represents what the web needs in order to survive. Web designers and developers need to make the move away from the \u0026lt;font\u0026gt; tag of old, as well as \u0026lt;table\u0026gt; based layouts. I have completely eliminated the archaic \u0026lt;font\u0026gt; tag, and have minimized use of the \u0026lt;table\u0026gt; tag down to one. Of course, the only reason why I left that one in is because of a retarded rendering bug in Internet Explorer that doesn’t want to obey rules regarding absolute-right positioning within nested \u0026lt;div\u0026gt; tags. Grrr…\nAnyway, the point is that this is a work in progress. Take it at that. I’ll let you know when it’s ready. =)\n",
+        "source":"\nMy website has been down for the last year or so. After 2001’s Rhapsody and Rhapsody 2 projects, I decided to re-write the entire site around what I called the Element 3 Kernal, thus producing 2002’s Element 3. Element 3 maintained many of the interface elements from Rhapsody and R2, but was completely re-engineered to be more code-efficient. Element 3 was never officially launched as a Skyzyx.com site, but the interface lives on at [Golden Rule Produce]({{% wayback \"http://www.goldenruleproduce.com/home/\" %}} \"Really nice people.\").\n\nI’ve been studying standards-compliance alot over the last several months, and decided to try it out with [The Unknown Jeromes]({{% wayback \"http://www.unknownjeromes.com\" %}} \"The funk, and nothin' but the funk!\"). It worked well. Because of this, I’ve decided to go with the same concepts for Oxygen 2003. As with Apple’s term [“Carbon”]({{% wayback \"http://developer.apple.com/carbon/\" %}} \"Allows for Mac OS X features under OSX, but still runs on Mac OS 9.\"), from which all life on Earth is based (referring to the toolbox used to port Mac OS 9 applications to support Mac OS X features), the term “Oxygen” represents what the web needs in order to survive. Web designers and developers need to make the move away from the [`\u003cfont\u003e`]({{% wayback \"http://www.w3.org/TR/html4/present/graphics.html#h-15.2.2\" %}} \"FONT has been depreciated as of 1999.\") tag of old, as well as [`\u003ctable\u003e` based layouts]({{% wayback \"http://www.alistapart.com/stories/flexiblelayouts/\" %}} \"CSS layouts can be much better when you learn them.\"). I have completely eliminated the archaic `\u003cfont\u003e` tag, and have minimized use of the `\u003ctable\u003e` tag down to one. Of course, the only reason why I left that one in is because of a retarded rendering bug in Internet Explorer that doesn’t want to obey rules regarding absolute-right positioning within nested `\u003cdiv\u003e` tags. Grrr…\n\nAnyway, the point is that this is a work in progress. Take it at that. I’ll let you know when it’s ready. =)\n"},
+    "links": {
+        
+        "next": {"title": "War with Iraq", "permalink": "https://ryanparman.com/posts/2003/war-with-iraq/"},
+        "ignore": "me"
+    }
+}
+
+}

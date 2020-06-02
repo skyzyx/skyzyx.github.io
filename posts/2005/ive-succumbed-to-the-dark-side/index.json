@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "I've Succumbed to the Dark Side",
+    "description": "",
+    "summary": {
+        "content": "I’ve succumbed to the dark side. My brother, my sister, my 2 best friends, and another really close friend were all telling me about this great website where you can find anybody you’ve ever known because everybody is on it. I’m now on MySpace. *Hangs head in shame* I want to apologize to all of you that had any respect for me as a person, a blogger, a web developer, a music lover, or anything else. I have let you all down.",
+        "isTruncated": true
+    },
+    "published": "2005-11-27T15:43:23Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/ive-succumbed-to-the-dark-side/",
+    "relativePermalink": "/posts/2005/ive-succumbed-to-the-dark-side/",
+    "aliases": ["/2005/11/27/ive-succumbed-to-the-dark-side/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Tech Life"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 124,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20051127-ive-succumbed-to-the-dark-side.md",
+        "logicalName": "20051127-ive-succumbed-to-the-dark-side.md",
+        "translationBaseName": "20051127-ive-succumbed-to-the-dark-side",
+        "baseFileName": "20051127-ive-succumbed-to-the-dark-side",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve succumbed to the dark side. My brother, my sister, my 2 best friends, and another really close friend were all telling me about this great website where you can find anybody you’ve \u003cem\u003eever\u003c/em\u003e known because \u003cem\u003eeverybody\u003c/em\u003e is on it.\u003c/p\u003e\n\u003cp\u003eI’m now on \u003ca href=\"https://web.archive.org/web/20051127154323/http://www.myspace.com\"\u003eMySpace\u003c/a\u003e. *Hangs head in shame*\u003c/p\u003e\n\u003cp\u003eI want to apologize to all of you that had any respect for me as a person, a blogger, a web developer, a music lover, or anything else. I have let you all down. Now I’m just a dork who sits around on long Thanksgiving holidays waiting for other people to send me messages, and trying to think of ways to spruce up my “Space”.\u003c/p\u003e\n\u003cp\u003eI hope you can all forgive me. BTW, \u003ca href=\"https://web.archive.org/web/20051127154323/http://www.myspace.com/skyzyx\"\u003ehere it is\u003c/a\u003e…\u003c/p\u003e\n",
+        "plain":"I’ve succumbed to the dark side. My brother, my sister, my 2 best friends, and another really close friend were all telling me about this great website where you can find anybody you’ve ever known because everybody is on it.\nI’m now on MySpace. *Hangs head in shame*\nI want to apologize to all of you that had any respect for me as a person, a blogger, a web developer, a music lover, or anything else. I have let you all down. Now I’m just a dork who sits around on long Thanksgiving holidays waiting for other people to send me messages, and trying to think of ways to spruce up my “Space”.\nI hope you can all forgive me. BTW, here it is…\n",
+        "source":"\nI’ve succumbed to the dark side. My brother, my sister, my 2 best friends, and another really close friend were all telling me about this great website where you can find anybody you’ve *ever* known because *everybody* is on it.\n\nI’m now on [MySpace]({{% wayback \"http://www.myspace.com\" %}}). \\*Hangs head in shame\\*\n\nI want to apologize to all of you that had any respect for me as a person, a blogger, a web developer, a music lover, or anything else. I have let you all down. Now I’m just a dork who sits around on long Thanksgiving holidays waiting for other people to send me messages, and trying to think of ways to spruce up my “Space”.\n\nI hope you can all forgive me. BTW, [here it is]({{% wayback \"http://www.myspace.com/skyzyx\" %}})…\n"},
+    "links": {
+        "prev": {"title": "Best Wife Ever", "permalink": "https://ryanparman.com/posts/2005/best-wife-ever/"},
+        "next": {"title": "Firefox 1.5, Now Available", "permalink": "https://ryanparman.com/posts/2005/firefox-15-now-available/"},
+        "ignore": "me"
+    }
+}
+
+}

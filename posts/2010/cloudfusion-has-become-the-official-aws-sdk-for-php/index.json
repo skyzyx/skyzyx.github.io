@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "CloudFusion has become the official AWS SDK for PHP!",
+    "description": "",
+    "summary": {
+        "content": "It’s always been a dream of mine to get paid to work on something I love. I spent more than 5 years working on SimplePie, and although it gained hundreds of thousands of users all over the world, it never gave anything back to me. It was a labor of love, and I did it both for the recognition as well as my desire to take something complex and make it simple. In July 2007, while working on my startup — WarpShare — I rebooted my old Tarzan project, which was a wrapper around what is now Amazon’s Product Advertising API.",
+        "isTruncated": true
+    },
+    "published": "2010-09-29T01:39:20Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2010/cloudfusion-has-become-the-official-aws-sdk-for-php/",
+    "relativePermalink": "/posts/2010/cloudfusion-has-become-the-official-aws-sdk-for-php/",
+    "aliases": ["/2010/09/28/cloudfusion-has-become-the-official-aws-sdk-for-php/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 266,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2010/20100929-cloudfusion-has-become-the-official-aws-sdk-for-php.md",
+        "logicalName": "20100929-cloudfusion-has-become-the-official-aws-sdk-for-php.md",
+        "translationBaseName": "20100929-cloudfusion-has-become-the-official-aws-sdk-for-php",
+        "baseFileName": "20100929-cloudfusion-has-become-the-official-aws-sdk-for-php",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2010/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eIt’s always been a dream of mine to get paid to work on something I love.\u003c/p\u003e\n\u003cp\u003eI spent more than 5 years working on \u003ca href=\"https://web.archive.org/web/20100929013920/http://simplepie.org\"\u003eSimplePie\u003c/a\u003e, and although it gained hundreds of thousands of users all over the world, it never gave anything back to me. It was a labor of love, and I did it both for the recognition as well as my desire to take something complex and make it simple.\u003c/p\u003e\n\u003cp\u003eIn July 2007, while working on my startup — \u003ca href=\"https://web.archive.org/web/20100929013920/http://warpshare.com\"\u003eWarpShare\u003c/a\u003e — I rebooted my old \u003cem\u003eTarzan\u003c/em\u003e project, which was a wrapper around what is now \u003ca href=\"https://web.archive.org/web/20100929013920/https://affiliate-program.amazon.com/gp/advertising/api/detail/main.html\"\u003eAmazon’s Product Advertising API\u003c/a\u003e. Tarzan grew and grew until it became a fairly popular toolkit for working with \u003ca href=\"https://web.archive.org/web/20100929013920/http://aws.amazon.com\"\u003eAmazon Web Services\u003c/a\u003e. I’ve been amazed to find out who some of my customers are!\u003c/p\u003e\n\u003cp\u003eTarzan caught the attention of two companies — Amazon and \u003ca href=\"https://web.archive.org/web/20100929013920/http://rackspacecloud.com\"\u003eRackspace\u003c/a\u003e. It was during this time when I had Rackspace folks pinging me that I decided that I wanted to branch out beyond just Amazon’s services, and renamed the project to \u003cem\u003eCloudFusion\u003c/em\u003e. Ultimately, however, it wasn’t meant to be. In February 2010, I accepted an offer to join Amazon Web Services to work on the then-secret \u003ca href=\"https://web.archive.org/web/20100929013920/http://aws.amazon.com/sdkforphp\"\u003eAWS SDK for PHP\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eAs of today, \u003cem\u003ethe AWS SDK for PHP has superseded CloudFusion for all of the infrastructure services\u003c/em\u003e. It’s been an exciting time here at Amazon, and I’m looking forward to all of the awesome stuff we have in the pipeline! I hope that you’ll see all of the energy I put into the SDK, and that you’ll come to love it as much as I do!\u003c/p\u003e\n",
+        "plain":"It’s always been a dream of mine to get paid to work on something I love.\nI spent more than 5 years working on SimplePie, and although it gained hundreds of thousands of users all over the world, it never gave anything back to me. It was a labor of love, and I did it both for the recognition as well as my desire to take something complex and make it simple.\nIn July 2007, while working on my startup — WarpShare — I rebooted my old Tarzan project, which was a wrapper around what is now Amazon’s Product Advertising API. Tarzan grew and grew until it became a fairly popular toolkit for working with Amazon Web Services. I’ve been amazed to find out who some of my customers are!\nTarzan caught the attention of two companies — Amazon and Rackspace. It was during this time when I had Rackspace folks pinging me that I decided that I wanted to branch out beyond just Amazon’s services, and renamed the project to CloudFusion. Ultimately, however, it wasn’t meant to be. In February 2010, I accepted an offer to join Amazon Web Services to work on the then-secret AWS SDK for PHP.\nAs of today, the AWS SDK for PHP has superseded CloudFusion for all of the infrastructure services. It’s been an exciting time here at Amazon, and I’m looking forward to all of the awesome stuff we have in the pipeline! I hope that you’ll see all of the energy I put into the SDK, and that you’ll come to love it as much as I do!\n",
+        "source":"\nIt’s always been a dream of mine to get paid to work on something I love.\n\nI spent more than 5 years working on [SimplePie]({{% wayback \"http://simplepie.org\" %}}), and although it gained hundreds of thousands of users all over the world, it never gave anything back to me. It was a labor of love, and I did it both for the recognition as well as my desire to take something complex and make it simple.\n\nIn July 2007, while working on my startup — [WarpShare]({{% wayback \"http://warpshare.com\" %}}) — I rebooted my old *Tarzan* project, which was a wrapper around what is now [Amazon’s Product Advertising API]({{% wayback \"https://affiliate-program.amazon.com/gp/advertising/api/detail/main.html\" %}}). Tarzan grew and grew until it became a fairly popular toolkit for working with [Amazon Web Services]({{% wayback \"http://aws.amazon.com\" %}}). I’ve been amazed to find out who some of my customers are!\n\nTarzan caught the attention of two companies — Amazon and [Rackspace]({{% wayback \"http://rackspacecloud.com\" %}}). It was during this time when I had Rackspace folks pinging me that I decided that I wanted to branch out beyond just Amazon’s services, and renamed the project to *CloudFusion*. Ultimately, however, it wasn’t meant to be. In February 2010, I accepted an offer to join Amazon Web Services to work on the then-secret [AWS SDK for PHP]({{% wayback \"http://aws.amazon.com/sdkforphp\" %}}).\n\nAs of today, *the AWS SDK for PHP has superseded CloudFusion for all of the infrastructure services*. It’s been an exciting time here at Amazon, and I’m looking forward to all of the awesome stuff we have in the pipeline! I hope that you’ll see all of the energy I put into the SDK, and that you’ll come to love it as much as I do!\n"},
+    "links": {
+        "prev": {"title": "PHP Coding Standards", "permalink": "https://ryanparman.com/posts/2010/php-coding-standards/"},
+        "next": {"title": "Dear Oracle, Get a Clue", "permalink": "https://ryanparman.com/posts/2010/dear-oracle-get-a-clue/"},
+        "ignore": "me"
+    }
+}
+
+}

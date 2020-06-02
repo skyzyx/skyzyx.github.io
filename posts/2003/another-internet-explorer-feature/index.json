@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Another Internet Explorer “Feature”",
+    "description": "",
+    "summary": {
+        "content": "I came across something interesting at JoeGrossberg.com. I was using Internet Explorer temporarily while I tried to uninstall the latest “nightly” of Mozilla, and re-install the last Beta version. If you’re using Internet Explorer: var oWMP = new ActiveXObject(\u0026#39;WMPlayer.OCX.7\u0026#39;); var colCDROMS = oWMP.cdromCollection; colCDROMS.Item(0).Eject(); Hmmm… can we all say “security violation”? Let’s see how long it takes Microsoft to fix this bug without an “MS Bugzilla”. On the other hand, with the IE6 freeze, it may never get fixed…",
+        "isTruncated": false
+    },
+    "published": "2003-06-12T07:12:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/another-internet-explorer-feature/",
+    "relativePermalink": "/posts/2003/another-internet-explorer-feature/",
+    "aliases": ["/2003/06/11/another-internet-explorer-feature/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 79,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030612-another-internet-explorer-feature.md",
+        "logicalName": "20030612-another-internet-explorer-feature.md",
+        "translationBaseName": "20030612-another-internet-explorer-feature",
+        "baseFileName": "20030612-another-internet-explorer-feature",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI came across something interesting at \u003ca href=\"https://web.archive.org/web/20030612071200/http://www.joegrossberg.com/archives/000683.html\"\u003eJoeGrossberg.com\u003c/a\u003e. I was using Internet Explorer temporarily while I tried to uninstall the latest \u003ca href=\"https://web.archive.org/web/20030612071200/http://ftp.mozilla.org/pub/mozilla/nightly/latest/\"\u003e“nightly”\u003c/a\u003e of \u003ca href=\"https://web.archive.org/web/20030612071200/http://www.mozilla.org\"\u003eMozilla\u003c/a\u003e, and re-install the last \u003ca href=\"https://web.archive.org/web/20030612071200/http://www.mozilla.org/releases/#1.4b\"\u003eBeta\u003c/a\u003e version.\u003c/p\u003e\n\u003cp\u003eIf you’re using Internet Explorer:\u003c/p\u003e\n\u003cdiv class=\"highlight\"\u003e\u003cpre style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"\u003e\u003ccode class=\"language-javascript\" data-lang=\"javascript\"\u003e\u003cspan style=\"color:#66d9ef\"\u003evar\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003eoWMP\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e=\u003c/span\u003e \u003cspan style=\"color:#66d9ef\"\u003enew\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003eActiveXObject\u003c/span\u003e(\u003cspan style=\"color:#e6db74\"\u003e\u0026#39;WMPlayer.OCX.7\u0026#39;\u003c/span\u003e);\n\u003cspan style=\"color:#66d9ef\"\u003evar\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003ecolCDROMS\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e=\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003eoWMP\u003c/span\u003e.\u003cspan style=\"color:#a6e22e\"\u003ecdromCollection\u003c/span\u003e;\n\u003cspan style=\"color:#a6e22e\"\u003ecolCDROMS\u003c/span\u003e.\u003cspan style=\"color:#a6e22e\"\u003eItem\u003c/span\u003e(\u003cspan style=\"color:#ae81ff\"\u003e0\u003c/span\u003e).\u003cspan style=\"color:#a6e22e\"\u003eEject\u003c/span\u003e();\n\u003c/code\u003e\u003c/pre\u003e\u003c/div\u003e\u003cp\u003eHmmm… can we all say “security violation”? Let’s see how long it takes Microsoft to fix this bug without an “MS Bugzilla”. On the other hand, with the \u003ca href=\"https://web.archive.org/web/20030612071200/http://news.com.com/2100-1032_3-1011859.html?tag=fd_top\"\u003eIE6\u003c/a\u003e \u003ca href=\"https://web.archive.org/web/20030612071200/http://www.web-graphics.com/mtarchive/000881.php\"\u003efreeze\u003c/a\u003e, it may never get fixed…\u003c/p\u003e\n",
+        "plain":"I came across something interesting at JoeGrossberg.com. I was using Internet Explorer temporarily while I tried to uninstall the latest “nightly” of Mozilla, and re-install the last Beta version.\nIf you’re using Internet Explorer:\nvar oWMP = new ActiveXObject(\u0026#39;WMPlayer.OCX.7\u0026#39;); var colCDROMS = oWMP.cdromCollection; colCDROMS.Item(0).Eject(); Hmmm… can we all say “security violation”? Let’s see how long it takes Microsoft to fix this bug without an “MS Bugzilla”. On the other hand, with the IE6 freeze, it may never get fixed…\n",
+        "source":"\nI came across something interesting at [JoeGrossberg.com]({{% wayback \"http://www.joegrossberg.com/archives/000683.html\" %}}). I was using Internet Explorer temporarily while I tried to uninstall the latest [“nightly”]({{% wayback \"http://ftp.mozilla.org/pub/mozilla/nightly/latest/\" %}}) of [Mozilla]({{% wayback \"http://www.mozilla.org\" %}}), and re-install the last [Beta]({{% wayback \"http://www.mozilla.org/releases/#1.4b\" %}}) version.\n\nIf you’re using Internet Explorer:\n\n```javascript\nvar oWMP = new ActiveXObject('WMPlayer.OCX.7');\nvar colCDROMS = oWMP.cdromCollection;\ncolCDROMS.Item(0).Eject();\n```\n\nHmmm… can we all say “security violation”? Let’s see how long it takes Microsoft to fix this bug without an “MS Bugzilla”. On the other hand, with the [IE6]({{% wayback \"http://news.com.com/2100-1032_3-1011859.html?tag=fd_top\" %}}) [freeze]({{% wayback \"http://www.web-graphics.com/mtarchive/000881.php\" %}}), it may never get fixed…\n"},
+    "links": {
+        "prev": {"title": "I See Dead People", "permalink": "https://ryanparman.com/posts/2003/i-see-dead-people/"},
+        "next": {"title": "Nearing Mozilla 1.4rc2", "permalink": "https://ryanparman.com/posts/2003/nearing-mozilla-14rc2/"},
+        "ignore": "me"
+    }
+}
+
+}

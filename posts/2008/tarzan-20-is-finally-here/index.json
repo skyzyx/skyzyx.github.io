@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Tarzan 2.0 is finally here!",
+    "description": "",
+    "summary": {
+        "content": "After 18 months of ongoing development, I am proud to announce the immediate availability of Tarzan 2.0! The Tarzan platform has complete support for six different AWS services (S3, CloudFront, EC2, SimpleDB, SQS, and Amazon Associates) and has been built from the ground-up to be fast, memory-efficient, easy to use, and easy to build on top of by providing a solid set of core tools for your (and our) web application. You can download the 2.0 release from http://bit.ly/tarzan2, and please Digg us at http://bit.",
+        "isTruncated": true
+    },
+    "published": "2008-12-10T17:45:28Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2008/tarzan-20-is-finally-here/",
+    "relativePermalink": "/posts/2008/tarzan-20-is-finally-here/",
+    "aliases": ["/2008/12/10/tarzan-20-is-finally-here/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 85,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2008/20081210-tarzan-20-is-finally-here.md",
+        "logicalName": "20081210-tarzan-20-is-finally-here.md",
+        "translationBaseName": "20081210-tarzan-20-is-finally-here",
+        "baseFileName": "20081210-tarzan-20-is-finally-here",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2008/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eAfter 18 months of ongoing development, I am proud to announce the immediate availability of Tarzan 2.0!\u003c/p\u003e\n\u003cp\u003eThe Tarzan platform has complete support for six different AWS services (S3, CloudFront, EC2, SimpleDB, SQS, and Amazon Associates) and has been built from the ground-up to be fast, memory-efficient, easy to use, and easy to build on top of by providing a solid set of core tools for your (and our) web application.\u003c/p\u003e\n\u003cp\u003eYou can download the 2.0 release from \u003ca href=\"http://bit.ly/tarzan2\"\u003ehttp://bit.ly/tarzan2\u003c/a\u003e, and please Digg us at \u003ca href=\"http://bit.ly/digg-tarzan\"\u003ehttp://bit.ly/digg-tarzan\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":"After 18 months of ongoing development, I am proud to announce the immediate availability of Tarzan 2.0!\nThe Tarzan platform has complete support for six different AWS services (S3, CloudFront, EC2, SimpleDB, SQS, and Amazon Associates) and has been built from the ground-up to be fast, memory-efficient, easy to use, and easy to build on top of by providing a solid set of core tools for your (and our) web application.\nYou can download the 2.0 release from http://bit.ly/tarzan2, and please Digg us at http://bit.ly/digg-tarzan.\n",
+        "source":"\nAfter 18 months of ongoing development, I am proud to announce the immediate availability of Tarzan 2.0!\n\nThe Tarzan platform has complete support for six different AWS services (S3, CloudFront, EC2, SimpleDB, SQS, and Amazon Associates) and has been built from the ground-up to be fast, memory-efficient, easy to use, and easy to build on top of by providing a solid set of core tools for your (and our) web application.\n\nYou can download the 2.0 release from \u003chttp://bit.ly/tarzan2\u003e, and please Digg us at \u003chttp://bit.ly/digg-tarzan\u003e.\n"},
+    "links": {
+        "prev": {"title": "Loving my new iPhone 3G!", "permalink": "https://ryanparman.com/posts/2008/loving-my-new-iphone-3g/"},
+        "next": {"title": "Run Internet Explorer 6 (or IE7, or IE8) images in VMware Fusion on Mac OS X", "permalink": "https://ryanparman.com/posts/2009/run-ie6-ie7-ie8-images-vmware-fusion-macosx/"},
+        "ignore": "me"
+    }
+}
+
+}

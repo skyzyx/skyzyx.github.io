@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Sneak Peek",
+    "description": "",
+    "summary": {
+        "content": "It’s still in the works, but I thought I’d give you all a sneak peek of the new Tarzan Control Panel. Check it out: I’ve still got some things to implement, bugs to fix, design tweaks to make, and API to build, but overall the new 1.2 version of Tarzan is shaping up extemely well. I don’t like to announce timelines for personal projects (as work/professional projects have been known to take up large chunks of time, and I have to dedicate myself to those in order to pay the bills), but I can say “soon”.",
+        "isTruncated": true
+    },
+    "published": "2005-03-31T23:38:25Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/sneak-peek/",
+    "relativePermalink": "/posts/2005/sneak-peek/",
+    "aliases": ["/2005/03/31/sneak-peek/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 155,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050331-sneak-peek.md",
+        "logicalName": "20050331-sneak-peek.md",
+        "translationBaseName": "20050331-sneak-peek",
+        "baseFileName": "20050331-sneak-peek",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eIt’s still in the works, but I thought I’d give you all a sneak peek of the new Tarzan Control Panel. Check it out:\u003c/p\u003e\n\u003cdiv class=\"pa2-ns\"\u003e\n\t\u003camp-img src=\"https://cdn.ryanparman.com/img/tarzan_cp.png\" layout=\"responsive\" width=\"\" height=\"\"\u003e\u003c/amp-img\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eI’ve still got some things to implement, bugs to fix, design tweaks to make, and API to build, but overall the new 1.2 version of Tarzan is shaping up extemely well. I don’t like to announce timelines for \u003cem\u003epersonal projects\u003c/em\u003e (as work/professional projects have been known to take up large chunks of time, and I have to dedicate myself to those in order to pay the bills), but I can say “soon”.\u003c/p\u003e\n\u003cp\u003eI’m also hoping to put out a v1.1.1 release to address \u003ca href=\"https://web.archive.org/web/20050331233825/http://www.dreamhost.com\"\u003eDreamhost’s\u003c/a\u003e recent decision to disable the use of PHP’s \u003ccode\u003efopen()\u003c/code\u003e function for accessing data from external sites. This decision directly affects both \u003ca href=\"/projects/tarzan/\"\u003eTarzan\u003c/a\u003e and \u003ca href=\"/projects/simplepie/\"\u003eSimplePie\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eI know that this is just a visual sneak peek, and there isn’t much here for Tarzan \u003cem\u003edevelopers\u003c/em\u003e, but what do you think?\u003c/p\u003e\n",
+        "plain":"It’s still in the works, but I thought I’d give you all a sneak peek of the new Tarzan Control Panel. Check it out:\n  I’ve still got some things to implement, bugs to fix, design tweaks to make, and API to build, but overall the new 1.2 version of Tarzan is shaping up extemely well. I don’t like to announce timelines for personal projects (as work/professional projects have been known to take up large chunks of time, and I have to dedicate myself to those in order to pay the bills), but I can say “soon”.\nI’m also hoping to put out a v1.1.1 release to address Dreamhost’s recent decision to disable the use of PHP’s fopen() function for accessing data from external sites. This decision directly affects both Tarzan and SimplePie.\nI know that this is just a visual sneak peek, and there isn’t much here for Tarzan developers, but what do you think?\n",
+        "source":"\nIt’s still in the works, but I thought I’d give you all a sneak peek of the new Tarzan Control Panel. Check it out:\n\n{{\u003cfullimage src=\"https://cdn.ryanparman.com/img/tarzan_cp.png\" alt=\"Tarzan Control Panel 1.2 Beta\"\u003e}}\n\nI’ve still got some things to implement, bugs to fix, design tweaks to make, and API to build, but overall the new 1.2 version of Tarzan is shaping up extemely well. I don’t like to announce timelines for *personal projects* (as work/professional projects have been known to take up large chunks of time, and I have to dedicate myself to those in order to pay the bills), but I can say “soon”.\n\nI’m also hoping to put out a v1.1.1 release to address [Dreamhost’s]({{% wayback \"http://www.dreamhost.com\" %}}) recent decision to disable the use of PHP’s `fopen()` function for accessing data from external sites. This decision directly affects both [Tarzan](/projects/tarzan/) and [SimplePie](/projects/simplepie/).\n\nI know that this is just a visual sneak peek, and there isn’t much here for Tarzan *developers*, but what do you think?\n"},
+    "links": {
+        "prev": {"title": "What's New?", "permalink": "https://ryanparman.com/posts/2005/whats-new-3/"},
+        "next": {"title": "Good News, Bad News", "permalink": "https://ryanparman.com/posts/2005/good-news-bad-news/"},
+        "ignore": "me"
+    }
+}
+
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Feed Parser and Blocker Updates",
+    "description": "",
+    "summary": {
+        "content": "I’ve just released an update for Feed Parser bringing us up to version 0.5.1. This release sports full support for RSS 1.0, as well as the RSS 0.9x and 2.0 support that’s been there for a while. Credits for the people who’ve helped me get through tough spots are listed in the release notes and in the code (wherever they contributed). If you’re a Gecko/Mozilla Application Developer itching to develop your own Syndicated News Reader, this engine will do the bulk of the dirty work for you.",
+        "isTruncated": true
+    },
+    "published": "2004-03-18T22:44:37Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/feed-parser-and-blocker-updates/",
+    "relativePermalink": "/posts/2004/feed-parser-and-blocker-updates/",
+    "aliases": ["/2004/03/18/feed-parser-and-blocker-updates/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 196,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040318-feed-parser-and-blocker-updates.md",
+        "logicalName": "20040318-feed-parser-and-blocker-updates.md",
+        "translationBaseName": "20040318-feed-parser-and-blocker-updates",
+        "baseFileName": "20040318-feed-parser-and-blocker-updates",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve just released an update for \u003ca href=\"/projects/feedparser/\"\u003eFeed Parser\u003c/a\u003e bringing us up to version 0.5.1. This release sports full support for RSS 1.0, as well as the RSS 0.9x and 2.0 support that’s been there for a while.\u003c/p\u003e\n\u003cp\u003eCredits for the people who’ve helped me get through tough spots are listed in the release notes and in the code (wherever they contributed). If you’re a Gecko/Mozilla Application Developer itching to develop your own Syndicated News Reader, this engine will do the bulk of the dirty work for you. Read the release notes for my project roadmap.\u003c/p\u003e\n\u003cp\u003eI’ve also got another update to my \u003ca href=\"/projects/blocker/\"\u003eBlocker\u003c/a\u003e software coming up that’s been in Beta for a couple of weeks now. You should all see that by this weekend (hopefully — no promises though). I’ve also got the next major release in the works. The new version works in conjunction with Dean Allen’s \u003ca href=\"https://web.archive.org/web/20040318224437/http://www.textism.com/tools/refer/\"\u003eRefer 2.x\u003c/a\u003e to keep spambots far, far away. Hopefully, it’ll even render the \u003ca href=\"https://web.archive.org/web/20040318224437/http://astrogibs.com/eric/archives/technology/botwhack_10.html\"\u003eBotWhack patch\u003c/a\u003e useless. Not that it’s a bad patch (I use it myself), but I just think it can be improved upon.\u003c/p\u003e\n\u003cp\u003eGot comments, questions, or suggestions about any of this? Let me know. =)\u003c/p\u003e\n",
+        "plain":"I’ve just released an update for Feed Parser bringing us up to version 0.5.1. This release sports full support for RSS 1.0, as well as the RSS 0.9x and 2.0 support that’s been there for a while.\nCredits for the people who’ve helped me get through tough spots are listed in the release notes and in the code (wherever they contributed). If you’re a Gecko/Mozilla Application Developer itching to develop your own Syndicated News Reader, this engine will do the bulk of the dirty work for you. Read the release notes for my project roadmap.\nI’ve also got another update to my Blocker software coming up that’s been in Beta for a couple of weeks now. You should all see that by this weekend (hopefully — no promises though). I’ve also got the next major release in the works. The new version works in conjunction with Dean Allen’s Refer 2.x to keep spambots far, far away. Hopefully, it’ll even render the BotWhack patch useless. Not that it’s a bad patch (I use it myself), but I just think it can be improved upon.\nGot comments, questions, or suggestions about any of this? Let me know. =)\n",
+        "source":"\nI’ve just released an update for [Feed Parser](/projects/feedparser/) bringing us up to version 0.5.1. This release sports full support for RSS 1.0, as well as the RSS 0.9x and 2.0 support that’s been there for a while.\n\nCredits for the people who’ve helped me get through tough spots are listed in the release notes and in the code (wherever they contributed). If you’re a Gecko/Mozilla Application Developer itching to develop your own Syndicated News Reader, this engine will do the bulk of the dirty work for you. Read the release notes for my project roadmap.\n\nI’ve also got another update to my [Blocker](/projects/blocker/) software coming up that’s been in Beta for a couple of weeks now. You should all see that by this weekend (hopefully — no promises though). I’ve also got the next major release in the works. The new version works in conjunction with Dean Allen’s [Refer 2.x]({{% wayback \"http://www.textism.com/tools/refer/\" %}}) to keep spambots far, far away. Hopefully, it’ll even render the [BotWhack patch]({{% wayback \"http://astrogibs.com/eric/archives/technology/botwhack_10.html\" %}}) useless. Not that it’s a bad patch (I use it myself), but I just think it can be improved upon.\n\nGot comments, questions, or suggestions about any of this? Let me know. =)\n"},
+    "links": {
+        "prev": {"title": "100 Miles an Hour with My Hair on Fire!", "permalink": "https://ryanparman.com/posts/2004/100-miles-an-hour-with-my-hair-on-fire/"},
+        "next": {"title": "They're Out!", "permalink": "https://ryanparman.com/posts/2004/theyre-out/"},
+        "ignore": "me"
+    }
+}
+
+}

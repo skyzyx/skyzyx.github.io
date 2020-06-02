@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Pirated Sites",
+    "description": "",
+    "summary": {
+        "content": "I just checked out Pirated Sites website, and saw my submission at the top of the front page. Granted, it says “Anonymous”, but it was me. Really it was. Destroy Drop was designed by Geir Landro (who is also the guy who wrote dTree). His site was copied in the form of Emoticate.net by a guy who calls himself “Krycek”. I recognized Krycek’s design, and submitted it. If I remember correctly, Krycek tried to play it off as though he was the one who came up with the design, but I knew he was caught.",
+        "isTruncated": true
+    },
+    "published": "2003-09-09T22:43:24Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/pirated-sites/",
+    "relativePermalink": "/posts/2003/pirated-sites/",
+    "aliases": ["/2003/09/09/pirated-sites/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Design"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 96,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030909-pirated-sites.md",
+        "logicalName": "20030909-pirated-sites.md",
+        "translationBaseName": "20030909-pirated-sites",
+        "baseFileName": "20030909-pirated-sites",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI just checked out \u003ca href=\"https://web.archive.org/web/20030909224324/http://www.pirated-sites.com\"\u003ePirated Sites\u003c/a\u003e website, and saw my submission at the top of the front page. Granted, it says “Anonymous”, but it was me. Really it was.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20030909224324/http://www.destroydrop.com:80/\"\u003eDestroy Drop\u003c/a\u003e was designed by Geir Landro (who is also the guy who wrote \u003ca href=\"/scripts/dtree.php\"\u003edTree\u003c/a\u003e). His site was copied in the form of \u003ca href=\"https://web.archive.org/web/20030909224324/http://www.emoticate.net\"\u003eEmoticate.net\u003c/a\u003e by a guy who calls himself “Krycek”. I recognized Krycek’s design, and submitted it.\u003c/p\u003e\n\u003cp\u003eIf I remember correctly, Krycek tried to play it off as though \u003cem\u003ehe\u003c/em\u003e was the one who came up with the design, but I knew he was caught. Mwah-ha-hah!\u003c/p\u003e\n",
+        "plain":"I just checked out Pirated Sites website, and saw my submission at the top of the front page. Granted, it says “Anonymous”, but it was me. Really it was.\nDestroy Drop was designed by Geir Landro (who is also the guy who wrote dTree). His site was copied in the form of Emoticate.net by a guy who calls himself “Krycek”. I recognized Krycek’s design, and submitted it.\nIf I remember correctly, Krycek tried to play it off as though he was the one who came up with the design, but I knew he was caught. Mwah-ha-hah!\n",
+        "source":"\nI just checked out [Pirated Sites]({{% wayback \"http://www.pirated-sites.com\" %}}) website, and saw my submission at the top of the front page. Granted, it says “Anonymous”, but it was me. Really it was.\n\n[Destroy Drop]({{% wayback \"http://www.destroydrop.com:80/\" %}}) was designed by Geir Landro (who is also the guy who wrote [dTree](/scripts/dtree.php)). His site was copied in the form of [Emoticate.net]({{% wayback \"http://www.emoticate.net\" %}}) by a guy who calls himself “Krycek”. I recognized Krycek’s design, and submitted it.\n\nIf I remember correctly, Krycek tried to play it off as though *he* was the one who came up with the design, but I knew he was caught. Mwah-ha-hah!\n"},
+    "links": {
+        "prev": {"title": "My Portfolio and Sitemap", "permalink": "https://ryanparman.com/posts/2003/my-portfolio-and-sitemap/"},
+        "next": {"title": "Simple Pleasures", "permalink": "https://ryanparman.com/posts/2003/simple-pleasures/"},
+        "ignore": "me"
+    }
+}
+
+}

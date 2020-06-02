@@ -1,0 +1,64 @@
+{
+    "data": {
+        
+        
+        "taxonomy": "tag",
+        "term": "deadbolt",
+        
+        "count": 1,
+        "items": [
+            
+            {
+    "kind": "page",
+    "title": "Dear Lockitron",
+    "description": "",
+    "summary": {
+        "content": "This is the message I just sent to the Lockitron team. I’m tired and frustrated at how poor the communication has been around schedule delays. I ordered in October 2012. My original ship date was supposed to be October 2013. The date passed, and there were no updates. Then, April 2014 was the ship date. Still nothing. It’s now July 2014, and it still hasn’t shipped. I’ve read the blog posts. I know you guys are behind. But how about this — if you’re going to miss the forecasted ship date by a matter of months, why not send me an email to let me know that your website is lying to me?",
+        "isTruncated": true
+    },
+    "published": "2014-07-11T06:55:48Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2014/dear-lockitron/",
+    "relativePermalink": "/posts/2014/dear-lockitron/",
+    "aliases": ["/2014/07/10/dear-lockitron/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Tech Life"],
+    "tags": ["lockitron", "deadbolt"],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 163,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2014/20140711-dear-lockitron.md",
+        "logicalName": "20140711-dear-lockitron.md",
+        "translationBaseName": "20140711-dear-lockitron",
+        "baseFileName": "20140711-dear-lockitron",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2014/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eThis is the message I just sent to the \u003ca href=\"https://web.archive.org/web/20140711065548/https://lockitron.com\"\u003eLockitron\u003c/a\u003e team. I’m tired and frustrated at how poor the communication has been around schedule delays.\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eI ordered in October 2012. My original ship date was supposed to be October 2013. The date passed, and there were no updates. Then, April 2014 was the ship date. Still nothing. It’s now July 2014, and it still hasn’t shipped.\u003c/p\u003e\n\u003cp\u003eI’ve read the blog posts. I know you guys are behind. But how about this — if you’re going to miss the forecasted ship date by a matter of \u003cem\u003emonths\u003c/em\u003e, why not send me an email to let me know that your website is lying to me?\u003c/p\u003e\n\u003cp\u003eI don’t want an apology. I want better communication.\u003c/p\u003e\n\u003cp\u003eI’m \u003cem\u003ethis close\u003c/em\u003e to canceling my order and going with an \u003ca href=\"https://web.archive.org/web/20140711065548/https://shop.smartthings.com/#!/products/schlage-century-touchscreen-deadbolt\"\u003eautomated lock from Schlage that works with the SmartThings service\u003c/a\u003e. Give me a reason to continue caring about Lockitron. Please. Here is a wide-open, moment-not-yet-passed opportunity to make things right.\u003c/p\u003e\n\u003c/blockquote\u003e\n",
+        "plain":"This is the message I just sent to the Lockitron team. I’m tired and frustrated at how poor the communication has been around schedule delays.\n I ordered in October 2012. My original ship date was supposed to be October 2013. The date passed, and there were no updates. Then, April 2014 was the ship date. Still nothing. It’s now July 2014, and it still hasn’t shipped.\nI’ve read the blog posts. I know you guys are behind. But how about this — if you’re going to miss the forecasted ship date by a matter of months, why not send me an email to let me know that your website is lying to me?\nI don’t want an apology. I want better communication.\nI’m this close to canceling my order and going with an automated lock from Schlage that works with the SmartThings service. Give me a reason to continue caring about Lockitron. Please. Here is a wide-open, moment-not-yet-passed opportunity to make things right.\n ",
+        "source":"\nThis is the message I just sent to the [Lockitron]({{% wayback \"https://lockitron.com\" %}}) team. I’m tired and frustrated at how poor the communication has been around schedule delays.\n\n\u003e I ordered in October 2012. My original ship date was supposed to be October 2013. The date passed, and there were no updates. Then, April 2014 was the ship date. Still nothing. It’s now July 2014, and it still hasn’t shipped.\n\u003e\n\u003e I’ve read the blog posts. I know you guys are behind. But how about this — if you’re going to miss the forecasted ship date by a matter of *months*, why not send me an email to let me know that your website is lying to me?\n\u003e\n\u003e I don’t want an apology. I want better communication.\n\u003e\n\u003e I’m *this close* to canceling my order and going with an [automated lock from Schlage that works with the SmartThings service]({{% wayback \"https://shop.smartthings.com/#!/products/schlage-century-touchscreen-deadbolt\" %}}). Give me a reason to continue caring about Lockitron. Please. Here is a wide-open, moment-not-yet-passed opportunity to make things right.\n"},
+    "links": {
+        "prev": {"title": "If your website supports passwords, please stop sucking at it", "permalink": "https://ryanparman.com/posts/2014/if-your-website-supports-passwords-please-stop-sucking-at-it/"},
+        "next": {"title": "Apple’s October 2014 Product Announcement", "permalink": "https://ryanparman.com/posts/2014/apples-october-2014-product-announcement/"},
+        "ignore": "me"
+    }
+}
+
+            
+        ]
+    }
+}

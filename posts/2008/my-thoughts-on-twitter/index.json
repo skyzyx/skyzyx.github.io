@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "My thoughts on Twitter",
+    "description": "",
+    "summary": {
+        "content": "Twitter has tweaked their design as of this morning, and they added a link titled “Tell us your story,” in which they ask about your thoughts as a Twitter user. Here’s what I had to say. I’m an information junkie with a limited attention span. Twitter has all of the interesting links and thoughts of a Digg, Newspond, del.icio.us, or Ma.gnolia, but is filtered by people I follow, giving me a much higher signal to noise ratio for links and services that require my attention (or that I may want to give my attention to).",
+        "isTruncated": true
+    },
+    "published": "2008-04-09T17:30:13Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2008/my-thoughts-on-twitter/",
+    "relativePermalink": "/posts/2008/my-thoughts-on-twitter/",
+    "aliases": ["/2008/04/09/my-thoughts-on-twitter/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Tech Life"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 339,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2008/20080409-my-thoughts-on-twitter.md",
+        "logicalName": "20080409-my-thoughts-on-twitter.md",
+        "translationBaseName": "20080409-my-thoughts-on-twitter",
+        "baseFileName": "20080409-my-thoughts-on-twitter",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2008/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eTwitter has tweaked their design as of this morning, and they added a link titled “Tell us your story,” in which they ask about your thoughts as a Twitter user. Here’s what I had to say.\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eI’m an information junkie with a limited attention span. Twitter has all of the interesting links and thoughts of a Digg, Newspond, del.icio.us, or Ma.gnolia, but is filtered by people I follow, giving me a much higher signal to noise ratio for links and services that require my attention (or that I may want to give my attention to).\u003c/p\u003e\n\u003cp\u003eI’m interested in what people are thinking about. Twitter is perfect for this. “Tell us what you’re doing, in 140 characters or less” is fantastic because it forces the short, to-the-point posts. As a “thought publisher” on Twitter, it’s less demanding than, say, writing a blog post.\u003c/p\u003e\n\u003cp\u003eI work on a couple of open-source projects, as well as a commercial project. We’ve configured our subversion post-commit hook to trigger a Twitter update containing the log message. As we all work on the project throughout the day, I’m able to have up-to-the-minute notifications that tell me where in the development process we are at any given time. My commercial project has protected updates, and my open-source project has public updates so that our technically-oriented end-users can follow progress.\u003c/p\u003e\n\u003cp\u003eTwitter has become an indispensable utility for me. Being a Mac user, Twitter is as critical of a utility to me as Mail, Address Book, QuickSilver, Growl, and Adium. I don’t have to put a lot of time and effort into it, it has a very specific purpose, and I can engage with it passively if I choose to (I receive Growl notifications via Twitterrific, for example).\u003c/p\u003e\n\u003cp\u003eTwitter is interesting, useful, and non-demanding (both as a “publisher” of tweets as well as a “consumer” of tweets). My only half-hearted complaint is that the Flash widgets are ugly as sin, but that’s why we have RSS feeds and open-source tools such as SimplePie to parse them, right? :)\u003c/p\u003e\n\u003c/blockquote\u003e\n",
+        "plain":"Twitter has tweaked their design as of this morning, and they added a link titled “Tell us your story,” in which they ask about your thoughts as a Twitter user. Here’s what I had to say.\n I’m an information junkie with a limited attention span. Twitter has all of the interesting links and thoughts of a Digg, Newspond, del.icio.us, or Ma.gnolia, but is filtered by people I follow, giving me a much higher signal to noise ratio for links and services that require my attention (or that I may want to give my attention to).\nI’m interested in what people are thinking about. Twitter is perfect for this. “Tell us what you’re doing, in 140 characters or less” is fantastic because it forces the short, to-the-point posts. As a “thought publisher” on Twitter, it’s less demanding than, say, writing a blog post.\nI work on a couple of open-source projects, as well as a commercial project. We’ve configured our subversion post-commit hook to trigger a Twitter update containing the log message. As we all work on the project throughout the day, I’m able to have up-to-the-minute notifications that tell me where in the development process we are at any given time. My commercial project has protected updates, and my open-source project has public updates so that our technically-oriented end-users can follow progress.\nTwitter has become an indispensable utility for me. Being a Mac user, Twitter is as critical of a utility to me as Mail, Address Book, QuickSilver, Growl, and Adium. I don’t have to put a lot of time and effort into it, it has a very specific purpose, and I can engage with it passively if I choose to (I receive Growl notifications via Twitterrific, for example).\nTwitter is interesting, useful, and non-demanding (both as a “publisher” of tweets as well as a “consumer” of tweets). My only half-hearted complaint is that the Flash widgets are ugly as sin, but that’s why we have RSS feeds and open-source tools such as SimplePie to parse them, right? :)\n ",
+        "source":"\nTwitter has tweaked their design as of this morning, and they added a link titled “Tell us your story,” in which they ask about your thoughts as a Twitter user. Here’s what I had to say.\n\n\u003e I’m an information junkie with a limited attention span. Twitter has all of the interesting links and thoughts of a Digg, Newspond, del.icio.us, or Ma.gnolia, but is filtered by people I follow, giving me a much higher signal to noise ratio for links and services that require my attention (or that I may want to give my attention to).\n\u003e\n\u003e I’m interested in what people are thinking about. Twitter is perfect for this. “Tell us what you’re doing, in 140 characters or less” is fantastic because it forces the short, to-the-point posts. As a “thought publisher” on Twitter, it’s less demanding than, say, writing a blog post.\n\u003e \n\u003e I work on a couple of open-source projects, as well as a commercial project. We’ve configured our subversion post-commit hook to trigger a Twitter update containing the log message. As we all work on the project throughout the day, I’m able to have up-to-the-minute notifications that tell me where in the development process we are at any given time. My commercial project has protected updates, and my open-source project has public updates so that our technically-oriented end-users can follow progress.\n\u003e\n\u003e Twitter has become an indispensable utility for me. Being a Mac user, Twitter is as critical of a utility to me as Mail, Address Book, QuickSilver, Growl, and Adium. I don’t have to put a lot of time and effort into it, it has a very specific purpose, and I can engage with it passively if I choose to (I receive Growl notifications via Twitterrific, for example).\n\u003e\n\u003e Twitter is interesting, useful, and non-demanding (both as a “publisher” of tweets as well as a “consumer” of tweets). My only half-hearted complaint is that the Flash widgets are ugly as sin, but that’s why we have RSS feeds and open-source tools such as SimplePie to parse them, right? :)\n"},
+    "links": {
+        "prev": {"title": "Obama ‘08", "permalink": "https://ryanparman.com/posts/2008/obama-08/"},
+        "next": {"title": "Yahoo! Messenger redesign is live!", "permalink": "https://ryanparman.com/posts/2008/yahoo-messenger-redesign-is-live/"},
+        "ignore": "me"
+    }
+}
+
+}

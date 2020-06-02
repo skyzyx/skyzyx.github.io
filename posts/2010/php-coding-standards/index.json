@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "PHP Coding Standards",
+    "description": "",
+    "summary": {
+        "content": "For the past several years, I’ve been developing a coding style for PHP that all began with SimplePie. Since then, I’ve been polishing the standards from one project to the next to the point where I believe that I have a solid, rational set of guidelines that others can share and re-use. Any feedback that other PHP developers may have is welcome. I’m hoping to incorporate the better bits of feedback into improvements to the standards. http://j.mp/php-standards",
+        "isTruncated": false
+    },
+    "published": "2010-07-31T04:11:38Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2010/php-coding-standards/",
+    "relativePermalink": "/posts/2010/php-coding-standards/",
+    "aliases": ["/2010/07/30/php-coding-standards/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 77,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2010/20100731-php-coding-standards.md",
+        "logicalName": "20100731-php-coding-standards.md",
+        "translationBaseName": "20100731-php-coding-standards",
+        "baseFileName": "20100731-php-coding-standards",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2010/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eFor the past several years, I’ve been developing a coding style for PHP that all began with SimplePie.\u003c/p\u003e\n\u003cp\u003eSince then, I’ve been polishing the standards from one project to the next to the point where I believe that I have a solid, rational set of guidelines that others can share and re-use. Any feedback that other PHP developers may have is welcome. I’m hoping to incorporate the better bits of feedback into improvements to the standards. \u003ca href=\"http://j.mp/php-standards\"\u003ehttp://j.mp/php-standards\u003c/a\u003e\u003c/p\u003e\n",
+        "plain":"For the past several years, I’ve been developing a coding style for PHP that all began with SimplePie.\nSince then, I’ve been polishing the standards from one project to the next to the point where I believe that I have a solid, rational set of guidelines that others can share and re-use. Any feedback that other PHP developers may have is welcome. I’m hoping to incorporate the better bits of feedback into improvements to the standards. http://j.mp/php-standards\n",
+        "source":"\nFor the past several years, I’ve been developing a coding style for PHP that all began with SimplePie.\n\nSince then, I’ve been polishing the standards from one project to the next to the point where I believe that I have a solid, rational set of guidelines that others can share and re-use. Any feedback that other PHP developers may have is welcome. I’m hoping to incorporate the better bits of feedback into improvements to the standards. \u003chttp://j.mp/php-standards\u003e\n"},
+    "links": {
+        "prev": {"title": "Movie Review: The Last Airbender", "permalink": "https://ryanparman.com/posts/2010/movie-review-the-last-airbender/"},
+        "next": {"title": "CloudFusion has become the official AWS SDK for PHP!", "permalink": "https://ryanparman.com/posts/2010/cloudfusion-has-become-the-official-aws-sdk-for-php/"},
+        "ignore": "me"
+    }
+}
+
+}

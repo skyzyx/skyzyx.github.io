@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Interesting Stuff",
+    "description": "",
+    "summary": {
+        "content": "After being envious of Todd Dominey’s “Enjoying” sidebar for quite some time, I decided to do some messing around to get my own as well. I find that I often come across cool things on the ’Net, but they aren’t worth actually writing about. This will solve that problem. You can pull the RSS feed into your news reader, if you’d like.",
+        "isTruncated": false
+    },
+    "published": "2003-11-27T03:33:16Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/interesting-stuff/",
+    "relativePermalink": "/posts/2003/interesting-stuff/",
+    "aliases": ["/2003/11/26/interesting-stuff/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 62,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20031127-interesting-stuff.md",
+        "logicalName": "20031127-interesting-stuff.md",
+        "translationBaseName": "20031127-interesting-stuff",
+        "baseFileName": "20031127-interesting-stuff",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eAfter being envious of \u003ca href=\"https://web.archive.org/web/20031127033316/http://www.whatdoiknow.org/\"\u003eTodd Dominey’s\u003c/a\u003e “Enjoying” sidebar for quite some time, I decided to do some messing around to get my own as well. I find that I often come across cool things on the ’Net, but they aren’t worth actually writing about. This will solve that problem.\u003c/p\u003e\n\u003cp\u003eYou can pull the \u003ca href=\"/sidebar/sidebar.xml\"\u003eRSS feed\u003c/a\u003e into your news reader, if you’d like.\u003c/p\u003e\n",
+        "plain":"After being envious of Todd Dominey’s “Enjoying” sidebar for quite some time, I decided to do some messing around to get my own as well. I find that I often come across cool things on the ’Net, but they aren’t worth actually writing about. This will solve that problem.\nYou can pull the RSS feed into your news reader, if you’d like.\n",
+        "source":"\nAfter being envious of [Todd Dominey’s]({{% wayback \"http://www.whatdoiknow.org/\" %}}) “Enjoying” sidebar for quite some time, I decided to do some messing around to get my own as well. I find that I often come across cool things on the ’Net, but they aren’t worth actually writing about. This will solve that problem.\n\nYou can pull the [RSS feed](/sidebar/sidebar.xml) into your news reader, if you’d like.\n"},
+    "links": {
+        "prev": {"title": "My Stapler!  No Touchie!", "permalink": "https://ryanparman.com/posts/2003/my-stapler-no-touchie/"},
+        "next": {"title": "Homeland Security Rating Scale", "permalink": "https://ryanparman.com/posts/2003/homeland-security-rating-scale/"},
+        "ignore": "me"
+    }
+}
+
+}

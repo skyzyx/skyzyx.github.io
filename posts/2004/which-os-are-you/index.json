@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Which OS Are You?",
+    "description": "",
+    "summary": {
+        "content": "I got back from a week vacation (yes, I was on vacation) to see this quiz over at Twenty4.org:",
+        "isTruncated": false
+    },
+    "published": "2004-08-18T19:02:47Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/which-os-are-you/",
+    "relativePermalink": "/posts/2004/which-os-are-you/",
+    "aliases": ["/2004/08/18/which-os-are-you/"],
+    "images": [],
+    "videos": [],
+    "categories": ["For Funsies"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 19,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040818-which-os-are-you.md",
+        "logicalName": "20040818-which-os-are-you.md",
+        "translationBaseName": "20040818-which-os-are-you",
+        "baseFileName": "20040818-which-os-are-you",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI got back from a week vacation (yes, I was on vacation) to see this quiz over at \u003ca href=\"https://web.archive.org/web/20040818190247/http://www.twenty4.org/archives/2004/08/16/which-os-are-you/\"\u003eTwenty4.org\u003c/a\u003e:\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20040818190247/http://bbspot.com/News/2003/01/os_quiz.php\"\u003e\u003cdiv class=\"pa2-ns\"\u003e\n\t\u003camp-img src=\"https://cdn.ryanparman.com/wp-content/uploads/2004/08/amiga.jpg\" layout=\"responsive\" width=\"\" height=\"\"\u003e\u003c/amp-img\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\u003c/a\u003e\u003c/p\u003e\n",
+        "plain":"I got back from a week vacation (yes, I was on vacation) to see this quiz over at Twenty4.org:\n  \n",
+        "source":"\nI got back from a week vacation (yes, I was on vacation) to see this quiz over at [Twenty4.org]({{% wayback \"http://www.twenty4.org/archives/2004/08/16/which-os-are-you/\" %}}):\n\n[{{\u003cfullimage src=\"https://cdn.ryanparman.com/wp-content/uploads/2004/08/amiga.jpg\" alt=\"You are Amiga OS. Ahead of your time. You keep a lot of balls in the air. If only your parents had given you more opportunities to succeed.\"\u003e}}]({{% wayback \"http://bbspot.com/News/2003/01/os_quiz.php\" %}})\n"},
+    "links": {
+        "prev": {"title": "Windows XP SP2 and Mac OS X 10.3.5", "permalink": "https://ryanparman.com/posts/2004/windows-xp-sp2-and-mac-os-x-1035/"},
+        "next": {"title": "Movie Reviews 2004", "permalink": "https://ryanparman.com/posts/2004/movie-reviews-2004/"},
+        "ignore": "me"
+    }
+}
+
+}

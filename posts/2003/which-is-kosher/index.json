@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Which is Kosher?",
+    "description": "",
+    "summary": {
+        "content": "I got a message today from Henrik Gemal. He pointed out to me that there are differences in how my Flash Detection Script displays the Flash Version. Flash 7.0 r2 displays as “7.0.2” when flash.version is called. To me, this makes the most sense, since that’s what an “r2” would mean anyways. It also makes it easier when comparing Flash versions to do a String.split() followed by a parseInt() on a particular section of the version string. However, I didn’t know about the occasional developer’s build, namely “Shockwave Flash 7.",
+        "isTruncated": true
+    },
+    "published": "2003-09-10T06:33:02Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/which-is-kosher/",
+    "relativePermalink": "/posts/2003/which-is-kosher/",
+    "aliases": ["/2003/09/09/which-is-kosher/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 169,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030910-which-is-kosher.md",
+        "logicalName": "20030910-which-is-kosher.md",
+        "translationBaseName": "20030910-which-is-kosher",
+        "baseFileName": "20030910-which-is-kosher",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI got a message today from \u003ca href=\"https://web.archive.org/web/20030910063302/http://www.gemal.dk\"\u003eHenrik Gemal\u003c/a\u003e. He pointed out to me that there are differences in how my \u003ca href=\"/scripts/flash.php\"\u003eFlash Detection Script\u003c/a\u003e displays the Flash Version.\u003c/p\u003e\n\u003cp\u003eFlash 7.0 r2 displays as “7.0.2” when \u003ccode\u003eflash.version\u003c/code\u003e is called. To me, this makes the most sense, since that’s what an “r2” would mean anyways. It also makes it easier when comparing Flash versions to do a \u003ccode\u003eString.split()\u003c/code\u003e followed by a \u003ccode\u003eparseInt()\u003c/code\u003e on a particular section of the version string.\u003c/p\u003e\n\u003cp\u003eHowever, I didn’t know about the occasional developer’s build, namely “Shockwave Flash 7.0 d249”. Making this return a value of “7.0.249” would be misleading and inaccurate since a developers/beta build is a precursor to a release build. Logically, I could append a “0” before the 249 (i.e. “7.0.0249”) which would \u003cem\u003ework\u003c/em\u003e, but wouldn’t necessarily be correct.\u003c/p\u003e\n\u003cp\u003eThe only way to stay \u003cem\u003etruly\u003c/em\u003e correct would be to leave the “7.0 r2” or “6.0 r79” monikers as-is, but it makes less sense, in my opinion. So, what do you think? “7.0.x” or “7.0 rX”?\u003c/p\u003e\n",
+        "plain":"I got a message today from Henrik Gemal. He pointed out to me that there are differences in how my Flash Detection Script displays the Flash Version.\nFlash 7.0 r2 displays as “7.0.2” when flash.version is called. To me, this makes the most sense, since that’s what an “r2” would mean anyways. It also makes it easier when comparing Flash versions to do a String.split() followed by a parseInt() on a particular section of the version string.\nHowever, I didn’t know about the occasional developer’s build, namely “Shockwave Flash 7.0 d249”. Making this return a value of “7.0.249” would be misleading and inaccurate since a developers/beta build is a precursor to a release build. Logically, I could append a “0” before the 249 (i.e. “7.0.0249”) which would work, but wouldn’t necessarily be correct.\nThe only way to stay truly correct would be to leave the “7.0 r2” or “6.0 r79” monikers as-is, but it makes less sense, in my opinion. So, what do you think? “7.0.x” or “7.0 rX”?\n",
+        "source":"\nI got a message today from [Henrik Gemal]({{% wayback \"http://www.gemal.dk\" %}}). He pointed out to me that there are differences in how my [Flash Detection Script](/scripts/flash.php) displays the Flash Version.\n\nFlash 7.0 r2 displays as “7.0.2” when `flash.version` is called. To me, this makes the most sense, since that’s what an “r2” would mean anyways. It also makes it easier when comparing Flash versions to do a `String.split()` followed by a `parseInt()` on a particular section of the version string.\n\nHowever, I didn’t know about the occasional developer’s build, namely “Shockwave Flash 7.0 d249”. Making this return a value of “7.0.249” would be misleading and inaccurate since a developers/beta build is a precursor to a release build. Logically, I could append a “0” before the 249 (i.e. “7.0.0249”) which would *work*, but wouldn’t necessarily be correct.\n\nThe only way to stay *truly* correct would be to leave the “7.0 r2” or “6.0 r79” monikers as-is, but it makes less sense, in my opinion. So, what do you think? “7.0.x” or “7.0 rX”?\n"},
+    "links": {
+        "prev": {"title": "Simple Pleasures", "permalink": "https://ryanparman.com/posts/2003/simple-pleasures/"},
+        "next": {"title": "Sickness", "permalink": "https://ryanparman.com/posts/2003/sickness/"},
+        "ignore": "me"
+    }
+}
+
+}

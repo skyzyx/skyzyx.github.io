@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Upgrade to Movable Type 3.0",
+    "description": "",
+    "summary": {
+        "content": "Well, my upgrade to Movable Type 3.0 went well. I’ve decided to stick with MT for now. I’m still considering Wordpress for my “big redesign” since it’s written in PHP, and therefore easier for me to hack at. We’ll see how it all actually turns out though. For the time being, I’m still accepting all comments from everyone. However, provided that I’m still using MT a few months from now, I’m planning on requiring a TypeKey account for unmoderated comments. Users without a TypeKey account (a few months from now, mind you) will still be able to post comments, but I will moderate them before they actually get displayed on my site.",
+        "isTruncated": true
+    },
+    "published": "2004-06-19T03:32:23Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/upgrade-to-movable-type-30/",
+    "relativePermalink": "/posts/2004/upgrade-to-movable-type-30/",
+    "aliases": ["/2004/06/18/upgrade-to-movable-type-30/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 160,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040619-upgrade-to-movable-type-30.md",
+        "logicalName": "20040619-upgrade-to-movable-type-30.md",
+        "translationBaseName": "20040619-upgrade-to-movable-type-30",
+        "baseFileName": "20040619-upgrade-to-movable-type-30",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eWell, my upgrade to \u003ca href=\"https://web.archive.org/web/20040619033223/http://www.movabletype.org\"\u003eMovable Type 3.0\u003c/a\u003e went well. I’ve decided to stick with MT for now. I’m still considering \u003ca href=\"https://web.archive.org/web/20040619033223/http://www.wordpress.org\"\u003eWordpress\u003c/a\u003e for my “big redesign” since it’s written in PHP, and therefore easier for me to hack at. We’ll see how it all actually turns out though.\u003c/p\u003e\n\u003cp\u003eFor the time being, I’m still accepting all comments from everyone. However, provided that I’m still using MT a few months from now, I’m planning on requiring a \u003ca href=\"https://web.archive.org/web/20040619033223/http://www.typekey.com\"\u003eTypeKey\u003c/a\u003e account for unmoderated comments. Users without a TypeKey account (a few months from now, mind you) will still be able to post comments, but I will moderate them before they actually get displayed on my site.\u003c/p\u003e\n\u003cp\u003eAt the same time, I’m questioning the need for this. Since I released \u003ca href=\"/projects/blocker/\"\u003eBlocker 1.2\u003c/a\u003e, I haven’t had any automated comment spam attacks. So far, I have excellently behaved commentors, so I may very well not require comment registration at all.\u003c/p\u003e\n\u003cp\u003eAnyways, welcome to my MT3-powered personal site.\u003c/p\u003e\n",
+        "plain":"Well, my upgrade to Movable Type 3.0 went well. I’ve decided to stick with MT for now. I’m still considering Wordpress for my “big redesign” since it’s written in PHP, and therefore easier for me to hack at. We’ll see how it all actually turns out though.\nFor the time being, I’m still accepting all comments from everyone. However, provided that I’m still using MT a few months from now, I’m planning on requiring a TypeKey account for unmoderated comments. Users without a TypeKey account (a few months from now, mind you) will still be able to post comments, but I will moderate them before they actually get displayed on my site.\nAt the same time, I’m questioning the need for this. Since I released Blocker 1.2, I haven’t had any automated comment spam attacks. So far, I have excellently behaved commentors, so I may very well not require comment registration at all.\nAnyways, welcome to my MT3-powered personal site.\n",
+        "source":"\nWell, my upgrade to [Movable Type 3.0]({{% wayback \"http://www.movabletype.org\" %}}) went well. I’ve decided to stick with MT for now. I’m still considering [Wordpress]({{% wayback \"http://www.wordpress.org\" %}}) for my “big redesign” since it’s written in PHP, and therefore easier for me to hack at. We’ll see how it all actually turns out though.\n\nFor the time being, I’m still accepting all comments from everyone. However, provided that I’m still using MT a few months from now, I’m planning on requiring a [TypeKey]({{% wayback \"http://www.typekey.com\" %}}) account for unmoderated comments. Users without a TypeKey account (a few months from now, mind you) will still be able to post comments, but I will moderate them before they actually get displayed on my site.\n\nAt the same time, I’m questioning the need for this. Since I released [Blocker 1.2](/projects/blocker/), I haven’t had any automated comment spam attacks. So far, I have excellently behaved commentors, so I may very well not require comment registration at all.\n\nAnyways, welcome to my MT3-powered personal site.\n"},
+    "links": {
+        "prev": {"title": "What's New?", "permalink": "https://ryanparman.com/posts/2004/whats-new/"},
+        "next": {"title": "Haiku, Gmail, and Web Standards", "permalink": "https://ryanparman.com/posts/2004/haiku-gmail-and-web-standards/"},
+        "ignore": "me"
+    }
+}
+
+}

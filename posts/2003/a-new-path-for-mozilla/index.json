@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "A New Path For Mozilla",
+    "description": "",
+    "summary": {
+        "content": "Over the weekend, I came across news about Mozilla’s new roadmap laying out the plans for the future. MozillaZine had something to say about it here.",
+        "isTruncated": false
+    },
+    "published": "2003-04-07T18:15:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/a-new-path-for-mozilla/",
+    "relativePermalink": "/posts/2003/a-new-path-for-mozilla/",
+    "aliases": ["/2003/04/07/a-new-path-for-mozilla/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 26,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030407-a-new-path-for-mozilla.md",
+        "logicalName": "20030407-a-new-path-for-mozilla.md",
+        "translationBaseName": "20030407-a-new-path-for-mozilla",
+        "baseFileName": "20030407-a-new-path-for-mozilla",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eOver the weekend, I came across news about \u003ca href=\"https://web.archive.org/web/20030407181500/http://www.mozilla.org/roadmap.html\"\u003eMozilla’s new roadmap\u003c/a\u003e laying out the plans for the future.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20030407181500/http://www.mozillazine.org/\"\u003eMozillaZine\u003c/a\u003e had something to say about it \u003ca href=\"https://web.archive.org/web/20030407181500/http://www.mozillazine.org/articles/article3042.html\"\u003ehere\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":"Over the weekend, I came across news about Mozilla’s new roadmap laying out the plans for the future.\nMozillaZine had something to say about it here.\n",
+        "source":"\nOver the weekend, I came across news about [Mozilla’s new roadmap]({{% wayback \"http://www.mozilla.org/roadmap.html\" %}}) laying out the plans for the future.\n\n[MozillaZine]({{% wayback \"http://www.mozillazine.org/\" %}}) had something to say about it [here]({{% wayback \"http://www.mozillazine.org/articles/article3042.html\" %}}).\n"},
+    "links": {
+        "prev": {"title": "Zelda: Wind Waker and Final Fantasy Tactics", "permalink": "https://ryanparman.com/posts/2003/zelda-wind-waker-and-final-fantasy-tactics/"},
+        "next": {"title": "The Web Standards Project, Animated GIF", "permalink": "https://ryanparman.com/posts/2003/the-web-standards-project-animated-gif/"},
+        "ignore": "me"
+    }
+}
+
+}

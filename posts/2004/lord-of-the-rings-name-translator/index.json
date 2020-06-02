@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Lord of the Rings Name Translator",
+    "description": "",
+    "summary": {
+        "content": "I came across this over at Sken.be this morning. It’s a Lord of the Rings name translator. You enter your name, and a couple other bits of information, and it’ll tell you your various names. Here’s what I got: Dear Ryan Parman, If you were a Hobbit, your name would be “Budoc Holeman” If you were a (male) Man, your name would be “Moddyn” If you were an Elf, your name would be “Isindil” If you were a Dwarf, your name would be “Vonus”",
+        "isTruncated": true
+    },
+    "published": "2004-01-14T18:05:10Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/lord-of-the-rings-name-translator/",
+    "relativePermalink": "/posts/2004/lord-of-the-rings-name-translator/",
+    "aliases": ["/2004/01/14/lord-of-the-rings-name-translator/"],
+    "images": [],
+    "videos": [],
+    "categories": ["For Funsies"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 119,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040114-lord-of-the-rings-name-translator.md",
+        "logicalName": "20040114-lord-of-the-rings-name-translator.md",
+        "translationBaseName": "20040114-lord-of-the-rings-name-translator",
+        "baseFileName": "20040114-lord-of-the-rings-name-translator",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI came across this over at \u003ca href=\"https://web.archive.org/web/20040114180510/http://www.sken.be/archives/2004/01/000045.php\"\u003eSken.be\u003c/a\u003e this morning. It’s a \u003ca href=\"https://web.archive.org/web/20040114180510/http://www.lotruk.com/nametranslator/\"\u003eLord of the Rings name translator\u003c/a\u003e. You enter your name, and a couple other bits of information, and it’ll tell you your various names.\u003c/p\u003e\n\u003cp\u003eHere’s what I got:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eDear Ryan Parman,\u003cbr\u003e\nIf you were a Hobbit, your name would be “Budoc Holeman”\u003cbr\u003e\nIf you were a (male) Man, your name would be “Moddyn”\u003cbr\u003e\nIf you were an Elf, your name would be “Isindil”\u003cbr\u003e\nIf you were a Dwarf, your name would be “Vonus”\u003cbr\u003e\nIf you were an Orc, your name would be “Prulo”\u003cbr\u003e\nYour nearest Tavern might be called “The Splintered Ego Tavern”\u003cbr\u003e\nYour sword would be called “Pelcatsil”\\\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003ePunch in other people’s names too. It’s quite entertaining!\u003c/p\u003e\n",
+        "plain":"I came across this over at Sken.be this morning. It’s a Lord of the Rings name translator. You enter your name, and a couple other bits of information, and it’ll tell you your various names.\nHere’s what I got:\n Dear Ryan Parman,\nIf you were a Hobbit, your name would be “Budoc Holeman”\nIf you were a (male) Man, your name would be “Moddyn”\nIf you were an Elf, your name would be “Isindil”\nIf you were a Dwarf, your name would be “Vonus”\nIf you were an Orc, your name would be “Prulo”\nYour nearest Tavern might be called “The Splintered Ego Tavern”\nYour sword would be called “Pelcatsil”\\\n Punch in other people’s names too. It’s quite entertaining!\n",
+        "source":"\nI came across this over at [Sken.be]({{% wayback \"http://www.sken.be/archives/2004/01/000045.php\" %}}) this morning. It’s a [Lord of the Rings name translator]({{% wayback \"http://www.lotruk.com/nametranslator/\" %}}). You enter your name, and a couple other bits of information, and it’ll tell you your various names.\n\nHere’s what I got:\n\n\u003e Dear Ryan Parman,\\\n\u003e  If you were a Hobbit, your name would be “Budoc Holeman”\\\n\u003e  If you were a (male) Man, your name would be “Moddyn”\\\n\u003e  If you were an Elf, your name would be “Isindil”\\\n\u003e  If you were a Dwarf, your name would be “Vonus”\\\n\u003e  If you were an Orc, your name would be “Prulo”\\\n\u003e  Your nearest Tavern might be called “The Splintered Ego Tavern”\\\n\u003e  Your sword would be called “Pelcatsil”\\\n\nPunch in other people’s names too. It’s quite entertaining!\n"},
+    "links": {
+        "prev": {"title": "New (To Me) Blogs and RSS/Atom Support", "permalink": "https://ryanparman.com/posts/2004/new-to-me-blogs-and-rssatom-support/"},
+        "next": {"title": "Fixing Internet Explorer", "permalink": "https://ryanparman.com/posts/2004/fixing-internet-explorer/"},
+        "ignore": "me"
+    }
+}
+
+}

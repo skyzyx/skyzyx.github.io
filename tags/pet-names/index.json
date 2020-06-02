@@ -1,0 +1,64 @@
+{
+    "data": {
+        
+        
+        "taxonomy": "tag",
+        "term": "pet names",
+        
+        "count": 1,
+        "items": [
+            
+            {
+    "kind": "page",
+    "title": "I’m bad at pet names",
+    "description": "",
+    "summary": {
+        "content": "I have a new girlfriend, and she seems to have an affinity for pet names. Me, I’m not so good at them, but at least I try hard. She says it’s an adorable part of my geeky charm. I can live with that. Cereal Her: Hey honey bun! How are you? Me: Look at you… honey bunches of oats! Breakfast pastries Her: Could you do me a favor, love muffin? Me: Sure thing, my little… um… sex bagel.",
+        "isTruncated": true
+    },
+    "published": "2015-05-10T22:24:16Z",
+    "updated": "2019-12-26T16:46:47-08:00",
+    "permalink": "https://ryanparman.com/posts/2015/im-bad-at-pet-names/",
+    "relativePermalink": "/posts/2015/im-bad-at-pet-names/",
+    "aliases": ["/2015/05/10/im-bad-at-pet-names/"],
+    "images": ["https://cdn.ryanparman.com/hugo/posts/2017/instagram-jessika.jpg"],
+    "videos": [],
+    "categories": ["Family Life"],
+    "tags": ["love", "girlfriend", "pet names", "geeky charm"],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 91,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2015/20150510-im-bad-at-pet-names.md",
+        "logicalName": "20150510-im-bad-at-pet-names.md",
+        "translationBaseName": "20150510-im-bad-at-pet-names",
+        "baseFileName": "20150510-im-bad-at-pet-names",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2015/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003ca href=\"#cereal\"\u003eCereal\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#breakfast-pastries\"\u003eBreakfast pastries\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#hentai\"\u003eHentai\u003c/a\u003e\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/nav\u003e",
+        "html":"\u003cp itemprop=\"description\" class=\"f5 f4-m f3-l mt0 lh-copy p-summary entry-summary\"\u003e\nI have a new girlfriend, and she seems to have an affinity for pet names. Me, I’m not so good at them, but at least I try hard.\n\u003c/p\u003e\n\n\u003cdiv class=\"pa2-ns\"\u003e\n\t\u003camp-img src=\"https://cdn.ryanparman.com/hugo/posts/2017/instagram-jessika.jpg\" layout=\"responsive\" width=\"658\" height=\"658\"\u003e\u003c/amp-img\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eShe says it’s an adorable part of my geeky charm. I can live with that.\u003c/p\u003e\n\u003ch2 id=\"cereal\"\u003eCereal\u003c/h2\u003e\n\u003cblockquote\u003e\n\u003cp\u003eHer: Hey honey bun! How are you?\u003c/p\u003e\n\u003cp\u003eMe: Look at you… honey bunches of oats!\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003ch2 id=\"breakfast-pastries\"\u003eBreakfast pastries\u003c/h2\u003e\n\u003cblockquote\u003e\n\u003cp\u003eHer: Could you do me a favor, love muffin?\u003c/p\u003e\n\u003cp\u003eMe: Sure thing, my little… um… sex bagel.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003ch2 id=\"hentai\"\u003eHentai\u003c/h2\u003e\n\u003cblockquote\u003e\n\u003cp\u003eHer: Good morning, love bug.\u003c/p\u003e\n\u003cp\u003eMe: Good morning my… um… lusty tentacle…\u003c/p\u003e\n\u003c/blockquote\u003e\n",
+        "plain":"I have a new girlfriend, and she seems to have an affinity for pet names. Me, I’m not so good at them, but at least I try hard.   She says it’s an adorable part of my geeky charm. I can live with that.\nCereal  Her: Hey honey bun! How are you?\nMe: Look at you… honey bunches of oats!\n Breakfast pastries  Her: Could you do me a favor, love muffin?\nMe: Sure thing, my little… um… sex bagel.\n Hentai  Her: Good morning, love bug.\nMe: Good morning my… um… lusty tentacle…\n ",
+        "source":"\n{{\u003c description \u003e}}\nI have a new girlfriend, and she seems to have an affinity for pet names. Me, I’m not so good at them, but at least I try hard.\n{{\u003c /description \u003e}}\n\n{{\u003cfullimage src=\"https://cdn.ryanparman.com/hugo/posts/2017/instagram-jessika.jpg\" alt=\"Jessika\" width=\"658\" height=\"658\" \u003e}}\n\nShe says it’s an adorable part of my geeky charm. I can live with that.\n\n## Cereal\n\n\u003e Her: Hey honey bun! How are you?\n\u003e\n\u003e Me: Look at you… honey bunches of oats!\n\n## Breakfast pastries\n\n\u003e Her: Could you do me a favor, love muffin?\n\u003e\n\u003e Me: Sure thing, my little… um… sex bagel.\n\n## Hentai\n\n\u003e Her: Good morning, love bug.\n\u003e\n\u003e Me: Good morning my… um… lusty tentacle…\n"},
+    "links": {
+        "prev": {"title": "I just don’t get it", "permalink": "https://ryanparman.com/posts/2015/i-just-dont-get-it/"},
+        "next": {"title": "Gender-based restrictions on the legal contract known as “marriage” have been removed per the Supreme Court of the United States", "permalink": "https://ryanparman.com/posts/2015/gender-based-restrictions-on-the-legal-contract-known-as-marriage-have-been-removed-per-the-supreme-court-of-the-united-states/"},
+        "ignore": "me"
+    }
+}
+
+            
+        ]
+    }
+}

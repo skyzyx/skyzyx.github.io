@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Link To Me!",
+    "description": "",
+    "summary": {
+        "content": "I’ve made a simple little 88x31 sized banner for Skyzyx.com. If you think this site is interesting, or just want to promote a fledgling web standards and JavaScript website, feel free to link to me.",
+        "isTruncated": false
+    },
+    "published": "2003-06-05T20:33:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/link-to-me/",
+    "relativePermalink": "/posts/2003/link-to-me/",
+    "aliases": ["/2003/06/05/link-to-me/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 35,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030605-link-to-me.md",
+        "logicalName": "20030605-link-to-me.md",
+        "translationBaseName": "20030605-link-to-me",
+        "baseFileName": "20030605-link-to-me",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve made a simple little 88x31 sized banner for Skyzyx.com. If you think this site is interesting, or just want to promote a fledgling web standards and JavaScript website, feel free to \u003ca href=\"../promote/\"\u003elink to me.\u003c/a\u003e\u003c/p\u003e\n",
+        "plain":"I’ve made a simple little 88x31 sized banner for Skyzyx.com. If you think this site is interesting, or just want to promote a fledgling web standards and JavaScript website, feel free to link to me.\n",
+        "source":"\nI’ve made a simple little 88x31 sized banner for Skyzyx.com. If you think this site is interesting, or just want to promote a fledgling web standards and JavaScript website, feel free to [link to me.](../promote/)\n"},
+    "links": {
+        "prev": {"title": "New RSS Junk", "permalink": "https://ryanparman.com/posts/2003/new-rss-junk/"},
+        "next": {"title": "Linkin Park: Meteora Tracks", "permalink": "https://ryanparman.com/posts/2003/linkin-park-meteora-tracks/"},
+        "ignore": "me"
+    }
+}
+
+}

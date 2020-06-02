@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Redesign In Progress",
+    "description": "",
+    "summary": {
+        "content": "I’m sick of it. Some people really like the design of this site. I do too, really, but I want something more. I want to be a LION TAMER! I’ve been significantly inspired by a variety of designs lately, and I think I’m going to attempt to take my favorite elements of a few different designs, play with them, and make them my own. Maybe once I’m done this site will be Vault-worthy. Some of the designs I’ve been looking at are here, here, here, here, here, here, here, here, and here.",
+        "isTruncated": true
+    },
+    "published": "2004-02-13T19:35:14Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/redesign-in-progress-2/",
+    "relativePermalink": "/posts/2004/redesign-in-progress-2/",
+    "aliases": ["/archives/000181.php", "/articles/000181.php", "/2004/02/13/redesign-in-progress-2/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 185,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040213-redesign-in-progress-2.md",
+        "logicalName": "20040213-redesign-in-progress-2.md",
+        "translationBaseName": "20040213-redesign-in-progress-2",
+        "baseFileName": "20040213-redesign-in-progress-2",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’m sick of it.\u003c/p\u003e\n\u003cp\u003eSome people really like the design of this site. I do too, really, but I want something more. I want to be a \u003ca href=\"https://web.archive.org/web/20040213193514/http://www.ironworks.com/comedy/python/anchovy.htm\"\u003eLION TAMER!\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eI’ve been significantly inspired by a variety of designs lately, and I think I’m going to attempt to take my favorite elements of a few different designs, play with them, and make them my own. Maybe once I’m done this site will be \u003ca href=\"https://web.archive.org/web/20040213193514/http://www.cssvault.com\"\u003eVault-worthy\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eSome of the designs I’ve been looking at are \u003ca href=\"https://web.archive.org/web/20040213193514/http://www.designmeme.com\"\u003ehere\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20040213193514/http://www.zeldman.com/\"\u003ehere\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20040213193514/http://www.adaptivepath.com/\"\u003ehere\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20040213193514/http://www.silentfusion.com/lm9/\"\u003ehere\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20040213193514/http://www.jasonsantamaria.com/\"\u003ehere\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20040213193514/http://www.pixelgraphix.de/\"\u003ehere\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20040213193514/http://www.simplethinking.co.uk/\"\u003ehere\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20040213193514/http://www.csszengarden.com/?cssfile=035/035.css\"\u003ehere\u003c/a\u003e, and \u003ca href=\"https://web.archive.org/web/20040213193514/http://www.csszengarden.com/?cssfile=062/062.css\"\u003ehere\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eI’m also beginning to focus on how to make the best use of the metadata that I’ve got. I think that the integration of my \u003ca href=\"/blogs/\"\u003eBlogs I Read\u003c/a\u003e and \u003ca href=\"/rss/\"\u003eRSS Reader\u003c/a\u003e sections is good, but can always be improved.\u003c/p\u003e\n\u003cp\u003eI’m wanting to increase the amount of readers (namely, commentors) on this site in order to make it a more active community. Hopefully, this new design I’m playing with coupled with new ideas, as well as a better focus of topics I discuss should hopefully bring in as much traffic as I can handle.\u003c/p\u003e\n",
+        "plain":"I’m sick of it.\nSome people really like the design of this site. I do too, really, but I want something more. I want to be a LION TAMER!\nI’ve been significantly inspired by a variety of designs lately, and I think I’m going to attempt to take my favorite elements of a few different designs, play with them, and make them my own. Maybe once I’m done this site will be Vault-worthy.\nSome of the designs I’ve been looking at are here, here, here, here, here, here, here, here, and here.\nI’m also beginning to focus on how to make the best use of the metadata that I’ve got. I think that the integration of my Blogs I Read and RSS Reader sections is good, but can always be improved.\nI’m wanting to increase the amount of readers (namely, commentors) on this site in order to make it a more active community. Hopefully, this new design I’m playing with coupled with new ideas, as well as a better focus of topics I discuss should hopefully bring in as much traffic as I can handle.\n",
+        "source":"\nI’m sick of it.\n\nSome people really like the design of this site. I do too, really, but I want something more. I want to be a [LION TAMER!]({{% wayback \"http://www.ironworks.com/comedy/python/anchovy.htm\" %}})\n\nI’ve been significantly inspired by a variety of designs lately, and I think I’m going to attempt to take my favorite elements of a few different designs, play with them, and make them my own. Maybe once I’m done this site will be [Vault-worthy]({{% wayback \"http://www.cssvault.com\" %}}).\n\nSome of the designs I’ve been looking at are [here]({{% wayback \"http://www.designmeme.com\" %}}), [here]({{% wayback \"http://www.zeldman.com/\" %}}), [here]({{% wayback \"http://www.adaptivepath.com/\" %}}), [here]({{% wayback \"http://www.silentfusion.com/lm9/\" %}}), [here]({{% wayback \"http://www.jasonsantamaria.com/\" %}}), [here]({{% wayback \"http://www.pixelgraphix.de/\" %}}), [here]({{% wayback \"http://www.simplethinking.co.uk/\" %}}), [here]({{% wayback \"http://www.csszengarden.com/?cssfile=035/035.css\" %}}), and [here]({{% wayback \"http://www.csszengarden.com/?cssfile=062/062.css\" %}}).\n\nI’m also beginning to focus on how to make the best use of the metadata that I’ve got. I think that the integration of my [Blogs I Read](/blogs/) and [RSS Reader](/rss/) sections is good, but can always be improved.\n\nI’m wanting to increase the amount of readers (namely, commentors) on this site in order to make it a more active community. Hopefully, this new design I’m playing with coupled with new ideas, as well as a better focus of topics I discuss should hopefully bring in as much traffic as I can handle.\n"},
+    "links": {
+        "prev": {"title": "RSS/Atom Feed Changes", "permalink": "https://ryanparman.com/posts/2004/rssatom-feed-changes/"},
+        "next": {"title": "All Automated, All The Time", "permalink": "https://ryanparman.com/posts/2004/all-automated-all-the-time/"},
+        "ignore": "me"
+    }
+}
+
+}

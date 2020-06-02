@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "SimplePie... Mmmm, Yummy!",
+    "description": "",
+    "summary": {
+        "content": "I finally cracked the nut on the problem I was having with SimplePie. The compatibility fix I’ve been working on finally works for the two feeds that I was having a problem with. Thanks to Mark IJbema for nudging me in the right direction. The downside is that it slowed SimplePie down a bit. I think that it’s something I’ll let slide for this version, and try to tackle it for the next. I still need to go back through the list of 300+ feeds to make sure I haven’t broken something else, but assuming that all goes well, I’ll post SimplePie 0.",
+        "isTruncated": true
+    },
+    "published": "2004-09-21T20:13:08Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/simplepie-mmmm-yummy/",
+    "relativePermalink": "/posts/2004/simplepie-mmmm-yummy/",
+    "aliases": ["/2004/09/21/simplepie-mmmm-yummy/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 149,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040921-simplepie-mmmm-yummy.md",
+        "logicalName": "20040921-simplepie-mmmm-yummy.md",
+        "translationBaseName": "20040921-simplepie-mmmm-yummy",
+        "baseFileName": "20040921-simplepie-mmmm-yummy",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI finally cracked the nut on the problem I was having with \u003ca href=\"/projects/simplepie/\"\u003eSimplePie\u003c/a\u003e. The compatibility fix I’ve been working on finally works for the two feeds that I was having a problem with. Thanks to Mark IJbema for nudging me in the right direction.\u003c/p\u003e\n\u003cp\u003eThe downside is that it slowed SimplePie down a bit. I think that it’s something I’ll let slide for this version, and try to tackle it for the next. I still need to go back through the list of 300+ feeds to make sure I haven’t broken something else, but assuming that all goes well, I’ll post SimplePie 0.94 sometime tonight or tomorrow.\u003c/p\u003e\n\u003cp\u003eI hope you all are using it, or are planning to use it. It’s good software, really… and no, I’m not trying to float my own boat. If you find any bugs or would like to see something added, \u003ca href=\"/projects/simplepie/contact.php\"\u003elet me know\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":"I finally cracked the nut on the problem I was having with SimplePie. The compatibility fix I’ve been working on finally works for the two feeds that I was having a problem with. Thanks to Mark IJbema for nudging me in the right direction.\nThe downside is that it slowed SimplePie down a bit. I think that it’s something I’ll let slide for this version, and try to tackle it for the next. I still need to go back through the list of 300+ feeds to make sure I haven’t broken something else, but assuming that all goes well, I’ll post SimplePie 0.94 sometime tonight or tomorrow.\nI hope you all are using it, or are planning to use it. It’s good software, really… and no, I’m not trying to float my own boat. If you find any bugs or would like to see something added, let me know.\n",
+        "source":"\nI finally cracked the nut on the problem I was having with [SimplePie](/projects/simplepie/). The compatibility fix I’ve been working on finally works for the two feeds that I was having a problem with. Thanks to Mark IJbema for nudging me in the right direction.\n\nThe downside is that it slowed SimplePie down a bit. I think that it’s something I’ll let slide for this version, and try to tackle it for the next. I still need to go back through the list of 300+ feeds to make sure I haven’t broken something else, but assuming that all goes well, I’ll post SimplePie 0.94 sometime tonight or tomorrow.\n\nI hope you all are using it, or are planning to use it. It’s good software, really… and no, I’m not trying to float my own boat. If you find any bugs or would like to see something added, [let me know](/projects/simplepie/contact.php).\n"},
+    "links": {
+        "prev": {"title": "One Million and Counting...", "permalink": "https://ryanparman.com/posts/2004/one-million-and-counting/"},
+        "next": {"title": "It Took Me Long Enough...", "permalink": "https://ryanparman.com/posts/2004/it-took-me-long-enough/"},
+        "ignore": "me"
+    }
+}
+
+}

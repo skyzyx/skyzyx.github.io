@@ -1,0 +1,6192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2020/what-did-you-expect-would-happen/</loc>
+    <lastmod>2020-06-02T00:41:33-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/apple-music/</loc>
+    <lastmod>2019-10-02T15:31:32-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/foo-fighters/</loc>
+    <lastmod>2019-10-02T15:31:32-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/music/</loc>
+    <lastmod>2019-10-02T15:31:32-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/pandora/</loc>
+    <lastmod>2019-10-02T15:31:32-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/player/</loc>
+    <lastmod>2019-10-02T15:31:32-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/playlist/</loc>
+    <lastmod>2019-10-02T15:31:32-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2019/playlist-best-of-foo-fighters/</loc>
+    <lastmod>2019-10-02T15:31:32-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/playlists/</loc>
+    <lastmod>2019-10-02T15:31:32-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/pod/</loc>
+    <lastmod>2019-10-02T15:31:32-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/spotify/</loc>
+    <lastmod>2019-10-02T15:31:32-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/certificate/</loc>
+    <lastmod>2019-08-05T13:51:41-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/certificate-authority/</loc>
+    <lastmod>2019-08-05T13:51:41-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/development/</loc>
+    <lastmod>2019-08-05T13:51:41-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/encryption/</loc>
+    <lastmod>2019-08-05T13:51:41-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2019/how-to-create-local-tls-certificates-for-development-on-macos/</loc>
+    <lastmod>2019-08-05T13:51:41-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/keychain/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/local/</loc>
+    <lastmod>2019-08-05T13:51:41-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/macos/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/pki/</loc>
+    <lastmod>2019-08-05T13:51:41-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/self-signed/</loc>
+    <lastmod>2019-08-05T13:51:41-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/ssl/</loc>
+    <lastmod>2019-08-05T13:51:41-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/tls/</loc>
+    <lastmod>2019-08-05T13:51:41-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/trust/</loc>
+    <lastmod>2019-08-05T13:51:41-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/tutorial/</loc>
+    <lastmod>2019-08-05T13:51:41-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/tutorials/</loc>
+    <lastmod>2019-08-05T13:51:41-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/bsd/</loc>
+    <lastmod>2019-06-18T15:34:29-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/freebsd/</loc>
+    <lastmod>2019-06-18T15:34:29-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/gnu/</loc>
+    <lastmod>2019-06-18T15:34:29-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/linux/</loc>
+    <lastmod>2019-06-18T15:34:29-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/software/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2019/using-gnu-command-line-tools-in-macos-instead-of-freebsd-tools/</loc>
+    <lastmod>2019-06-18T15:34:29-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/99designs/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/aws/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/aws-cli/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/aws-vault/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/bash/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/docker/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/ec2/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/elastic-beanstalk/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/golang/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/mac/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/parameter-store/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2019/running-aws-vault-with-local-docker-containers/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/secrets/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/session-tokens/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/site-reliability-engineering/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/sre/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/animoji/</loc>
+    <lastmod>2019-06-09T19:57:53-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/apng/</loc>
+    <lastmod>2019-06-09T19:57:53-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/breath-of-the-wild/</loc>
+    <lastmod>2019-06-09T19:57:53-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2019/converting-imessage-stickers-animoji-and-memoji-to-slackmoji-slack-emoji/</loc>
+    <lastmod>2019-06-09T19:57:53-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/emoji/</loc>
+    <lastmod>2019-06-09T19:57:53-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/ffmpeg/</loc>
+    <lastmod>2019-06-09T19:57:53-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/gif/</loc>
+    <lastmod>2019-06-09T19:57:53-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/heart/</loc>
+    <lastmod>2019-06-09T19:57:53-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/heart-container/</loc>
+    <lastmod>2019-06-09T19:57:53-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/imagemagick/</loc>
+    <lastmod>2019-06-09T19:57:53-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/imessage/</loc>
+    <lastmod>2019-06-09T19:57:53-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/memoji/</loc>
+    <lastmod>2019-06-09T19:57:53-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/messages/</loc>
+    <lastmod>2019-06-09T19:57:53-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/png/</loc>
+    <lastmod>2019-06-09T19:57:53-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/slack/</loc>
+    <lastmod>2019-06-09T19:57:53-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/slackmoji/</loc>
+    <lastmod>2019-06-09T19:57:53-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/stickers/</loc>
+    <lastmod>2019-06-09T19:57:53-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/tech-life/</loc>
+    <lastmod>2019-06-09T19:57:53-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/zelda/</loc>
+    <lastmod>2019-06-09T19:57:53-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2019/playlist-best-of-pod/</loc>
+    <lastmod>2019-10-02T15:16:36-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/alpine-linux/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/centos/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/composer/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/cve/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/series/engineering-for-site-reliability/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/engineering-for-site-reliability/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/java/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/nginx/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/nodejs/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/npm/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/php/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/pip/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/python/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/rhel/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/security/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/ubuntu/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2018/understanding-trust-in-your-infrastructure/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/devops/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/email/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/engineer/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/github/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/hiring/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/interview/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/napoleon-dynamite/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/remastered/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/resume/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/skills/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/spelling/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/tech-industry/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2018/the-hiring-process-part-i-what-i-look-for-in-a-cv-resume-remastered/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/chrome/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/cloudfront/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/dash/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/edge/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/firefox/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/h.264/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/hls/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/mpeg/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/projects-and-code/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/s3/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/safari/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2018/serving-bandwidth-friendly-video-with-hls/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/streaming/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/youtube/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/amazon/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/series/clueless-recruiters/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/clueless-recruiters/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2018/clueless-recruiters-issue-8/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/mobile/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2018/creating-smaller-docker-containers-for-your-apps/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/glibc/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/musl/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/2ds/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/3ds/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/apple/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/series/dear-nintendo/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2018/dear-nintendo-part-ii/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/series/editors-choice/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/microsoft/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/nintendo/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/sony/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/switch/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/wii-u/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/domdocument/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/performance/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2018/php-domdocument-xpath-1-0-case-insensitivity-and-performance/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/rss/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/simplepie/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/simplepie-ng/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/xpath/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/xslt/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2017/a-refresh-of-the-simplepie-logo/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/design/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/logo/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/magpie-rss/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/powerbook-g4/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/wordmark/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/wordpress/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/atom/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/jsonfeed/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/middleware/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/odeo/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/psr/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2017/simplepie-is-back-in-development/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/business/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2017/business-review-del-sol-auto-sales/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/del-sol-auto-sales/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/everett/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/financing/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/jeep/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/reviews/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/washington/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/yelp/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/blu-ray/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/controller/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2016/dear-nintendo/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/gamecube/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/hd-dvd/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/metroid-prime-3/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/nintendo-nx/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/super-mario-galaxy/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/third-party/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/america/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/gun-control/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/guns/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/killing/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/modern-white-american-christianity/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/murder/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/politics/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/psychological/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/radicalized-conservatives/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/republican/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/rock/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2016/thoughts-on-gun-ownership/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/weapons/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/bernie-sanders/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/capitalism/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/coal/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/democrat/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/democratic-socialism/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/donald-trump/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/finland/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/liberal/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/moderate/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/nordic/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/oil/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/rand-paul/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/rhetoric/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/social-democracy/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2016/stupid-short-term-self-interest/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/ted-cruz/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/tony-webster/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/cattle-call/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2016/clueless-recruiters-issue-7/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/incompetent/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/rest/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/schlock/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/soa/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/technical-recruiters/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2015/a-view-of-the-current-presidential-candidates-by-a-political-moderate/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/abortion/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/carly-fiorina/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/corruption/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/digital-world/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/education/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/feminism/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/globalism/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/hillary-clinton/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/individual-citizens/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/isolationism/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/jeb-bush/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/lobbyists/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/mike-huckabee/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/nipple/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/puritans/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/rape/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/rights/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/sex/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/sex-education/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/sex-offender/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/stem-cells/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/the-tea-party-is-the-american-taliban/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/wasp/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/citizens-equality-act/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/congress/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/cronyism/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/funders/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/lawrence-lessig/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/mayday.us/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2015/lessig2016-citizen-equality-act-2017/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/represent/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/represent.us/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/rigged/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/tweedism/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/voting/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/constitution/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/equality/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/gay/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2015/gender-based-restrictions-on-the-legal-contract-known-as-marriage-have-been-removed-per-the-supreme-court-of-the-united-states/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/god/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/government/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/law/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/marriage/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/scotus/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/sin/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/supreme-court/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/family-life/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/geeky-charm/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/girlfriend/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2015/im-bad-at-pet-names/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/love/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/pet-names/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/california/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/facebook/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2015/i-just-dont-get-it/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/joe-ross/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/kik/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/matthew-clower/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/milennials/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/myspace/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/seattle/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/silicon-valley/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/snapchat/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/tinder/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/twitter/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/vada-dean/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/death/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/death/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/depression/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/jonathan-troiano/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/lies/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2015/rest-in-peace-jonathan-troiano/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/suicide/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/apple/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/apple-hdtv/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/apple-tv/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/apple-watch/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2014/apples-october-2014-product-announcement/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/ipad-air/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/ipad-mini/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/itunes/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/retina/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/thunderbolt/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/touch-id/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/yosemite/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/deadbolt/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2014/dear-lockitron/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/lockitron/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/authy/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/clarity/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/confusion/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/crime/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2014/if-your-website-supports-passwords-please-stop-sucking-at-it/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/kickstarter/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/linkedin/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/oauth/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/passwords/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/paypal/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/privacy-and-security/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/security-theater/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/usability/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2014/easily-ssh-into-amazon-ec2-instances-using-the-name-tag/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/jmespath/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/ssh/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/ashley-johnson/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/beyond-two-souls/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/bioshock-infinite/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/camilla-luddington/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/ellen-page/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2014/games-of-the-year-2013/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/gone-home/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/grand-theft-auto-v/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/oceanhorn/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/rayman-legends/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/stanley-parable/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/super-mario-3d-world/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/the-last-of-us/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/the-legend-of-zelda-a-link-between-worlds/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/the-legend-of-zelda-wind-waker-hd/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/the-wolf-among-us/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/tomb-raider/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/video-games/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/willem-dafoe/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/aclu/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/aol/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/barack-obama/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/brandon-downey/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/cia/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/clemency/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/edward-snowden/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/espionage/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/fbi/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/fisa/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2013/fisa-the-nsa-prism-and-edward-snowden/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/george-w.-bush/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/ghcq/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/google/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/mark-twain/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/martin-luther-king-jr/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/mike-hearn/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/muscular/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/nsa/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/patriot-act/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/patriotism/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/paytalk/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/prism/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/protect-america-act/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/ronald-reagan/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/skype/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/transparency/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/vladimir-putin/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/whistleblower/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/yahoo/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/1password/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/hacking/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/multifactor-authentication/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2013/password-security-is-important-start-treating-it-like-it-is/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2013/apples-2013-ipad-announcement/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/mac-pro/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/macbook-air/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/macbook-pro/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/mavericks/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/beta/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/ios/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2013/my-experience-with-ios-7/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/webos/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/wwdc/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2013/apples-fall-2013-product-announcement/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/iphone/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/loud-mouthed-buffoon/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/nokia/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2013/stephen-elop-to-become-the-next-microsoft-ceo-id-buy-it/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/windows-phone/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/cyberduck/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/transmit/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2013/uploading-web-files-to-a-new-amazon-ec2-instance/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/yum/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/enterprise/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/openid/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2013/things-i-learned-about-how-websites-manage-passwords/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/app.net/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2013/breaking-my-bad-password-habits-with-1password-authy-oauth-openid/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/dreamhost/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/dropbox/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/evernote/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/godaddy/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/gravatar/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/hotmail/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/playstation/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/stripe/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/xbox/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/health/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/health/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2013/running/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/running/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/android/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/digital-hub/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/ecosystem/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/google-tv/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/hp-touchpad/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/ipad/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/nexus-q/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/surface/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2013/the-microsoft-ecosystem/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/windows/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/aac/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/ac3/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/atomicparsley/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2013/converting-mkv-files-to-mp4-using-mac-os-x-for-playback-on-ipad-apple-tv-playstation-3-xbox-360-roku-and-other-players/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/dvd/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/handbrake/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/hulu/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/metax/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/metaz/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/mkv/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/mp4/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/mp4v2/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/netflix/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/subler/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/anydvd/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2013/converting-blu-ray-and-dvd-movies-to-mp4-using-mac-os-x-for-playback-on-ipad-apple-tv-playstation-3-xbox-360-roku-and-other-players/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/makemkv/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/4k/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/h.265/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2013/h265-has-been-approved/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/hdtv/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/ultra-hd-blu-ray/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2013/aaron-swartz/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/aaron-swartz/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/alex-payne/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/creative-commons/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/demand-progress/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/dustin-curtis/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/free-speech/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/mit/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/pacer/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/public-record/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/rdf/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/sopa-pipa/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/xml/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/series/favorite-apps/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2012/my-favorite-mac-apps-music-and-video-apps/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2012/my-favorite-mac-apps-day-to-day-apps/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2012/in-response-to-dear-apple-im-leaving-you/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2012/current-status/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/for-funsies/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2012/app-judgment-and-sloppy-reporting/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/design/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2012/the-measurement-of-nice/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2012/clueless-recruiters-issue-6/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2012/clueless-recruiters-issue-5/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2012/iphone-5/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2012/the-new-iphone/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2012/dieter-rams-on-creative-engineers/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2012/clueless-recruiters-issue-4/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2012/sopapipa/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2012/clueless-recruiters-issue-3/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2012/you-can-do-anything-you-put-your-mind-to-even-if-its-i-cant/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/series/life-lessons/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/life-lessons/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2012/introduction-to-life-lessons/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/louis-c-k-and-a-word-about-torrenting/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/rim-just-cut-your-losses-and-start-afresh/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/cult-of-ignorance/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/amazon-web-services-is-hiring-php-developers/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/clueless-recruiters-issue-2/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/awesome-new-features-coming-in-php-5-4/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/how-to-make-technical-professionals-not-hate-your-guts-a-guide-for-technical-recruiters/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/clueless-recruiters/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/iphone-4s-and-siri/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/professional-reasoning-and-empirical-data/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/netflix-crazy-or-genius/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/customer-culture/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/iranian-cyber-terrorism-online-security-and-you/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/skating-to-where-the-puck-will-be/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/homerun-after-homerun-after-homerun/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/comparing-the-hp-touchpad-to-the-ipad-2/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/the-hiring-process-part-i-what-i-look-for-in-a-cvresume/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/remove-comcastxfinity-start-page-from-firefox-mac/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/3d-ipad-i-dont-believe-it/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/the-gaga-saga/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/lessons-ive-learned-from-running-a-startup/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/death-to-recruiters/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/searching-through-the-aws-sdk-for-php-documentation/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/creating-iphone-ringtones-with-itunes-and-quicktime/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/nothing-lasts-forever/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/import-deliciouspinboard-bookmarks-into-spotlight-for-mac-os-x/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/2011-resolutions/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/personal/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2010/dear-oracle-get-a-clue/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2010/cloudfusion-has-become-the-official-aws-sdk-for-php/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2010/php-coding-standards/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2010/movie-review-the-last-airbender/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/series/movie-reviews/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/music-movies-tv-shows/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2010/the-great-buzz-cut-of-2010/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2010/the-boy-turns-5/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2010/dog-vomit/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2010/observations-of-a-4-year-old/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2010/movie-review-avatar/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/browsers/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2009/webkit-3d-css-transforms/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2009/installing-php-5-3-with-mysqlnd-on-mac-os-x-with-macports/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2009/run-ie6-ie7-ie8-images-virtualbox-macosx/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2009/those-kids-and-their-wiis/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2009/introducing-dombuilder/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2009/run-ie6-ie7-ie8-images-vmware-fusion-macosx/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2008/tarzan-20-is-finally-here/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2008/loving-my-new-iphone-3g/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2008/new-tarzan-pre-release-is-available/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2008/tarzan-2/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2008/dr-horribles-sing-along-blog/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2008/visiting-chicago/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2008/installing-ffmpeg-php-fedora-amazon-aws/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2008/yahoo-messenger-redesign-is-live/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2008/my-thoughts-on-twitter/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2008/obama-08/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2008/itunes-movie-rentals-drm-and-the-big-problem/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2008/why-do-you-love-coming-back-to-a-sales-person/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2007/hide-a-boot-camp-ntfs-volume-drive-under-tiger-or-leopard/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2007/i-support-the-writers-guild-of-america/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2007/people-centric-web/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2007/eight-things-you-may-or-may-not-know-about-me/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2007/proof-that-the-youth-are-revolting/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2007/obsessive-compulsive/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2007/staying-relevant/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2007/nine-months/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2006/google-toolbar-awesomeness/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2006/simplepie-plugin-for-wordpress/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2006/simplepie-beta-2-is-now-available/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2006/the-proper-way-to-blow-your-nose/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2006/csss-text-shadow-property-in-firefox-2/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2006/movie-makers-just-dont-get-it/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2006/we-need-your-feeds/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2006/vasecto-who/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2006/internet-explorer-70-beta-2-build-53355/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2006/tinymce-issue/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2006/document-createtextnode-and-entities/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2006/camino-has-left-the-building/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2006/youtube-travis-barker-snare-drum-solo/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2006/awesome-view-source-trick-for-javascript-developers/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2006/okay-some-people-are-seriously-retarded/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2006/internet-explorer-70-beta-2-standalone-is-available/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2006/simplepie-10-preview-release-is-now-available/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2006/simplepies-triumphant-return/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/and-the-best-wife-in-the-world-award-goes-to/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/series/best-wife/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/free-gmail-invites/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/happy-birthday-julianna-grace/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/firefox-15-now-available/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/ive-succumbed-to-the-dark-side/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/best-wife-ever/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/the-armpit-of-california/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/feed-for-skyzyx-downloads/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/website/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/skyzyx-downloads/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/the-end-of-the-cd/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/how-to-keep-a-healthy-level-of-insanity/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/skyzyxcom-is-temporarily-down/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/movie-reviews-2005/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/zeldman-in-1996/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/fix-quicktime-playing-flash-files-in-my-browser/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/status-icon-sets-flat-glass-and-shadow/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/draggable-lists/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/ical-tv-show-schedules/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/my-move-to-services/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/windows-vista-fonts/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/welcome-to-wordpress/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/is-today-the-day-it-is/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/apples-next-step-mac-os-x86/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/which-guru-are-you/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/tiger-revisited-a-month-into-it/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/sweet-little-utility-bluephoneelite/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/mac-os-x-a-look-back/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/yam-yet-another-meme/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/matthew-madness/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/american-idol-2005/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/ical-widget/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/pwang-ive-been-batoned/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/minor-itunes-48-features/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/tivo-itunes-media-center-system/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/thoughts-on-mac-os-x-104/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/switching-to-apple-mailsafari/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/tarzan-incomplete-pre-release-nightly-beta/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/good-news-bad-news/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/sneak-peek/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/whats-new-3/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/tarzan-11-now-available/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/mathematical-proof-that-girls-are-evil/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/what-alias-is-missing-this-season/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/the-coolness-that-is-tivo/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/wireless-printing-from-mac-os-x-to-windows-xp/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/mac-os-x-1038-is-now-available/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/tarzan-101-now-available/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/which-napoleon-dynamite-character-are-you/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/tarzan-10-is-now-available/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/tarzan-10-rc2-now-available/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/localizing-tarzan-and-aws-40/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/introducing-tarzan/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/guys-rules/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/simplepie-096-now-available/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/do-not-eat-ipod-shuffle/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/conditional-comments-in-standalone-internet-explorer/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/happiness-is/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/remove-spyware-and-adware/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/god-came-near/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/using-delicious-feeds-with-simplepie/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/happy-birthday-emily-ann-boydston/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/simplepie-beta-testing/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/screen-grab-confab/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/our-first-christmas-tree/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/simple-php-gallery-11/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/i-got-iballs-i-mean-isight/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/itunes-remote-control/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/firefox-mirrors/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/firefox-optimized-for-g4g5/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/standalone-internet-explorer-and-hosting/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/why-did-the-chicken-cross-the-road/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/simplepie-095/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/clientcopia/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/a-new-license/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/little-joys/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/it-took-me-long-enough/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/simplepie-mmmm-yummy/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/one-million-and-counting/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/whats-new-2/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/wait-didnt-he-just/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/five-hundred-thousand/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/i-need-your-help/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/newer-er-better-er-simpler-er/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/the-battle-of-dunstan-vs-andrei-vs-mark/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/newer-better-simpler/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/movie-reviews-2004/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/which-os-are-you/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/windows-xp-sp2-and-mac-os-x-1035/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/the-ultrafast-simplepie-09-is-now-available/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/current-stats/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/standards-invalidation-and-missing-the-point/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/realnetworks-and-the-fairplay-drm/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/letting-go-of-legacy-code/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/good-im-rss-and-ftp-software/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/psychos-need-not-apply/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/simplepie-yummy/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/my-apple-store-experience/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/lots-of-little-things/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/growwwwwl/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/wmlwap-feed-for-cell-phones/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/haiku-gmail-and-web-standards/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/upgrade-to-movable-type-30/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/whats-new/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/openofficeorg-mac-os-x-and-x11/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/re-learning-macs/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/powerbook-goodness/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/the-ant-and-the-grasshopper/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/rip-ronald-reagan-1911-2004/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/dead-hard-drive/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/hotmail-blocking-firefox/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/firefox-fixing-the-startup-page/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/american-idol-they-got-rid-of-latoya/</loc>
+    <lastmod>2019-06-28T23:09:20-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/domain-name-registry-of-america-scam/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/whitespace-is-improving/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/using-safari-lucky-you/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/ryan-slacker-no-more/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/creative-unknowns/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/re-how-i-stopped-buying-cds-and-started-loving-music/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/blocker-and-comment-spam/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/pretty-freakin-fast/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/tweakin-styles/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/suggesting-improvements-to-blockbuster/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/web-standards/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/eternal-sunshine-of-the-spotless-mind/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/kill-no-right-click-scripts/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/bye-bye-buymusiccom/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/blocker-13-revision-2/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/pro-choice/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/ipod-goodness/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/theyre-out/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/feed-parser-and-blocker-updates/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/100-miles-an-hour-with-my-hair-on-fire/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/lockergnome-regresses/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/ala-favelet/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/multiple-internet-explorers-revisited/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/a-not-so-idle-wednesday/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/another-idle-tuesday/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/jumping-ship/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/all-automated-all-the-time/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/redesign-in-progress-2/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/rssatom-feed-changes/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/tweaking-my-rssatom-feed-reader/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/blocking-spambots/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/extensibly-extensible/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/reading/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/37-signals-basecamp-is-cool/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/the-browser-wars/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/the-power-of-feedback/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/spammaster-joe/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/corporate-speak/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/fixing-internet-explorer/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/lord-of-the-rings-name-translator/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/new-to-me-blogs-and-rssatom-support/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/applehp-stunning-the-world/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/kindly-reload/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/one-div-to-size-them-all/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/support-the-standards-or-the-browser/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/websites-of-2003/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/woo-hoo/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/movable-type-problems/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/winamp-5-wasabi-and-the-future/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/christmastime-is-here/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/wierd-ie-rendering-bug-fixed/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/lir-and-bug-fixes-for-ie5win/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/lots-of-rss-related-changes/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/britney-is-so-freaking-hot/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/interesting-people/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/a-second-voice/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/welcome-wasp-buzzers/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/broken-nintendo-gamecube/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/homeland-security-rating-scale/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/interesting-stuff/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/my-stapler-no-touchie/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/view-your-site-on-osx-and-safari/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/better-living-through-web-standards/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/winamp-5-skins/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/what-in-the-world-is-skyzyx/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/new-css-resources/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/multiple-versions-of-internet-explorer/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/rock-the-vote/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/spam-blocking/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/freakin-dns-and-tcpip/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/fewer-posts/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/links-from-around/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/winamp-5-beta/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/itunes-for-windows/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/browsers-that-dont-suck/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/cah-lee-foh-nee-ahh/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/acronym-mt-plug-in/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/eolas-eolas-eolas/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/blogs-rss/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/slickly-packaged-garbage/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/to-infinity-and-beyond/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/season-premiere-of-alias/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/will-code-html-for-food/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/suck-o-spam/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/ye-scurvy-dogs/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/subtle-changes-and-my-calendar/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/snoop-dogg-shizzolator/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/lir-vs-fir/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/sickness/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/which-is-kosher/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/simple-pleasures/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/pirated-sites/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/my-portfolio-and-sitemap/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/luposlipaphobia/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/a-new-blog/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/the-latest-goings-on/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/spoofing-spamming-and-formmail/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/building-better-websites/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/what-if-jobs-croaks/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/gemals-gettin-hitched/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/redesign-complete/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/redesign-in-progress/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/time-for-a-redesign/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/welcome-movable-type/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/play-by-the-rules-is-a-hit/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/movie-reviews-2003/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/releaseone/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/a-disagreement-perhaps/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/mozilla-seamonkey-vs-mozilla-firebird/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/play-by-the-rules/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/netscapes-first-mistake/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/a-moment-of-silence/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/another-hole-plugged/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/a-virgin-no-more/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/the-internet-is-retarded/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/the-future-is-here/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/refer-201/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/new-mozilla-build-and-the-powermac-g5/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/in-search-of-skyzyx/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/whats-in-the-box-the-powerpc-970-g5/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/mozilla-14rc2-is-available/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/openbeos-is-moving-right-along/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/internet-explorer-for-mac-is-dead/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/only-9929-of-websites-are-obsolete/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/twenty-cows-and-a-chicken/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/blogs-and-scripts-and-code-oh-my/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/nearing-mozilla-14rc2/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/another-internet-explorer-feature/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/i-see-dead-people/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/financial-aid-application/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/linkin-park-meteora-tracks/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/link-to-me/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/new-rss-junk/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/personal-dreck-and-rss-feeds/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/opera-711-bug/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/making-peace-with-milfs/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/designing-with-web-standards/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/aol-will-continue-using-internet-explorer/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/more-stuff-in-place/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/xhtml-2-and-you/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/screw-compliance/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/mozillas-recent-releases/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/video-game-updates/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/more-updates/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/the-web-standards-project-animated-gif/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/a-new-path-for-mozilla/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/zelda-wind-waker-and-final-fantasy-tactics/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/standards-compliant-browsers/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/youve-got-to-be-kidding-me/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/war-with-iraq/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/oxygen-2003-beta-2/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/about/</loc>
+    <lastmod>2019-12-26T16:46:47-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/s3/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/articles/playbytherules.php/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/articles/conservative.php/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/articles/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/series/best-wife/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/projects/blocker/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/projects/blogroller/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/blogs/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tools/cert-checker/</loc>
+    <lastmod>2020-03-03T19:30:37-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/series/clueless-recruiters/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/content-license/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/series/dear-nintendo/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/design/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/downloads/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/engineering-for-site-reliability/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/series/engineering-for-site-reliability/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/series/favorite-apps/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/projects/feedparser/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/follow/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/images/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/categories/justice/</loc>
+    <lastmod>2020-06-02T00:06:34-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/series/life-lessons/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/series/movie-reviews/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tags/p.o.d./</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/series/passwords/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2003/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2004/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2005/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2006/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2007/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2008/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2009/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2010/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2011/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2012/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2013/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2014/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2015/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2016/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2017/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2018/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2019/</loc>
+    <lastmod>2019-03-09T14:28:24-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/posts/2020/</loc>
+    <lastmod>2020-06-02T00:41:33-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/projects/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/privacy/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/tools/</loc>
+    <lastmod>2020-02-27T15:16:24-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/projects/requestcore/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/resources/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/rss/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/resume/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/scripts/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/search/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/series/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/sidebar/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/projects/simplepie/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/license/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/feeds/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/projects/tarzan/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/series/handbrake/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/wishlist/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryanparman.com/series/editors-choice/</loc>
+    <lastmod>2019-02-10T21:35:12-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>

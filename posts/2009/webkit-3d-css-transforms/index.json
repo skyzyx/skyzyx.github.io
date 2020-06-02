@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "WebKit 3D CSS Transforms",
+    "description": "",
+    "summary": {
+        "content": "I came across the following demos of the new 3D CSS Transform functionality in the latest WebKit builds. These will be making their way into Safari, Google Chrome, iPhone, and Android sometime soon. Snow Stacks Download video Image Fly Download video ",
+        "isTruncated": false
+    },
+    "published": "2009-07-15T05:38:51Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2009/webkit-3d-css-transforms/",
+    "relativePermalink": "/posts/2009/webkit-3d-css-transforms/",
+    "aliases": ["/2009/07/14/webkit-3d-css-transforms/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 41,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2009/20090715-webkit-3d-css-transforms.md",
+        "logicalName": "20090715-webkit-3d-css-transforms.md",
+        "translationBaseName": "20090715-webkit-3d-css-transforms",
+        "baseFileName": "20090715-webkit-3d-css-transforms",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2009/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003ca href=\"#snow-stacks\"\u003eSnow Stacks\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#image-fly\"\u003eImage Fly\u003c/a\u003e\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/nav\u003e",
+        "html":"\u003cp\u003eI came across the following demos of the new 3D CSS Transform functionality in the latest WebKit builds. These will be making their way into Safari, Google Chrome, iPhone, and Android sometime soon.\u003c/p\u003e\n\u003ch2 id=\"snow-stacks\"\u003eSnow Stacks\u003c/h2\u003e\n\u003cvideo controls width=\"100%\"\u003e\n    \u003csource src=\"https://s3.amazonaws.com/s3.ryanparman.com/videos/safari_snowstacks.mp4\" type=\"video/mp4\"\u003e\n    \u003ca href=\"https://s3.amazonaws.com/s3.ryanparman.com/videos/safari_snowstacks.mp4\"\u003eDownload video\u003c/a\u003e\n\u003c/video\u003e\n\u003ch2 id=\"image-fly\"\u003eImage Fly\u003c/h2\u003e\n\u003cvideo controls width=\"100%\"\u003e\n    \u003csource src=\"https://s3.amazonaws.com/s3.ryanparman.com/videos/safari_imagefly.mp4\" type=\"video/mp4\"\u003e\n    \u003ca href=\"https://s3.amazonaws.com/s3.ryanparman.com/videos/safari_imagefly.mp4\"\u003eDownload video\u003c/a\u003e\n\u003c/video\u003e\n",
+        "plain":"I came across the following demos of the new 3D CSS Transform functionality in the latest WebKit builds. These will be making their way into Safari, Google Chrome, iPhone, and Android sometime soon.\nSnow Stacks Download video  Image Fly Download video  ",
+        "source":"\nI came across the following demos of the new 3D CSS Transform functionality in the latest WebKit builds. These will be making their way into Safari, Google Chrome, iPhone, and Android sometime soon.\n\n## Snow Stacks\n\n\u003cvideo controls width=\"100%\"\u003e\n    \u003csource src=\"https://s3.amazonaws.com/s3.ryanparman.com/videos/safari_snowstacks.mp4\" type=\"video/mp4\"\u003e\n    \u003ca href=\"https://s3.amazonaws.com/s3.ryanparman.com/videos/safari_snowstacks.mp4\"\u003eDownload video\u003c/a\u003e\n\u003c/video\u003e\n\n## Image Fly\n\n\u003cvideo controls width=\"100%\"\u003e\n    \u003csource src=\"https://s3.amazonaws.com/s3.ryanparman.com/videos/safari_imagefly.mp4\" type=\"video/mp4\"\u003e\n    \u003ca href=\"https://s3.amazonaws.com/s3.ryanparman.com/videos/safari_imagefly.mp4\"\u003eDownload video\u003c/a\u003e\n\u003c/video\u003e\n"},
+    "links": {
+        "prev": {"title": "Installing PHP 5.3 with mysqlnd on Mac OS X with MacPorts", "permalink": "https://ryanparman.com/posts/2009/installing-php-5-3-with-mysqlnd-on-mac-os-x-with-macports/"},
+        "next": {"title": "Movie Review: Avatar", "permalink": "https://ryanparman.com/posts/2010/movie-review-avatar/"},
+        "ignore": "me"
+    }
+}
+
+}

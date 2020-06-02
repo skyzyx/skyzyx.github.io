@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Skyzyx: Downloads",
+    "description": "",
+    "summary": {
+        "content": "As the first public step towards unveiling my upcoming website, I’m unveiling Skyzyx: Downloads. This is a collection of Flash animations, sound clips, video clips, and various freeware/trialware software downloads I’ve collected over the last couple of years. It’s not yet exhaustive, but I want to see what the bandwidth transfer is going to be on these files before I add more stuff I’ve been collecting. This has actually been up for about a year, but was never made public. This is where the Standalone Internet Explorers, latest Firefox releases, and other bits of software will live too.",
+        "isTruncated": true
+    },
+    "published": "2005-10-20T05:15:16Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/skyzyx-downloads/",
+    "relativePermalink": "/posts/2005/skyzyx-downloads/",
+    "aliases": ["/2005/10/19/skyzyx-downloads/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 189,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20051020-skyzyx-downloads.md",
+        "logicalName": "20051020-skyzyx-downloads.md",
+        "translationBaseName": "20051020-skyzyx-downloads",
+        "baseFileName": "20051020-skyzyx-downloads",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eAs the first public step towards unveiling my upcoming website, I’m unveiling \u003ca href=\"https://web.archive.org/web/20051020051516/http://downloads.skyzyx.com/\"\u003eSkyzyx: Downloads\u003c/a\u003e. This is a collection of Flash animations, sound clips, video clips, and various freeware/trialware software downloads I’ve collected over the last couple of years. It’s not yet exhaustive, but I want to see what the bandwidth transfer is going to be on these files before I add more stuff I’ve been collecting.\u003c/p\u003e\n\u003cp\u003eThis has actually been up for about a year, but was never made public. This is where the Standalone Internet Explorers, latest Firefox releases, and other bits of software will live too. Actually, part of my goal for this is to be an unofficial mirror for the Firefox 1.5 release. :)\u003c/p\u003e\n\u003cp\u003eThere’s lots more to come in the coming weeks. Some of it will be old stuff with a fresh face, others will be new things all together. And I’ll finally have a place to showcase all of the Ajax demos I’ve worked on over the past few months.\u003c/p\u003e\n\u003cp\u003eAt the moment, I have the latest copies of the Macromedia Studio 8 Trials, Nero 6.6 Ultra trials, OpenOffice 2.0, and more. Have fun!\u003c/p\u003e\n",
+        "plain":"As the first public step towards unveiling my upcoming website, I’m unveiling Skyzyx: Downloads. This is a collection of Flash animations, sound clips, video clips, and various freeware/trialware software downloads I’ve collected over the last couple of years. It’s not yet exhaustive, but I want to see what the bandwidth transfer is going to be on these files before I add more stuff I’ve been collecting.\nThis has actually been up for about a year, but was never made public. This is where the Standalone Internet Explorers, latest Firefox releases, and other bits of software will live too. Actually, part of my goal for this is to be an unofficial mirror for the Firefox 1.5 release. :)\nThere’s lots more to come in the coming weeks. Some of it will be old stuff with a fresh face, others will be new things all together. And I’ll finally have a place to showcase all of the Ajax demos I’ve worked on over the past few months.\nAt the moment, I have the latest copies of the Macromedia Studio 8 Trials, Nero 6.6 Ultra trials, OpenOffice 2.0, and more. Have fun!\n",
+        "source":"\nAs the first public step towards unveiling my upcoming website, I’m unveiling [Skyzyx: Downloads]({{% wayback \"http://downloads.skyzyx.com/\" %}}). This is a collection of Flash animations, sound clips, video clips, and various freeware/trialware software downloads I’ve collected over the last couple of years. It’s not yet exhaustive, but I want to see what the bandwidth transfer is going to be on these files before I add more stuff I’ve been collecting.\n\nThis has actually been up for about a year, but was never made public. This is where the Standalone Internet Explorers, latest Firefox releases, and other bits of software will live too. Actually, part of my goal for this is to be an unofficial mirror for the Firefox 1.5 release. :)\n\nThere’s lots more to come in the coming weeks. Some of it will be old stuff with a fresh face, others will be new things all together. And I’ll finally have a place to showcase all of the Ajax demos I’ve worked on over the past few months.\n\nAt the moment, I have the latest copies of the Macromedia Studio 8 Trials, Nero 6.6 Ultra trials, OpenOffice 2.0, and more. Have fun!\n"},
+    "links": {
+        "prev": {"title": "The End of the CD", "permalink": "https://ryanparman.com/posts/2005/the-end-of-the-cd/"},
+        "next": {"title": "Feed for Skyzyx: Downloads", "permalink": "https://ryanparman.com/posts/2005/feed-for-skyzyx-downloads/"},
+        "ignore": "me"
+    }
+}
+
+}

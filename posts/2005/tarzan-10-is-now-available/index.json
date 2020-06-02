@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Tarzan 1.0 Is Now Available!",
+    "description": "",
+    "summary": {
+        "content": "Tarzan 1.0 is now available! There were only a couple of minor bug fixes since RC2, so existing installations shouldn’t be affected at all. I’ve also written a custom extension for displaying my own wishlist. If you’re interested in checking it out to build off of for your own wishlists (or whatever else it might be useful for), you can get ryan_wishlist.tzx here. And although I had wanted to add search capabilities to Tarzan by 1.0, I’ve decided to build an extension for that.",
+        "isTruncated": true
+    },
+    "published": "2005-01-31T21:15:30Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/tarzan-10-is-now-available/",
+    "relativePermalink": "/posts/2005/tarzan-10-is-now-available/",
+    "aliases": ["/2005/01/31/tarzan-10-is-now-available/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 329,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050131-tarzan-10-is-now-available.md",
+        "logicalName": "20050131-tarzan-10-is-now-available.md",
+        "translationBaseName": "20050131-tarzan-10-is-now-available",
+        "baseFileName": "20050131-tarzan-10-is-now-available",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003ca href=\"#tips-and-tricks\"\u003eTips and Tricks\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#resizing-images-based-on-the-size-of-a-single-side\"\u003eResizing images based on the size of a single side\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#php-running-out-of-memory\"\u003ePHP running out of memory?\u003c/a\u003e\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/nav\u003e",
+        "html":"\u003cp\u003e\u003ca href=\"/projects/tarzan/\"\u003eTarzan 1.0\u003c/a\u003e is now available! There were only a couple of minor bug fixes since RC2, so existing installations shouldn’t be affected at all.\u003c/p\u003e\n\u003cp\u003eI’ve also written a custom extension for displaying my own \u003ca href=\"/wishlist/\"\u003ewishlist\u003c/a\u003e. If you’re interested in checking it out to build off of for your own wishlists (or whatever else it might be useful for), you can get \u003ca href=\"/wishlist/extensions/ryan_wishlist.tzx\"\u003eryan_wishlist.tzx\u003c/a\u003e here.\u003c/p\u003e\n\u003cp\u003eAnd although I had wanted to add search capabilities to Tarzan by 1.0, I’ve decided to build an extension for that. I’m planning to have this extension ready by next week sometime.\u003c/p\u003e\n\u003ch2 id=\"tips-and-tricks\"\u003eTips and Tricks\u003c/h2\u003e\n\u003cp\u003eThere are a couple of tips and tricks that can be used with Tarzan. I’ll post them over to the \u003ca href=\"https://web.archive.org/web/20050131211530/http://support.skyzyx.net/viewforum.php?f=10\"\u003eTarzan Support Forum\u003c/a\u003e later on today.\u003c/p\u003e\n\u003ch2 id=\"resizing-images-based-on-the-size-of-a-single-side\"\u003eResizing images based on the size of a single side\u003c/h2\u003e\n\u003cp\u003eFor my wishlist, I’m more concerned about items being the same height, rather than the same width. How do I manage that? Setting either the width or height value to zero will allow image resizing of one sider to rely solely on the other. For example, if I wanted to set an item to a height of 90 pixels without caring how wide the image is, you could use this:\u003c/p\u003e\n\u003cdiv class=\"highlight\"\u003e\u003cpre style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"\u003e\u003ccode class=\"language-php\" data-lang=\"php\"\u003e\u003cspan style=\"color:#75715e\"\u003e\u0026lt;?php\u003c/span\u003e\n\u003cspan style=\"color:#66d9ef\"\u003eecho\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003eget_image\u003c/span\u003e($asin, \u003cspan style=\"color:#ae81ff\"\u003e0\u003c/span\u003e, \u003cspan style=\"color:#ae81ff\"\u003e0\u003c/span\u003e, \u003cspan style=\"color:#ae81ff\"\u003e90\u003c/span\u003e);\n\u003c/code\u003e\u003c/pre\u003e\u003c/div\u003e\u003cp\u003eThe first is the ASIN/ISBN number of the item. The second parameter (set to zero) tells Tarzan that you want to resize the image. The third parameter (also set to zero) is the width. Since the width is set to zero, then resizing will depend entirely on the fourth parameter, height, which is set to 90 pixels.\u003c/p\u003e\n\u003ch2 id=\"php-running-out-of-memory\"\u003ePHP running out of memory?\u003c/h2\u003e\n\u003cp\u003eSome webhosts have limits on how much memory a process can use (like the webhost for Skyzyx.com, \u003ca href=\"https://web.archive.org/web/20050131211530/http://www.ipowerweb.com\"\u003eiPowerWeb\u003c/a\u003e). In this case, the new \u003ccode\u003eclear_memory()\u003c/code\u003e function is helpful. This allows you to \u003ccode\u003eunset()\u003c/code\u003e the value of an array node, particularly the product that you just finished processing. You can read more about this function in the \u003ca href=\"/projects/tarzan/docs/documentation.htm\"\u003eTarzan Documentation\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":"Tarzan 1.0 is now available! There were only a couple of minor bug fixes since RC2, so existing installations shouldn’t be affected at all.\nI’ve also written a custom extension for displaying my own wishlist. If you’re interested in checking it out to build off of for your own wishlists (or whatever else it might be useful for), you can get ryan_wishlist.tzx here.\nAnd although I had wanted to add search capabilities to Tarzan by 1.0, I’ve decided to build an extension for that. I’m planning to have this extension ready by next week sometime.\nTips and Tricks There are a couple of tips and tricks that can be used with Tarzan. I’ll post them over to the Tarzan Support Forum later on today.\nResizing images based on the size of a single side For my wishlist, I’m more concerned about items being the same height, rather than the same width. How do I manage that? Setting either the width or height value to zero will allow image resizing of one sider to rely solely on the other. For example, if I wanted to set an item to a height of 90 pixels without caring how wide the image is, you could use this:\n\u0026lt;?php echo get_image($asin, 0, 0, 90); The first is the ASIN/ISBN number of the item. The second parameter (set to zero) tells Tarzan that you want to resize the image. The third parameter (also set to zero) is the width. Since the width is set to zero, then resizing will depend entirely on the fourth parameter, height, which is set to 90 pixels.\nPHP running out of memory? Some webhosts have limits on how much memory a process can use (like the webhost for Skyzyx.com, iPowerWeb). In this case, the new clear_memory() function is helpful. This allows you to unset() the value of an array node, particularly the product that you just finished processing. You can read more about this function in the Tarzan Documentation.\n",
+        "source":"\n[Tarzan 1.0](/projects/tarzan/) is now available! There were only a couple of minor bug fixes since RC2, so existing installations shouldn’t be affected at all.\n\nI’ve also written a custom extension for displaying my own [wishlist](/wishlist/). If you’re interested in checking it out to build off of for your own wishlists (or whatever else it might be useful for), you can get [ryan_wishlist.tzx](/wishlist/extensions/ryan_wishlist.tzx) here.\n\nAnd although I had wanted to add search capabilities to Tarzan by 1.0, I’ve decided to build an extension for that. I’m planning to have this extension ready by next week sometime.\n\n## Tips and Tricks\n\nThere are a couple of tips and tricks that can be used with Tarzan. I’ll post them over to the [Tarzan Support Forum]({{% wayback \"http://support.skyzyx.net/viewforum.php?f=10\" %}}) later on today.\n\n## Resizing images based on the size of a single side\n\nFor my wishlist, I’m more concerned about items being the same height, rather than the same width. How do I manage that? Setting either the width or height value to zero will allow image resizing of one sider to rely solely on the other. For example, if I wanted to set an item to a height of 90 pixels without caring how wide the image is, you could use this:\n\n```php\n\u003c?php\necho get_image($asin, 0, 0, 90);\n```\n\nThe first is the ASIN/ISBN number of the item. The second parameter (set to zero) tells Tarzan that you want to resize the image. The third parameter (also set to zero) is the width. Since the width is set to zero, then resizing will depend entirely on the fourth parameter, height, which is set to 90 pixels.\n\n## PHP running out of memory?\n\nSome webhosts have limits on how much memory a process can use (like the webhost for Skyzyx.com, [iPowerWeb]({{% wayback \"http://www.ipowerweb.com)\" %}}). In this case, the new `clear_memory()` function is helpful. This allows you to `unset()` the value of an array node, particularly the product that you just finished processing. You can read more about this function in the [Tarzan Documentation](/projects/tarzan/docs/documentation.htm).\n"},
+    "links": {
+        "prev": {"title": "Tarzan 1.0 RC2 Now Available!", "permalink": "https://ryanparman.com/posts/2005/tarzan-10-rc2-now-available/"},
+        "next": {"title": "Which Napoleon Dynamite Character Are You?", "permalink": "https://ryanparman.com/posts/2005/which-napoleon-dynamite-character-are-you/"},
+        "ignore": "me"
+    }
+}
+
+}

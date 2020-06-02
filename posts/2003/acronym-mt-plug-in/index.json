@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Acronym MT Plug-in",
+    "description": "",
+    "summary": {
+        "content": "I’ve discovered a nifty little MT plug-in called “Acronym”. It takes many of the common acronyms and abbreviations and gives them a keen little description that is visible on mouseover. Some of the more common ones are CSS, XHTML, W3C, IE, NS7, IE5/Mac, and US 508. Actually, it’s just my way of testing out what this plug-in can do, and what it can’t…",
+        "isTruncated": false
+    },
+    "published": "2003-10-07T20:40:35Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/acronym-mt-plug-in/",
+    "relativePermalink": "/posts/2003/acronym-mt-plug-in/",
+    "aliases": ["/2003/10/07/acronym-mt-plug-in/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 63,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20031007-acronym-mt-plug-in.md",
+        "logicalName": "20031007-acronym-mt-plug-in.md",
+        "translationBaseName": "20031007-acronym-mt-plug-in",
+        "baseFileName": "20031007-acronym-mt-plug-in",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve discovered a nifty little MT plug-in called \u003ca href=\"https://web.archive.org/web/20031007204035/http://mt-plugins.org/archives/entry/acronym.php\"\u003e“Acronym”\u003c/a\u003e. It takes many of the common acronyms and abbreviations and gives them a keen little description that is visible on mouseover.\u003c/p\u003e\n\u003cp\u003eSome of the more common ones are CSS, XHTML, W3C, IE, NS7, IE5/Mac, and US 508. Actually, it’s just my way of testing out what this plug-in can do, and what it can’t…\u003c/p\u003e\n",
+        "plain":"I’ve discovered a nifty little MT plug-in called “Acronym”. It takes many of the common acronyms and abbreviations and gives them a keen little description that is visible on mouseover.\nSome of the more common ones are CSS, XHTML, W3C, IE, NS7, IE5/Mac, and US 508. Actually, it’s just my way of testing out what this plug-in can do, and what it can’t…\n",
+        "source":"\nI’ve discovered a nifty little MT plug-in called [“Acronym”]({{% wayback \"http://mt-plugins.org/archives/entry/acronym.php\" %}}). It takes many of the common acronyms and abbreviations and gives them a keen little description that is visible on mouseover.\n\nSome of the more common ones are CSS, XHTML, W3C, IE, NS7, IE5/Mac, and US 508. Actually, it’s just my way of testing out what this plug-in can do, and what it can’t…\n"},
+    "links": {
+        "prev": {"title": "Eolas, Eolas, Eolas...", "permalink": "https://ryanparman.com/posts/2003/eolas-eolas-eolas/"},
+        "next": {"title": "Cah-Lee-Foh-Nee-Ahh", "permalink": "https://ryanparman.com/posts/2003/cah-lee-foh-nee-ahh/"},
+        "ignore": "me"
+    }
+}
+
+}

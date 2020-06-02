@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Corporate-Speak",
+    "description": "",
+    "summary": {
+        "content": "I’ve been looking for a full-time web design job for a few months now. I graduated with my BA in Design this past November, and have had a heck of a time trying to find something that is in web design, without applying for positions that sound as intimidating as Sr. Web Development Engineer. Anyways, while digging through Monster, I came across the following blurb: Internet savvy individual with the ability to maximize return in acquiring and managing leads through the e-marketing channel.",
+        "isTruncated": true
+    },
+    "published": "2004-01-23T00:20:30Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/corporate-speak/",
+    "relativePermalink": "/posts/2004/corporate-speak/",
+    "aliases": ["/archives/000158.php", "/articles/000158.php", "/2004/01/22/corporate-speak/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Tech Industry"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 146,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040123-corporate-speak.md",
+        "logicalName": "20040123-corporate-speak.md",
+        "translationBaseName": "20040123-corporate-speak",
+        "baseFileName": "20040123-corporate-speak",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve been looking for a full-time web design job for a few months now. I graduated with my BA in Design this past November, and have had a heck of a time trying to find something that is in web \u003cem\u003edesign\u003c/em\u003e, without applying for positions that sound as intimidating as \u003cem\u003eSr. Web Development Engineer\u003c/em\u003e.\u003c/p\u003e\n\u003cp\u003eAnyways, while digging through \u003ca href=\"https://web.archive.org/web/20040123002030/http://www.monster.com\"\u003eMonster\u003c/a\u003e, I came across the following blurb:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eInternet savvy individual with the ability to maximize return in acquiring and managing leads through the e-marketing channel. Responsible for working closely with sales, product marketing, and corporate to develop and execute tactical marketing, ensuring that projects meet sales objectives and align with overall brand strategy.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eDo people in the corporate world really talk like this? I’m looking for a good job in web design, but \u003cem\u003e“maximize return in acquiring and managing leads”\u003c/em\u003e sounds kinda scary. Any tips? Any job leads?\u003c/p\u003e\n",
+        "plain":"I’ve been looking for a full-time web design job for a few months now. I graduated with my BA in Design this past November, and have had a heck of a time trying to find something that is in web design, without applying for positions that sound as intimidating as Sr. Web Development Engineer.\nAnyways, while digging through Monster, I came across the following blurb:\n Internet savvy individual with the ability to maximize return in acquiring and managing leads through the e-marketing channel. Responsible for working closely with sales, product marketing, and corporate to develop and execute tactical marketing, ensuring that projects meet sales objectives and align with overall brand strategy.\n Do people in the corporate world really talk like this? I’m looking for a good job in web design, but “maximize return in acquiring and managing leads” sounds kinda scary. Any tips? Any job leads?\n",
+        "source":"\nI’ve been looking for a full-time web design job for a few months now. I graduated with my BA in Design this past November, and have had a heck of a time trying to find something that is in web *design*, without applying for positions that sound as intimidating as *Sr. Web Development Engineer*.\n\nAnyways, while digging through [Monster]({{% wayback \"http://www.monster.com\" %}}), I came across the following blurb:\n\n\u003e Internet savvy individual with the ability to maximize return in acquiring and managing leads through the e-marketing channel. Responsible for working closely with sales, product marketing, and corporate to develop and execute tactical marketing, ensuring that projects meet sales objectives and align with overall brand strategy.\n\nDo people in the corporate world really talk like this? I’m looking for a good job in web design, but *“maximize return in acquiring and managing leads”* sounds kinda scary. Any tips? Any job leads?\n"},
+    "links": {
+        "prev": {"title": "Fixing Internet Explorer", "permalink": "https://ryanparman.com/posts/2004/fixing-internet-explorer/"},
+        "next": {"title": "SpamMaster Joe", "permalink": "https://ryanparman.com/posts/2004/spammaster-joe/"},
+        "ignore": "me"
+    }
+}
+
+}

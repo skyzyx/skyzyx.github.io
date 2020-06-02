@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Mac OS X 10.3.8 Is Now Available!",
+    "description": "",
+    "summary": {
+        "content": "Normally, I don’t post about the latest updates to the Mac operating system, but this time is special. This is the most special of all updates because it fixes the two major problems that I’ve had ever since I bought my Powerbook G4 over the summer. “…a problem in which, on rare occasions, a PowerBook G4 would wake from sleep with a black screen and not respond to keyboard or mouse input” which I have been a victim of at least 50 times since June, and…",
+        "isTruncated": true
+    },
+    "published": "2005-02-11T01:18:54Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/mac-os-x-1038-is-now-available/",
+    "relativePermalink": "/posts/2005/mac-os-x-1038-is-now-available/",
+    "aliases": ["/2005/02/10/mac-os-x-1038-is-now-available/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Apple"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 148,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050211-mac-os-x-1038-is-now-available.md",
+        "logicalName": "20050211-mac-os-x-1038-is-now-available.md",
+        "translationBaseName": "20050211-mac-os-x-1038-is-now-available",
+        "baseFileName": "20050211-mac-os-x-1038-is-now-available",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cdiv class=\"pa2-ns\"\u003e\n\t\u003camp-img src=\"https://cdn.ryanparman.com/img/macosxpanther.jpg\" layout=\"responsive\" width=\"\" height=\"\"\u003e\u003c/amp-img\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eNormally, I don’t post about the latest updates to the Mac operating system, but this time is special. This is the most special of all updates because it \u003ca href=\"https://web.archive.org/web/20050211011854/http://news.com.com/Mac+OS+update+corners+jumping+cursors/2110-1045_3-5571569.html?part=rss\u0026amp;tag=5571569\u0026amp;subj=news.1045.5\"\u003efixes\u003c/a\u003e the two major problems that I’ve had ever since I bought my Powerbook G4 over the summer.\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cem\u003e“…a problem in which, on rare occasions, a PowerBook G4 would wake from sleep with a black screen and not respond to keyboard or mouse input”\u003c/em\u003e which I have been a victim of at least 50 times since June, and…\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cem\u003e“…also deals with ‘jumping cursor’ issues that might occur while using one’s thumb or the side of one’s thumb to navigate on a laptop Mac”\u003c/em\u003e, which has also plagued me time and time again since I bought my Powerbook.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eApple’s “geniuses” haven’t ever been able to figure out why this has been happening to my Powerbook. Now it’s fixed! I’m so happy!\u003c/p\u003e\n",
+        "plain":"  Normally, I don’t post about the latest updates to the Mac operating system, but this time is special. This is the most special of all updates because it fixes the two major problems that I’ve had ever since I bought my Powerbook G4 over the summer.\n  “…a problem in which, on rare occasions, a PowerBook G4 would wake from sleep with a black screen and not respond to keyboard or mouse input” which I have been a victim of at least 50 times since June, and…\n  “…also deals with ‘jumping cursor’ issues that might occur while using one’s thumb or the side of one’s thumb to navigate on a laptop Mac”, which has also plagued me time and time again since I bought my Powerbook.\n  Apple’s “geniuses” haven’t ever been able to figure out why this has been happening to my Powerbook. Now it’s fixed! I’m so happy!\n",
+        "source":"\n{{\u003cfullimage src=\"https://cdn.ryanparman.com/img/macosxpanther.jpg\" alt=\"Mac OS X Panther\"\u003e}}\n\nNormally, I don’t post about the latest updates to the Mac operating system, but this time is special. This is the most special of all updates because it [fixes]({{% wayback \"http://news.com.com/Mac+OS+update+corners+jumping+cursors/2110-1045_3-5571569.html?part=rss\u0026tag=5571569\u0026subj=news.1045.5\" %}}) the two major problems that I’ve had ever since I bought my Powerbook G4 over the summer.\n\n1. *“…a problem in which, on rare occasions, a PowerBook G4 would wake from sleep with a black screen and not respond to keyboard or mouse input”* which I have been a victim of at least 50 times since June, and…\n\n2. *“…also deals with ‘jumping cursor’ issues that might occur while using one’s thumb or the side of one’s thumb to navigate on a laptop Mac”*, which has also plagued me time and time again since I bought my Powerbook.\n\nApple’s “geniuses” haven’t ever been able to figure out why this has been happening to my Powerbook. Now it’s fixed! I’m so happy!\n"},
+    "links": {
+        "prev": {"title": "Tarzan 1.0.1 Now Available!", "permalink": "https://ryanparman.com/posts/2005/tarzan-101-now-available/"},
+        "next": {"title": "Wireless Printing from Mac OS X to Windows XP", "permalink": "https://ryanparman.com/posts/2005/wireless-printing-from-mac-os-x-to-windows-xp/"},
+        "ignore": "me"
+    }
+}
+
+}

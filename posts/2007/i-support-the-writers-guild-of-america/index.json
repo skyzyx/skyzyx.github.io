@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "I support the Writer's Guild of America",
+    "description": "",
+    "summary": {
+        "content": "I just wanted to say that I fully, completely, and entirely support the WGA in their strike against Big Media. If you haven’t checked it out, take a look at United Hollywood and sign the petition! This video explains what’s going on, and why it’s so very important that the Writer’s Guild wins this battle against the media companies.",
+        "isTruncated": false
+    },
+    "published": "2007-11-10T06:44:29Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2007/i-support-the-writers-guild-of-america/",
+    "relativePermalink": "/posts/2007/i-support-the-writers-guild-of-america/",
+    "aliases": ["/2007/11/09/i-support-the-writers-guild-of-america/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Tech Industry"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 59,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2007/20071110-i-support-the-writers-guild-of-america.md",
+        "logicalName": "20071110-i-support-the-writers-guild-of-america.md",
+        "translationBaseName": "20071110-i-support-the-writers-guild-of-america",
+        "baseFileName": "20071110-i-support-the-writers-guild-of-america",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2007/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI just wanted to say that I fully, completely, and entirely support the WGA in their strike against Big Media. If you haven’t checked it out, take a look at \u003ca href=\"https://web.archive.org/web/20071110064429/http://unitedhollywood.blogspot.com/\"\u003eUnited Hollywood\u003c/a\u003e and \u003ca href=\"https://web.archive.org/web/20071110064429/http://www.msplinks.com/MDFodHRwOi8vd3d3LlBldGl0aW9uT25saW5lLmNvbS9XR0EvcGV0aXRpb24uaHRtbA==\"\u003esign the petition!\u003c/a\u003e This video explains what’s going on, and why it’s so very important that the Writer’s Guild wins this battle against the media companies.\u003c/p\u003e\n",
+        "plain":"I just wanted to say that I fully, completely, and entirely support the WGA in their strike against Big Media. If you haven’t checked it out, take a look at United Hollywood and sign the petition! This video explains what’s going on, and why it’s so very important that the Writer’s Guild wins this battle against the media companies.\n",
+        "source":"\nI just wanted to say that I fully, completely, and entirely support the WGA in their strike against Big Media. If you haven’t checked it out, take a look at [United Hollywood]({{% wayback \"http://unitedhollywood.blogspot.com/\" %}}) and [sign the petition!]({{% wayback \"http://www.msplinks.com/MDFodHRwOi8vd3d3LlBldGl0aW9uT25saW5lLmNvbS9XR0EvcGV0aXRpb24uaHRtbA==\" %}}) This video explains what’s going on, and why it’s so very important that the Writer’s Guild wins this battle against the media companies.\n"},
+    "links": {
+        "prev": {"title": "People-Centric Web", "permalink": "https://ryanparman.com/posts/2007/people-centric-web/"},
+        "next": {"title": "Hide a Boot Camp NTFS Volume (Drive) under Tiger or Leopard", "permalink": "https://ryanparman.com/posts/2007/hide-a-boot-camp-ntfs-volume-drive-under-tiger-or-leopard/"},
+        "ignore": "me"
+    }
+}
+
+}

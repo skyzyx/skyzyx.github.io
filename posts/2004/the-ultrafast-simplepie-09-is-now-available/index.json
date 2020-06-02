@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "The Ultrafast SimplePie 0.9 Is Now Available!",
+    "description": "",
+    "summary": {
+        "content": "Responses to the release of SimplePie 0.8 have been very positive. SimplePie has accomplished it’s goal of making it easier to create online feed readers, or anything else that requires RSS parsing. The only complaints that I got were mostly speed-related. Most people who sent me feedback thought that SimplePie was just too darn slow. Unfortunately, the speed issues were directly related to my use of Magpie RSS as the parsing engine. So, I decided to re-write it completely from scratch.",
+        "isTruncated": true
+    },
+    "published": "2004-08-04T05:50:55Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/the-ultrafast-simplepie-09-is-now-available/",
+    "relativePermalink": "/posts/2004/the-ultrafast-simplepie-09-is-now-available/",
+    "aliases": ["/2004/08/03/the-ultrafast-simplepie-09-is-now-available/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 239,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040804-the-ultrafast-simplepie-09-is-now-available.md",
+        "logicalName": "20040804-the-ultrafast-simplepie-09-is-now-available.md",
+        "translationBaseName": "20040804-the-ultrafast-simplepie-09-is-now-available",
+        "baseFileName": "20040804-the-ultrafast-simplepie-09-is-now-available",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eResponses to the release of \u003ca href=\"/projects/simplepie/\"\u003eSimplePie\u003c/a\u003e 0.8 have been very positive. SimplePie has accomplished it’s goal of making it easier to create online feed readers, or anything else that requires RSS parsing.\u003c/p\u003e\n\u003cp\u003eThe only complaints that I got were mostly speed-related. Most people who sent me feedback thought that SimplePie was just too darn slow. Unfortunately, the speed issues were directly related to my use of \u003ca href=\"https://web.archive.org/web/20040804055055/http://magpierss.sourceforge.net\"\u003eMagpie RSS\u003c/a\u003e as the parsing engine.\u003c/p\u003e\n\u003cp\u003eSo, I decided to re-write it completely from scratch. I did away with Magpie altogether, and built a brand-new feed parser based around Hans Anderson’s \u003ca href=\"https://web.archive.org/web/20040804055055/http://www.hansanderson.com/php/xml/\"\u003eXMLize\u003c/a\u003e library for parsing XML documents with PHP. The results were astounding!\u003c/p\u003e\n\u003cp\u003eI removed all external dependencies. SimplePie is now completely self-contained. Also, I tweaked with the way that SimplePie parses RSS feeds. In doing so, I’ve got v0.9 running anywhere from 20 to \u003cem\u003e162 times faster\u003c/em\u003e than v0.8. Specifically, it’s a maximum speed increase of over 16215%. On average, however, it only runs around 100 times faster than the previous version. As a matter of fact, I’ve never seen v0.9 take longer than 0.35 seconds to process and render a RSS feed.\u003c/p\u003e\n\u003cp\u003eIf you’re looking for some RSS parsing software for PHP, I hope that SimplePie will be your choice. Of course, I’m always open to feature requests and bug reports, so let me know if you have something to say…\u003c/p\u003e\n\u003cp\u003eYou can download SimplePie 0.9 from the \u003ca href=\"/projects/simplepie/\"\u003eSimplePie Project Page\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":"Responses to the release of SimplePie 0.8 have been very positive. SimplePie has accomplished it’s goal of making it easier to create online feed readers, or anything else that requires RSS parsing.\nThe only complaints that I got were mostly speed-related. Most people who sent me feedback thought that SimplePie was just too darn slow. Unfortunately, the speed issues were directly related to my use of Magpie RSS as the parsing engine.\nSo, I decided to re-write it completely from scratch. I did away with Magpie altogether, and built a brand-new feed parser based around Hans Anderson’s XMLize library for parsing XML documents with PHP. The results were astounding!\nI removed all external dependencies. SimplePie is now completely self-contained. Also, I tweaked with the way that SimplePie parses RSS feeds. In doing so, I’ve got v0.9 running anywhere from 20 to 162 times faster than v0.8. Specifically, it’s a maximum speed increase of over 16215%. On average, however, it only runs around 100 times faster than the previous version. As a matter of fact, I’ve never seen v0.9 take longer than 0.35 seconds to process and render a RSS feed.\nIf you’re looking for some RSS parsing software for PHP, I hope that SimplePie will be your choice. Of course, I’m always open to feature requests and bug reports, so let me know if you have something to say…\nYou can download SimplePie 0.9 from the SimplePie Project Page.\n",
+        "source":"\nResponses to the release of [SimplePie](/projects/simplepie/) 0.8 have been very positive. SimplePie has accomplished it’s goal of making it easier to create online feed readers, or anything else that requires RSS parsing.\n\nThe only complaints that I got were mostly speed-related. Most people who sent me feedback thought that SimplePie was just too darn slow. Unfortunately, the speed issues were directly related to my use of [Magpie RSS]({{% wayback \"http://magpierss.sourceforge.net\" %}}) as the parsing engine.\n\nSo, I decided to re-write it completely from scratch. I did away with Magpie altogether, and built a brand-new feed parser based around Hans Anderson’s [XMLize]({{% wayback \"http://www.hansanderson.com/php/xml/\" %}}) library for parsing XML documents with PHP. The results were astounding!\n\nI removed all external dependencies. SimplePie is now completely self-contained. Also, I tweaked with the way that SimplePie parses RSS feeds. In doing so, I’ve got v0.9 running anywhere from 20 to *162 times faster* than v0.8. Specifically, it’s a maximum speed increase of over 16215%. On average, however, it only runs around 100 times faster than the previous version. As a matter of fact, I’ve never seen v0.9 take longer than 0.35 seconds to process and render a RSS feed.\n\nIf you’re looking for some RSS parsing software for PHP, I hope that SimplePie will be your choice. Of course, I’m always open to feature requests and bug reports, so let me know if you have something to say…\n\nYou can download SimplePie 0.9 from the [SimplePie Project Page](/projects/simplepie/).\n"},
+    "links": {
+        "prev": {"title": "Current Stats", "permalink": "https://ryanparman.com/posts/2004/current-stats/"},
+        "next": {"title": "Windows XP SP2 and Mac OS X 10.3.5", "permalink": "https://ryanparman.com/posts/2004/windows-xp-sp2-and-mac-os-x-1035/"},
+        "ignore": "me"
+    }
+}
+
+}

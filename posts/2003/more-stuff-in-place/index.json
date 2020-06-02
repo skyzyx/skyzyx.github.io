@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "More Stuff in Place",
+    "description": "",
+    "summary": {
+        "content": "I’ve added many, many more articles to the “Articles” section. I have found them all useful, and I think you will too. I’ve also added more scripts (with documentation) to the “Scripts” section. I’ve still got more to go. Skyzyx.com now has what are called “Permalinks” to each post in the news section. This way, you can link directly to any post on this site. Hopefully this will get my site into the limelight of web standards sites.",
+        "isTruncated": false
+    },
+    "published": "2003-05-29T07:26:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/more-stuff-in-place/",
+    "relativePermalink": "/posts/2003/more-stuff-in-place/",
+    "aliases": ["/2003/05/28/more-stuff-in-place/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 78,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030529-more-stuff-in-place.md",
+        "logicalName": "20030529-more-stuff-in-place.md",
+        "translationBaseName": "20030529-more-stuff-in-place",
+        "baseFileName": "20030529-more-stuff-in-place",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve added many, many more articles to the \u003ca href=\"../articles/\" title=\"Insightful articles are posted here.\"\u003e“Articles”\u003c/a\u003e section. I have found them all useful, and I think you will too.\u003c/p\u003e\n\u003cp\u003eI’ve also added more scripts (with documentation) to the \u003ca href=\"../scripts/\" title=\"Cool, helpful, or essential scripts for you to peruse.\"\u003e“Scripts”\u003c/a\u003e section. I’ve still got more to go.\u003c/p\u003e\n\u003cp\u003eSkyzyx.com now has what are called “Permalinks” to each post in the news section. This way, you can link directly to any post on this site. Hopefully this will get my site into the limelight of web standards sites.\u003c/p\u003e\n",
+        "plain":"I’ve added many, many more articles to the “Articles” section. I have found them all useful, and I think you will too.\nI’ve also added more scripts (with documentation) to the “Scripts” section. I’ve still got more to go.\nSkyzyx.com now has what are called “Permalinks” to each post in the news section. This way, you can link directly to any post on this site. Hopefully this will get my site into the limelight of web standards sites.\n",
+        "source":"\nI’ve added many, many more articles to the [“Articles”](../articles/ \"Insightful articles are posted here.\") section. I have found them all useful, and I think you will too.\n\nI’ve also added more scripts (with documentation) to the [“Scripts”](../scripts/ \"Cool, helpful, or essential scripts for you to peruse.\") section. I’ve still got more to go.\n\nSkyzyx.com now has what are called “Permalinks” to each post in the news section. This way, you can link directly to any post on this site. Hopefully this will get my site into the limelight of web standards sites.\n"},
+    "links": {
+        "prev": {"title": "XHTML 2 And You!", "permalink": "https://ryanparman.com/posts/2003/xhtml-2-and-you/"},
+        "next": {"title": "AOL will continue using Internet Explorer", "permalink": "https://ryanparman.com/posts/2003/aol-will-continue-using-internet-explorer/"},
+        "ignore": "me"
+    }
+}
+
+}

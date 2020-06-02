@@ -1,0 +1,930 @@
+{
+    "data": {
+        
+        "section": "posts",
+        
+        
+        "count": 18,
+        "items": [
+            
+            {
+    "kind": "page",
+    "title": "Google Toolbar Awesomeness!",
+    "description": "",
+    "summary": {
+        "content": "My wife works for a bank, and she forwarded me a phishing scam for Washington Mutual bank. Besides misspelling the word “customer” as “costomer”, it was pretty convincing for those who don’t know any better. When she sent it to me, I took a look at the page, and this is what Firefox+Google toolbar presented me with: Everybody needs this! Even those of us who have spent lots and lots of time around the web, this is a good thing.",
+        "isTruncated": true
+    },
+    "published": "2006-06-20T17:17:25Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/google-toolbar-awesomeness/",
+    "relativePermalink": "/posts/2006/google-toolbar-awesomeness/",
+    "aliases": ["/2006/06/20/google-toolbar-awesomeness/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Software"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 374,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060620-google-toolbar-awesomeness.md",
+        "logicalName": "20060620-google-toolbar-awesomeness.md",
+        "translationBaseName": "20060620-google-toolbar-awesomeness",
+        "baseFileName": "20060620-google-toolbar-awesomeness",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eMy wife works for a bank, and she forwarded me a phishing scam for Washington Mutual bank. Besides misspelling the word “customer” as “costomer”, it was pretty convincing for those who don’t know any better. When she sent it to me, I took a look at the page, and this is what Firefox+Google toolbar presented me with:\u003c/p\u003e\n\u003cdiv class=\"pa2-ns\"\u003e\n\t\u003camp-img src=\"https://cdn.ryanparman.com/img/fakewamu.png\" layout=\"responsive\" width=\"\" height=\"\"\u003e\u003c/amp-img\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eEverybody needs this! Even those of us who have spent lots and lots of time around the web, this is a good thing. It’s especially good for people like my in-laws and many of my other friends and family. Besides that, here’s some good information my wife passed along to me:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eHaving worked for a bank for over 5 years, I will tell you that a little bit of education goes a long way. Never ever EVER give out your pin # to ANYONE!!! Banks will never ask for this information (Other than asking you to enter you own pin # into a machine). Bank employees don’t even have access to your pin #. Your bank would never send you an email asking you to verify your personal information — the bank already has it if they need it. I recently received an email (I think that it was a bank from Tenessee); When I clicked on the link, it took me to a sign on page. It was really quite clever, you could enter any user ID, and any password. Then, they asked you to verify your bank information. (Including your pin) The other type of phishing email that I have been receiving a lot lately, has been on behalf of phony people from other countries. These people will ask you to reply to their email with your contact info. Then, they will try to get you to cash a fake cashier’s check from them of some ridiculously large amount. They will tell you that your cut is 30% or 40% in some cases. Don’t be fooled by these either. If you receive an email asking you for any sort of financial information/help know that it is probably a scam, you should delete it at once, or you can forward it to the Federal Trade Commission at \u003ca href=\"mailto:spam@uce.gov\"\u003espam@uce.gov\u003c/a\u003e, or contact them at \u003ca href=\"http://www.consumer.gov/idtheft\"\u003ewww.consumer.gov/idtheft\u003c/a\u003e or 877.IDTHEFT (877.438.4338).\u003c/p\u003e\n\u003c/blockquote\u003e\n",
+        "plain":"My wife works for a bank, and she forwarded me a phishing scam for Washington Mutual bank. Besides misspelling the word “customer” as “costomer”, it was pretty convincing for those who don’t know any better. When she sent it to me, I took a look at the page, and this is what Firefox+Google toolbar presented me with:\n  Everybody needs this! Even those of us who have spent lots and lots of time around the web, this is a good thing. It’s especially good for people like my in-laws and many of my other friends and family. Besides that, here’s some good information my wife passed along to me:\n Having worked for a bank for over 5 years, I will tell you that a little bit of education goes a long way. Never ever EVER give out your pin # to ANYONE!!! Banks will never ask for this information (Other than asking you to enter you own pin # into a machine). Bank employees don’t even have access to your pin #. Your bank would never send you an email asking you to verify your personal information — the bank already has it if they need it. I recently received an email (I think that it was a bank from Tenessee); When I clicked on the link, it took me to a sign on page. It was really quite clever, you could enter any user ID, and any password. Then, they asked you to verify your bank information. (Including your pin) The other type of phishing email that I have been receiving a lot lately, has been on behalf of phony people from other countries. These people will ask you to reply to their email with your contact info. Then, they will try to get you to cash a fake cashier’s check from them of some ridiculously large amount. They will tell you that your cut is 30% or 40% in some cases. Don’t be fooled by these either. If you receive an email asking you for any sort of financial information/help know that it is probably a scam, you should delete it at once, or you can forward it to the Federal Trade Commission at spam@uce.gov, or contact them at www.consumer.gov/idtheft or 877.IDTHEFT (877.438.4338).\n ",
+        "source":"\nMy wife works for a bank, and she forwarded me a phishing scam for Washington Mutual bank. Besides misspelling the word “customer” as “costomer”, it was pretty convincing for those who don’t know any better. When she sent it to me, I took a look at the page, and this is what Firefox+Google toolbar presented me with:\n\n{{\u003cfullimage src=\"https://cdn.ryanparman.com/img/fakewamu.png\" alt=\"Fake WAMU\"\u003e}}\n\nEverybody needs this! Even those of us who have spent lots and lots of time around the web, this is a good thing. It’s especially good for people like my in-laws and many of my other friends and family. Besides that, here’s some good information my wife passed along to me:\n\n\u003e Having worked for a bank for over 5 years, I will tell you that a little bit of education goes a long way. Never ever EVER give out your pin \\# to ANYONE!!! Banks will never ask for this information (Other than asking you to enter you own pin # into a machine). Bank employees don’t even have access to your pin \\#. Your bank would never send you an email asking you to verify your personal information — the bank already has it if they need it. I recently received an email (I think that it was a bank from Tenessee); When I clicked on the link, it took me to a sign on page. It was really quite clever, you could enter any user ID, and any password. Then, they asked you to verify your bank information. (Including your pin) The other type of phishing email that I have been receiving a lot lately, has been on behalf of phony people from other countries. These people will ask you to reply to their email with your contact info. Then, they will try to get you to cash a fake cashier’s check from them of some ridiculously large amount. They will tell you that your cut is 30% or 40% in some cases. Don’t be fooled by these either. If you receive an email asking you for any sort of financial information/help know that it is probably a scam, you should delete it at once, or you can forward it to the Federal Trade Commission at spam@uce.gov, or contact them at www.consumer.gov/idtheft or 877.IDTHEFT (877.438.4338).\n"},
+    "links": {
+        "prev": {"title": "SimplePie Plugin for Wordpress", "permalink": "https://ryanparman.com/posts/2006/simplepie-plugin-for-wordpress/"},
+        "next": {"title": "Nine Months", "permalink": "https://ryanparman.com/posts/2007/nine-months/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "SimplePie Plugin for Wordpress",
+    "description": "",
+    "summary": {
+        "content": "When we launched SimplePie Beta 2 last week, we launched with a couple of plugins. The first is a SimplePie Plugin for Wordpress, the ever-popular blogging tool from the fine folks at automattic. This plugin adds a single function to your Wordpress function ensemble that makes it simple to add SimplePie to your Wordpress templates. The other was the SimplePie Plugin for MediaWiki, the wiki software that powers the popular Wikipedia, by adding support for the \u0026lt;feed\u0026gt; tag in your wiki pages.",
+        "isTruncated": true
+    },
+    "published": "2006-06-07T16:50:24Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/simplepie-plugin-for-wordpress/",
+    "relativePermalink": "/posts/2006/simplepie-plugin-for-wordpress/",
+    "aliases": ["/2006/06/07/simplepie-plugin-for-wordpress/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 99,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060607-simplepie-plugin-for-wordpress.md",
+        "logicalName": "20060607-simplepie-plugin-for-wordpress.md",
+        "translationBaseName": "20060607-simplepie-plugin-for-wordpress",
+        "baseFileName": "20060607-simplepie-plugin-for-wordpress",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eWhen we launched SimplePie Beta 2 last week, we launched with a couple of plugins. The first is a SimplePie Plugin for Wordpress, the ever-popular blogging tool from the fine folks at automattic. This plugin adds a single function to your Wordpress function ensemble that makes it simple to add SimplePie to your Wordpress templates. The other was the SimplePie Plugin for MediaWiki, the wiki software that powers the popular Wikipedia, by adding support for the \u003ccode\u003e\u0026lt;feed\u0026gt;\u003c/code\u003e tag in your wiki pages. If you’re using either of these software packages, check out these plugins!\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20060607165024/http://simplepie.org/docs/installation/wordpress/\"\u003eread more\u003c/a\u003e | \u003ca href=\"https://web.archive.org/web/20060607165024/http://digg.com/software/SimplePie_Plugin_for_Wordpress\"\u003edigg story\u003c/a\u003e\u003c/p\u003e\n",
+        "plain":"When we launched SimplePie Beta 2 last week, we launched with a couple of plugins. The first is a SimplePie Plugin for Wordpress, the ever-popular blogging tool from the fine folks at automattic. This plugin adds a single function to your Wordpress function ensemble that makes it simple to add SimplePie to your Wordpress templates. The other was the SimplePie Plugin for MediaWiki, the wiki software that powers the popular Wikipedia, by adding support for the \u0026lt;feed\u0026gt; tag in your wiki pages. If you’re using either of these software packages, check out these plugins!\nread more | digg story\n",
+        "source":"\nWhen we launched SimplePie Beta 2 last week, we launched with a couple of plugins. The first is a SimplePie Plugin for Wordpress, the ever-popular blogging tool from the fine folks at automattic. This plugin adds a single function to your Wordpress function ensemble that makes it simple to add SimplePie to your Wordpress templates. The other was the SimplePie Plugin for MediaWiki, the wiki software that powers the popular Wikipedia, by adding support for the `\u003cfeed\u003e` tag in your wiki pages. If you’re using either of these software packages, check out these plugins!\n\n[read more]({{% wayback \"http://simplepie.org/docs/installation/wordpress/\" %}}) | [digg story]({{% wayback \"http://digg.com/software/SimplePie_Plugin_for_Wordpress\" %}})\n"},
+    "links": {
+        "prev": {"title": "SimplePie Beta 2 is now available!", "permalink": "https://ryanparman.com/posts/2006/simplepie-beta-2-is-now-available/"},
+        "next": {"title": "Google Toolbar Awesomeness!", "permalink": "https://ryanparman.com/posts/2006/google-toolbar-awesomeness/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "SimplePie Beta 2 is now available!",
+    "description": "",
+    "summary": {
+        "content": "After several months of toiling over this release, and the past few weekends pouring over the documentation, we are now very proud to release SimplePie Beta 2! Nearly every major feature has been enhanced, as well as the addition of several new ones. Be sure to read the upgrade docs if you’re upgrading from Beta 1 or the Preview Release. People who were using trunk builds should be able to just drop this file in as a replacement for any previous simplepie.",
+        "isTruncated": true
+    },
+    "published": "2006-06-03T07:56:50Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/simplepie-beta-2-is-now-available/",
+    "relativePermalink": "/posts/2006/simplepie-beta-2-is-now-available/",
+    "aliases": ["/2006/06/02/simplepie-beta-2-is-now-available/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 124,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060603-simplepie-beta-2-is-now-available.md",
+        "logicalName": "20060603-simplepie-beta-2-is-now-available.md",
+        "translationBaseName": "20060603-simplepie-beta-2-is-now-available",
+        "baseFileName": "20060603-simplepie-beta-2-is-now-available",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eAfter several months of toiling over this release, and the past few weekends pouring over the documentation, we are now very proud to release \u003cstrong\u003eSimplePie Beta 2!\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eNearly every major feature has been enhanced, as well as the addition of several new ones. Be sure to read the \u003ca href=\"https://web.archive.org/web/20060603075650/http://simplepie.org/docs/upgrade/\"\u003eupgrade docs\u003c/a\u003e if you’re upgrading from Beta 1 or the Preview Release. People who were using trunk builds should be able to just drop this file in as a replacement for any previous \u003ccode\u003esimplepie.inc\u003c/code\u003e file.\u003c/p\u003e\n\u003cp\u003eWe’ve also added a \u003ca href=\"https://web.archive.org/web/20060603075650/http://simplepie.org/docs/installation/wordpress/\"\u003eWordpress plugin\u003c/a\u003e and a \u003ca href=\"https://web.archive.org/web/20060603075650/http://simplepie.org/docs/installation/mediawiki/\"\u003eMediaWiki extension\u003c/a\u003e to the mix. And as always, if you have any questions, comments, or need clarification on anything, be sure to swing by the \u003ca href=\"https://web.archive.org/web/20060603075650/http://simplepie.org/support/\"\u003esupport forums\u003c/a\u003e. We’re there a lot. :) Enjoy!\u003c/p\u003e\n",
+        "plain":"After several months of toiling over this release, and the past few weekends pouring over the documentation, we are now very proud to release SimplePie Beta 2!\nNearly every major feature has been enhanced, as well as the addition of several new ones. Be sure to read the upgrade docs if you’re upgrading from Beta 1 or the Preview Release. People who were using trunk builds should be able to just drop this file in as a replacement for any previous simplepie.inc file.\nWe’ve also added a Wordpress plugin and a MediaWiki extension to the mix. And as always, if you have any questions, comments, or need clarification on anything, be sure to swing by the support forums. We’re there a lot. :) Enjoy!\n",
+        "source":"\nAfter several months of toiling over this release, and the past few weekends pouring over the documentation, we are now very proud to release **SimplePie Beta 2!**\n\nNearly every major feature has been enhanced, as well as the addition of several new ones. Be sure to read the [upgrade docs]({{% wayback \"http://simplepie.org/docs/upgrade/\" %}}) if you’re upgrading from Beta 1 or the Preview Release. People who were using trunk builds should be able to just drop this file in as a replacement for any previous `simplepie.inc` file.\n\nWe’ve also added a [Wordpress plugin]({{% wayback \"http://simplepie.org/docs/installation/wordpress/\" %}}) and a [MediaWiki extension]({{% wayback \"http://simplepie.org/docs/installation/mediawiki/\" %}}) to the mix. And as always, if you have any questions, comments, or need clarification on anything, be sure to swing by the [support forums]({{% wayback \"http://simplepie.org/support/\" %}}). We’re there a lot. :) Enjoy!\n"},
+    "links": {
+        "prev": {"title": "The proper way to blow your nose", "permalink": "https://ryanparman.com/posts/2006/the-proper-way-to-blow-your-nose/"},
+        "next": {"title": "SimplePie Plugin for Wordpress", "permalink": "https://ryanparman.com/posts/2006/simplepie-plugin-for-wordpress/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "The proper way to blow your nose",
+    "description": "",
+    "summary": {
+        "content": "I’ve had a head cold for the last 3 days (which is why some of you haven’t seen me online), and in that time I’ve gone through 5 rolls of toilet paper due to blowing my nose. I’ve tried various medicines, and although Sudafed was able to slow the drip, I’ve been blowing my nose almost constantly. For those who are concerned about efficiency in all things (as I am), I believe I’ve found the most efficient way to get the snot as far away from your sinuses as possible.",
+        "isTruncated": true
+    },
+    "published": "2006-04-23T00:34:42Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/the-proper-way-to-blow-your-nose/",
+    "relativePermalink": "/posts/2006/the-proper-way-to-blow-your-nose/",
+    "aliases": ["/2006/04/22/the-proper-way-to-blow-your-nose/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Tutorials"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 297,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060423-the-proper-way-to-blow-your-nose.md",
+        "logicalName": "20060423-the-proper-way-to-blow-your-nose.md",
+        "translationBaseName": "20060423-the-proper-way-to-blow-your-nose",
+        "baseFileName": "20060423-the-proper-way-to-blow-your-nose",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve had a head cold for the last 3 days (which is why some of you haven’t seen me online), and in that time I’ve gone through 5 rolls of toilet paper due to blowing my nose. I’ve tried various medicines, and although Sudafed was able to slow the drip, I’ve been blowing my nose almost constantly. For those who are concerned about efficiency in all things (as I am), I believe I’ve found the most efficient way to get the snot as far away from your sinuses as possible.\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eTake the roll of toilet paper and wrap it around your hand 2 or 3 times. This is really all you need per blow.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eAs you cover your nose with the toilet paper, plug one of your nostrils to ensure that maximum airflow is being forced through the other nostril, ensuring that the greatest amount of snot is removed.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eDo the same to the other nostril. Repeat as necessary.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eOnce you’re through blowing, you still have bits of snot that cling to your nose hair. We’ll want to clean these out as well.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eTake one perforated square of the toilet paper and cram the whole thing into your nostril. Make sure that there is enough sticking out for you to grab. Once it’s in there, twist the toilet paper in a circular fashion. Give it a minimum of 4–5 rotations before pulling it back out.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eDo the same to the other nostril. Repeat as necessary.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eYou’re done!\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eIn my experience, this is the most effective way to get all of your snot out. It’s also safe to use this method without following up with a mirror to make sure that there is no snot clinging to your nose hair because the follow-up twisting is nice and tidy.\u003c/p\u003e\n",
+        "plain":"I’ve had a head cold for the last 3 days (which is why some of you haven’t seen me online), and in that time I’ve gone through 5 rolls of toilet paper due to blowing my nose. I’ve tried various medicines, and although Sudafed was able to slow the drip, I’ve been blowing my nose almost constantly. For those who are concerned about efficiency in all things (as I am), I believe I’ve found the most efficient way to get the snot as far away from your sinuses as possible.\n  Take the roll of toilet paper and wrap it around your hand 2 or 3 times. This is really all you need per blow.\n  As you cover your nose with the toilet paper, plug one of your nostrils to ensure that maximum airflow is being forced through the other nostril, ensuring that the greatest amount of snot is removed.\n  Do the same to the other nostril. Repeat as necessary.\n  Once you’re through blowing, you still have bits of snot that cling to your nose hair. We’ll want to clean these out as well.\n  Take one perforated square of the toilet paper and cram the whole thing into your nostril. Make sure that there is enough sticking out for you to grab. Once it’s in there, twist the toilet paper in a circular fashion. Give it a minimum of 4–5 rotations before pulling it back out.\n  Do the same to the other nostril. Repeat as necessary.\n  You’re done!\n  In my experience, this is the most effective way to get all of your snot out. It’s also safe to use this method without following up with a mirror to make sure that there is no snot clinging to your nose hair because the follow-up twisting is nice and tidy.\n",
+        "source":"\nI’ve had a head cold for the last 3 days (which is why some of you haven’t seen me online), and in that time I’ve gone through 5 rolls of toilet paper due to blowing my nose. I’ve tried various medicines, and although Sudafed was able to slow the drip, I’ve been blowing my nose almost constantly. For those who are concerned about efficiency in all things (as I am), I believe I’ve found the most efficient way to get the snot as far away from your sinuses as possible.\n\n1. Take the roll of toilet paper and wrap it around your hand 2 or 3 times. This is really all you need per blow.\n\n2. As you cover your nose with the toilet paper, plug one of your nostrils to ensure that maximum airflow is being forced through the other nostril, ensuring that the greatest amount of snot is removed.\n\n3. Do the same to the other nostril. Repeat as necessary.\n\n4. Once you’re through blowing, you still have bits of snot that cling to your nose hair. We’ll want to clean these out as well.\n\n5. Take one perforated square of the toilet paper and cram the whole thing into your nostril. Make sure that there is enough sticking out for you to grab. Once it’s in there, twist the toilet paper in a circular fashion. Give it a minimum of 4–5 rotations before pulling it back out.\n\n6. Do the same to the other nostril. Repeat as necessary.\n\n7. You’re done!\n\nIn my experience, this is the most effective way to get all of your snot out. It’s also safe to use this method without following up with a mirror to make sure that there is no snot clinging to your nose hair because the follow-up twisting is nice and tidy.\n"},
+    "links": {
+        "prev": {"title": "CSS's text-shadow property in Firefox 2?", "permalink": "https://ryanparman.com/posts/2006/csss-text-shadow-property-in-firefox-2/"},
+        "next": {"title": "SimplePie Beta 2 is now available!", "permalink": "https://ryanparman.com/posts/2006/simplepie-beta-2-is-now-available/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "CSS's text-shadow property in Firefox 2?",
+    "description": "",
+    "summary": {
+        "content": "After nearly 7 years in Bugzilla, it appears that the CSS2 text-shadow property will finally make it into Firefox 2. According to Bugzilla, the patch has already been added to the trunk (although it’s not quite complete yet), and seeing as how its status has been set to blocking 1.8.1 (which according to this roadmap is Firefox 2 timeframe), I’m hoping that this will finally get implemented. Yay!",
+        "isTruncated": false
+    },
+    "published": "2006-04-18T18:26:46Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/csss-text-shadow-property-in-firefox-2/",
+    "relativePermalink": "/posts/2006/csss-text-shadow-property-in-firefox-2/",
+    "aliases": ["/2006/04/18/csss-text-shadow-property-in-firefox-2/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 68,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060418-csss-text-shadow-property-in-firefox-2.md",
+        "logicalName": "20060418-csss-text-shadow-property-in-firefox-2.md",
+        "translationBaseName": "20060418-csss-text-shadow-property-in-firefox-2",
+        "baseFileName": "20060418-csss-text-shadow-property-in-firefox-2",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eAfter nearly 7 years in \u003ca href=\"https://web.archive.org/web/20060418182646/https://bugzilla.mozilla.org/show_bug.cgi?id=10713\"\u003eBugzilla\u003c/a\u003e, it appears that the CSS2 \u003ccode\u003etext-shadow\u003c/code\u003e property will finally make it into Firefox 2. According to \u003ca href=\"https://web.archive.org/web/20060418182646/https://bugzilla.mozilla.org/show_bug.cgi?id=10713\"\u003eBugzilla\u003c/a\u003e, the patch has already been added to the trunk (although it’s not quite complete yet), and seeing as how its status has been set to \u003cem\u003eblocking 1.8.1\u003c/em\u003e (which according to \u003ca href=\"https://web.archive.org/web/20060418182646/http://cbeard.typepad.com/mozilla/2005/11/mozilla_product.html\"\u003ethis roadmap\u003c/a\u003e is Firefox 2 timeframe), I’m hoping that this will finally get implemented. Yay!\u003c/p\u003e\n",
+        "plain":"After nearly 7 years in Bugzilla, it appears that the CSS2 text-shadow property will finally make it into Firefox 2. According to Bugzilla, the patch has already been added to the trunk (although it’s not quite complete yet), and seeing as how its status has been set to blocking 1.8.1 (which according to this roadmap is Firefox 2 timeframe), I’m hoping that this will finally get implemented. Yay!\n",
+        "source":"\nAfter nearly 7 years in [Bugzilla]({{% wayback \"https://bugzilla.mozilla.org/show_bug.cgi?id=10713\" %}}), it appears that the CSS2 `text-shadow` property will finally make it into Firefox 2. According to [Bugzilla]({{% wayback \"https://bugzilla.mozilla.org/show_bug.cgi?id=10713\" %}}), the patch has already been added to the trunk (although it’s not quite complete yet), and seeing as how its status has been set to *blocking 1.8.1* (which according to [this roadmap]({{% wayback \"http://cbeard.typepad.com/mozilla/2005/11/mozilla_product.html\" %}}) is Firefox 2 timeframe), I’m hoping that this will finally get implemented. Yay!\n"},
+    "links": {
+        "prev": {"title": "Movie Makers Just Don't Get It", "permalink": "https://ryanparman.com/posts/2006/movie-makers-just-dont-get-it/"},
+        "next": {"title": "The proper way to blow your nose", "permalink": "https://ryanparman.com/posts/2006/the-proper-way-to-blow-your-nose/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "Movie Makers Just Don't Get It",
+    "description": "",
+    "summary": {
+        "content": "With all of the recent hoopla about Sony dropping the UMD format (here and here), it’s little wonder why. The reason? This Think Secret posting gives all the explanation we need: Cinemanow bills itself as “the #1 legal movie download store” and sells movies a-la-carte, but for the same price, if not higher, in some cases, than actual DVDs, killing part of the incentive for purchasing a digital download. Why would anyone want to spend more on a movie in a format that is significantly less flexible than a DVD?",
+        "isTruncated": true
+    },
+    "published": "2006-04-13T21:45:30Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/movie-makers-just-dont-get-it/",
+    "relativePermalink": "/posts/2006/movie-makers-just-dont-get-it/",
+    "aliases": ["/2006/04/13/movie-makers-just-dont-get-it/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Music, Movies, TV Shows"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 423,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060413-movie-makers-just-dont-get-it.md",
+        "logicalName": "20060413-movie-makers-just-dont-get-it.md",
+        "translationBaseName": "20060413-movie-makers-just-dont-get-it",
+        "baseFileName": "20060413-movie-makers-just-dont-get-it",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eWith all of the recent hoopla about Sony dropping the UMD format (\u003ca href=\"https://web.archive.org/web/20060413214530/http://news.com.com/Universal+Media+Disc+another+Sony+bomb/2100-1026_3-6055948.html\"\u003ehere\u003c/a\u003e and \u003ca href=\"https://web.archive.org/web/20060413214530/http://www.spawnpoint.com/absolutenm/templates/spawn.asp?articleid=159\u0026amp;zoneid=12\"\u003ehere\u003c/a\u003e), it’s little wonder why. The reason? \u003ca href=\"https://web.archive.org/web/20060413214530/http://www.thinksecret.com/news/0604videoipod.html\"\u003eThis Think Secret posting\u003c/a\u003e gives all the explanation we need:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eCinemanow bills itself as “the #1 legal movie download store” and sells movies a-la-carte, but for the same price, if not higher, in some cases, than actual DVDs, killing part of the incentive for purchasing a digital download.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eWhy would anyone want to spend \u003cem\u003emore\u003c/em\u003e on a movie in a format that is significantly \u003cem\u003eless\u003c/em\u003e flexible than a DVD? Yeah, I’m not sure either.\u003c/p\u003e\n\u003cp\u003eI flew from San Jose to Omaha last month, with a layover in Minneapolis. All-together I was on a plane for roughly 5 hours. I had my Powerbook, PSP, and iPod 5G with me. I had some videos I’d purchased from the iTunes Store on my iPod, and a couple of DVDs for my Powerbook.\u003c/p\u003e\n\u003cp\u003eWhile I was waiting for my flight to leave, I went to go find a UMD video to watch on the plane, since the iPod gets about 2 hours of battery life when playing video, and my Powerbook (with a 2-year-old battery) gets about 45 minutes of juice. I walked up to the counter, looked at the selection, and found a couple that I’d’ve liked to watch. Then I saw the price: $32.\u003c/p\u003e\n\u003cp\u003eExcuse me? Thirty-what? With a DVD, I can watch it on my TV, watch it on my computer, I can rip it to my iPod or PSP and watch it from there. With a UMD disc, I can only watch it on my PSP. Why would I want to do that? Since the format is so limited (along with any sort of “legal” (read: DRM’d) movie downloads from an online store), how on earth does it make sense to charge \u003cem\u003emore\u003c/em\u003e for it? It doesn’t, and that’s why the format is failing.\u003c/p\u003e\n\u003cp\u003eIt isn’t because it’s a bad idea — it’s actually a very good idea — but they need to drop the cost to 50% of the price of a DVD. Seriously, if most DVDs are around $17–$22, then they should sell the UMDs at $8-$12. Paying $30 for a 10-year-old movie is completely out of the question.\u003c/p\u003e\n\u003cp\u003eSony (and all other movie companies), if you’re not willing to drop your prices on your UMD movies, then it’s definitely time for the format to go the way of the Aibo, Mini-Disc, BetaMax, ImageStation, Connect Music Store, and all of the “iPod Killers” you guys have had in the past.\u003c/p\u003e\n",
+        "plain":"With all of the recent hoopla about Sony dropping the UMD format (here and here), it’s little wonder why. The reason? This Think Secret posting gives all the explanation we need:\n Cinemanow bills itself as “the #1 legal movie download store” and sells movies a-la-carte, but for the same price, if not higher, in some cases, than actual DVDs, killing part of the incentive for purchasing a digital download.\n Why would anyone want to spend more on a movie in a format that is significantly less flexible than a DVD? Yeah, I’m not sure either.\nI flew from San Jose to Omaha last month, with a layover in Minneapolis. All-together I was on a plane for roughly 5 hours. I had my Powerbook, PSP, and iPod 5G with me. I had some videos I’d purchased from the iTunes Store on my iPod, and a couple of DVDs for my Powerbook.\nWhile I was waiting for my flight to leave, I went to go find a UMD video to watch on the plane, since the iPod gets about 2 hours of battery life when playing video, and my Powerbook (with a 2-year-old battery) gets about 45 minutes of juice. I walked up to the counter, looked at the selection, and found a couple that I’d’ve liked to watch. Then I saw the price: $32.\nExcuse me? Thirty-what? With a DVD, I can watch it on my TV, watch it on my computer, I can rip it to my iPod or PSP and watch it from there. With a UMD disc, I can only watch it on my PSP. Why would I want to do that? Since the format is so limited (along with any sort of “legal” (read: DRM’d) movie downloads from an online store), how on earth does it make sense to charge more for it? It doesn’t, and that’s why the format is failing.\nIt isn’t because it’s a bad idea — it’s actually a very good idea — but they need to drop the cost to 50% of the price of a DVD. Seriously, if most DVDs are around $17–$22, then they should sell the UMDs at $8-$12. Paying $30 for a 10-year-old movie is completely out of the question.\nSony (and all other movie companies), if you’re not willing to drop your prices on your UMD movies, then it’s definitely time for the format to go the way of the Aibo, Mini-Disc, BetaMax, ImageStation, Connect Music Store, and all of the “iPod Killers” you guys have had in the past.\n",
+        "source":"\nWith all of the recent hoopla about Sony dropping the UMD format ([here]({{% wayback \"http://news.com.com/Universal+Media+Disc+another+Sony+bomb/2100-1026_3-6055948.html\" %}}) and [here]({{% wayback \"http://www.spawnpoint.com/absolutenm/templates/spawn.asp?articleid=159\u0026zoneid=12)\" %}}), it’s little wonder why. The reason? [This Think Secret posting]({{% wayback \"http://www.thinksecret.com/news/0604videoipod.html\" %}}) gives all the explanation we need:\n\n\u003e Cinemanow bills itself as “the #1 legal movie download store” and sells movies a-la-carte, but for the same price, if not higher, in some cases, than actual DVDs, killing part of the incentive for purchasing a digital download.\n\nWhy would anyone want to spend *more* on a movie in a format that is significantly *less* flexible than a DVD? Yeah, I’m not sure either.\n\nI flew from San Jose to Omaha last month, with a layover in Minneapolis. All-together I was on a plane for roughly 5 hours. I had my Powerbook, PSP, and iPod 5G with me. I had some videos I’d purchased from the iTunes Store on my iPod, and a couple of DVDs for my Powerbook.\n\nWhile I was waiting for my flight to leave, I went to go find a UMD video to watch on the plane, since the iPod gets about 2 hours of battery life when playing video, and my Powerbook (with a 2-year-old battery) gets about 45 minutes of juice. I walked up to the counter, looked at the selection, and found a couple that I’d’ve liked to watch. Then I saw the price: $32.\n\nExcuse me? Thirty-what? With a DVD, I can watch it on my TV, watch it on my computer, I can rip it to my iPod or PSP and watch it from there. With a UMD disc, I can only watch it on my PSP. Why would I want to do that? Since the format is so limited (along with any sort of “legal” (read: DRM’d) movie downloads from an online store), how on earth does it make sense to charge *more* for it? It doesn’t, and that’s why the format is failing.\n\nIt isn’t because it’s a bad idea — it’s actually a very good idea — but they need to drop the cost to 50% of the price of a DVD. Seriously, if most DVDs are around $17–$22, then they should sell the UMDs at $8-$12. Paying $30 for a 10-year-old movie is completely out of the question.\n\nSony (and all other movie companies), if you’re not willing to drop your prices on your UMD movies, then it’s definitely time for the format to go the way of the Aibo, Mini-Disc, BetaMax, ImageStation, Connect Music Store, and all of the “iPod Killers” you guys have had in the past.\n"},
+    "links": {
+        "prev": {"title": "We need your feeds!", "permalink": "https://ryanparman.com/posts/2006/we-need-your-feeds/"},
+        "next": {"title": "CSS's text-shadow property in Firefox 2?", "permalink": "https://ryanparman.com/posts/2006/csss-text-shadow-property-in-firefox-2/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "We need your feeds!",
+    "description": "",
+    "summary": {
+        "content": "RSS and Atom feeds that aren’t either UTF–8 or ISO–8859–1 have proven difficult to find, so I’m calling out to all of you. If you read or publish feeds that are in a character set other than these two, please post them here in the comments. We’ve just finished adding iconv support to SimplePie, and want to test that support (it’s in the trunk build as of this moment). Any help along these lines would be appreciated.",
+        "isTruncated": false
+    },
+    "published": "2006-03-26T23:33:22Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/we-need-your-feeds/",
+    "relativePermalink": "/posts/2006/we-need-your-feeds/",
+    "aliases": ["/2006/03/26/we-need-your-feeds/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 77,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060326-we-need-your-feeds.md",
+        "logicalName": "20060326-we-need-your-feeds.md",
+        "translationBaseName": "20060326-we-need-your-feeds",
+        "baseFileName": "20060326-we-need-your-feeds",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eRSS and Atom feeds that aren’t either UTF–8 or ISO–8859–1 have proven difficult to find, so I’m calling out to all of you. If you read or publish feeds that are in a character set other than these two, please post them here in the comments. We’ve just finished adding \u003ccode\u003eiconv\u003c/code\u003e support to SimplePie, and want to test that support (it’s in the trunk build as of this moment). Any help along these lines would be appreciated.\u003c/p\u003e\n",
+        "plain":"RSS and Atom feeds that aren’t either UTF–8 or ISO–8859–1 have proven difficult to find, so I’m calling out to all of you. If you read or publish feeds that are in a character set other than these two, please post them here in the comments. We’ve just finished adding iconv support to SimplePie, and want to test that support (it’s in the trunk build as of this moment). Any help along these lines would be appreciated.\n",
+        "source":"\nRSS and Atom feeds that aren’t either UTF–8 or ISO–8859–1 have proven difficult to find, so I’m calling out to all of you. If you read or publish feeds that are in a character set other than these two, please post them here in the comments. We’ve just finished adding `iconv` support to SimplePie, and want to test that support (it’s in the trunk build as of this moment). Any help along these lines would be appreciated.\n"},
+    "links": {
+        "prev": {"title": "Vasecto-who?", "permalink": "https://ryanparman.com/posts/2006/vasecto-who/"},
+        "next": {"title": "Movie Makers Just Don't Get It", "permalink": "https://ryanparman.com/posts/2006/movie-makers-just-dont-get-it/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "Vasecto-who?",
+    "description": "",
+    "summary": {
+        "content": "WARNING: This Post Contains Too Much Information! Vasectomy. That’s right, no more kids for me. I decided a long, long time ago that I only ever wanted two kids. I have them, I love them, and I’m done. My wife said that she was kinda bummed out about it, but understood my decision. And it’s not like it came as a surprise either — I’ve been saying the same thing since we met in high school, long before she was ever my girlfriend.",
+        "isTruncated": true
+    },
+    "published": "2006-03-24T15:26:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/vasecto-who/",
+    "relativePermalink": "/posts/2006/vasecto-who/",
+    "aliases": ["/2006/03/24/vasecto-who/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Health"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 818,
+        "readingTime": "4 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060324-vasecto-who.md",
+        "logicalName": "20060324-vasecto-who.md",
+        "translationBaseName": "20060324-vasecto-who",
+        "baseFileName": "20060324-vasecto-who",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003e\u003cstrong\u003eWARNING: This Post Contains Too Much Information!\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eVasectomy. That’s right, no more kids for me. I decided a long, long time ago that I only ever wanted two kids. I have them, I love them, and I’m done. My wife said that she was kinda bummed out about it, but understood my decision. And it’s not like it came as a surprise either — I’ve been saying the same thing since we met in high school, long before she was ever my girlfriend. I have always been very adamant about only having two kids, for a couple of reasons:\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eStatistically speaking, parents with an odd number of children have a higher likelyhood of losing their minds and going crazy. After watching my parents go nuts, I decided I didn’t want that for my life. :) (Mom, if you’re reading this, laugh!) I considered stopping at one, however, after my daughter was born. But one kid is too few and they tend to get lonely because they’re the only child in the house (or so I’ve heard).\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eThat just leaves an even number of children. Six would make me a Mormon (which I’m not, nor will I ever be), four would put me in the poor-house, so that really only leaves two (which also solves the only-child syndrome).\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eSo yes, there were specific reasons for wanting to stop at two. I was so adamant about only having two, however, that when my wife told me she missed her period last week, I got really pissed. Not at her, per sé, because it’s not like I can blame it on her. More because of the fact that it would mean more than two kids — and I didn’t want that. Fortunately, she went down to take a blood test, and everything came back negative — which I’m thrilled about. Now we just need to figure out \u003cem\u003ewhy\u003c/em\u003e she missed.\u003c/p\u003e\n\u003cp\u003eAnyways, so I’ve been in surgery before, so this should be no big deal. I’ve never been one to have “test anxiety” because I know that things are going to go however they’re going to go, and there’s really nothing I can do about it, so why stress? This was no exception. Fortunately, I have a desk job, so I should be able to go back to work on Monday, and still be able to relax and stay off my feet.\u003c/p\u003e\n\u003cp\u003eWhen my best friend got done, he went back to work after four days — but he was the General Manager of a fast food restaurant, and that required him to spend most of his day not only standing up, but also \u003cem\u003erunning around\u003c/em\u003e in a high-stress environment. His wife was telling me that his \u003cem\u003ejunk\u003c/em\u003e swelled until they looked like a couple of \u003ca href=\"https://web.archive.org/web/20060324152600/http://www.uga.edu/fruit/image/11.4.jpg\"\u003eblood oranges\u003c/a\u003e — a fantastic thing to look forward to.\u003c/p\u003e\n\u003cp\u003eSo I got into the operating room, and the nurse asked me to strip from the waist down, and then gave me one of those blue sheets to cover my lower half. As soon as I came back out and sat on the bed, she asked me to lay down while she removed the sheet anyways. What was the point of the blue sheet? *shrugs* So after having her do a quick shave down there, rubbing it all down with some sort of disinfectant, and me praying \u0026ldquo;Dear Lord, \u003cem\u003eplease\u003c/em\u003e don’t let me pop one,\u0026rdquo; she left and the doctor came in.\u003c/p\u003e\n\u003cp\u003eHe apologized for running behind (I’d sat in the waiting room for an hour), and began explaining exactly what was going to happen. He was cool about it all, very professional and everything, which was kind of a relief.\u003c/p\u003e\n\u003cp\u003eI won’t go into details about the next part, but between the stab of the anesthetic syringe, the incision, and the dull pain that comes from the squeezing, I can say that if anybody ever graduated from a university with a degree in making vasectomies as comfortable as possible — that person would make billions. I’m SO glad I never have to have babies. And I’m lucky I’ve never passed any kind of kidney or gall stone, because I hear that a guy passing a stone is more painful than a woman having a baby.\u003c/p\u003e\n\u003cp\u003eSo anyways, I’m at home relaxing — jock strap and all — and trying to find things to keep myself interested over the next few days when I’m not allowed to do anything. In truth, I have some work to do on a couple of websites, a computer to fix, and some software to upgrade, so I doubt I’ll be needing anything to do. If you thought that this was too much information, all I can say is that I warned you at the beginning. However it might have been like a car accident: so grotesque, but you just can’t look away.\u003c/p\u003e\n\u003cp\u003eAnybody care to share your own v-sec experience?\u003c/p\u003e\n",
+        "plain":"WARNING: This Post Contains Too Much Information!\nVasectomy. That’s right, no more kids for me. I decided a long, long time ago that I only ever wanted two kids. I have them, I love them, and I’m done. My wife said that she was kinda bummed out about it, but understood my decision. And it’s not like it came as a surprise either — I’ve been saying the same thing since we met in high school, long before she was ever my girlfriend. I have always been very adamant about only having two kids, for a couple of reasons:\n  Statistically speaking, parents with an odd number of children have a higher likelyhood of losing their minds and going crazy. After watching my parents go nuts, I decided I didn’t want that for my life. :) (Mom, if you’re reading this, laugh!) I considered stopping at one, however, after my daughter was born. But one kid is too few and they tend to get lonely because they’re the only child in the house (or so I’ve heard).\n  That just leaves an even number of children. Six would make me a Mormon (which I’m not, nor will I ever be), four would put me in the poor-house, so that really only leaves two (which also solves the only-child syndrome).\n  So yes, there were specific reasons for wanting to stop at two. I was so adamant about only having two, however, that when my wife told me she missed her period last week, I got really pissed. Not at her, per sé, because it’s not like I can blame it on her. More because of the fact that it would mean more than two kids — and I didn’t want that. Fortunately, she went down to take a blood test, and everything came back negative — which I’m thrilled about. Now we just need to figure out why she missed.\nAnyways, so I’ve been in surgery before, so this should be no big deal. I’ve never been one to have “test anxiety” because I know that things are going to go however they’re going to go, and there’s really nothing I can do about it, so why stress? This was no exception. Fortunately, I have a desk job, so I should be able to go back to work on Monday, and still be able to relax and stay off my feet.\nWhen my best friend got done, he went back to work after four days — but he was the General Manager of a fast food restaurant, and that required him to spend most of his day not only standing up, but also running around in a high-stress environment. His wife was telling me that his junk swelled until they looked like a couple of blood oranges — a fantastic thing to look forward to.\nSo I got into the operating room, and the nurse asked me to strip from the waist down, and then gave me one of those blue sheets to cover my lower half. As soon as I came back out and sat on the bed, she asked me to lay down while she removed the sheet anyways. What was the point of the blue sheet? *shrugs* So after having her do a quick shave down there, rubbing it all down with some sort of disinfectant, and me praying \u0026ldquo;Dear Lord, please don’t let me pop one,\u0026rdquo; she left and the doctor came in.\nHe apologized for running behind (I’d sat in the waiting room for an hour), and began explaining exactly what was going to happen. He was cool about it all, very professional and everything, which was kind of a relief.\nI won’t go into details about the next part, but between the stab of the anesthetic syringe, the incision, and the dull pain that comes from the squeezing, I can say that if anybody ever graduated from a university with a degree in making vasectomies as comfortable as possible — that person would make billions. I’m SO glad I never have to have babies. And I’m lucky I’ve never passed any kind of kidney or gall stone, because I hear that a guy passing a stone is more painful than a woman having a baby.\nSo anyways, I’m at home relaxing — jock strap and all — and trying to find things to keep myself interested over the next few days when I’m not allowed to do anything. In truth, I have some work to do on a couple of websites, a computer to fix, and some software to upgrade, so I doubt I’ll be needing anything to do. If you thought that this was too much information, all I can say is that I warned you at the beginning. However it might have been like a car accident: so grotesque, but you just can’t look away.\nAnybody care to share your own v-sec experience?\n",
+        "source":"\n**WARNING: This Post Contains Too Much Information!**\n\nVasectomy. That’s right, no more kids for me. I decided a long, long time ago that I only ever wanted two kids. I have them, I love them, and I’m done. My wife said that she was kinda bummed out about it, but understood my decision. And it’s not like it came as a surprise either — I’ve been saying the same thing since we met in high school, long before she was ever my girlfriend. I have always been very adamant about only having two kids, for a couple of reasons:\n\n1. Statistically speaking, parents with an odd number of children have a higher likelyhood of losing their minds and going crazy. After watching my parents go nuts, I decided I didn’t want that for my life. :) (Mom, if you’re reading this, laugh!) I considered stopping at one, however, after my daughter was born. But one kid is too few and they tend to get lonely because they’re the only child in the house (or so I’ve heard).\n\n2. That just leaves an even number of children. Six would make me a Mormon (which I’m not, nor will I ever be), four would put me in the poor-house, so that really only leaves two (which also solves the only-child syndrome).\n\nSo yes, there were specific reasons for wanting to stop at two. I was so adamant about only having two, however, that when my wife told me she missed her period last week, I got really pissed. Not at her, per sé, because it’s not like I can blame it on her. More because of the fact that it would mean more than two kids — and I didn’t want that. Fortunately, she went down to take a blood test, and everything came back negative — which I’m thrilled about. Now we just need to figure out *why* she missed.\n\nAnyways, so I’ve been in surgery before, so this should be no big deal. I’ve never been one to have “test anxiety” because I know that things are going to go however they’re going to go, and there’s really nothing I can do about it, so why stress? This was no exception. Fortunately, I have a desk job, so I should be able to go back to work on Monday, and still be able to relax and stay off my feet.\n\nWhen my best friend got done, he went back to work after four days — but he was the General Manager of a fast food restaurant, and that required him to spend most of his day not only standing up, but also *running around* in a high-stress environment. His wife was telling me that his *junk* swelled until they looked like a couple of [blood oranges]({{% wayback \"http://www.uga.edu/fruit/image/11.4.jpg\" %}}) — a fantastic thing to look forward to.\n\nSo I got into the operating room, and the nurse asked me to strip from the waist down, and then gave me one of those blue sheets to cover my lower half. As soon as I came back out and sat on the bed, she asked me to lay down while she removed the sheet anyways. What was the point of the blue sheet? \\*shrugs\\* So after having her do a quick shave down there, rubbing it all down with some sort of disinfectant, and me praying \"Dear Lord, *please* don’t let me pop one,\" she left and the doctor came in.\n\nHe apologized for running behind (I’d sat in the waiting room for an hour), and began explaining exactly what was going to happen. He was cool about it all, very professional and everything, which was kind of a relief.\n\nI won’t go into details about the next part, but between the stab of the anesthetic syringe, the incision, and the dull pain that comes from the squeezing, I can say that if anybody ever graduated from a university with a degree in making vasectomies as comfortable as possible — that person would make billions. I’m SO glad I never have to have babies. And I’m lucky I’ve never passed any kind of kidney or gall stone, because I hear that a guy passing a stone is more painful than a woman having a baby.\n\nSo anyways, I’m at home relaxing — jock strap and all — and trying to find things to keep myself interested over the next few days when I’m not allowed to do anything. In truth, I have some work to do on a couple of websites, a computer to fix, and some software to upgrade, so I doubt I’ll be needing anything to do. If you thought that this was too much information, all I can say is that I warned you at the beginning. However it might have been like a car accident: so grotesque, but you just can’t look away.\n\nAnybody care to share your own v-sec experience?\n"},
+    "links": {
+        "prev": {"title": "Internet Explorer 7.0 Beta 2 (Build 5335.5)", "permalink": "https://ryanparman.com/posts/2006/internet-explorer-70-beta-2-build-53355/"},
+        "next": {"title": "We need your feeds!", "permalink": "https://ryanparman.com/posts/2006/we-need-your-feeds/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "Internet Explorer 7.0 Beta 2 (Build 5335.5)",
+    "description": "",
+    "summary": {
+        "content": "For those who hadn’t yet heard, there is an updated version of Internet Explorer 7 available. If you want to run it in standalone mode, Jon Galloway’s IE7 Launcher will do the trick nicely. Lots of information can be found about IE7, specifically improved CSS compliance (hasn’t yet been updated with the current build information, but will). This build is supposed to be rendering engine complete, meaning that this build will render webpages the same way that the final release will.",
+        "isTruncated": true
+    },
+    "published": "2006-03-22T21:45:43Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/internet-explorer-70-beta-2-build-53355/",
+    "relativePermalink": "/posts/2006/internet-explorer-70-beta-2-build-53355/",
+    "aliases": ["/2006/03/22/internet-explorer-70-beta-2-build-53355/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 98,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060322-internet-explorer-70-beta-2-build-53355.md",
+        "logicalName": "20060322-internet-explorer-70-beta-2-build-53355.md",
+        "translationBaseName": "20060322-internet-explorer-70-beta-2-build-53355",
+        "baseFileName": "20060322-internet-explorer-70-beta-2-build-53355",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eFor those who hadn’t yet heard, there is an updated version of \u003ca href=\"https://web.archive.org/web/20060322214543/http://microsoft.com/ie/ie7/\"\u003eInternet Explorer 7\u003c/a\u003e available. If you want to run it in standalone mode, Jon Galloway’s \u003ca href=\"https://web.archive.org/web/20060322214543/http://weblogs.asp.net/jgalloway/archive/2005/12/28/434132.aspx\"\u003eIE7 Launcher\u003c/a\u003e will do the trick nicely. Lots of \u003ca href=\"https://web.archive.org/web/20060322214543/http://msdn.microsoft.com/ie/infoindex/\"\u003einformation\u003c/a\u003e can be found about IE7, specifically \u003ca href=\"https://web.archive.org/web/20060322214543/http://msdn.microsoft.com/library/default.asp?url=/library/en-us/ietechcol/cols/dnexpie/ie7_css_compat.asp\"\u003eimproved CSS compliance\u003c/a\u003e (hasn’t yet been updated with the current build information, but will). This build is supposed to be rendering engine complete, meaning that this build will render webpages the same way that the final release will. I’m tempted to do a full install of IE7, and simply run IE6 standalone from now on…\u003c/p\u003e\n",
+        "plain":"For those who hadn’t yet heard, there is an updated version of Internet Explorer 7 available. If you want to run it in standalone mode, Jon Galloway’s IE7 Launcher will do the trick nicely. Lots of information can be found about IE7, specifically improved CSS compliance (hasn’t yet been updated with the current build information, but will). This build is supposed to be rendering engine complete, meaning that this build will render webpages the same way that the final release will. I’m tempted to do a full install of IE7, and simply run IE6 standalone from now on…\n",
+        "source":"\nFor those who hadn’t yet heard, there is an updated version of [Internet Explorer 7]({{% wayback \"http://microsoft.com/ie/ie7/\" %}}) available. If you want to run it in standalone mode, Jon Galloway’s [IE7 Launcher]({{% wayback \"http://weblogs.asp.net/jgalloway/archive/2005/12/28/434132.aspx\" %}}) will do the trick nicely. Lots of [information]({{% wayback \"http://msdn.microsoft.com/ie/infoindex/\" %}}) can be found about IE7, specifically [improved CSS compliance]({{% wayback \"http://msdn.microsoft.com/library/default.asp?url=/library/en-us/ietechcol/cols/dnexpie/ie7_css_compat.asp\" %}}) (hasn’t yet been updated with the current build information, but will). This build is supposed to be rendering engine complete, meaning that this build will render webpages the same way that the final release will. I’m tempted to do a full install of IE7, and simply run IE6 standalone from now on…\n"},
+    "links": {
+        "prev": {"title": "TinyMCE Issue", "permalink": "https://ryanparman.com/posts/2006/tinymce-issue/"},
+        "next": {"title": "Vasecto-who?", "permalink": "https://ryanparman.com/posts/2006/vasecto-who/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "TinyMCE Issue",
+    "description": "",
+    "summary": {
+        "content": "I had a problem with TinyMCE initializing on a new page today. After about 10 seconds of Googling, I had my answer: If you’re using both libraries, TinyMCE needs to be loaded before Scriptaculous. Thought I’d pass this little nugget along from one front-end developer to another. In completely unrelated news, I really need to fix up skyzyx.com don’t I? Yeah, it’s in bad shape. *Adds it to the list.* I finally have a strategy for it… I just need to execute that strategy.",
+        "isTruncated": true
+    },
+    "published": "2006-03-13T19:27:04Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/tinymce-issue/",
+    "relativePermalink": "/posts/2006/tinymce-issue/",
+    "aliases": ["/2006/03/13/tinymce-issue/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 87,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060313-tinymce-issue.md",
+        "logicalName": "20060313-tinymce-issue.md",
+        "translationBaseName": "20060313-tinymce-issue",
+        "baseFileName": "20060313-tinymce-issue",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI had a problem with \u003ca href=\"https://web.archive.org/web/20060313192704/http://tinymce.moxiecode.com\"\u003eTinyMCE\u003c/a\u003e initializing on a new page today. After about 10 seconds of Googling, I had my answer: If you’re using both libraries, \u003ca href=\"https://web.archive.org/web/20060313192704/http://www.systemmobile.com/wp/?p=184\"\u003eTinyMCE needs to be loaded before Scriptaculous\u003c/a\u003e. Thought I’d pass this little nugget along from one front-end developer to another. In completely unrelated news, I really need to fix up \u003ca href=\"https://web.archive.org/web/20060313192704/http://skyzyx.com\"\u003eskyzyx.com\u003c/a\u003e don’t I? Yeah, it’s in bad shape. *Adds it to the list.* I finally have a strategy for it… I just need to execute that strategy. Maybe next weekend…\u003c/p\u003e\n",
+        "plain":"I had a problem with TinyMCE initializing on a new page today. After about 10 seconds of Googling, I had my answer: If you’re using both libraries, TinyMCE needs to be loaded before Scriptaculous. Thought I’d pass this little nugget along from one front-end developer to another. In completely unrelated news, I really need to fix up skyzyx.com don’t I? Yeah, it’s in bad shape. *Adds it to the list.* I finally have a strategy for it… I just need to execute that strategy. Maybe next weekend…\n",
+        "source":"\nI had a problem with [TinyMCE]({{% wayback \"http://tinymce.moxiecode.com\" %}}) initializing on a new page today. After about 10 seconds of Googling, I had my answer: If you’re using both libraries, [TinyMCE needs to be loaded before Scriptaculous]({{% wayback \"http://www.systemmobile.com/wp/?p=184\" %}}). Thought I’d pass this little nugget along from one front-end developer to another. In completely unrelated news, I really need to fix up [skyzyx.com]({{% wayback \"http://skyzyx.com\" %}}) don’t I? Yeah, it’s in bad shape. \\*Adds it to the list.\\* I finally have a strategy for it… I just need to execute that strategy. Maybe next weekend…\n"},
+    "links": {
+        "prev": {"title": "document.createTextNode and entities", "permalink": "https://ryanparman.com/posts/2006/document-createtextnode-and-entities/"},
+        "next": {"title": "Internet Explorer 7.0 Beta 2 (Build 5335.5)", "permalink": "https://ryanparman.com/posts/2006/internet-explorer-70-beta-2-build-53355/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "document.createTextNode and entities",
+    "description": "",
+    "summary": {
+        "content": "One problem that I’ve had when working with dynamic DOM nodes is the inability to use entities with document.createTextElement(). I’ve read suggestions about using utf–16/ucs–2 values, but how do you find them and how do you convert them? This led me on a journey to figure out how to handle this. I ended up digging through some TinyMCE source code, and found a gem of a function that I then added a ‘stupefy’ mode to. Here’s the code: function entity(str, mode) { var str = (str) ?",
+        "isTruncated": true
+    },
+    "published": "2006-02-25T19:32:33Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/document-createtextnode-and-entities/",
+    "relativePermalink": "/posts/2006/document-createtextnode-and-entities/",
+    "aliases": ["/2006/02/25/document-createtextnode-and-entities/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 254,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060225-document-createtextnode-and-entities.md",
+        "logicalName": "20060225-document-createtextnode-and-entities.md",
+        "translationBaseName": "20060225-document-createtextnode-and-entities",
+        "baseFileName": "20060225-document-createtextnode-and-entities",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eOne problem that I’ve had when working with dynamic DOM nodes is the inability to use entities with \u003ccode\u003edocument.createTextElement()\u003c/code\u003e. I’ve read suggestions about using utf–16/ucs–2 values, but how do you find them and how do you convert them? This led me on a journey to figure out how to handle this. I ended up digging through some \u003ca href=\"https://web.archive.org/web/20060225193233/http://tinymce.moxiecode.com/\"\u003eTinyMCE\u003c/a\u003e source code, and found a gem of a function that I then added a ‘stupefy’ mode to. Here’s the code:\u003c/p\u003e\n\u003cdiv class=\"highlight\"\u003e\u003cpre style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"\u003e\u003ccode class=\"language-javascript\" data-lang=\"javascript\"\u003e\u003cspan style=\"color:#66d9ef\"\u003efunction\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003eentity\u003c/span\u003e(\u003cspan style=\"color:#a6e22e\"\u003estr\u003c/span\u003e, \u003cspan style=\"color:#a6e22e\"\u003emode\u003c/span\u003e) {\n    \u003cspan style=\"color:#66d9ef\"\u003evar\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003estr\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e=\u003c/span\u003e (\u003cspan style=\"color:#a6e22e\"\u003estr\u003c/span\u003e) \u003cspan style=\"color:#f92672\"\u003e?\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003estr\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e:\u003c/span\u003e \u003cspan style=\"color:#e6db74\"\u003e\u0026#39;\u0026#39;\u003c/span\u003e;\n    \u003cspan style=\"color:#66d9ef\"\u003evar\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003emode\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e=\u003c/span\u003e (\u003cspan style=\"color:#a6e22e\"\u003emode\u003c/span\u003e) \u003cspan style=\"color:#f92672\"\u003e?\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003emode\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e:\u003c/span\u003e \u003cspan style=\"color:#e6db74\"\u003e\u0026#39;string\u0026#39;\u003c/span\u003e;\n\n    \u003cspan style=\"color:#66d9ef\"\u003evar\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003ee\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e=\u003c/span\u003e document.\u003cspan style=\"color:#a6e22e\"\u003ecreateElement\u003c/span\u003e(\u003cspan style=\"color:#e6db74\"\u003e\u0026#34;div\u0026#34;\u003c/span\u003e);\n    \u003cspan style=\"color:#a6e22e\"\u003ee\u003c/span\u003e.\u003cspan style=\"color:#a6e22e\"\u003einnerHTML\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e=\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003estr\u003c/span\u003e;\n\n    \u003cspan style=\"color:#66d9ef\"\u003eif\u003c/span\u003e (\u003cspan style=\"color:#a6e22e\"\u003emode\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e===\u003c/span\u003e \u003cspan style=\"color:#e6db74\"\u003e\u0026#39;numeric\u0026#39;\u003c/span\u003e) {\n        \u003cspan style=\"color:#66d9ef\"\u003ereturn\u003c/span\u003e \u003cspan style=\"color:#e6db74\"\u003e\u0026#39;\u0026amp;#\u0026#39;\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e+\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003ee\u003c/span\u003e.\u003cspan style=\"color:#a6e22e\"\u003einnerHTML\u003c/span\u003e.\u003cspan style=\"color:#a6e22e\"\u003echarCodeAt\u003c/span\u003e(\u003cspan style=\"color:#ae81ff\"\u003e0\u003c/span\u003e) \u003cspan style=\"color:#f92672\"\u003e+\u003c/span\u003e \u003cspan style=\"color:#e6db74\"\u003e\u0026#39;;\u0026#39;\u003c/span\u003e;\n    } \u003cspan style=\"color:#66d9ef\"\u003eelse\u003c/span\u003e \u003cspan style=\"color:#66d9ef\"\u003eif\u003c/span\u003e (\u003cspan style=\"color:#a6e22e\"\u003emode\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e===\u003c/span\u003e \u003cspan style=\"color:#e6db74\"\u003e\u0026#39;utf16\u0026#39;\u003c/span\u003e) {\n        \u003cspan style=\"color:#66d9ef\"\u003evar\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003eun\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e=\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003ee\u003c/span\u003e.\u003cspan style=\"color:#a6e22e\"\u003einnerHTML\u003c/span\u003e.\u003cspan style=\"color:#a6e22e\"\u003echarCodeAt\u003c/span\u003e(\u003cspan style=\"color:#ae81ff\"\u003e0\u003c/span\u003e).\u003cspan style=\"color:#a6e22e\"\u003etoString\u003c/span\u003e(\u003cspan style=\"color:#ae81ff\"\u003e16\u003c/span\u003e);\n\n        \u003cspan style=\"color:#66d9ef\"\u003ewhile\u003c/span\u003e (\u003cspan style=\"color:#a6e22e\"\u003eun\u003c/span\u003e.\u003cspan style=\"color:#a6e22e\"\u003elength\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e\u0026lt;\u003c/span\u003e \u003cspan style=\"color:#ae81ff\"\u003e4\u003c/span\u003e) {\n            \u003cspan style=\"color:#a6e22e\"\u003eun\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e=\u003c/span\u003e \u003cspan style=\"color:#e6db74\"\u003e\u0026#34;0\u0026#34;\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e+\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003eun\u003c/span\u003e;\n        }\n\n        \u003cspan style=\"color:#66d9ef\"\u003ereturn\u003c/span\u003e \u003cspan style=\"color:#e6db74\"\u003e\u0026#34;\\\\u\u0026#34;\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e+\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003eun\u003c/span\u003e;\n    }\n\n    \u003cspan style=\"color:#66d9ef\"\u003ereturn\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003ee\u003c/span\u003e.\u003cspan style=\"color:#a6e22e\"\u003einnerHTML\u003c/span\u003e;\n}\n\u003c/code\u003e\u003c/pre\u003e\u003c/div\u003e\u003cp\u003e\u003ccode\u003eentity()\u003c/code\u003e has two parameters:\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\u003cstrong\u003eentity:\u003c/strong\u003e is a string which can be either a named entity (») or a numeric entity (\u0026amp;#187;)\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003emode:\u003c/strong\u003e is an optional value that accepts ‘numeric’, ‘utf16’, or ‘string’. Defaults to ‘string’.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eYou’d use it like this:\u003c/p\u003e\n\u003cdiv class=\"highlight\"\u003e\u003cpre style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"\u003e\u003ccode class=\"language-javascript\" data-lang=\"javascript\"\u003e\u003cspan style=\"color:#75715e\"\u003e// Normal mode\n\u003c/span\u003e\u003cspan style=\"color:#75715e\"\u003e\u003c/span\u003e\u003cspan style=\"color:#66d9ef\"\u003evar\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003ediv\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e=\u003c/span\u003e document.\u003cspan style=\"color:#a6e22e\"\u003ecreateElement\u003c/span\u003e(\u003cspan style=\"color:#e6db74\"\u003e\u0026#39;div\u0026#39;\u003c/span\u003e);\n\u003cspan style=\"color:#66d9ef\"\u003evar\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003etext\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e=\u003c/span\u003e document.\u003cspan style=\"color:#a6e22e\"\u003ecreateTextNode\u003c/span\u003e(\u003cspan style=\"color:#e6db74\"\u003e\u0026#39;Parent \u0026#39;\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e+\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003eentity\u003c/span\u003e(\u003cspan style=\"color:#e6db74\"\u003e\u0026#39;»\u0026#39;\u003c/span\u003e) \u003cspan style=\"color:#f92672\"\u003e+\u003c/span\u003e \u003cspan style=\"color:#e6db74\"\u003e\u0026#39; Child\u0026#39;\u003c/span\u003e);\n\u003cspan style=\"color:#a6e22e\"\u003ediv\u003c/span\u003e.\u003cspan style=\"color:#a6e22e\"\u003eappendChild\u003c/span\u003e(\u003cspan style=\"color:#a6e22e\"\u003etext\u003c/span\u003e);\n\n\u003cspan style=\"color:#75715e\"\u003e// Stupefy mode\n\u003c/span\u003e\u003cspan style=\"color:#75715e\"\u003e\u003c/span\u003e\u003cspan style=\"color:#66d9ef\"\u003evar\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003enum\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e=\u003c/span\u003e \u003cspan style=\"color:#e6db74\"\u003e\u0026#34;The numeric entity for » is \u0026#34;\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e+\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003eentity\u003c/span\u003e(\u003cspan style=\"color:#e6db74\"\u003e\u0026#39;»\u0026#39;\u003c/span\u003e, \u003cspan style=\"color:#e6db74\"\u003e\u0026#39;numeric\u0026#39;\u003c/span\u003e);\n\u003cspan style=\"color:#66d9ef\"\u003evar\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003eutf\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e=\u003c/span\u003e \u003cspan style=\"color:#e6db74\"\u003e\u0026#34;The UTF-16 entity for » is \u0026#34;\u003c/span\u003e \u003cspan style=\"color:#f92672\"\u003e+\u003c/span\u003e \u003cspan style=\"color:#a6e22e\"\u003eentity\u003c/span\u003e(\u003cspan style=\"color:#e6db74\"\u003e\u0026#39;»\u0026#39;\u003c/span\u003e, \u003cspan style=\"color:#e6db74\"\u003e\u0026#39;utf16\u0026#39;\u003c/span\u003e);\n\u003c/code\u003e\u003c/pre\u003e\u003c/div\u003e\u003cp\u003eI hope this can help other people out there who’ve run into the same problem as many times as I have!\u003c/p\u003e\n",
+        "plain":"One problem that I’ve had when working with dynamic DOM nodes is the inability to use entities with document.createTextElement(). I’ve read suggestions about using utf–16/ucs–2 values, but how do you find them and how do you convert them? This led me on a journey to figure out how to handle this. I ended up digging through some TinyMCE source code, and found a gem of a function that I then added a ‘stupefy’ mode to. Here’s the code:\nfunction entity(str, mode) { var str = (str) ? str : \u0026#39;\u0026#39;; var mode = (mode) ? mode : \u0026#39;string\u0026#39;; var e = document.createElement(\u0026#34;div\u0026#34;); e.innerHTML = str; if (mode === \u0026#39;numeric\u0026#39;) { return \u0026#39;\u0026amp;#\u0026#39; + e.innerHTML.charCodeAt(0) + \u0026#39;;\u0026#39;; } else if (mode === \u0026#39;utf16\u0026#39;) { var un = e.innerHTML.charCodeAt(0).toString(16); while (un.length \u0026lt; 4) { un = \u0026#34;0\u0026#34; + un; } return \u0026#34;\\\\u\u0026#34; + un; } return e.innerHTML; } entity() has two parameters:\n entity: is a string which can be either a named entity (») or a numeric entity (\u0026amp;#187;) mode: is an optional value that accepts ‘numeric’, ‘utf16’, or ‘string’. Defaults to ‘string’.  You’d use it like this:\n// Normal mode var div = document.createElement(\u0026#39;div\u0026#39;); var text = document.createTextNode(\u0026#39;Parent \u0026#39; + entity(\u0026#39;»\u0026#39;) + \u0026#39; Child\u0026#39;); div.appendChild(text); // Stupefy mode var num = \u0026#34;The numeric entity for » is \u0026#34; + entity(\u0026#39;»\u0026#39;, \u0026#39;numeric\u0026#39;); var utf = \u0026#34;The UTF-16 entity for » is \u0026#34; + entity(\u0026#39;»\u0026#39;, \u0026#39;utf16\u0026#39;); I hope this can help other people out there who’ve run into the same problem as many times as I have!\n",
+        "source":"\nOne problem that I’ve had when working with dynamic DOM nodes is the inability to use entities with `document.createTextElement()`. I’ve read suggestions about using utf–16/ucs–2 values, but how do you find them and how do you convert them? This led me on a journey to figure out how to handle this. I ended up digging through some [TinyMCE]({{% wayback \"http://tinymce.moxiecode.com/\" %}}) source code, and found a gem of a function that I then added a ‘stupefy’ mode to. Here’s the code:\n\n```javascript\nfunction entity(str, mode) {\n    var str = (str) ? str : '';\n    var mode = (mode) ? mode : 'string';\n\n    var e = document.createElement(\"div\");\n    e.innerHTML = str;\n\n    if (mode === 'numeric') {\n        return '\u0026#' + e.innerHTML.charCodeAt(0) + ';';\n    } else if (mode === 'utf16') {\n        var un = e.innerHTML.charCodeAt(0).toString(16);\n\n        while (un.length \u003c 4) {\n            un = \"0\" + un;\n        }\n\n        return \"\\\\u\" + un;\n    }\n\n    return e.innerHTML;\n}\n```\n\n`entity()` has two parameters:\n\n1. **entity:** is a string which can be either a named entity (\u0026raquo;) or a numeric entity (\u0026\\#187;)\n2. **mode:** is an optional value that accepts ‘numeric’, ‘utf16’, or ‘string’. Defaults to ‘string’.\n\nYou’d use it like this:\n\n```javascript\n// Normal mode\nvar div = document.createElement('div');\nvar text = document.createTextNode('Parent ' + entity('»') + ' Child');\ndiv.appendChild(text);\n\n// Stupefy mode\nvar num = \"The numeric entity for » is \" + entity('»', 'numeric');\nvar utf = \"The UTF-16 entity for » is \" + entity('»', 'utf16');\n```\n\nI hope this can help other people out there who’ve run into the same problem as many times as I have!\n"},
+    "links": {
+        "prev": {"title": "Camino has left the building", "permalink": "https://ryanparman.com/posts/2006/camino-has-left-the-building/"},
+        "next": {"title": "TinyMCE Issue", "permalink": "https://ryanparman.com/posts/2006/tinymce-issue/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "Camino has left the building",
+    "description": "",
+    "summary": {
+        "content": "I’m a creature of habit. I haven’t lost my keys in years, simply because I always put them in the same place when I get home. I never have to fumble around in my pockets to find something, because I already know what’s there: wallet and phone in my right pocket; keys, chapstick, pen, and loose change in my left. I’m also a perfectionist, and I find myself driven by and towards excellence. That’s why although I use both systems everyday, I prefer my Mac over my PC.",
+        "isTruncated": true
+    },
+    "published": "2006-02-20T17:55:05Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/camino-has-left-the-building/",
+    "relativePermalink": "/posts/2006/camino-has-left-the-building/",
+    "aliases": ["/2006/02/20/camino-has-left-the-building/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 573,
+        "readingTime": "3 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060220-camino-has-left-the-building.md",
+        "logicalName": "20060220-camino-has-left-the-building.md",
+        "translationBaseName": "20060220-camino-has-left-the-building",
+        "baseFileName": "20060220-camino-has-left-the-building",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’m a creature of habit. I haven’t lost my keys in years, simply because I always put them in the same place when I get home. I never have to fumble around in my pockets to find something, because I already know what’s there: wallet and phone in my right pocket; keys, chapstick, pen, and loose change in my left. I’m also a perfectionist, and I find myself driven by and towards excellence.\u003c/p\u003e\n\u003cp\u003eThat’s why although I use both systems everyday, I prefer my Mac over my PC. That’s why I haven’t used Internet Explorer in years. And that why I wanted to give Camino a try as my default browser for a week. If I’m interested in some new software whereby using it I’d have to change my habits (such as changing browsers, or text editors, or mail clients), I’ll install the new software and promise to use it for a week. If after that week I decide that I like it better than what I’m currently using, I’ll make the switch.\u003c/p\u003e\n\u003cp\u003eI figure a week is a good chunk of time to try something out because any irritations and possible solutions for those irritations will have surfaced by the end of the week. I have faith in this system for myself, because this is how I found Mozilla 0.99, Firebird (later Firefox), Adium, Transmit, FlashFXP, Topstyle, and other constantly-used bits of software.\u003c/p\u003e\n\u003cp\u003eI’ve had my eye on Camino for a while, but I wanted to wait until it hit 1.0 (which happened last week) before I tried it out. Having a browser with the rendering engine of Firefox, but had an Aquafied UI was very tempting to me. Instead of switching between Safari (my default browser on my Mac) and Firefox (which I use for viewing the source of RSS feeds), I could switch between Camino and Safari; Two browsers that feel Mac-like. Unfortunately, I ended up finding more things about Camino that I don’t like, so Camino has now been uninstalled. Here’s why:\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eNo support for extensions.\u003c/strong\u003e You mean, no Firebug? No Gmail Notifier? No Greasemonkey? No Reveal? I might as well be using Internet Explorer then.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eNo DOM Inspector.\u003c/strong\u003e If it’s there, I couldn’t find it. For someone who does as much development as I do, I need to have my DOM inpector and my JavaScript console… especially if I can’t run Firebug.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eNo live bookmarks.\u003c/strong\u003e This is one of my most used features of Firefox, and to a certain extent Safari. I need to be able to have 1-click access to certain feeds from within my browser. Or at least the ability to detect them.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eThere are some things, however, that I really did like about it.\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eIt’s crazy fast.\u003c/strong\u003e A Gecko-based browser that’s as fast as Safari? Camino’s right there.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eFavicons in the bookmarks bar.\u003c/strong\u003e Mmmm… favicons….\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eSomething else.\u003c/strong\u003e I’m sure there was something else, but I just can’t think of it right now.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eIf you don’t care about any of these things, then I suppose Camino is as good a browser as any other. But it seems like Camino is roughly on par with Firebird 0.6. It can render pages just fine, and it’s got some speed to it, but it simply does not yet have the feature set to make it a viable alternative for web developers. Maybe Camino 2.0 will have the features it needs to compete, but Camino 1.0 simply isn’t there yet.\u003c/p\u003e\n",
+        "plain":"I’m a creature of habit. I haven’t lost my keys in years, simply because I always put them in the same place when I get home. I never have to fumble around in my pockets to find something, because I already know what’s there: wallet and phone in my right pocket; keys, chapstick, pen, and loose change in my left. I’m also a perfectionist, and I find myself driven by and towards excellence.\nThat’s why although I use both systems everyday, I prefer my Mac over my PC. That’s why I haven’t used Internet Explorer in years. And that why I wanted to give Camino a try as my default browser for a week. If I’m interested in some new software whereby using it I’d have to change my habits (such as changing browsers, or text editors, or mail clients), I’ll install the new software and promise to use it for a week. If after that week I decide that I like it better than what I’m currently using, I’ll make the switch.\nI figure a week is a good chunk of time to try something out because any irritations and possible solutions for those irritations will have surfaced by the end of the week. I have faith in this system for myself, because this is how I found Mozilla 0.99, Firebird (later Firefox), Adium, Transmit, FlashFXP, Topstyle, and other constantly-used bits of software.\nI’ve had my eye on Camino for a while, but I wanted to wait until it hit 1.0 (which happened last week) before I tried it out. Having a browser with the rendering engine of Firefox, but had an Aquafied UI was very tempting to me. Instead of switching between Safari (my default browser on my Mac) and Firefox (which I use for viewing the source of RSS feeds), I could switch between Camino and Safari; Two browsers that feel Mac-like. Unfortunately, I ended up finding more things about Camino that I don’t like, so Camino has now been uninstalled. Here’s why:\n  No support for extensions. You mean, no Firebug? No Gmail Notifier? No Greasemonkey? No Reveal? I might as well be using Internet Explorer then.\n  No DOM Inspector. If it’s there, I couldn’t find it. For someone who does as much development as I do, I need to have my DOM inpector and my JavaScript console… especially if I can’t run Firebug.\n  No live bookmarks. This is one of my most used features of Firefox, and to a certain extent Safari. I need to be able to have 1-click access to certain feeds from within my browser. Or at least the ability to detect them.\n  There are some things, however, that I really did like about it.\n  It’s crazy fast. A Gecko-based browser that’s as fast as Safari? Camino’s right there.\n  Favicons in the bookmarks bar. Mmmm… favicons….\n  Something else. I’m sure there was something else, but I just can’t think of it right now.\n  If you don’t care about any of these things, then I suppose Camino is as good a browser as any other. But it seems like Camino is roughly on par with Firebird 0.6. It can render pages just fine, and it’s got some speed to it, but it simply does not yet have the feature set to make it a viable alternative for web developers. Maybe Camino 2.0 will have the features it needs to compete, but Camino 1.0 simply isn’t there yet.\n",
+        "source":"\nI’m a creature of habit. I haven’t lost my keys in years, simply because I always put them in the same place when I get home. I never have to fumble around in my pockets to find something, because I already know what’s there: wallet and phone in my right pocket; keys, chapstick, pen, and loose change in my left. I’m also a perfectionist, and I find myself driven by and towards excellence.\n\nThat’s why although I use both systems everyday, I prefer my Mac over my PC. That’s why I haven’t used Internet Explorer in years. And that why I wanted to give Camino a try as my default browser for a week. If I’m interested in some new software whereby using it I’d have to change my habits (such as changing browsers, or text editors, or mail clients), I’ll install the new software and promise to use it for a week. If after that week I decide that I like it better than what I’m currently using, I’ll make the switch.\n\nI figure a week is a good chunk of time to try something out because any irritations and possible solutions for those irritations will have surfaced by the end of the week. I have faith in this system for myself, because this is how I found Mozilla 0.99, Firebird (later Firefox), Adium, Transmit, FlashFXP, Topstyle, and other constantly-used bits of software.\n\nI’ve had my eye on Camino for a while, but I wanted to wait until it hit 1.0 (which happened last week) before I tried it out. Having a browser with the rendering engine of Firefox, but had an Aquafied UI was very tempting to me. Instead of switching between Safari (my default browser on my Mac) and Firefox (which I use for viewing the source of RSS feeds), I could switch between Camino and Safari; Two browsers that feel Mac-like. Unfortunately, I ended up finding more things about Camino that I don’t like, so Camino has now been uninstalled. Here’s why:\n\n1. **No support for extensions.** You mean, no Firebug? No Gmail Notifier? No Greasemonkey? No Reveal? I might as well be using Internet Explorer then.\n\n2. **No DOM Inspector.** If it’s there, I couldn’t find it. For someone who does as much development as I do, I need to have my DOM inpector and my JavaScript console… especially if I can’t run Firebug.\n\n3. **No live bookmarks.** This is one of my most used features of Firefox, and to a certain extent Safari. I need to be able to have 1-click access to certain feeds from within my browser. Or at least the ability to detect them.\n\nThere are some things, however, that I really did like about it.\n\n1. **It’s crazy fast.** A Gecko-based browser that’s as fast as Safari? Camino’s right there.\n\n2. **Favicons in the bookmarks bar.** Mmmm… favicons….\n\n3. **Something else.** I’m sure there was something else, but I just can’t think of it right now.\n\nIf you don’t care about any of these things, then I suppose Camino is as good a browser as any other. But it seems like Camino is roughly on par with Firebird 0.6. It can render pages just fine, and it’s got some speed to it, but it simply does not yet have the feature set to make it a viable alternative for web developers. Maybe Camino 2.0 will have the features it needs to compete, but Camino 1.0 simply isn’t there yet.\n"},
+    "links": {
+        "prev": {"title": "YouTube: Travis Barker - Snare Drum Solo", "permalink": "https://ryanparman.com/posts/2006/youtube-travis-barker-snare-drum-solo/"},
+        "next": {"title": "document.createTextNode and entities", "permalink": "https://ryanparman.com/posts/2006/document-createtextnode-and-entities/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "YouTube: Travis Barker - Snare Drum Solo",
+    "description": "",
+    "summary": {
+        "content": "The video could not be loaded. ",
+        "isTruncated": false
+    },
+    "published": "2006-02-19T03:47:04Z",
+    "updated": "2019-06-28T23:09:20-07:00",
+    "permalink": "https://ryanparman.com/posts/2006/youtube-travis-barker-snare-drum-solo/",
+    "relativePermalink": "/posts/2006/youtube-travis-barker-snare-drum-solo/",
+    "aliases": ["/2006/02/18/youtube-travis-barker-snare-drum-solo/", "/2006/02/18/youtube-travis-barker-snare-drum-solo-2/"],
+    "images": [],
+    "videos": [],
+    "categories": ["For Funsies"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 6,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060219-youtube-travis-barker-snare-drum-solo.md",
+        "logicalName": "20060219-youtube-travis-barker-snare-drum-solo.md",
+        "translationBaseName": "20060219-youtube-travis-barker-snare-drum-solo",
+        "baseFileName": "20060219-youtube-travis-barker-snare-drum-solo",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003camp-youtube data-videoid=\"H0RgXBd7EY0\" layout=\"responsive\" width=\"704\" height=\"396\"\u003e\n  \u003cdiv fallback\u003e\n    \u003cp\u003eThe video could not be loaded.\u003c/p\u003e\n  \u003c/div\u003e\n\u003c/amp-youtube\u003e\n\n",
+        "plain":"The video could not be loaded.\n  ",
+        "source":"\n{{\u003c yt H0RgXBd7EY0 \u003e}}\n"},
+    "links": {
+        "prev": {"title": "Awesome view-source trick for JavaScript developers", "permalink": "https://ryanparman.com/posts/2006/awesome-view-source-trick-for-javascript-developers/"},
+        "next": {"title": "Camino has left the building", "permalink": "https://ryanparman.com/posts/2006/camino-has-left-the-building/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "Awesome view-source trick for JavaScript developers",
+    "description": "",
+    "summary": {
+        "content": "Maybe I’m a little slow, but I’ve found an awesome little trick for people who use Firefox, and who need to dynamically add elements to the page via JavaScript. I’ve been doing a lot of Ajax development lately for an internal webapp where I need to dynamically add nodes to lists. In my source code, I’ll have an empty \u0026lt;ul\u0026gt; tag with an ID, then I use that ID when I go and add \u0026lt;li\u0026gt;’s to it. No big deal, right?",
+        "isTruncated": true
+    },
+    "published": "2006-02-15T01:15:39Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/awesome-view-source-trick-for-javascript-developers/",
+    "relativePermalink": "/posts/2006/awesome-view-source-trick-for-javascript-developers/",
+    "aliases": ["/2006/02/14/awesome-view-source-trick-for-javascript-developers/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 191,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060215-awesome-view-source-trick-for-javascript-developers.md",
+        "logicalName": "20060215-awesome-view-source-trick-for-javascript-developers.md",
+        "translationBaseName": "20060215-awesome-view-source-trick-for-javascript-developers",
+        "baseFileName": "20060215-awesome-view-source-trick-for-javascript-developers",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eMaybe I’m a little slow, but I’ve found an awesome little trick for people who use Firefox, and who need to dynamically add elements to the page via JavaScript.\u003c/p\u003e\n\u003cp\u003eI’ve been doing a lot of Ajax development lately for an internal webapp where I need to dynamically add nodes to lists. In my source code, I’ll have an empty \u003ccode\u003e\u0026lt;ul\u0026gt;\u003c/code\u003e tag with an ID, then I use that ID when I go and add \u003ccode\u003e\u0026lt;li\u0026gt;\u003c/code\u003e’s to it. No big deal, right? If you use the standard view-source contextual menu item, it will show you the source code that you coded in: the empty \u003ccode\u003e\u0026lt;ul\u0026gt;\u003c/code\u003e tag. BUT, if after you’ve added your \u003ccode\u003e\u0026lt;li\u0026gt;\u003c/code\u003e nodes dynamically, you click-and-drag to select the rendered area, and choose “View Selection Source”, Firefox will show you the fully-rendered HTML for that area.\u003c/p\u003e\n\u003cp\u003eAs in, it will show you the \u003ccode\u003e\u0026lt;ul\u0026gt;\u003c/code\u003e tag with all of your \u003ccode\u003e\u0026lt;li\u0026gt;\u003c/code\u003e tags inside of it… just as though you’d coded it like that in the first place. How awesome is that? So if you need to see what HTML your JavaScript is generating, simply select the area, and choose “View Selection Source”.\u003c/p\u003e\n",
+        "plain":"Maybe I’m a little slow, but I’ve found an awesome little trick for people who use Firefox, and who need to dynamically add elements to the page via JavaScript.\nI’ve been doing a lot of Ajax development lately for an internal webapp where I need to dynamically add nodes to lists. In my source code, I’ll have an empty \u0026lt;ul\u0026gt; tag with an ID, then I use that ID when I go and add \u0026lt;li\u0026gt;’s to it. No big deal, right? If you use the standard view-source contextual menu item, it will show you the source code that you coded in: the empty \u0026lt;ul\u0026gt; tag. BUT, if after you’ve added your \u0026lt;li\u0026gt; nodes dynamically, you click-and-drag to select the rendered area, and choose “View Selection Source”, Firefox will show you the fully-rendered HTML for that area.\nAs in, it will show you the \u0026lt;ul\u0026gt; tag with all of your \u0026lt;li\u0026gt; tags inside of it… just as though you’d coded it like that in the first place. How awesome is that? So if you need to see what HTML your JavaScript is generating, simply select the area, and choose “View Selection Source”.\n",
+        "source":"\nMaybe I’m a little slow, but I’ve found an awesome little trick for people who use Firefox, and who need to dynamically add elements to the page via JavaScript.\n\nI’ve been doing a lot of Ajax development lately for an internal webapp where I need to dynamically add nodes to lists. In my source code, I’ll have an empty `\u003cul\u003e` tag with an ID, then I use that ID when I go and add `\u003cli\u003e`’s to it. No big deal, right? If you use the standard view-source contextual menu item, it will show you the source code that you coded in: the empty `\u003cul\u003e` tag. BUT, if after you’ve added your `\u003cli\u003e` nodes dynamically, you click-and-drag to select the rendered area, and choose “View Selection Source”, Firefox will show you the fully-rendered HTML for that area.\n\nAs in, it will show you the `\u003cul\u003e` tag with all of your `\u003cli\u003e` tags inside of it… just as though you’d coded it like that in the first place. How awesome is that? So if you need to see what HTML your JavaScript is generating, simply select the area, and choose “View Selection Source”.\n"},
+    "links": {
+        "prev": {"title": "Okay, some people are seriously retarded", "permalink": "https://ryanparman.com/posts/2006/okay-some-people-are-seriously-retarded/"},
+        "next": {"title": "YouTube: Travis Barker - Snare Drum Solo", "permalink": "https://ryanparman.com/posts/2006/youtube-travis-barker-snare-drum-solo/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "Okay, some people are seriously retarded",
+    "description": "",
+    "summary": {
+        "content": "I just came across a BBC article about man suing over an iPod ‘hearing risk’. OMFG. Are you kidding me? How stupid can some people be? And it’s all a matter of money. Stupid lawsuits brought on by stupid lawyers are really dragging our legal system through the mud, not to mention using up my tax dollars to do it. Maybe Apple really should discontinue sales to stupid people…",
+        "isTruncated": false
+    },
+    "published": "2006-02-04T00:27:14Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/okay-some-people-are-seriously-retarded/",
+    "relativePermalink": "/posts/2006/okay-some-people-are-seriously-retarded/",
+    "aliases": ["/2006/02/03/okay-some-people-are-seriously-retarded/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Tech Industry"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 69,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060204-okay-some-people-are-seriously-retarded.md",
+        "logicalName": "20060204-okay-some-people-are-seriously-retarded.md",
+        "translationBaseName": "20060204-okay-some-people-are-seriously-retarded",
+        "baseFileName": "20060204-okay-some-people-are-seriously-retarded",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI just came across a BBC article about \u003ca href=\"https://web.archive.org/web/20060204002714/http://news.bbc.co.uk/2/hi/technology/4673584.stm\"\u003eman suing over an iPod ‘hearing risk’\u003c/a\u003e. OMFG. Are you kidding me? How stupid can some people be? And it’s all a matter of money. Stupid lawsuits brought on by stupid lawyers are really dragging our legal system through the mud, not to mention using up my tax dollars to do it. Maybe Apple really should \u003ca href=\"https://web.archive.org/web/20060204002714/http://www.crazyapplerumors.com/archives/000643.html\"\u003ediscontinue sales to stupid people\u003c/a\u003e…\u003c/p\u003e\n",
+        "plain":"I just came across a BBC article about man suing over an iPod ‘hearing risk’. OMFG. Are you kidding me? How stupid can some people be? And it’s all a matter of money. Stupid lawsuits brought on by stupid lawyers are really dragging our legal system through the mud, not to mention using up my tax dollars to do it. Maybe Apple really should discontinue sales to stupid people…\n",
+        "source":"\nI just came across a BBC article about [man suing over an iPod ‘hearing risk’]({{% wayback \"http://news.bbc.co.uk/2/hi/technology/4673584.stm\" %}}). OMFG. Are you kidding me? How stupid can some people be? And it’s all a matter of money. Stupid lawsuits brought on by stupid lawyers are really dragging our legal system through the mud, not to mention using up my tax dollars to do it. Maybe Apple really should [discontinue sales to stupid people]({{% wayback \"http://www.crazyapplerumors.com/archives/000643.html\" %}})…\n"},
+    "links": {
+        "prev": {"title": "Internet Explorer 7.0 Beta 2 Standalone is available", "permalink": "https://ryanparman.com/posts/2006/internet-explorer-70-beta-2-standalone-is-available/"},
+        "next": {"title": "Awesome view-source trick for JavaScript developers", "permalink": "https://ryanparman.com/posts/2006/awesome-view-source-trick-for-javascript-developers/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "Internet Explorer 7.0 Beta 2 Standalone is available",
+    "description": "",
+    "summary": {
+        "content": "In response to Shaun (Jan 31, 2006), I took some time to try to get the new IE7b2 release working. This is the download package that was made available as the Internet Explorer 7.0 Beta 2 Public Preview. This version of IE7 writes a couple of keys to your registry. Don’t try to run the iexplore.exe like you have in the past (even with the standalones). Instead, run the __RUN_ME.bat file. This will make sure that the above-mentioned registry entries are removed, and will automatically add the .",
+        "isTruncated": true
+    },
+    "published": "2006-02-03T00:27:19Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/internet-explorer-70-beta-2-standalone-is-available/",
+    "relativePermalink": "/posts/2006/internet-explorer-70-beta-2-standalone-is-available/",
+    "aliases": ["/2006/02/02/internet-explorer-70-beta-2-standalone-is-available/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 455,
+        "readingTime": "3 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060203-internet-explorer-70-beta-2-standalone-is-available.md",
+        "logicalName": "20060203-internet-explorer-70-beta-2-standalone-is-available.md",
+        "translationBaseName": "20060203-internet-explorer-70-beta-2-standalone-is-available",
+        "baseFileName": "20060203-internet-explorer-70-beta-2-standalone-is-available",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eIn response to \u003ca href=\"https://web.archive.org/web/20060203002719/http://www.shauninman.com/plete/these-links-again/\"\u003eShaun\u003c/a\u003e (Jan 31, 2006), I took some time to try to get the \u003ca href=\"https://web.archive.org/web/20060203002719/http://downloads.skyzyx.com/Standalone%20Internet%20Explorer/\"\u003enew IE7b2 release\u003c/a\u003e working.\u003c/p\u003e\n\u003cp\u003eThis is the download package that was made available as the Internet Explorer 7.0 Beta 2 Public Preview. This version of IE7 writes a couple of keys to your registry. Don’t try to run the iexplore.exe like you have in the past (even with the standalones). Instead, \u003ca href=\"https://web.archive.org/web/20060203002719/http://weblogs.asp.net/jgalloway/archive/2005/12/28/434132.aspx\"\u003erun the __RUN_ME.bat file\u003c/a\u003e. This will make sure that the above-mentioned registry entries are removed, and will automatically add the .local file, etc.\u003c/p\u003e\n\u003cp\u003eI had a problem for a while where IE7 would “flicker-quit”. As in, a window would display for a fraction of a second, and then quit. This is the only package that worked for me, but even then it didn’t work at first. Here’s what I was doing when it magically began working.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003eI ran the normal \u003ccode\u003eiexplore.exe\u003c/code\u003e file\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eI ran the \u003ccode\u003e__RUN_ME.bat\u003c/code\u003e file (didn’t work, btw)\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eWent into the update folder, and double-clicked the IE icon. It started the installer.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eWent back to the root folder and tried \u003ccode\u003e__RUN_ME.bat\u003c/code\u003e again.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eOut of frustration, ran \u003ccode\u003e__RUN_ME.bat\u003c/code\u003e yet again just so that I could get angrier at the IE team.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eIE7b2 magically worked.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eI’m still not sure which part of my voodoo worked, but I have it running. I may have had some problems because I was previously running the IE7b1 standalone.\u003c/p\u003e\n\u003cp\u003eThis is completely unsupported — completely. The official word from Microsoft is that \u003ca href=\"https://web.archive.org/web/20060203002719/http://blogs.msdn.com/ie/archive/2005/12/16/504864.aspx\"\u003ewe shouldn’t be running them in standalone mode anyways\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eStop yelling at me like that!\u003c/em\u003e You’re preaching to the choir, brother (or sister)! \u003cstrong\u003eI\u003c/strong\u003e know that Microsoft really needs to release official standalone packages for developers to work and test with that are available from MSDN, and not intended for public consumption. But I don’t make the rules — I just break the bad ones. When Microsoft said “your potential, our passion”, they weren’t talking about web designers. But maybe they should have been…\u003c/p\u003e\n\u003cp\u003eHow’s this for an idea: Microsoft has been pretty responsive to our requests for a better browser with IE7. How about we bombard them with comments and such letting them know that we want our standalone mode in order to fix the mess they made in the first place. Here’s the URL for the \u003ca href=\"https://web.archive.org/web/20060203002719/http://blogs.msdn.com/ie/default.aspx\"\u003eIE Blog\u003c/a\u003e. Let them know how you feel.\u003c/p\u003e\n\u003cp\u003ePester the crap out of Chris Wilson, Al Billings, and the rest of the ’softies that simply barking “unsupported” is unacceptable, and that they need to help us fix the problem by either producing official IE standalones, or by not making it so freaking hard to make happen.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eUpdate:\u003c/strong\u003e The zipped package now uses \u003ca href=\"https://web.archive.org/web/20060203002719/http://weblogs.asp.net/jgalloway/archive/2005/12/28/434132.aspx\"\u003eversion 1.4 of the IE Launch Script\u003c/a\u003e. Now supports conditional comments.\u003c/p\u003e\n",
+        "plain":"In response to Shaun (Jan 31, 2006), I took some time to try to get the new IE7b2 release working.\nThis is the download package that was made available as the Internet Explorer 7.0 Beta 2 Public Preview. This version of IE7 writes a couple of keys to your registry. Don’t try to run the iexplore.exe like you have in the past (even with the standalones). Instead, run the __RUN_ME.bat file. This will make sure that the above-mentioned registry entries are removed, and will automatically add the .local file, etc.\nI had a problem for a while where IE7 would “flicker-quit”. As in, a window would display for a fraction of a second, and then quit. This is the only package that worked for me, but even then it didn’t work at first. Here’s what I was doing when it magically began working.\n  I ran the normal iexplore.exe file\n  I ran the __RUN_ME.bat file (didn’t work, btw)\n  Went into the update folder, and double-clicked the IE icon. It started the installer.\n  Went back to the root folder and tried __RUN_ME.bat again.\n  Out of frustration, ran __RUN_ME.bat yet again just so that I could get angrier at the IE team.\n  IE7b2 magically worked.\n  I’m still not sure which part of my voodoo worked, but I have it running. I may have had some problems because I was previously running the IE7b1 standalone.\nThis is completely unsupported — completely. The official word from Microsoft is that we shouldn’t be running them in standalone mode anyways.\nStop yelling at me like that! You’re preaching to the choir, brother (or sister)! I know that Microsoft really needs to release official standalone packages for developers to work and test with that are available from MSDN, and not intended for public consumption. But I don’t make the rules — I just break the bad ones. When Microsoft said “your potential, our passion”, they weren’t talking about web designers. But maybe they should have been…\nHow’s this for an idea: Microsoft has been pretty responsive to our requests for a better browser with IE7. How about we bombard them with comments and such letting them know that we want our standalone mode in order to fix the mess they made in the first place. Here’s the URL for the IE Blog. Let them know how you feel.\nPester the crap out of Chris Wilson, Al Billings, and the rest of the ’softies that simply barking “unsupported” is unacceptable, and that they need to help us fix the problem by either producing official IE standalones, or by not making it so freaking hard to make happen.\nUpdate: The zipped package now uses version 1.4 of the IE Launch Script. Now supports conditional comments.\n",
+        "source":"\nIn response to [Shaun]({{% wayback \"http://www.shauninman.com/plete/these-links-again/\" %}}) (Jan 31, 2006), I took some time to try to get the [new IE7b2 release]({{% wayback \"http://downloads.skyzyx.com/Standalone%20Internet%20Explorer/\" %}}) working.\n\nThis is the download package that was made available as the Internet Explorer 7.0 Beta 2 Public Preview. This version of IE7 writes a couple of keys to your registry. Don’t try to run the iexplore.exe like you have in the past (even with the standalones). Instead, [run the \\_\\_RUN\\_ME.bat file]({{% wayback \"http://weblogs.asp.net/jgalloway/archive/2005/12/28/434132.aspx\" %}}). This will make sure that the above-mentioned registry entries are removed, and will automatically add the .local file, etc.\n\nI had a problem for a while where IE7 would “flicker-quit”. As in, a window would display for a fraction of a second, and then quit. This is the only package that worked for me, but even then it didn’t work at first. Here’s what I was doing when it magically began working.\n\n* I ran the normal `iexplore.exe` file\n\n* I ran the `__RUN_ME.bat` file (didn’t work, btw)\n\n* Went into the update folder, and double-clicked the IE icon. It started the installer.\n\n* Went back to the root folder and tried `__RUN_ME.bat` again.\n\n* Out of frustration, ran `__RUN_ME.bat` yet again just so that I could get angrier at the IE team.\n\n* IE7b2 magically worked.\n\nI’m still not sure which part of my voodoo worked, but I have it running. I may have had some problems because I was previously running the IE7b1 standalone.\n\nThis is completely unsupported — completely. The official word from Microsoft is that [we shouldn’t be running them in standalone mode anyways]({{% wayback \"http://blogs.msdn.com/ie/archive/2005/12/16/504864.aspx\" %}}).\n\n*Stop yelling at me like that!* You’re preaching to the choir, brother (or sister)! **I** know that Microsoft really needs to release official standalone packages for developers to work and test with that are available from MSDN, and not intended for public consumption. But I don’t make the rules — I just break the bad ones. When Microsoft said “your potential, our passion”, they weren’t talking about web designers. But maybe they should have been…\n\nHow’s this for an idea: Microsoft has been pretty responsive to our requests for a better browser with IE7. How about we bombard them with comments and such letting them know that we want our standalone mode in order to fix the mess they made in the first place. Here’s the URL for the [IE Blog]({{% wayback \"http://blogs.msdn.com/ie/default.aspx\" %}}). Let them know how you feel.\n\nPester the crap out of Chris Wilson, Al Billings, and the rest of the ’softies that simply barking “unsupported” is unacceptable, and that they need to help us fix the problem by either producing official IE standalones, or by not making it so freaking hard to make happen.\n\n**Update:** The zipped package now uses [version 1.4 of the IE Launch Script]({{% wayback \"http://weblogs.asp.net/jgalloway/archive/2005/12/28/434132.aspx\" %}}). Now supports conditional comments.\n"},
+    "links": {
+        "prev": {"title": "SimplePie 1.0 Preview Release is now available!", "permalink": "https://ryanparman.com/posts/2006/simplepie-10-preview-release-is-now-available/"},
+        "next": {"title": "Okay, some people are seriously retarded", "permalink": "https://ryanparman.com/posts/2006/okay-some-people-are-seriously-retarded/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "SimplePie 1.0 Preview Release is now available!",
+    "description": "",
+    "summary": {
+        "content": "The newest release of SimplePie is here! There is barely a single unchanged line of code in this release, as we’ve been working for months to completely overhaul the entire SimplePie engine, and we’ve added several new features while we were at it. I could sit here and go over each and every things that’s new or better or changed, but I’ve already done that. To find out more about SimplePie, and what all it can do, check out the official SimplePie website.",
+        "isTruncated": true
+    },
+    "published": "2006-01-09T18:15:06Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/simplepie-10-preview-release-is-now-available/",
+    "relativePermalink": "/posts/2006/simplepie-10-preview-release-is-now-available/",
+    "aliases": ["/2006/01/09/simplepie-10-preview-release-is-now-available/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 83,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060109-simplepie-10-preview-release-is-now-available.md",
+        "logicalName": "20060109-simplepie-10-preview-release-is-now-available.md",
+        "translationBaseName": "20060109-simplepie-10-preview-release-is-now-available",
+        "baseFileName": "20060109-simplepie-10-preview-release-is-now-available",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eThe newest release of SimplePie is here! There is barely a single unchanged line of code in this release, as we’ve been working for months to completely overhaul the entire SimplePie engine, and we’ve added several new features while we were at it. I could sit here and go over each and every things that’s new or better or changed, but \u003ca href=\"https://web.archive.org/web/20060109181506/http://www.simplepie.org\"\u003eI’ve already done that\u003c/a\u003e. To find out more about \u003ca href=\"https://web.archive.org/web/20060109181506/http://www.simplepie.org\"\u003eSimplePie\u003c/a\u003e, and what all it can do, check out the \u003ca href=\"https://web.archive.org/web/20060109181506/http://www.simplepie.org\"\u003eofficial SimplePie website\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":"The newest release of SimplePie is here! There is barely a single unchanged line of code in this release, as we’ve been working for months to completely overhaul the entire SimplePie engine, and we’ve added several new features while we were at it. I could sit here and go over each and every things that’s new or better or changed, but I’ve already done that. To find out more about SimplePie, and what all it can do, check out the official SimplePie website.\n",
+        "source":"\nThe newest release of SimplePie is here! There is barely a single unchanged line of code in this release, as we’ve been working for months to completely overhaul the entire SimplePie engine, and we’ve added several new features while we were at it. I could sit here and go over each and every things that’s new or better or changed, but [I’ve already done that]({{% wayback \"http://www.simplepie.org\" %}}). To find out more about [SimplePie]({{% wayback \"http://www.simplepie.org\" %}}), and what all it can do, check out the [official SimplePie website]({{% wayback \"http://www.simplepie.org\" %}}).\n"},
+    "links": {
+        "prev": {"title": "SimplePie's Triumphant Return!", "permalink": "https://ryanparman.com/posts/2006/simplepies-triumphant-return/"},
+        "next": {"title": "Internet Explorer 7.0 Beta 2 Standalone is available", "permalink": "https://ryanparman.com/posts/2006/internet-explorer-70-beta-2-standalone-is-available/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "SimplePie's Triumphant Return!",
+    "description": "",
+    "summary": {
+        "content": "It’s been a year since the last SimplePie release, but that doesn’t mean the project is dead. Fortunately I was able to get some help from Geoffers, and he actually ended up driving most of the development since he came on board over the summer. I wish I could tell you that a shiny new version 1.0 was available, but alas, not yet. What we do have, however, is a shiny new Preview Release — soon. What is SimplePie?",
+        "isTruncated": true
+    },
+    "published": "2006-01-06T18:34:47Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/simplepies-triumphant-return/",
+    "relativePermalink": "/posts/2006/simplepies-triumphant-return/",
+    "aliases": ["/2006/01/06/simplepies-triumphant-return/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 152,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060106-simplepies-triumphant-return.md",
+        "logicalName": "20060106-simplepies-triumphant-return.md",
+        "translationBaseName": "20060106-simplepies-triumphant-return",
+        "baseFileName": "20060106-simplepies-triumphant-return",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cdiv class=\"pa2-ns\"\u003e\n\t\u003camp-img src=\"https://cdn.ryanparman.com/wp-content/uploads/2006/01/logo_simplepie_large.png\" layout=\"responsive\" width=\"\" height=\"\"\u003e\u003c/amp-img\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eIt’s been a year since the last SimplePie release, but that doesn’t mean the project is dead. Fortunately I was able to get some help from \u003ca href=\"https://web.archive.org/web/20060106183447/http://geoffers.uni.cc\"\u003eGeoffers\u003c/a\u003e, and he actually ended up driving most of the development since he came on board over the summer. I wish I could tell you that a shiny new version 1.0 was available, but alas, not yet. What we do have, however, is a shiny new Preview Release — soon. What is SimplePie? Let me tell you:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eSimplePie is a very fast and easy-to-use class, written in PHP, for reading RSS and Atom syndication feeds. By keeping it simple, and focusing on what’s important, we’ve built a pretty sweet little API. SimplePie’s focus has been two-fold: speed and ease of use, and has been very successful on both fronts.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eExpect to see a new SimplePie Preview Release and a matching \u003ca href=\"https://web.archive.org/web/20060106183447/http://www.simplepie.org\"\u003ewebsite\u003c/a\u003e in the next few days.\u003c/p\u003e\n",
+        "plain":"  It’s been a year since the last SimplePie release, but that doesn’t mean the project is dead. Fortunately I was able to get some help from Geoffers, and he actually ended up driving most of the development since he came on board over the summer. I wish I could tell you that a shiny new version 1.0 was available, but alas, not yet. What we do have, however, is a shiny new Preview Release — soon. What is SimplePie? Let me tell you:\n SimplePie is a very fast and easy-to-use class, written in PHP, for reading RSS and Atom syndication feeds. By keeping it simple, and focusing on what’s important, we’ve built a pretty sweet little API. SimplePie’s focus has been two-fold: speed and ease of use, and has been very successful on both fronts.\n Expect to see a new SimplePie Preview Release and a matching website in the next few days.\n",
+        "source":"\n{{\u003cfullimage src=\"https://cdn.ryanparman.com/wp-content/uploads/2006/01/logo_simplepie_large.png\" alt=\"SimplePie Preview Release\"\u003e}}\n\nIt’s been a year since the last SimplePie release, but that doesn’t mean the project is dead. Fortunately I was able to get some help from [Geoffers]({{% wayback \"http://geoffers.uni.cc\" %}}), and he actually ended up driving most of the development since he came on board over the summer. I wish I could tell you that a shiny new version 1.0 was available, but alas, not yet. What we do have, however, is a shiny new Preview Release — soon. What is SimplePie? Let me tell you:\n\n\u003e SimplePie is a very fast and easy-to-use class, written in PHP, for reading RSS and Atom syndication feeds. By keeping it simple, and focusing on what’s important, we’ve built a pretty sweet little API. SimplePie’s focus has been two-fold: speed and ease of use, and has been very successful on both fronts.\n\nExpect to see a new SimplePie Preview Release and a matching [website]({{% wayback \"http://www.simplepie.org\" %}}) in the next few days.\n"},
+    "links": {
+        "prev": {"title": "And the “Best Wife in the World” award goes to...", "permalink": "https://ryanparman.com/posts/2005/and-the-best-wife-in-the-world-award-goes-to/"},
+        "next": {"title": "SimplePie 1.0 Preview Release is now available!", "permalink": "https://ryanparman.com/posts/2006/simplepie-10-preview-release-is-now-available/"},
+        "ignore": "me"
+    }
+}
+
+            
+        ]
+    }
+}

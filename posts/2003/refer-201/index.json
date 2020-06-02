@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Refer 2.01",
+    "description": "",
+    "summary": {
+        "content": "I downloaded Refer 2.01 today. With only minimal tweaking, I was able to get it working mostly how I wanted it to. This software is written in PHP and utilizes a MySQL database. It’s pretty cool. It’s better than one of those ugly little free counters, and it gives you alot more information too. The only quirk that it has is that on my script pages, I’ve got another PHP file that loads a document into an iframe. It seems to be posting these too.",
+        "isTruncated": true
+    },
+    "published": "2003-06-27T02:55:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/refer-201/",
+    "relativePermalink": "/posts/2003/refer-201/",
+    "aliases": ["/2003/06/26/refer-201/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 111,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030627-refer-201.md",
+        "logicalName": "20030627-refer-201.md",
+        "translationBaseName": "20030627-refer-201",
+        "baseFileName": "20030627-refer-201",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI downloaded \u003ca href=\"https://web.archive.org/web/20030627025500/http://www.textism.com/tools/refer/\"\u003eRefer 2.01\u003c/a\u003e today. With only minimal tweaking, I was able to get it working mostly how I wanted it to.\u003c/p\u003e\n\u003cp\u003eThis software is written in \u003ca href=\"https://web.archive.org/web/20030627025500/http://www.php.net\" title=\"Recursive Acronym for PHP Hypertext Preprocessor.\"\u003ePHP\u003c/a\u003e and utilizes a \u003ca href=\"https://web.archive.org/web/20030627025500/http://www.mysql.com\" title=\"MySQL is a free, open source SQL database server.\"\u003eMySQL\u003c/a\u003e database. It’s pretty cool. It’s better than one of those ugly little free counters, and it gives you alot more information too. The only quirk that it has is that on my \u003ca href=\"/scripts/\"\u003escript\u003c/a\u003e pages, I’ve got another PHP file that loads a document into an iframe. It seems to be posting these too. I plan to remove the posting of referrers from my own site as soon as I can figure it out.\u003c/p\u003e\n\u003cp\u003eUntil then, \u003ca href=\"/refer/\"\u003ehere are my referrers\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":"I downloaded Refer 2.01 today. With only minimal tweaking, I was able to get it working mostly how I wanted it to.\nThis software is written in PHP and utilizes a MySQL database. It’s pretty cool. It’s better than one of those ugly little free counters, and it gives you alot more information too. The only quirk that it has is that on my script pages, I’ve got another PHP file that loads a document into an iframe. It seems to be posting these too. I plan to remove the posting of referrers from my own site as soon as I can figure it out.\nUntil then, here are my referrers.\n",
+        "source":"\nI downloaded [Refer 2.01]({{% wayback \"http://www.textism.com/tools/refer/\" %}}) today. With only minimal tweaking, I was able to get it working mostly how I wanted it to.\n\nThis software is written in [PHP]({{% wayback \"http://www.php.net\" %}} \"Recursive Acronym for PHP Hypertext Preprocessor.\") and utilizes a [MySQL]({{% wayback \"http://www.mysql.com\" %}} \"MySQL is a free, open source SQL database server.\") database. It’s pretty cool. It’s better than one of those ugly little free counters, and it gives you alot more information too. The only quirk that it has is that on my [script](/scripts/) pages, I’ve got another PHP file that loads a document into an iframe. It seems to be posting these too. I plan to remove the posting of referrers from my own site as soon as I can figure it out.\n\nUntil then, [here are my referrers](/refer/).\n"},
+    "links": {
+        "prev": {"title": "New Mozilla Build and the PowerMac G5", "permalink": "https://ryanparman.com/posts/2003/new-mozilla-build-and-the-powermac-g5/"},
+        "next": {"title": "The Future Is Here", "permalink": "https://ryanparman.com/posts/2003/the-future-is-here/"},
+        "ignore": "me"
+    }
+}
+
+}

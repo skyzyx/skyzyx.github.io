@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Sweet Little Utility: BluePhoneElite",
+    "description": "",
+    "summary": {
+        "content": "Normally, new bits of software don’t warrant a normal posting on this site, but I’ve just found a little Mac OS X utility that’s awesome! The utility is called BluePhoneElite. If you have a Bluetooth phone that is compatible with iSync (you’ll have to check the site for exact compatibility details), this little thing is a gem! Depending on your phone’s level of compatibility with Bluetooth and such, you can: Have an alert show up on your screen when someone calls you, listing their name, phone number, and picture — pulled straight from your Address Book!",
+        "isTruncated": true
+    },
+    "published": "2005-06-05T00:47:07Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/sweet-little-utility-bluephoneelite/",
+    "relativePermalink": "/posts/2005/sweet-little-utility-bluephoneelite/",
+    "aliases": ["/2005/06/04/sweet-little-utility-bluephoneelite/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Software"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 160,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050605-sweet-little-utility-bluephoneelite.md",
+        "logicalName": "20050605-sweet-little-utility-bluephoneelite.md",
+        "translationBaseName": "20050605-sweet-little-utility-bluephoneelite",
+        "baseFileName": "20050605-sweet-little-utility-bluephoneelite",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eNormally, new bits of software don’t warrant a normal posting on this site, but I’ve just found a little Mac OS X utility that’s \u003cem\u003eawesome!\u003c/em\u003e The utility is called \u003ca href=\"https://web.archive.org/web/20050605004707/http://www.reelintelligence.com/BluePhoneElite/\"\u003eBluePhoneElite\u003c/a\u003e. If you have a Bluetooth phone that is compatible with iSync (you’ll have to check the site for exact compatibility details), this little thing is a gem!\u003c/p\u003e\n\u003cp\u003eDepending on your phone’s level of compatibility with Bluetooth and such, you can:\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003eHave an alert show up on your screen when someone calls you, listing their name, phone number, and picture — pulled straight from your Address Book!\u003c/li\u003e\n\u003cli\u003eSend SMS messages straight from your computer!\u003c/li\u003e\n\u003cli\u003eShow you your signal strength and remaining battery life in either your dock, your menubar, or both!\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eNow, my Motorola v330 isn’t officially supported by iSync or BluePhoneElite. However, I \u003ca href=\"https://web.archive.org/web/20050605004707/http://www.macosxhints.com/article.php?story=20050520214153122\"\u003ehacked in support\u003c/a\u003e for my phone into iSync 2.0 last week. When I installed BluePhoneElite, it picked my phone right up — no problems.\u003c/p\u003e\n\u003cp\u003eVery, very cool.\u003c/p\u003e\n",
+        "plain":"Normally, new bits of software don’t warrant a normal posting on this site, but I’ve just found a little Mac OS X utility that’s awesome! The utility is called BluePhoneElite. If you have a Bluetooth phone that is compatible with iSync (you’ll have to check the site for exact compatibility details), this little thing is a gem!\nDepending on your phone’s level of compatibility with Bluetooth and such, you can:\n Have an alert show up on your screen when someone calls you, listing their name, phone number, and picture — pulled straight from your Address Book! Send SMS messages straight from your computer! Show you your signal strength and remaining battery life in either your dock, your menubar, or both!  Now, my Motorola v330 isn’t officially supported by iSync or BluePhoneElite. However, I hacked in support for my phone into iSync 2.0 last week. When I installed BluePhoneElite, it picked my phone right up — no problems.\nVery, very cool.\n",
+        "source":"\nNormally, new bits of software don’t warrant a normal posting on this site, but I’ve just found a little Mac OS X utility that’s *awesome!* The utility is called [BluePhoneElite]({{% wayback \"http://www.reelintelligence.com/BluePhoneElite/\" %}}). If you have a Bluetooth phone that is compatible with iSync (you’ll have to check the site for exact compatibility details), this little thing is a gem!\n\nDepending on your phone’s level of compatibility with Bluetooth and such, you can:\n\n1. Have an alert show up on your screen when someone calls you, listing their name, phone number, and picture — pulled straight from your Address Book!\n2. Send SMS messages straight from your computer!\n3. Show you your signal strength and remaining battery life in either your dock, your menubar, or both!\n\nNow, my Motorola v330 isn’t officially supported by iSync or BluePhoneElite. However, I [hacked in support]({{% wayback \"http://www.macosxhints.com/article.php?story=20050520214153122\" %}}) for my phone into iSync 2.0 last week. When I installed BluePhoneElite, it picked my phone right up — no problems.\n\nVery, very cool.\n"},
+    "links": {
+        "prev": {"title": "Mac OS X: A Look Back", "permalink": "https://ryanparman.com/posts/2005/mac-os-x-a-look-back/"},
+        "next": {"title": "Tiger Revisited: A Month Into It", "permalink": "https://ryanparman.com/posts/2005/tiger-revisited-a-month-into-it/"},
+        "ignore": "me"
+    }
+}
+
+}

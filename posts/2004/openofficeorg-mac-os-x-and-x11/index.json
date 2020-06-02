@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "OpenOffice.org, Mac OS X, and X11",
+    "description": "",
+    "summary": {
+        "content": "After realizing that the pre-installed copy of Microsoft Office was simply a 30-day trial, I had the wonderful experience of trying to get OpenOffice.org installed today. Because there hasn’t been a native “Aquification” release of OpenOffice, I started reading directions about installing XDarwin — an open source version of the X-Windows X11 windowing system. Time to fire up the old command line. Woo-hoo! I’ve spent a bit of time fooling around with both BeOS 5 and Red Hat Linux 8.0, so the Posix-compliant shell isn’t new to me.",
+        "isTruncated": true
+    },
+    "published": "2004-06-14T02:46:14Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/openofficeorg-mac-os-x-and-x11/",
+    "relativePermalink": "/posts/2004/openofficeorg-mac-os-x-and-x11/",
+    "aliases": ["/2004/06/13/openofficeorg-mac-os-x-and-x11/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Software"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 294,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040614-openofficeorg-mac-os-x-and-x11.md",
+        "logicalName": "20040614-openofficeorg-mac-os-x-and-x11.md",
+        "translationBaseName": "20040614-openofficeorg-mac-os-x-and-x11",
+        "baseFileName": "20040614-openofficeorg-mac-os-x-and-x11",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eAfter realizing that the pre-installed copy of Microsoft Office was simply a 30-day trial, I had the wonderful experience of trying to get OpenOffice.org installed today.\u003c/p\u003e\n\u003cp\u003eBecause there hasn’t been a native “Aquification” release of OpenOffice, I started reading directions about installing XDarwin — an open source version of the X-Windows X11 windowing system. Time to fire up the old command line. Woo-hoo!\u003c/p\u003e\n\u003cp\u003eI’ve spent a bit of time fooling around with both BeOS 5 and Red Hat Linux 8.0, so the Posix-compliant shell isn’t new to me. I’ve also spent quite a bit of time in MS-DOS, so that isn’t much of a problem.\u003c/p\u003e\n\u003cp\u003eAfter downloading the necessary \u003ccode\u003e.tgz\u003c/code\u003e files, figuring out how to run the Xinstall.sh file as ‘root’, and getting everything worked out, I’d get the dialog box asking me if I wanted to use Full Screen or Rootless mode, and as soon as I’d choose one, XDarwin would close. No explanation or anything.\u003c/p\u003e\n\u003cp\u003eWelcome to the world of Unix.\u003c/p\u003e\n\u003cp\u003eI then downloaded and installed OroborOSX. What I didn’t know was that OroborOSX requires XDarwin… and XDarwin kept crashing. Well crap.\u003c/p\u003e\n\u003cp\u003eI did quite a bit more digging around, and came across information on downloading Apple’s semi-open-source X11.app. Voila! OpenOffice was able to launch with no problems! The only thing I don’t like about it — which is extremely minor — is that the X11.app doesn’t minimize when Open Office starts.\u003c/p\u003e\n\u003cp\u003eThe other thing is that it looks way more like Unix than it does Mac OS X. I was under the belief that OroborOSX adds some cool OSX-like widgets, but I could never get it to run.\u003c/p\u003e\n\u003cp\u003eThis Mac OS X stuff is cool! I’m off to do more of it! Anyone got any insight about getting XDarwin to work?\u003c/p\u003e\n",
+        "plain":"After realizing that the pre-installed copy of Microsoft Office was simply a 30-day trial, I had the wonderful experience of trying to get OpenOffice.org installed today.\nBecause there hasn’t been a native “Aquification” release of OpenOffice, I started reading directions about installing XDarwin — an open source version of the X-Windows X11 windowing system. Time to fire up the old command line. Woo-hoo!\nI’ve spent a bit of time fooling around with both BeOS 5 and Red Hat Linux 8.0, so the Posix-compliant shell isn’t new to me. I’ve also spent quite a bit of time in MS-DOS, so that isn’t much of a problem.\nAfter downloading the necessary .tgz files, figuring out how to run the Xinstall.sh file as ‘root’, and getting everything worked out, I’d get the dialog box asking me if I wanted to use Full Screen or Rootless mode, and as soon as I’d choose one, XDarwin would close. No explanation or anything.\nWelcome to the world of Unix.\nI then downloaded and installed OroborOSX. What I didn’t know was that OroborOSX requires XDarwin… and XDarwin kept crashing. Well crap.\nI did quite a bit more digging around, and came across information on downloading Apple’s semi-open-source X11.app. Voila! OpenOffice was able to launch with no problems! The only thing I don’t like about it — which is extremely minor — is that the X11.app doesn’t minimize when Open Office starts.\nThe other thing is that it looks way more like Unix than it does Mac OS X. I was under the belief that OroborOSX adds some cool OSX-like widgets, but I could never get it to run.\nThis Mac OS X stuff is cool! I’m off to do more of it! Anyone got any insight about getting XDarwin to work?\n",
+        "source":"\nAfter realizing that the pre-installed copy of Microsoft Office was simply a 30-day trial, I had the wonderful experience of trying to get OpenOffice.org installed today.\n\nBecause there hasn’t been a native “Aquification” release of OpenOffice, I started reading directions about installing XDarwin — an open source version of the X-Windows X11 windowing system. Time to fire up the old command line. Woo-hoo!\n\nI’ve spent a bit of time fooling around with both BeOS 5 and Red Hat Linux 8.0, so the Posix-compliant shell isn’t new to me. I’ve also spent quite a bit of time in MS-DOS, so that isn’t much of a problem.\n\nAfter downloading the necessary `.tgz` files, figuring out how to run the Xinstall.sh file as ‘root’, and getting everything worked out, I’d get the dialog box asking me if I wanted to use Full Screen or Rootless mode, and as soon as I’d choose one, XDarwin would close. No explanation or anything.\n\nWelcome to the world of Unix.\n\nI then downloaded and installed OroborOSX. What I didn’t know was that OroborOSX requires XDarwin… and XDarwin kept crashing. Well crap.\n\nI did quite a bit more digging around, and came across information on downloading Apple’s semi-open-source X11.app. Voila! OpenOffice was able to launch with no problems! The only thing I don’t like about it — which is extremely minor — is that the X11.app doesn’t minimize when Open Office starts.\n\nThe other thing is that it looks way more like Unix than it does Mac OS X. I was under the belief that OroborOSX adds some cool OSX-like widgets, but I could never get it to run.\n\nThis Mac OS X stuff is cool! I’m off to do more of it! Anyone got any insight about getting XDarwin to work?\n"},
+    "links": {
+        "prev": {"title": "Re-learning Macs", "permalink": "https://ryanparman.com/posts/2004/re-learning-macs/"},
+        "next": {"title": "What's New?", "permalink": "https://ryanparman.com/posts/2004/whats-new/"},
+        "ignore": "me"
+    }
+}
+
+}

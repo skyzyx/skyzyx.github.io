@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Gemal's Gettin' Hitched!",
+    "description": "",
+    "summary": {
+        "content": "Congratulations are in order to Henrik Gemal, as he just recently got married! May you love each other tremendously, and have children that are just like you.",
+        "isTruncated": false
+    },
+    "published": "2003-08-21T18:35:18Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/gemals-gettin-hitched/",
+    "relativePermalink": "/posts/2003/gemals-gettin-hitched/",
+    "aliases": ["/2003/08/21/gemals-gettin-hitched/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Interesting People"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 27,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030821-gemals-gettin-hitched.md",
+        "logicalName": "20030821-gemals-gettin-hitched.md",
+        "translationBaseName": "20030821-gemals-gettin-hitched",
+        "baseFileName": "20030821-gemals-gettin-hitched",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eCongratulations are in order to \u003ca href=\"https://web.archive.org/web/20030821183518/http://www.gemal.dk\"\u003eHenrik Gemal\u003c/a\u003e, as he just recently \u003ca href=\"https://web.archive.org/web/20030821183518/http://gemal.dk/archives/000244.html\"\u003egot married\u003c/a\u003e! May you love each other tremendously, and have children that are just like you.\u003c/p\u003e\n",
+        "plain":"Congratulations are in order to Henrik Gemal, as he just recently got married! May you love each other tremendously, and have children that are just like you.\n",
+        "source":"\nCongratulations are in order to [Henrik Gemal]({{% wayback \"http://www.gemal.dk\" %}}), as he just recently [got married]({{% wayback \"http://gemal.dk/archives/000244.html\" %}})! May you love each other tremendously, and have children that are just like you.\n"},
+    "links": {
+        "prev": {"title": "Redesign Complete", "permalink": "https://ryanparman.com/posts/2003/redesign-complete/"},
+        "next": {"title": "What If Jobs Croaks?", "permalink": "https://ryanparman.com/posts/2003/what-if-jobs-croaks/"},
+        "ignore": "me"
+    }
+}
+
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "iPhone 4S and Siri",
+    "description": "",
+    "summary": {
+        "content": "I’m not able to upgrade my iPhone until next summer when the next iPhone will presumably be out. That said, I find this sort of technology absolutely fascinating and I absolutely love how easy Apple has made it all.",
+        "isTruncated": false
+    },
+    "published": "2011-10-21T17:37:54Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2011/iphone-4s-and-siri/",
+    "relativePermalink": "/posts/2011/iphone-4s-and-siri/",
+    "aliases": ["/2011/10/21/iphone-4s-and-siri/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Tech Life"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 39,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2011/20111021-iphone-4s-and-siri.md",
+        "logicalName": "20111021-iphone-4s-and-siri.md",
+        "translationBaseName": "20111021-iphone-4s-and-siri",
+        "baseFileName": "20111021-iphone-4s-and-siri",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2011/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’m not able to upgrade my iPhone until \u003cem\u003enext\u003c/em\u003e summer when the next iPhone will presumably be out. That said, I find this sort of technology absolutely fascinating and I absolutely \u003cem\u003elove\u003c/em\u003e how easy Apple has made it all.\u003c/p\u003e\n",
+        "plain":"I’m not able to upgrade my iPhone until next summer when the next iPhone will presumably be out. That said, I find this sort of technology absolutely fascinating and I absolutely love how easy Apple has made it all.\n",
+        "source":"\nI’m not able to upgrade my iPhone until *next* summer when the next iPhone will presumably be out. That said, I find this sort of technology absolutely fascinating and I absolutely *love* how easy Apple has made it all.\n"},
+    "links": {
+        "prev": {"title": "Professional Reasoning and Empirical Data", "permalink": "https://ryanparman.com/posts/2011/professional-reasoning-and-empirical-data/"},
+        "next": {"title": "Clueless Recruiters", "permalink": "https://ryanparman.com/posts/2011/clueless-recruiters/"},
+        "ignore": "me"
+    }
+}
+
+}

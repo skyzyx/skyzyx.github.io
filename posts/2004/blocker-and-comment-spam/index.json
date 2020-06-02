@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Blocker and Comment Spam",
+    "description": "",
+    "summary": {
+        "content": "Something has just occurred to me: I haven’t had hardly any comment spam for a few months now. Did the spammers forget about me? I doubt it. Does Blocker have another side-effect that I hadn’t realized earlier? I’d appreciate any feedback from other Blocker users on this. Have you guys noticed a sharp decline in the comment spam you’ve been getting? Are you still having problems with certain ReferSpam entries? Are you getting more or less spam email in your inboxes?",
+        "isTruncated": true
+    },
+    "published": "2004-04-05T19:00:35Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/blocker-and-comment-spam/",
+    "relativePermalink": "/posts/2004/blocker-and-comment-spam/",
+    "aliases": ["/2004/04/05/blocker-and-comment-spam/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 100,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040405-blocker-and-comment-spam.md",
+        "logicalName": "20040405-blocker-and-comment-spam.md",
+        "translationBaseName": "20040405-blocker-and-comment-spam",
+        "baseFileName": "20040405-blocker-and-comment-spam",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eSomething has just occurred to me: I haven’t had hardly any comment spam for a few months now. Did the spammers forget about me? I doubt it. Does \u003ca href=\"/projects/blocker/\"\u003eBlocker\u003c/a\u003e have another side-effect that I hadn’t realized earlier?\u003c/p\u003e\n\u003cp\u003eI’d appreciate any feedback from other Blocker users on this. Have you guys noticed a sharp decline in the comment spam you’ve been getting? Are you still having problems with certain ReferSpam entries? Are you getting more or less spam email in your inboxes?\u003c/p\u003e\n\u003cp\u003eInput and feedback would be most helpful. I’m also open to ideas and suggestions to make this script better.\u003c/p\u003e\n",
+        "plain":"Something has just occurred to me: I haven’t had hardly any comment spam for a few months now. Did the spammers forget about me? I doubt it. Does Blocker have another side-effect that I hadn’t realized earlier?\nI’d appreciate any feedback from other Blocker users on this. Have you guys noticed a sharp decline in the comment spam you’ve been getting? Are you still having problems with certain ReferSpam entries? Are you getting more or less spam email in your inboxes?\nInput and feedback would be most helpful. I’m also open to ideas and suggestions to make this script better.\n",
+        "source":"\nSomething has just occurred to me: I haven’t had hardly any comment spam for a few months now. Did the spammers forget about me? I doubt it. Does [Blocker](/projects/blocker/) have another side-effect that I hadn’t realized earlier?\n\nI’d appreciate any feedback from other Blocker users on this. Have you guys noticed a sharp decline in the comment spam you’ve been getting? Are you still having problems with certain ReferSpam entries? Are you getting more or less spam email in your inboxes?\n\nInput and feedback would be most helpful. I’m also open to ideas and suggestions to make this script better.\n"},
+    "links": {
+        "prev": {"title": "Pretty Freakin' Fast!", "permalink": "https://ryanparman.com/posts/2004/pretty-freakin-fast/"},
+        "next": {"title": "Re: How I stopped buying CDs and started loving music", "permalink": "https://ryanparman.com/posts/2004/re-how-i-stopped-buying-cds-and-started-loving-music/"},
+        "ignore": "me"
+    }
+}
+
+}

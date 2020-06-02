@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Snoop Dogg Shizzolator",
+    "description": "",
+    "summary": {
+        "content": "After reading a post over at Eric Meyer’s site about the Snoop Dogg Shizzolator, I figured I had to try it out. It’s been a long time since I’ve seen something as funny as this on the internet (besides Ebaum’s Epilepsy Test). I thought it was so funny, that I saved a “Shizzolated” copy of my article “Play By The Rules”. Here’s a snippet: Yo’ a** don’t throw a baseball down da field fo’ a 50-yard touchdown n’ sh**. Yo’ a** don’t kick a basketball past a goalie score a point n’ sh**.",
+        "isTruncated": true
+    },
+    "published": "2003-09-15T19:07:23Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/snoop-dogg-shizzolator/",
+    "relativePermalink": "/posts/2003/snoop-dogg-shizzolator/",
+    "aliases": ["/2003/09/15/snoop-dogg-shizzolator/"],
+    "images": [],
+    "videos": [],
+    "categories": ["For Funsies"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 124,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030915-snoop-dogg-shizzolator.md",
+        "logicalName": "20030915-snoop-dogg-shizzolator.md",
+        "translationBaseName": "20030915-snoop-dogg-shizzolator",
+        "baseFileName": "20030915-snoop-dogg-shizzolator",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eAfter reading a post over at \u003ca href=\"https://web.archive.org/web/20030915190723/http://www.meyerweb.com/eric/thoughts/2003c.html#t20030913\"\u003eEric Meyer’s site\u003c/a\u003e about the \u003ca href=\"https://web.archive.org/web/20030915190723/http://www.asksnoop.com\"\u003eSnoop Dogg Shizzolator\u003c/a\u003e, I figured I \u003cem\u003ehad\u003c/em\u003e to try it out.\u003c/p\u003e\n\u003cp\u003eIt’s been a long time since I’ve seen something as funny as this on the internet (besides \u003ca href=\"https://web.archive.org/web/20030915190723/http://www.ebaumsworld.com/epilepsy.shtml\"\u003eEbaum’s Epilepsy Test\u003c/a\u003e). I thought it was so funny, that I saved a \u003ca href=\"/articles/playbytherules-snoop.php\"\u003e“Shizzolated” copy\u003c/a\u003e of my article \u003ca href=\"/articles/playbytherules.php\"\u003e“Play By The Rules”\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eHere’s a snippet:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eYo’ a** don’t throw a baseball down da field fo’ a 50-yard touchdown n’ sh**. Yo’ a** don’t kick a basketball past a goalie score a point n’ sh**. Yo’ a** don’t drive da wrong way in a Nascar race n’ sh**. If yo’ a** wants to create web pages, yo’ a** need follow da rules, know what I’m sayin’?\u003c/p\u003e\n\u003c/blockquote\u003e\n",
+        "plain":"After reading a post over at Eric Meyer’s site about the Snoop Dogg Shizzolator, I figured I had to try it out.\nIt’s been a long time since I’ve seen something as funny as this on the internet (besides Ebaum’s Epilepsy Test). I thought it was so funny, that I saved a “Shizzolated” copy of my article “Play By The Rules”.\nHere’s a snippet:\n Yo’ a** don’t throw a baseball down da field fo’ a 50-yard touchdown n’ sh**. Yo’ a** don’t kick a basketball past a goalie score a point n’ sh**. Yo’ a** don’t drive da wrong way in a Nascar race n’ sh**. If yo’ a** wants to create web pages, yo’ a** need follow da rules, know what I’m sayin’?\n ",
+        "source":"\nAfter reading a post over at [Eric Meyer’s site]({{% wayback \"http://www.meyerweb.com/eric/thoughts/2003c.html#t20030913\" %}}) about the [Snoop Dogg Shizzolator]({{% wayback \"http://www.asksnoop.com\" %}}), I figured I *had* to try it out.\n\nIt’s been a long time since I’ve seen something as funny as this on the internet (besides [Ebaum’s Epilepsy Test]({{% wayback \"http://www.ebaumsworld.com/epilepsy.shtml)\" %}}). I thought it was so funny, that I saved a [“Shizzolated” copy](/articles/playbytherules-snoop.php) of my article [“Play By The Rules”](/articles/playbytherules.php).\n\nHere’s a snippet:\n\n\u003e Yo’ a\\*\\* don’t throw a baseball down da field fo’ a 50-yard touchdown n’ sh\\*\\*. Yo’ a\\*\\* don’t kick a basketball past a goalie score a point n’ sh\\*\\*. Yo’ a\\*\\* don’t drive da wrong way in a Nascar race n’ sh\\*\\*. If yo’ a\\*\\* wants to create web pages, yo’ a\\*\\* need follow da rules, know what I’m sayin’?\n"},
+    "links": {
+        "prev": {"title": "LIR vs FIR", "permalink": "https://ryanparman.com/posts/2003/lir-vs-fir/"},
+        "next": {"title": "Subtle Changes And My Calendar", "permalink": "https://ryanparman.com/posts/2003/subtle-changes-and-my-calendar/"},
+        "ignore": "me"
+    }
+}
+
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Dear Oracle, Get a Clue",
+    "description": "",
+    "summary": {
+        "content": "From JavaLobby: The basic problem is that people don’t trust you and you aren’t very good at community building; in fact you are pretty bad at community marketing. I really really want you to succeed and community marketing is not that hard. The first step is to read this really cool book called ‘The Cluetrain Manifesto’. The basic premise of the book is that communities are really conversations and to succeed you need to be part of and interact with the community.",
+        "isTruncated": true
+    },
+    "published": "2010-10-26T03:01:04Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2010/dear-oracle-get-a-clue/",
+    "relativePermalink": "/posts/2010/dear-oracle-get-a-clue/",
+    "aliases": ["/2010/10/25/dear-oracle-get-a-clue/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Tech Industry"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 151,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2010/20101026-dear-oracle-get-a-clue.md",
+        "logicalName": "20101026-dear-oracle-get-a-clue.md",
+        "translationBaseName": "20101026-dear-oracle-get-a-clue",
+        "baseFileName": "20101026-dear-oracle-get-a-clue",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2010/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eFrom \u003ca href=\"https://web.archive.org/web/20101026030104/http://java.dzone.com/news/dear-oracle-get-clue\"\u003eJavaLobby\u003c/a\u003e:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eThe basic problem is that people don’t trust you and you aren’t very good at community building; in fact you are pretty bad at community marketing. I really really want you to succeed  and community marketing is not that hard.  The first step is to read this really cool book called ‘\u003ca href=\"https://web.archive.org/web/20101026030104/http://www.cluetrain.com/book/\"\u003eThe Cluetrain Manifesto\u003c/a\u003e’.  The basic premise of the book is that communities are really conversations and to succeed you need to be part of and interact with the community.  I know this can be a challenge with all your lawyers and marketing executives trying to ‘control’ the message but you have to do it to gain the trust of the community.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eBuilding a community that trusts you is the second most important feature your software can have (a shipping product is #1). More companies than simply Oracle would be better off learning this lesson sooner rather than later.\u003c/p\u003e\n",
+        "plain":"From JavaLobby:\n The basic problem is that people don’t trust you and you aren’t very good at community building; in fact you are pretty bad at community marketing. I really really want you to succeed and community marketing is not that hard. The first step is to read this really cool book called ‘The Cluetrain Manifesto’. The basic premise of the book is that communities are really conversations and to succeed you need to be part of and interact with the community. I know this can be a challenge with all your lawyers and marketing executives trying to ‘control’ the message but you have to do it to gain the trust of the community.\n Building a community that trusts you is the second most important feature your software can have (a shipping product is #1). More companies than simply Oracle would be better off learning this lesson sooner rather than later.\n",
+        "source":"\nFrom [JavaLobby]({{% wayback \"http://java.dzone.com/news/dear-oracle-get-clue\" %}}):\n\n\u003e The basic problem is that people don’t trust you and you aren’t very good at community building; in fact you are pretty bad at community marketing. I really really want you to succeed  and community marketing is not that hard.  The first step is to read this really cool book called ‘[The Cluetrain Manifesto]({{% wayback \"http://www.cluetrain.com/book/\" %}})’.  The basic premise of the book is that communities are really conversations and to succeed you need to be part of and interact with the community.  I know this can be a challenge with all your lawyers and marketing executives trying to ‘control’ the message but you have to do it to gain the trust of the community.\n\nBuilding a community that trusts you is the second most important feature your software can have (a shipping product is #1). More companies than simply Oracle would be better off learning this lesson sooner rather than later.\n"},
+    "links": {
+        "prev": {"title": "CloudFusion has become the official AWS SDK for PHP!", "permalink": "https://ryanparman.com/posts/2010/cloudfusion-has-become-the-official-aws-sdk-for-php/"},
+        "next": {"title": "2011 Resolutions", "permalink": "https://ryanparman.com/posts/2011/2011-resolutions/"},
+        "ignore": "me"
+    }
+}
+
+}

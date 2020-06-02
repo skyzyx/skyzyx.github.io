@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Newer.  Better.  Simpler.",
+    "description": "",
+    "summary": {
+        "content": "SimplePie 0.91 is now available. This release adds support for URL’s with a relative path, better handling of some improperly written feeds, and fixes a problem where feeds weren’t getting loaded all the way before trying to parse them, causing SimplePie to choke.",
+        "isTruncated": false
+    },
+    "published": "2004-08-28T22:29:31Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/newer-better-simpler/",
+    "relativePermalink": "/posts/2004/newer-better-simpler/",
+    "aliases": ["/2004/08/28/newer-better-simpler/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 43,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040828-newer-better-simpler.md",
+        "logicalName": "20040828-newer-better-simpler.md",
+        "translationBaseName": "20040828-newer-better-simpler",
+        "baseFileName": "20040828-newer-better-simpler",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003e\u003ca href=\"/projects/simplepie/\"\u003eSimplePie 0.91\u003c/a\u003e is now available. This release adds support for URL’s with a relative path, better handling of some improperly written feeds, and fixes a problem where feeds weren’t getting loaded all the way before trying to parse them, causing SimplePie to choke.\u003c/p\u003e\n",
+        "plain":"SimplePie 0.91 is now available. This release adds support for URL’s with a relative path, better handling of some improperly written feeds, and fixes a problem where feeds weren’t getting loaded all the way before trying to parse them, causing SimplePie to choke.\n",
+        "source":"\n[SimplePie 0.91](/projects/simplepie/) is now available. This release adds support for URL’s with a relative path, better handling of some improperly written feeds, and fixes a problem where feeds weren’t getting loaded all the way before trying to parse them, causing SimplePie to choke.\n"},
+    "links": {
+        "prev": {"title": "Movie Reviews 2004", "permalink": "https://ryanparman.com/posts/2004/movie-reviews-2004/"},
+        "next": {"title": "The Battle of Dunstan vs. Andrei vs. Mark", "permalink": "https://ryanparman.com/posts/2004/the-battle-of-dunstan-vs-andrei-vs-mark/"},
+        "ignore": "me"
+    }
+}
+
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Spam Blocking",
+    "description": "",
+    "summary": {
+        "content": "After going back and checking my referrers over the last month, I’ve noticed a few spam bots coming to my website, I assume trying to harvest email addresses. I’ve encoded mine as unicode, so I haven’t been too worried. This past Saturday I received my first spam email on my oh-so-secret personal email account. I was rather irritated to say the least. Also, this morning, I got some comment spam on one of my earlier posts. Luckily, Movable Type emails me the IP of people who make comments on my site.",
+        "isTruncated": true
+    },
+    "published": "2003-11-05T18:06:38Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/spam-blocking/",
+    "relativePermalink": "/posts/2003/spam-blocking/",
+    "aliases": ["/2003/11/05/spam-blocking/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 210,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20031105-spam-blocking.md",
+        "logicalName": "20031105-spam-blocking.md",
+        "translationBaseName": "20031105-spam-blocking",
+        "baseFileName": "20031105-spam-blocking",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eAfter going back and checking my referrers over the last month, I’ve noticed a few spam bots coming to my website, I assume trying to harvest email addresses. I’ve encoded mine as unicode, so I haven’t been too worried. This past Saturday I received my first spam email on my oh-so-secret personal email account. I was rather irritated to say the least.\u003c/p\u003e\n\u003cp\u003eAlso, this morning, I got some comment spam on one of my earlier posts. Luckily, Movable Type emails me the IP of people who make comments on my site.\u003c/p\u003e\n\u003cp\u003eI did a little bit of digging and found a PHP script that allows me to block entrance to my website based on the user’s IP address. I immediately blocked the IP of the guy who gave me some oh-so-wonderful comment spam this morning, as well as the IP’s and User Agents of some of the spambots I’ve been experiencing. We’ll see how it all works out.\u003c/p\u003e\n\u003cp\u003eI’ve also been getting some messages from the Suck-O-Meter that I have in the JavaScript section of my website. There are alot of people who are causing me stress by abusing this feature, so I’m going to begin blocking those IP’s as well. Hopefully, I’ll be able to sleep better at night.\u003c/p\u003e\n",
+        "plain":"After going back and checking my referrers over the last month, I’ve noticed a few spam bots coming to my website, I assume trying to harvest email addresses. I’ve encoded mine as unicode, so I haven’t been too worried. This past Saturday I received my first spam email on my oh-so-secret personal email account. I was rather irritated to say the least.\nAlso, this morning, I got some comment spam on one of my earlier posts. Luckily, Movable Type emails me the IP of people who make comments on my site.\nI did a little bit of digging and found a PHP script that allows me to block entrance to my website based on the user’s IP address. I immediately blocked the IP of the guy who gave me some oh-so-wonderful comment spam this morning, as well as the IP’s and User Agents of some of the spambots I’ve been experiencing. We’ll see how it all works out.\nI’ve also been getting some messages from the Suck-O-Meter that I have in the JavaScript section of my website. There are alot of people who are causing me stress by abusing this feature, so I’m going to begin blocking those IP’s as well. Hopefully, I’ll be able to sleep better at night.\n",
+        "source":"\nAfter going back and checking my referrers over the last month, I’ve noticed a few spam bots coming to my website, I assume trying to harvest email addresses. I’ve encoded mine as unicode, so I haven’t been too worried. This past Saturday I received my first spam email on my oh-so-secret personal email account. I was rather irritated to say the least.\n\nAlso, this morning, I got some comment spam on one of my earlier posts. Luckily, Movable Type emails me the IP of people who make comments on my site.\n\nI did a little bit of digging and found a PHP script that allows me to block entrance to my website based on the user’s IP address. I immediately blocked the IP of the guy who gave me some oh-so-wonderful comment spam this morning, as well as the IP’s and User Agents of some of the spambots I’ve been experiencing. We’ll see how it all works out.\n\nI’ve also been getting some messages from the Suck-O-Meter that I have in the JavaScript section of my website. There are alot of people who are causing me stress by abusing this feature, so I’m going to begin blocking those IP’s as well. Hopefully, I’ll be able to sleep better at night.\n"},
+    "links": {
+        "prev": {"title": "Freakin' DNS and TCP/IP...", "permalink": "https://ryanparman.com/posts/2003/freakin-dns-and-tcpip/"},
+        "next": {"title": "Rock The Vote", "permalink": "https://ryanparman.com/posts/2003/rock-the-vote/"},
+        "ignore": "me"
+    }
+}
+
+}

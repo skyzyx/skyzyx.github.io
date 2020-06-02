@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "My Portfolio and Sitemap",
+    "description": "",
+    "summary": {
+        "content": "I’ve finally put together my Portfolio. It includes some of my better work over the last two years, and covers web, print, and 3D design. I plan to add some graphic stuff sooner or later. I haven’t done alot of work, but there’s enough to justify a portfolio. If you are a web professional or HR guy, take a look and let me know how to make it better. I’m always open to suggestions on how to improve, especially for potential employers… =)",
+        "isTruncated": true
+    },
+    "published": "2003-09-07T22:10:48Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/my-portfolio-and-sitemap/",
+    "relativePermalink": "/posts/2003/my-portfolio-and-sitemap/",
+    "aliases": ["/2003/09/07/my-portfolio-and-sitemap/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 120,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030907-my-portfolio-and-sitemap.md",
+        "logicalName": "20030907-my-portfolio-and-sitemap.md",
+        "translationBaseName": "20030907-my-portfolio-and-sitemap",
+        "baseFileName": "20030907-my-portfolio-and-sitemap",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve finally put together my \u003ca href=\"/portfolio/\"\u003ePortfolio\u003c/a\u003e. It includes some of my better work over the last two years, and covers web, print, and 3D design. I plan to add some graphic stuff sooner or later. I haven’t done alot of work, but there’s enough to justify a portfolio. If you are a web professional or HR guy, take a look and let me know how to make it better. I’m always open to suggestions on how to improve, especially for potential employers… =)\u003c/p\u003e\n\u003cp\u003eAlso, I’ve added a \u003ca href=\"/sitemap/\"\u003esitemap\u003c/a\u003e. I must admit that this is my first sitemap. I’ve never had enough content to justify using one until now. Woo-hoo! You can find both links in the menu to the left.\u003c/p\u003e\n",
+        "plain":"I’ve finally put together my Portfolio. It includes some of my better work over the last two years, and covers web, print, and 3D design. I plan to add some graphic stuff sooner or later. I haven’t done alot of work, but there’s enough to justify a portfolio. If you are a web professional or HR guy, take a look and let me know how to make it better. I’m always open to suggestions on how to improve, especially for potential employers… =)\nAlso, I’ve added a sitemap. I must admit that this is my first sitemap. I’ve never had enough content to justify using one until now. Woo-hoo! You can find both links in the menu to the left.\n",
+        "source":"\nI’ve finally put together my [Portfolio](/portfolio/). It includes some of my better work over the last two years, and covers web, print, and 3D design. I plan to add some graphic stuff sooner or later. I haven’t done alot of work, but there’s enough to justify a portfolio. If you are a web professional or HR guy, take a look and let me know how to make it better. I’m always open to suggestions on how to improve, especially for potential employers… =)\n\nAlso, I’ve added a [sitemap](/sitemap/). I must admit that this is my first sitemap. I’ve never had enough content to justify using one until now. Woo-hoo! You can find both links in the menu to the left.\n"},
+    "links": {
+        "prev": {"title": "Luposlipaphobia", "permalink": "https://ryanparman.com/posts/2003/luposlipaphobia/"},
+        "next": {"title": "Pirated Sites", "permalink": "https://ryanparman.com/posts/2003/pirated-sites/"},
+        "ignore": "me"
+    }
+}
+
+}

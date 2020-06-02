@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Jumping Ship",
+    "description": "",
+    "summary": {
+        "content": "I stumbled across a link for a CMS called WordPress today. With all of the rebuilding problems I’ve been having with Movable Type lately, I figured I’d at least take a look. From what I can tell, it’s a pretty solid system. There are a few blogs who use it, and I like the idea of not having to rebuild static files. Other than that, I really don’t know much about it. Has anyone had any experience with WordPress? Should I jump ship from MT to WP?",
+        "isTruncated": true
+    },
+    "published": "2004-02-21T05:11:44Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/jumping-ship/",
+    "relativePermalink": "/posts/2004/jumping-ship/",
+    "aliases": ["/archives/000185.php", "/articles/000185.php", "/2004/02/20/jumping-ship/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 94,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040221-jumping-ship.md",
+        "logicalName": "20040221-jumping-ship.md",
+        "translationBaseName": "20040221-jumping-ship",
+        "baseFileName": "20040221-jumping-ship",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI stumbled across a link for a CMS called \u003ca href=\"https://web.archive.org/web/20040221051144/http://www.wordpress.org\"\u003eWordPress\u003c/a\u003e today. With all of the rebuilding problems I’ve been having with Movable Type lately, I figured I’d at least take a look.\u003c/p\u003e\n\u003cp\u003eFrom what I can tell, it’s a pretty solid system. There are a few blogs who use it, and I like the idea of not having to rebuild static files. Other than that, I really don’t know much about it.\u003c/p\u003e\n\u003cp\u003eHas anyone had any experience with WordPress? Should I jump ship from MT to WP? Any feedback on it would be appreciated.\u003c/p\u003e\n",
+        "plain":"I stumbled across a link for a CMS called WordPress today. With all of the rebuilding problems I’ve been having with Movable Type lately, I figured I’d at least take a look.\nFrom what I can tell, it’s a pretty solid system. There are a few blogs who use it, and I like the idea of not having to rebuild static files. Other than that, I really don’t know much about it.\nHas anyone had any experience with WordPress? Should I jump ship from MT to WP? Any feedback on it would be appreciated.\n",
+        "source":"\nI stumbled across a link for a CMS called [WordPress]({{% wayback \"http://www.wordpress.org\" %}}) today. With all of the rebuilding problems I’ve been having with Movable Type lately, I figured I’d at least take a look.\n\nFrom what I can tell, it’s a pretty solid system. There are a few blogs who use it, and I like the idea of not having to rebuild static files. Other than that, I really don’t know much about it.\n\nHas anyone had any experience with WordPress? Should I jump ship from MT to WP? Any feedback on it would be appreciated.\n"},
+    "links": {
+        "prev": {"title": "All Automated, All The Time", "permalink": "https://ryanparman.com/posts/2004/all-automated-all-the-time/"},
+        "next": {"title": "Another Idle Tuesday", "permalink": "https://ryanparman.com/posts/2004/another-idle-tuesday/"},
+        "ignore": "me"
+    }
+}
+
+}

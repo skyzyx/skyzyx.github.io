@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Mozilla 1.4rc2 Is Available",
+    "description": "",
+    "summary": {
+        "content": "I just downloaded Mozilla 1.4 Release Candidate 2 for Windows. It’s beautiful, and it seems a bit faster too. Hmmm… has Firebird™ begun the integration process? If I can expect this or better in 1.4 Final, then I believe that 1.4 will be an excellent new stable branch for Netscape, CompuServe, Camino™, and other Gecko browsers to base their work on.",
+        "isTruncated": false
+    },
+    "published": "2003-06-19T04:08:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/mozilla-14rc2-is-available/",
+    "relativePermalink": "/posts/2003/mozilla-14rc2-is-available/",
+    "aliases": ["/2003/06/18/mozilla-14rc2-is-available/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 61,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030619-mozilla-14rc2-is-available.md",
+        "logicalName": "20030619-mozilla-14rc2-is-available.md",
+        "translationBaseName": "20030619-mozilla-14rc2-is-available",
+        "baseFileName": "20030619-mozilla-14rc2-is-available",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI just downloaded \u003ca href=\"https://web.archive.org/web/20030619040800/http://www.mozilla.org/releases/#1.4rc2\"\u003eMozilla 1.4 Release Candidate 2\u003c/a\u003e for Windows. It’s beautiful, and it seems a bit faster too. Hmmm… has Firebird™ begun the integration process?\u003c/p\u003e\n\u003cp\u003eIf I can expect this or better in 1.4 Final, then I believe that 1.4 will be an excellent new stable branch for \u003ca href=\"https://web.archive.org/web/20030619040800/http://channels.netscape.com/ns/browsers/default.jsp\"\u003eNetscape\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20030619040800/http://free.compuserve.com/trycsfree/\"\u003eCompuServe\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20030619040800/http://www.mozilla.org/projects/camino/\"\u003eCamino™\u003c/a\u003e, and other Gecko browsers to base their work on.\u003c/p\u003e\n",
+        "plain":"I just downloaded Mozilla 1.4 Release Candidate 2 for Windows. It’s beautiful, and it seems a bit faster too. Hmmm… has Firebird™ begun the integration process?\nIf I can expect this or better in 1.4 Final, then I believe that 1.4 will be an excellent new stable branch for Netscape, CompuServe, Camino™, and other Gecko browsers to base their work on.\n",
+        "source":"\nI just downloaded [Mozilla 1.4 Release Candidate 2]({{% wayback \"http://www.mozilla.org/releases/#1.4rc2\" %}}) for Windows. It’s beautiful, and it seems a bit faster too. Hmmm… has Firebird™ begun the integration process?\n\nIf I can expect this or better in 1.4 Final, then I believe that 1.4 will be an excellent new stable branch for [Netscape]({{% wayback \"http://channels.netscape.com/ns/browsers/default.jsp\" %}}), [CompuServe]({{% wayback \"http://free.compuserve.com/trycsfree/\" %}}), [Camino™]({{% wayback \"http://www.mozilla.org/projects/camino/\" %}}), and other Gecko browsers to base their work on.\n"},
+    "links": {
+        "prev": {"title": "OpenBeOS Is Moving Right Along", "permalink": "https://ryanparman.com/posts/2003/openbeos-is-moving-right-along/"},
+        "next": {"title": "What's In The Box? The PowerPC 970 G5", "permalink": "https://ryanparman.com/posts/2003/whats-in-the-box-the-powerpc-970-g5/"},
+        "ignore": "me"
+    }
+}
+
+}

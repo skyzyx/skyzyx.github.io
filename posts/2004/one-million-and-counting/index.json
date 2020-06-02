@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "One Million and Counting...",
+    "description": "",
+    "summary": {
+        "content": "The latest post at SpeadFirefox.com says that the Firefox Preview Release hit 1,000,000 downloads in roughly 100 hours. This is fantastic news! I’ve been actively trying to get people I know and work with to switch over to Firefox for several months now. This is big news for the Mozilla team. Not only that, but it also means something for the world of web standards and the overall improvement of the quality of the web. The more people who are using a Better Browser™, the more possibilities we as web designers have available to our disposal.",
+        "isTruncated": true
+    },
+    "published": "2004-09-19T00:24:57Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/one-million-and-counting/",
+    "relativePermalink": "/posts/2004/one-million-and-counting/",
+    "aliases": ["/2004/09/18/one-million-and-counting/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 138,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040919-one-million-and-counting.md",
+        "logicalName": "20040919-one-million-and-counting.md",
+        "translationBaseName": "20040919-one-million-and-counting",
+        "baseFileName": "20040919-one-million-and-counting",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eThe latest post at SpeadFirefox.com says that the \u003ca href=\"https://web.archive.org/web/20040919002457/http://www.spreadfirefox.com/?q=node/view/875\"\u003eFirefox Preview Release hit 1,000,000 downloads\u003c/a\u003e in roughly 100 hours. This is \u003cem\u003efantastic\u003c/em\u003e news! I’ve been actively trying to get people I know and work with to switch over to Firefox for several months now.\u003c/p\u003e\n\u003cp\u003eThis is big news for the Mozilla team. Not only that, but it also means something for the world of web standards and the overall improvement of the quality of the web. The more people who are using a \u003ca href=\"https://web.archive.org/web/20040919002457/http://www.getfirefox.com\"\u003eBetter Browser™\u003c/a\u003e, the more possibilities we as web designers have available to our disposal.\u003c/p\u003e\n\u003cp\u003eI know that Microsoft’s market share hasn’t slipped that much, but it \u003cem\u003ehas\u003c/em\u003e been slipping. And seeing over one million people download Firefox in 4 days, just goes to show that things are starting to change. Things are starting to change indeed…\u003c/p\u003e\n",
+        "plain":"The latest post at SpeadFirefox.com says that the Firefox Preview Release hit 1,000,000 downloads in roughly 100 hours. This is fantastic news! I’ve been actively trying to get people I know and work with to switch over to Firefox for several months now.\nThis is big news for the Mozilla team. Not only that, but it also means something for the world of web standards and the overall improvement of the quality of the web. The more people who are using a Better Browser™, the more possibilities we as web designers have available to our disposal.\nI know that Microsoft’s market share hasn’t slipped that much, but it has been slipping. And seeing over one million people download Firefox in 4 days, just goes to show that things are starting to change. Things are starting to change indeed…\n",
+        "source":"\nThe latest post at SpeadFirefox.com says that the [Firefox Preview Release hit 1,000,000 downloads]({{% wayback \"http://www.spreadfirefox.com/?q=node/view/875\" %}}) in roughly 100 hours. This is *fantastic* news! I’ve been actively trying to get people I know and work with to switch over to Firefox for several months now.\n\nThis is big news for the Mozilla team. Not only that, but it also means something for the world of web standards and the overall improvement of the quality of the web. The more people who are using a [Better Browser™]({{% wayback \"http://www.getfirefox.com\" %}}), the more possibilities we as web designers have available to our disposal.\n\nI know that Microsoft’s market share hasn’t slipped that much, but it *has* been slipping. And seeing over one million people download Firefox in 4 days, just goes to show that things are starting to change. Things are starting to change indeed…\n"},
+    "links": {
+        "prev": {"title": "What's New?", "permalink": "https://ryanparman.com/posts/2004/whats-new-2/"},
+        "next": {"title": "SimplePie... Mmmm, Yummy!", "permalink": "https://ryanparman.com/posts/2004/simplepie-mmmm-yummy/"},
+        "ignore": "me"
+    }
+}
+
+}

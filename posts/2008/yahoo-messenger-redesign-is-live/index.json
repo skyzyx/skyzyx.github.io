@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Yahoo! Messenger redesign is live!",
+    "description": "",
+    "summary": {
+        "content": "Internally known as “Aurora,” the new Yahoo! Messenger redesign has finally launched! I was going to write something up about it, but Ryan Doherty and Adrien Cahen have all written plenty. Check it out! :) Also, Digg it!",
+        "isTruncated": false
+    },
+    "published": "2008-05-12T05:48:59Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2008/yahoo-messenger-redesign-is-live/",
+    "relativePermalink": "/posts/2008/yahoo-messenger-redesign-is-live/",
+    "aliases": ["/2008/05/11/yahoo-messenger-redesign-is-live/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 38,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2008/20080512-yahoo-messenger-redesign-is-live.md",
+        "logicalName": "20080512-yahoo-messenger-redesign-is-live.md",
+        "translationBaseName": "20080512-yahoo-messenger-redesign-is-live",
+        "baseFileName": "20080512-yahoo-messenger-redesign-is-live",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2008/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eInternally known as “Aurora,” the new \u003ca href=\"https://web.archive.org/web/20080512054859/http://messenger.yahoo.com\"\u003eYahoo! Messenger\u003c/a\u003e redesign has finally launched! I was going to write something up about it, but \u003ca href=\"https://web.archive.org/web/20080512054859/http://www.ryandoherty.net/2008/05/10/yahoo-messenger-website-redesign/\"\u003eRyan Doherty\u003c/a\u003e and \u003ca href=\"https://web.archive.org/web/20080512054859/http://gaarf.info/2008/05/06/aurora-lives/\"\u003eAdrien Cahen\u003c/a\u003e have all written plenty. Check it out! :) Also, \u003ca href=\"https://web.archive.org/web/20080512054859/http://digg.com/tech_news/New_Yahoo_Messenger_website_is_LIVE\"\u003eDigg it!\u003c/a\u003e\u003c/p\u003e\n",
+        "plain":"Internally known as “Aurora,” the new Yahoo! Messenger redesign has finally launched! I was going to write something up about it, but Ryan Doherty and Adrien Cahen have all written plenty. Check it out! :) Also, Digg it!\n",
+        "source":"\nInternally known as “Aurora,” the new [Yahoo! Messenger]({{% wayback \"http://messenger.yahoo.com\" %}}) redesign has finally launched! I was going to write something up about it, but [Ryan Doherty]({{% wayback \"http://www.ryandoherty.net/2008/05/10/yahoo-messenger-website-redesign/\" %}}) and [Adrien Cahen]({{% wayback \"http://gaarf.info/2008/05/06/aurora-lives/\" %}}) have all written plenty. Check it out! :) Also, [Digg it!]({{% wayback \"http://digg.com/tech_news/New_Yahoo_Messenger_website_is_LIVE\" %}})\n"},
+    "links": {
+        "prev": {"title": "My thoughts on Twitter", "permalink": "https://ryanparman.com/posts/2008/my-thoughts-on-twitter/"},
+        "next": {"title": "Installing FFMPEG and FFMPEG-PHP in Fedora 8 running on Amazon EC2", "permalink": "https://ryanparman.com/posts/2008/installing-ffmpeg-php-fedora-amazon-aws/"},
+        "ignore": "me"
+    }
+}
+
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Windows XP SP2 and Mac OS X 10.3.5",
+    "description": "",
+    "summary": {
+        "content": "You can get the Windows XP Service Pack 2 full installer (272 MB), or you can wait a few days for the update to become available (in a much smaller size) from Windows Update. Also, for those using Panther, v10.3.5 is now available from Software Update. The only problem is that it doesn’t set the disk permissions properly. To fix this, go into Applications → Utilities → Disk Utility, and choose to repair permissions. Voila!",
+        "isTruncated": false
+    },
+    "published": "2004-08-16T14:53:26Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/windows-xp-sp2-and-mac-os-x-1035/",
+    "relativePermalink": "/posts/2004/windows-xp-sp2-and-mac-os-x-1035/",
+    "aliases": ["/2004/08/16/windows-xp-sp2-and-mac-os-x-1035/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Software"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 75,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040816-windows-xp-sp2-and-mac-os-x-1035.md",
+        "logicalName": "20040816-windows-xp-sp2-and-mac-os-x-1035.md",
+        "translationBaseName": "20040816-windows-xp-sp2-and-mac-os-x-1035",
+        "baseFileName": "20040816-windows-xp-sp2-and-mac-os-x-1035",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eYou can get the Windows XP Service Pack 2 \u003ca href=\"https://web.archive.org/web/20040816145326/http://www.microsoft.com/downloads/details.aspx?FamilyId=049C9DBE-3B8E-4F30-8245-9E368D3CDB5A\u0026amp;displaylang=en\"\u003efull installer\u003c/a\u003e (272 MB), or you can wait a few days for the update to become available (in a much smaller size) from \u003ca href=\"https://web.archive.org/web/20040816145326/http://windowsupdate.microsoft.com\" title=\"Internet Explorer for Windows is required.\"\u003eWindows Update\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eAlso, for those using \u003ca href=\"https://web.archive.org/web/20040816145326/http://www.apple.com/macosx/\"\u003ePanther\u003c/a\u003e, v10.3.5 is now available from Software Update. The only problem is that it doesn’t set the disk permissions properly. To fix this, go into \u003cem\u003eApplications\u003c/em\u003e → \u003cem\u003eUtilities\u003c/em\u003e → \u003cem\u003eDisk Utility\u003c/em\u003e, and choose to repair permissions. Voila!\u003c/p\u003e\n",
+        "plain":"You can get the Windows XP Service Pack 2 full installer (272 MB), or you can wait a few days for the update to become available (in a much smaller size) from Windows Update.\nAlso, for those using Panther, v10.3.5 is now available from Software Update. The only problem is that it doesn’t set the disk permissions properly. To fix this, go into Applications → Utilities → Disk Utility, and choose to repair permissions. Voila!\n",
+        "source":"\nYou can get the Windows XP Service Pack 2 [full installer]({{% wayback \"http://www.microsoft.com/downloads/details.aspx?FamilyId=049C9DBE-3B8E-4F30-8245-9E368D3CDB5A\u0026displaylang=en\" %}}) (272 MB), or you can wait a few days for the update to become available (in a much smaller size) from [Windows Update]({{% wayback \"http://windowsupdate.microsoft.com\" %}} \"Internet Explorer for Windows is required.\").\n\nAlso, for those using [Panther]({{% wayback \"http://www.apple.com/macosx/\" %}}), v10.3.5 is now available from Software Update. The only problem is that it doesn’t set the disk permissions properly. To fix this, go into _Applications_ → _Utilities_ → _Disk Utility_, and choose to repair permissions. Voila!\n"},
+    "links": {
+        "prev": {"title": "The Ultrafast SimplePie 0.9 Is Now Available!", "permalink": "https://ryanparman.com/posts/2004/the-ultrafast-simplepie-09-is-now-available/"},
+        "next": {"title": "Which OS Are You?", "permalink": "https://ryanparman.com/posts/2004/which-os-are-you/"},
+        "ignore": "me"
+    }
+}
+
+}

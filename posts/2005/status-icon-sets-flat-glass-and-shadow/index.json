@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Status Icon Sets: Flat, Glass, and Shadow",
+    "description": "",
+    "summary": {
+        "content": "I’ve been doing tons of Ajax development at work lately. One of my projects (that I built on my own time, and therefore own complete rights to — just in case there was a question) was a very very simple content management system designed only to read/write news postings to the database (with support for Textile formatting), and generate an RSS feed, all with a slick Ajax-based interface. I pitched it to my boss as a replacement for the one we currently had in place, and then implemented it as a tool for our in-house intranet.",
+        "isTruncated": true
+    },
+    "published": "2005-09-17T03:10:56Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/status-icon-sets-flat-glass-and-shadow/",
+    "relativePermalink": "/posts/2005/status-icon-sets-flat-glass-and-shadow/",
+    "aliases": ["/2005/09/16/status-icon-sets-flat-glass-and-shadow/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Design"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 200,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050917-status-icon-sets-flat-glass-and-shadow.md",
+        "logicalName": "20050917-status-icon-sets-flat-glass-and-shadow.md",
+        "translationBaseName": "20050917-status-icon-sets-flat-glass-and-shadow",
+        "baseFileName": "20050917-status-icon-sets-flat-glass-and-shadow",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve been doing tons of Ajax development at work lately. One of my projects (that I built on my own time, and therefore own complete rights to — just in case there was a question) was a very very simple content management system designed only to read/write news postings to the database (with support for Textile formatting), and generate an RSS feed, all with a slick Ajax-based interface. I pitched it to my boss as a replacement for the one we currently had in place, and then implemented it as a tool for our in-house intranet.\u003c/p\u003e\n\u003cp\u003eAnyways, I thought that some nice status icons would be a nice touch to top off the script.aculo.us effects I was using, to show success, failure, and other information. So I sat down with Fireworks, and went to work. I designed one set, then modified it to create another, then modifed more to make another. And now I’m giving them away.\u003c/p\u003e\n\u003cp\u003eI’ve bundled 3 sets with 5 icons each. The sets are “Flat”, “Shadow”, and “Glass”, with a fourth set called “Mini-Flat” that’s just a 16x16 version of the “Flat” style. Check ’em out:\u003c/p\u003e\n\u003cdiv class=\"pa2-ns\"\u003e\n  \u003ca href=\"https://cdn.ryanparman.com/wp-content/uploads/2005/09/status_icons.zip\"\u003e\n    \u003cimg src=\"https://cdn.ryanparman.com/wp-content/uploads/2005/09/status_display.png\" alt=\"Status Icon Set\" class=\"db fullimage\"\u003e\n  \u003c/a\u003e\n\u003c/div\u003e\n\u003cp\u003eIf you like ’em, go ahead and \u003ca href=\"https://web.archive.org/web/20050917031056/https://cdn.ryanparman.com/wp-content/uploads/2005/09/status_icons.zip\"\u003edownload\u003c/a\u003e them. Enjoy!\u003c/p\u003e\n",
+        "plain":"I’ve been doing tons of Ajax development at work lately. One of my projects (that I built on my own time, and therefore own complete rights to — just in case there was a question) was a very very simple content management system designed only to read/write news postings to the database (with support for Textile formatting), and generate an RSS feed, all with a slick Ajax-based interface. I pitched it to my boss as a replacement for the one we currently had in place, and then implemented it as a tool for our in-house intranet.\nAnyways, I thought that some nice status icons would be a nice touch to top off the script.aculo.us effects I was using, to show success, failure, and other information. So I sat down with Fireworks, and went to work. I designed one set, then modified it to create another, then modifed more to make another. And now I’m giving them away.\nI’ve bundled 3 sets with 5 icons each. The sets are “Flat”, “Shadow”, and “Glass”, with a fourth set called “Mini-Flat” that’s just a 16x16 version of the “Flat” style. Check ’em out:\n  If you like ’em, go ahead and download them. Enjoy!\n",
+        "source":"\nI’ve been doing tons of Ajax development at work lately. One of my projects (that I built on my own time, and therefore own complete rights to — just in case there was a question) was a very very simple content management system designed only to read/write news postings to the database (with support for Textile formatting), and generate an RSS feed, all with a slick Ajax-based interface. I pitched it to my boss as a replacement for the one we currently had in place, and then implemented it as a tool for our in-house intranet.\n\nAnyways, I thought that some nice status icons would be a nice touch to top off the script.aculo.us effects I was using, to show success, failure, and other information. So I sat down with Fireworks, and went to work. I designed one set, then modified it to create another, then modifed more to make another. And now I’m giving them away.\n\nI’ve bundled 3 sets with 5 icons each. The sets are “Flat”, “Shadow”, and “Glass”, with a fourth set called “Mini-Flat” that’s just a 16x16 version of the “Flat” style. Check ’em out:\n\n\u003cdiv class=\"pa2-ns\"\u003e\n  \u003ca href=\"https://cdn.ryanparman.com/wp-content/uploads/2005/09/status_icons.zip\"\u003e\n    \u003cimg src=\"https://cdn.ryanparman.com/wp-content/uploads/2005/09/status_display.png\" alt=\"Status Icon Set\" class=\"db fullimage\"\u003e\n  \u003c/a\u003e\n\u003c/div\u003e\n\nIf you like ’em, go ahead and [download]({{% wayback \"https://cdn.ryanparman.com/wp-content/uploads/2005/09/status_icons.zip\" %}}) them. Enjoy!\n"},
+    "links": {
+        "prev": {"title": "Draggable Lists", "permalink": "https://ryanparman.com/posts/2005/draggable-lists/"},
+        "next": {"title": "Fix: QuickTime Playing Flash Files in my Browser", "permalink": "https://ryanparman.com/posts/2005/fix-quicktime-playing-flash-files-in-my-browser/"},
+        "ignore": "me"
+    }
+}
+
+}

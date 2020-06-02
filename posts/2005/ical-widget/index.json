@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "iCal Widget",
+    "description": "",
+    "summary": {
+        "content": "Unfortunately, the iCal widget that Jeff Croft asked about never shipped with Tiger. On the other hand, Ben Kazez has developed one himself. This one is called iCal Events. It doesn’t yet support all-day calendars, but I’m sure that functionality is on it’s way. If you (1) have Tiger, (2) are looking for an iCal Widget, or (3) haven’t already purchased Konfabulator 2 (which includes a state-of-the-art iCal Widget), you should definitely give this one a try.",
+        "isTruncated": true
+    },
+    "published": "2005-05-25T09:54:01Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/ical-widget/",
+    "relativePermalink": "/posts/2005/ical-widget/",
+    "aliases": ["/2005/05/25/ical-widget/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Software"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 137,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050525-ical-widget.md",
+        "logicalName": "20050525-ical-widget.md",
+        "translationBaseName": "20050525-ical-widget",
+        "baseFileName": "20050525-ical-widget",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eUnfortunately, the iCal widget that \u003ca href=\"https://web.archive.org/web/20050525095401/http://jeffcroft.com/blog/archives/2005/05/ical_widget_for.php\"\u003eJeff Croft asked about\u003c/a\u003e never shipped with Tiger. On the other hand, \u003ca href=\"https://web.archive.org/web/20050525095401/http://www.benkazez.com/\"\u003eBen Kazez\u003c/a\u003e has developed one himself. This one is called \u003ca href=\"https://web.archive.org/web/20050525095401/http://www.benkazez.com/icalevents.php\"\u003eiCal Events\u003c/a\u003e. It doesn’t yet support all-day calendars, but I’m sure that functionality is on it’s way.\u003c/p\u003e\n\u003cdiv class=\"pa2-ns\"\u003e\n\t\u003camp-img src=\"https://cdn.ryanparman.com/img/icalevents-front.gif\" layout=\"responsive\" width=\"\" height=\"\"\u003e\u003c/amp-img\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cdiv class=\"pa2-ns\"\u003e\n\t\u003camp-img src=\"https://cdn.ryanparman.com/img/icalevents-back.gif\" layout=\"responsive\" width=\"\" height=\"\"\u003e\u003c/amp-img\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eIf you (1) have Tiger, (2) are looking for an iCal Widget, or (3) haven’t already purchased \u003ca href=\"https://web.archive.org/web/20050525095401/http://www.konfabulator.com\"\u003eKonfabulator 2\u003c/a\u003e (which includes a state-of-the-art iCal Widget), you should definitely give this one a try. \u003ca href=\"https://web.archive.org/web/20050525095401/http://www.benkazez.com/icalevents.php\"\u003eiCal Events\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eThanks so much for the widget, Ben!\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eUpdate:\u003c/strong\u003e Ben has asked me to remove my customized version of his widget. If you want to make the changes yourself, you can open the widget package, edit the CSS file, change all references of Helvetica to Verdana, and fiddle with some of the font sizes so that everything fits nicely.\u003c/p\u003e\n",
+        "plain":"Unfortunately, the iCal widget that Jeff Croft asked about never shipped with Tiger. On the other hand, Ben Kazez has developed one himself. This one is called iCal Events. It doesn’t yet support all-day calendars, but I’m sure that functionality is on it’s way.\n    If you (1) have Tiger, (2) are looking for an iCal Widget, or (3) haven’t already purchased Konfabulator 2 (which includes a state-of-the-art iCal Widget), you should definitely give this one a try. iCal Events.\nThanks so much for the widget, Ben!\nUpdate: Ben has asked me to remove my customized version of his widget. If you want to make the changes yourself, you can open the widget package, edit the CSS file, change all references of Helvetica to Verdana, and fiddle with some of the font sizes so that everything fits nicely.\n",
+        "source":"\nUnfortunately, the iCal widget that [Jeff Croft asked about]({{% wayback \"http://jeffcroft.com/blog/archives/2005/05/ical_widget_for.php\" %}}) never shipped with Tiger. On the other hand, [Ben Kazez]({{% wayback \"http://www.benkazez.com/\" %}}) has developed one himself. This one is called [iCal Events]({{% wayback \"http://www.benkazez.com/icalevents.php\" %}}). It doesn’t yet support all-day calendars, but I’m sure that functionality is on it’s way.\n\n{{\u003cfullimage src=\"https://cdn.ryanparman.com/img/icalevents-front.gif\" alt=\"Front of widget\"\u003e}}\n\n{{\u003cfullimage src=\"https://cdn.ryanparman.com/img/icalevents-back.gif\" alt=\"Back of widget\"\u003e}}\n\nIf you (1) have Tiger, (2) are looking for an iCal Widget, or (3) haven’t already purchased [Konfabulator 2]({{% wayback \"http://www.konfabulator.com\" %}}) (which includes a state-of-the-art iCal Widget), you should definitely give this one a try. [iCal Events]({{% wayback \"http://www.benkazez.com/icalevents.php\" %}}).\n\nThanks so much for the widget, Ben!\n\n**Update:** Ben has asked me to remove my customized version of his widget. If you want to make the changes yourself, you can open the widget package, edit the CSS file, change all references of Helvetica to Verdana, and fiddle with some of the font sizes so that everything fits nicely.\n"},
+    "links": {
+        "prev": {"title": "*Pwang*  I've Been Batoned", "permalink": "https://ryanparman.com/posts/2005/pwang-ive-been-batoned/"},
+        "next": {"title": "American Idol 2005", "permalink": "https://ryanparman.com/posts/2005/american-idol-2005/"},
+        "ignore": "me"
+    }
+}
+
+}

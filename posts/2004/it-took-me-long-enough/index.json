@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "It Took Me Long Enough...",
+    "description": "",
+    "summary": {
+        "content": "The new and improved SimplePie 0.94 is out. Major features/changes in this version include: Better support for non-English feeds, significantly improved support for poorly written feeds, automatic deletion of outdated cache files, and the stripping-out of potentially harmful tags (as per Mark Pilgrim’s suggestions). There’s still a smidge of fine-tuning left to do. Although I fixed a very high number of feeds in this release, I broke a small handful of others. The newly broken feeds include Forever Geek’s RSS (not Atom) feed, Asa’s notblog*, News.",
+        "isTruncated": true
+    },
+    "published": "2004-09-24T08:09:35Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/it-took-me-long-enough/",
+    "relativePermalink": "/posts/2004/it-took-me-long-enough/",
+    "aliases": ["/2004/09/24/it-took-me-long-enough/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 251,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040924-it-took-me-long-enough.md",
+        "logicalName": "20040924-it-took-me-long-enough.md",
+        "translationBaseName": "20040924-it-took-me-long-enough",
+        "baseFileName": "20040924-it-took-me-long-enough",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eThe new and improved \u003ca href=\"/projects/simplepie/\"\u003eSimplePie 0.94\u003c/a\u003e is out. Major features/changes in this version include: Better support for non-English feeds, significantly improved support for poorly written feeds, automatic deletion of outdated cache files, and the stripping-out of potentially harmful tags (as per Mark Pilgrim’s \u003ca href=\"https://web.archive.org/web/20040924080935/http://diveintomark.org/archives/2003/06/12/how_to_consume_rss_safely\"\u003esuggestions\u003c/a\u003e).\u003c/p\u003e\n\u003cp\u003eThere’s still a smidge of fine-tuning left to do. Although I fixed a very high number of feeds in this release, I broke a small handful of others. The newly broken feeds include Forever Geek’s RSS (not Atom) feed, Asa’s notblog*, News.com, and GameSpot feeds. Out of a list of approximately \u003ca href=\"/dev/simplepie/parseopml.php\"\u003e334 test feeds\u003c/a\u003e (374 total - 30 duplicates - 10 no longer exist), only 9 aren’t working. Not too shabby, I’d say.\u003c/p\u003e\n\u003cp\u003eI’ll probably begin working on v0.95 on Saturday. Here is a list of things I plan to do in time for the 0.95 release:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFinish fine-tuning the regular expressions I use for supporting bad feeds.\u003c/li\u003e\n\u003cli\u003eAdd the ability to display images in feeds, even though the server is set to block the display of images on other sites.\u003c/li\u003e\n\u003cli\u003eEncode all tags used inside \u003ccode\u003e\u0026lt;code\u0026gt;\u0026lt;/code\u0026gt;\u003c/code\u003e tags.\u003c/li\u003e\n\u003cli\u003eGet speed back to v0.93 levels.\u003c/li\u003e\n\u003cli\u003eImprove the ability to display feed dates.\u003c/li\u003e\n\u003cli\u003eImprove support for relative URL’s in feeds.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eKeep watching this space. Hopefully it won’t take me another month to get the new version out. Come to think of it, have you all gone and bugged \u003ca href=\"https://web.archive.org/web/20040924080935/http://www.relativelyabsolute.com\"\u003eSeñor Paul\u003c/a\u003e about getting \u003ca href=\"https://web.archive.org/web/20040924080935/http://www.relativelyabsolute.com/spg/\"\u003eSPG 1.1\u003c/a\u003e done yet? If not, you should. He might forget to work on it otherwise. *grin*\u003c/p\u003e\n",
+        "plain":"The new and improved SimplePie 0.94 is out. Major features/changes in this version include: Better support for non-English feeds, significantly improved support for poorly written feeds, automatic deletion of outdated cache files, and the stripping-out of potentially harmful tags (as per Mark Pilgrim’s suggestions).\nThere’s still a smidge of fine-tuning left to do. Although I fixed a very high number of feeds in this release, I broke a small handful of others. The newly broken feeds include Forever Geek’s RSS (not Atom) feed, Asa’s notblog*, News.com, and GameSpot feeds. Out of a list of approximately 334 test feeds (374 total - 30 duplicates - 10 no longer exist), only 9 aren’t working. Not too shabby, I’d say.\nI’ll probably begin working on v0.95 on Saturday. Here is a list of things I plan to do in time for the 0.95 release:\n Finish fine-tuning the regular expressions I use for supporting bad feeds. Add the ability to display images in feeds, even though the server is set to block the display of images on other sites. Encode all tags used inside \u0026lt;code\u0026gt;\u0026lt;/code\u0026gt; tags. Get speed back to v0.93 levels. Improve the ability to display feed dates. Improve support for relative URL’s in feeds.  Keep watching this space. Hopefully it won’t take me another month to get the new version out. Come to think of it, have you all gone and bugged Señor Paul about getting SPG 1.1 done yet? If not, you should. He might forget to work on it otherwise. *grin*\n",
+        "source":"\nThe new and improved [SimplePie 0.94](/projects/simplepie/) is out. Major features/changes in this version include: Better support for non-English feeds, significantly improved support for poorly written feeds, automatic deletion of outdated cache files, and the stripping-out of potentially harmful tags (as per Mark Pilgrim’s [suggestions]({{% wayback \"http://diveintomark.org/archives/2003/06/12/how_to_consume_rss_safely\" %}})).\n\nThere’s still a smidge of fine-tuning left to do. Although I fixed a very high number of feeds in this release, I broke a small handful of others. The newly broken feeds include Forever Geek’s RSS (not Atom) feed, Asa’s notblog\\*, News.com, and GameSpot feeds. Out of a list of approximately [334 test feeds](/dev/simplepie/parseopml.php) (374 total - 30 duplicates - 10 no longer exist), only 9 aren’t working. Not too shabby, I’d say.\n\nI’ll probably begin working on v0.95 on Saturday. Here is a list of things I plan to do in time for the 0.95 release:\n\n* Finish fine-tuning the regular expressions I use for supporting bad feeds.\n* Add the ability to display images in feeds, even though the server is set to block the display of images on other sites.\n* Encode all tags used inside `\u003ccode\u003e\u003c/code\u003e` tags.\n* Get speed back to v0.93 levels.\n* Improve the ability to display feed dates.\n* Improve support for relative URL’s in feeds.\n\nKeep watching this space. Hopefully it won’t take me another month to get the new version out. Come to think of it, have you all gone and bugged [Señor Paul]({{% wayback \"http://www.relativelyabsolute.com\" %}}) about getting [SPG 1.1]({{% wayback \"http://www.relativelyabsolute.com/spg/\" %}}) done yet? If not, you should. He might forget to work on it otherwise. \\*grin\\*\n"},
+    "links": {
+        "prev": {"title": "SimplePie... Mmmm, Yummy!", "permalink": "https://ryanparman.com/posts/2004/simplepie-mmmm-yummy/"},
+        "next": {"title": "Little Joys", "permalink": "https://ryanparman.com/posts/2004/little-joys/"},
+        "ignore": "me"
+    }
+}
+
+}

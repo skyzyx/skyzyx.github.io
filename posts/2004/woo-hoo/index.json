@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Woo-Hoo!",
+    "description": "",
+    "summary": {
+        "content": "Ladies and Gentlemen, I’m back up again! For those who aren’t aware, my Movable Type installation wouldn’t rebuild at all, therefore making updates nearly impossible. After an all-out fight with my web host (who wouldn’t check anything for me, and then outright deleted my support request), and several emails from helpful readers, I’ve finally got MT back up and running. This morning, I checked my email, and received an email from Andy McCulloch that read the following: “… I say this because I had a similar problem back in the summer, caused by a dodgy MT plugin that was tanking up to much processing time.",
+        "isTruncated": true
+    },
+    "published": "2004-01-02T17:57:40Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/woo-hoo/",
+    "relativePermalink": "/posts/2004/woo-hoo/",
+    "aliases": ["/2004/01/02/woo-hoo/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 248,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040102-woo-hoo.md",
+        "logicalName": "20040102-woo-hoo.md",
+        "translationBaseName": "20040102-woo-hoo",
+        "baseFileName": "20040102-woo-hoo",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eLadies and Gentlemen, I’m back up again! For those who aren’t aware, my Movable Type installation wouldn’t rebuild at all, therefore making updates nearly impossible. After an all-out fight with my web host (who wouldn’t check anything for me, and then outright deleted my support request), and several emails from helpful readers, I’ve finally got MT back up and running.\u003c/p\u003e\n\u003cp\u003eThis morning, I checked my email, and received an email from \u003ca href=\"https://web.archive.org/web/20040102175740/http://branchleft.co.uk/\"\u003eAndy McCulloch\u003c/a\u003e that read the following:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u003cem\u003e“… I say this because I had a similar problem back in the summer, caused by a dodgy MT plugin that was tanking up to much processing time. I removed all plugins (easier said than done) and re-installed them one by one until I found the culprit. Solved the problem.”\u003c/em\u003e\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eAfter removing the three plug-ins I was using (\u003ca href=\"https://web.archive.org/web/20040102175740/http://gemal.dk/mt/\"\u003eAcronym\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20040102175740/http://www.jayallen.org/projects/mt-blacklist/\"\u003eMT-Blacklist\u003c/a\u003e, and \u003ca href=\"https://web.archive.org/web/20040102175740/http://daringfireball.net/projects/smartypants/\"\u003eSmartyPants\u003c/a\u003e), I re-installed them one by one, and found that SmartyPants was the culprit. I contacted Jon Gruber, the author and publisher of a terrific site, \u003ca href=\"https://web.archive.org/web/20040102175740/http://www.daringfireball.net\"\u003eDaring Fireball\u003c/a\u003e, and we’re in the process of getting some details worked out. Apparently, I’m the only one who’s had an allergic reaction to the new version. Even then, my sidebar works great with the new version, while my main blog does not. I must’ve screwed up somewhere and have no one to blame but myself. I hate it when that happens. Grrr…\u003c/p\u003e\n\u003cp\u003eTwo-and-a-half weeks is a long time to be down-and-out, so expect a number of posts over the next few days. Woo-Hoo!\u003c/p\u003e\n",
+        "plain":"Ladies and Gentlemen, I’m back up again! For those who aren’t aware, my Movable Type installation wouldn’t rebuild at all, therefore making updates nearly impossible. After an all-out fight with my web host (who wouldn’t check anything for me, and then outright deleted my support request), and several emails from helpful readers, I’ve finally got MT back up and running.\nThis morning, I checked my email, and received an email from Andy McCulloch that read the following:\n “… I say this because I had a similar problem back in the summer, caused by a dodgy MT plugin that was tanking up to much processing time. I removed all plugins (easier said than done) and re-installed them one by one until I found the culprit. Solved the problem.”\n After removing the three plug-ins I was using (Acronym, MT-Blacklist, and SmartyPants), I re-installed them one by one, and found that SmartyPants was the culprit. I contacted Jon Gruber, the author and publisher of a terrific site, Daring Fireball, and we’re in the process of getting some details worked out. Apparently, I’m the only one who’s had an allergic reaction to the new version. Even then, my sidebar works great with the new version, while my main blog does not. I must’ve screwed up somewhere and have no one to blame but myself. I hate it when that happens. Grrr…\nTwo-and-a-half weeks is a long time to be down-and-out, so expect a number of posts over the next few days. Woo-Hoo!\n",
+        "source":"\nLadies and Gentlemen, I’m back up again! For those who aren’t aware, my Movable Type installation wouldn’t rebuild at all, therefore making updates nearly impossible. After an all-out fight with my web host (who wouldn’t check anything for me, and then outright deleted my support request), and several emails from helpful readers, I’ve finally got MT back up and running.\n\nThis morning, I checked my email, and received an email from [Andy McCulloch]({{% wayback \"http://branchleft.co.uk/\" %}}) that read the following:\n\n\u003e *“… I say this because I had a similar problem back in the summer, caused by a dodgy MT plugin that was tanking up to much processing time. I removed all plugins (easier said than done) and re-installed them one by one until I found the culprit. Solved the problem.”*\n\nAfter removing the three plug-ins I was using ([Acronym]({{% wayback \"http://gemal.dk/mt/\" %}}), [MT-Blacklist]({{% wayback \"http://www.jayallen.org/projects/mt-blacklist/\" %}}), and [SmartyPants]({{% wayback \"http://daringfireball.net/projects/smartypants/\" %}})), I re-installed them one by one, and found that SmartyPants was the culprit. I contacted Jon Gruber, the author and publisher of a terrific site, [Daring Fireball]({{% wayback \"http://www.daringfireball.net\" %}}), and we’re in the process of getting some details worked out. Apparently, I’m the only one who’s had an allergic reaction to the new version. Even then, my sidebar works great with the new version, while my main blog does not. I must’ve screwed up somewhere and have no one to blame but myself. I hate it when that happens. Grrr…\n\nTwo-and-a-half weeks is a long time to be down-and-out, so expect a number of posts over the next few days. Woo-Hoo!\n"},
+    "links": {
+        "prev": {"title": "Movable Type Problems", "permalink": "https://ryanparman.com/posts/2003/movable-type-problems/"},
+        "next": {"title": "Websites of 2003", "permalink": "https://ryanparman.com/posts/2004/websites-of-2003/"},
+        "ignore": "me"
+    }
+}
+
+}

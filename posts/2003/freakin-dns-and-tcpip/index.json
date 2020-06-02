@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Freakin' DNS and TCP/IP...",
+    "description": "",
+    "summary": {
+        "content": "When it comes to networking, I’m still somewhat of a beginner. I understand many of the concepts, can put together a Workgroup or Domain using Windows 2000 Server, and can generally not screw things up too much. One of the many things that I still don’t understand is what the crap is wrong with our server. I’m trying to get the internet connected to our small domain at work. I’ve got two NIC’s connected to the server: one for the DSL connection, and one for the internal network.",
+        "isTruncated": true
+    },
+    "published": "2003-11-05T17:26:39Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/freakin-dns-and-tcpip/",
+    "relativePermalink": "/posts/2003/freakin-dns-and-tcpip/",
+    "aliases": ["/2003/11/05/freakin-dns-and-tcpip/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Tech Life"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 226,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20031105-freakin-dns-and-tcpip.md",
+        "logicalName": "20031105-freakin-dns-and-tcpip.md",
+        "translationBaseName": "20031105-freakin-dns-and-tcpip",
+        "baseFileName": "20031105-freakin-dns-and-tcpip",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eWhen it comes to networking, I’m still somewhat of a beginner. I understand many of the concepts, can put together a Workgroup or Domain using Windows 2000 Server, and can generally not screw things up too much.\u003c/p\u003e\n\u003cp\u003eOne of the many things that I still don’t understand is \u003cem\u003ewhat the crap is wrong with our server\u003c/em\u003e. I’m trying to get the internet connected to our small domain at work. I’ve got two NIC’s connected to the server: one for the DSL connection, and one for the internal network. I’ve got Network Address Translation enabled and working… more or less.\u003c/p\u003e\n\u003cp\u003eI can ping the IP of the router from the internal network, which tells me that NAT is working. I can ping the IP for this website from the internal network as well. When I’d gotten that far I got pretty excited. I fired up Mozilla Firebird with giddy glee and saw this:\u003c/p\u003e\n\u003cdiv class=\"pa2-ns\"\u003e\n\t\u003camp-img src=\"https://cdn.ryanparman.com/img/notfound.jpg\" layout=\"responsive\" width=\"\" height=\"\"\u003e\u003c/amp-img\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eThe server can get on the internet no problem using domain names, but I can’t. I’m stuck having to ping various websites from the server to get the IP address, and surf the web punching in addresses like \u003ccode\u003e216.239.57.99\u003c/code\u003e and \u003ccode\u003e216.223.215.11\u003c/code\u003e. It’s all very irritating.\u003c/p\u003e\n\u003cp\u003eI know that the problem lies with the server not translating the DNS properly, and that just sucks. I guess it’s back to screaming and swearing at TCP/IP again…\u003c/p\u003e\n",
+        "plain":"When it comes to networking, I’m still somewhat of a beginner. I understand many of the concepts, can put together a Workgroup or Domain using Windows 2000 Server, and can generally not screw things up too much.\nOne of the many things that I still don’t understand is what the crap is wrong with our server. I’m trying to get the internet connected to our small domain at work. I’ve got two NIC’s connected to the server: one for the DSL connection, and one for the internal network. I’ve got Network Address Translation enabled and working… more or less.\nI can ping the IP of the router from the internal network, which tells me that NAT is working. I can ping the IP for this website from the internal network as well. When I’d gotten that far I got pretty excited. I fired up Mozilla Firebird with giddy glee and saw this:\n  The server can get on the internet no problem using domain names, but I can’t. I’m stuck having to ping various websites from the server to get the IP address, and surf the web punching in addresses like 216.239.57.99 and 216.223.215.11. It’s all very irritating.\nI know that the problem lies with the server not translating the DNS properly, and that just sucks. I guess it’s back to screaming and swearing at TCP/IP again…\n",
+        "source":"\nWhen it comes to networking, I’m still somewhat of a beginner. I understand many of the concepts, can put together a Workgroup or Domain using Windows 2000 Server, and can generally not screw things up too much.\n\nOne of the many things that I still don’t understand is *what the crap is wrong with our server*. I’m trying to get the internet connected to our small domain at work. I’ve got two NIC’s connected to the server: one for the DSL connection, and one for the internal network. I’ve got Network Address Translation enabled and working… more or less.\n\nI can ping the IP of the router from the internal network, which tells me that NAT is working. I can ping the IP for this website from the internal network as well. When I’d gotten that far I got pretty excited. I fired up Mozilla Firebird with giddy glee and saw this:\n\n{{\u003cfullimage src=\"https://cdn.ryanparman.com/img/notfound.jpg\" alt=\"Screenshot of Google not being found.\"\u003e}}\n\nThe server can get on the internet no problem using domain names, but I can’t. I’m stuck having to ping various websites from the server to get the IP address, and surf the web punching in addresses like `216.239.57.99` and `216.223.215.11`. It’s all very irritating.\n\nI know that the problem lies with the server not translating the DNS properly, and that just sucks. I guess it’s back to screaming and swearing at TCP/IP again…\n"},
+    "links": {
+        "prev": {"title": "Fewer Posts", "permalink": "https://ryanparman.com/posts/2003/fewer-posts/"},
+        "next": {"title": "Spam Blocking", "permalink": "https://ryanparman.com/posts/2003/spam-blocking/"},
+        "ignore": "me"
+    }
+}
+
+}

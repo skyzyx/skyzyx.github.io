@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "A Moment of Silence...",
+    "description": "",
+    "summary": {
+        "content": "Many of us knew it was coming, but had hoped it wouldn’t. A quote from Glazblog and Zeldman reads: \u0026ldquo;People, it’s over. Netscape is dead. Nothing to see here.\u0026rdquo; MozillaZine was one of the first (and so far, the only) site to comment of the death of this web pioneer. To quote: “It has been learned through public and private sources that AOL has cut or will cut the remaining team working on Mozilla in a mass firing and are dismantling what was left of Netscape (they’ve even pulled the logos off the buildings).",
+        "isTruncated": true
+    },
+    "published": "2003-07-15T23:36:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/a-moment-of-silence/",
+    "relativePermalink": "/posts/2003/a-moment-of-silence/",
+    "aliases": ["/2003/07/15/a-moment-of-silence/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Tech Life"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 274,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030715-a-moment-of-silence.md",
+        "logicalName": "20030715-a-moment-of-silence.md",
+        "translationBaseName": "20030715-a-moment-of-silence",
+        "baseFileName": "20030715-a-moment-of-silence",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eMany of us knew it was coming, but had hoped it wouldn’t. A quote from \u003ca href=\"https://web.archive.org/web/20030715233600/http://daniel.glazman.free.fr/weblog/\"\u003eGlazblog\u003c/a\u003e and \u003ca href=\"https://web.archive.org/web/20030715233600/http://www.zeldman.com/daily/0703a.shtml#jl1503\"\u003eZeldman\u003c/a\u003e reads: \u0026ldquo;People, it’s over. \u003cem\u003eNetscape is dead.\u003c/em\u003e Nothing to see here.\u0026rdquo;\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20030715233600/http://www.mozillazine.org/talkback.html?article=3422\"\u003eMozillaZine\u003c/a\u003e was one of the first (and so far, the only) site to comment of the death of this web pioneer. To quote:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u003cem\u003e“It has been learned through public and private sources that AOL has cut or will cut the remaining team working on Mozilla in a mass firing and are dismantling what was left of Netscape (they’ve even pulled the logos off the buildings).”\u003c/em\u003e\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eThere is an upshot: \u003ca href=\"https://web.archive.org/web/20030715233600/http://www.mozilla.org\"\u003eMozilla.org\u003c/a\u003e is now the Mozilla Foundation. Development will continue as it has as we move into development for Mozilla SeaMonkey 1.5. Brendan Eich (the creator of JavaScript) has noted in a \u003ca href=\"https://web.archive.org/web/20030715233600/http://mozillazine.org/articles/article3420.html\"\u003epublic press release\u003c/a\u003e that \u003cem\u003e“The Mozilla Foundation will continue mozilla.org’s work of coordinating the development of the Mozilla codebase. With an independent non-profit as the legal home for Mozilla, we will also promote the distribution and adoption of Mozilla applications and technologies. In addition, we will raise funds to ensure Mozilla’s long-term survival.”\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003eHe goes on later to say the following:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u003cem\u003e“Now that the Mozilla Foundation has been launched, we believe the time is ripe to move aggressively toward new distribution channels, new end-user markets, and better incorporation of developer-driven innovations from the whole Mozilla community.”\u003c/em\u003e\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eAs far as all of the blogs I’ve read since finding this out at \u003ca href=\"https://web.archive.org/web/20030715233600/http://www.zeldman.com\"\u003eZeldman’s site\u003c/a\u003e and confirming it at \u003ca href=\"https://web.archive.org/web/20030715233600/http://www.gemal.dk\"\u003eHenrik Gemal’s site\u003c/a\u003e, I’m the first one to post about it. Go me. Let us all have a moment of silence for this once great fallen soldier, Netscape Communications.\u003c/p\u003e\n",
+        "plain":"Many of us knew it was coming, but had hoped it wouldn’t. A quote from Glazblog and Zeldman reads: \u0026ldquo;People, it’s over. Netscape is dead. Nothing to see here.\u0026rdquo;\nMozillaZine was one of the first (and so far, the only) site to comment of the death of this web pioneer. To quote:\n “It has been learned through public and private sources that AOL has cut or will cut the remaining team working on Mozilla in a mass firing and are dismantling what was left of Netscape (they’ve even pulled the logos off the buildings).”\n There is an upshot: Mozilla.org is now the Mozilla Foundation. Development will continue as it has as we move into development for Mozilla SeaMonkey 1.5. Brendan Eich (the creator of JavaScript) has noted in a public press release that “The Mozilla Foundation will continue mozilla.org’s work of coordinating the development of the Mozilla codebase. With an independent non-profit as the legal home for Mozilla, we will also promote the distribution and adoption of Mozilla applications and technologies. In addition, we will raise funds to ensure Mozilla’s long-term survival.”\nHe goes on later to say the following:\n “Now that the Mozilla Foundation has been launched, we believe the time is ripe to move aggressively toward new distribution channels, new end-user markets, and better incorporation of developer-driven innovations from the whole Mozilla community.”\n As far as all of the blogs I’ve read since finding this out at Zeldman’s site and confirming it at Henrik Gemal’s site, I’m the first one to post about it. Go me. Let us all have a moment of silence for this once great fallen soldier, Netscape Communications.\n",
+        "source":"\nMany of us knew it was coming, but had hoped it wouldn’t. A quote from [Glazblog]({{% wayback \"http://daniel.glazman.free.fr/weblog/\" %}}) and [Zeldman]({{% wayback \"http://www.zeldman.com/daily/0703a.shtml#jl1503\" %}}) reads: \"People, it’s over. *Netscape is dead.* Nothing to see here.\"\n\n[MozillaZine]({{% wayback \"http://www.mozillazine.org/talkback.html?article=3422\" %}}) was one of the first (and so far, the only) site to comment of the death of this web pioneer. To quote:\n\n\u003e *“It has been learned through public and private sources that AOL has cut or will cut the remaining team working on Mozilla in a mass firing and are dismantling what was left of Netscape (they’ve even pulled the logos off the buildings).”*\n\u003e\nThere is an upshot: [Mozilla.org]({{% wayback \"http://www.mozilla.org\" %}}) is now the Mozilla Foundation. Development will continue as it has as we move into development for Mozilla SeaMonkey 1.5. Brendan Eich (the creator of JavaScript) has noted in a [public press release]({{% wayback \"http://mozillazine.org/articles/article3420.html\" %}}) that *“The Mozilla Foundation will continue mozilla.org’s work of coordinating the development of the Mozilla codebase. With an independent non-profit as the legal home for Mozilla, we will also promote the distribution and adoption of Mozilla applications and technologies. In addition, we will raise funds to ensure Mozilla’s long-term survival.”*\n\nHe goes on later to say the following:\n\n\u003e *“Now that the Mozilla Foundation has been launched, we believe the time is ripe to move aggressively toward new distribution channels, new end-user markets, and better incorporation of developer-driven innovations from the whole Mozilla community.”*\n\nAs far as all of the blogs I’ve read since finding this out at [Zeldman’s site]({{% wayback \"http://www.zeldman.com\" %}}) and confirming it at [Henrik Gemal’s site]({{% wayback \"http://www.gemal.dk\" %}}), I’m the first one to post about it. Go me. Let us all have a moment of silence for this once great fallen soldier, Netscape Communications.\n"},
+    "links": {
+        "prev": {"title": "Another Hole Plugged", "permalink": "https://ryanparman.com/posts/2003/another-hole-plugged/"},
+        "next": {"title": "Netscape's First Mistake", "permalink": "https://ryanparman.com/posts/2003/netscapes-first-mistake/"},
+        "ignore": "me"
+    }
+}
+
+}

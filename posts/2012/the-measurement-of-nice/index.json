@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "The Measurement of ‘Nice’",
+    "description": "",
+    "summary": {
+        "content": "In his piece entitled iPhone 5, John Gruber made a statement that really stuck out to me: […] but there is no benchmark, no tech spec, to measure nice. But you can feel it. And that is what resonates with millions of people around the world. As soon as I read this, I was struck by how true this statement is for companies like Intel, Google and Amazon that claim to be “metrics-driven”. The unfortunate side-effect is that they focus so much on metrics that they end up being driven only by metrics — which ultimately results in consistently sub-par experiences.",
+        "isTruncated": true
+    },
+    "published": "2012-09-23T23:39:54Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2012/the-measurement-of-nice/",
+    "relativePermalink": "/posts/2012/the-measurement-of-nice/",
+    "aliases": ["/2012/09/23/the-measurement-of-nice/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Design"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 174,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2012/20120923-the-measurement-of-nice.md",
+        "logicalName": "20120923-the-measurement-of-nice.md",
+        "translationBaseName": "20120923-the-measurement-of-nice",
+        "baseFileName": "20120923-the-measurement-of-nice",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2012/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eIn his piece entitled \u003cem\u003e\u003ca href=\"https://web.archive.org/web/20120923233954/http://daringfireball.net/2012/09/iphone_5\"\u003eiPhone 5\u003c/a\u003e\u003c/em\u003e, John Gruber made a statement that really stuck out to me:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e[…] but there is no benchmark, no tech spec, to measure \u003cem\u003enice\u003c/em\u003e. But you can feel it.\u003c/p\u003e\n\u003cp\u003eAnd that is what resonates with millions of people around the world.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eAs soon as I read this, I was struck by how true this statement is for companies like Intel, Google and Amazon that claim to be “metrics-driven”. The unfortunate side-effect is that they focus so much on metrics that they end up being driven \u003cem\u003eonly\u003c/em\u003e by metrics — which ultimately results in consistently sub-par experiences. Companies that are driven by metrics — at the exclusion of \u003cem\u003einstinct\u003c/em\u003e and \u003cem\u003ehumanity\u003c/em\u003e — will never produce the kind of quality that they truly need to in order to create the best experiences for their customers.\u003c/p\u003e\n\u003cp\u003eClaiming to be both “metrics-driven” and “customer-obsessed” is going to be an untenable stance unless you’re willing to both hire and \u003cem\u003eenable\u003c/em\u003e people who really, really understand the fundamentals of how to make really great \u003cem\u003eproducts\u003c/em\u003e.\u003c/p\u003e\n",
+        "plain":"In his piece entitled iPhone 5, John Gruber made a statement that really stuck out to me:\n […] but there is no benchmark, no tech spec, to measure nice. But you can feel it.\nAnd that is what resonates with millions of people around the world.\n As soon as I read this, I was struck by how true this statement is for companies like Intel, Google and Amazon that claim to be “metrics-driven”. The unfortunate side-effect is that they focus so much on metrics that they end up being driven only by metrics — which ultimately results in consistently sub-par experiences. Companies that are driven by metrics — at the exclusion of instinct and humanity — will never produce the kind of quality that they truly need to in order to create the best experiences for their customers.\nClaiming to be both “metrics-driven” and “customer-obsessed” is going to be an untenable stance unless you’re willing to both hire and enable people who really, really understand the fundamentals of how to make really great products.\n",
+        "source":"\nIn his piece entitled *[iPhone 5]({{% wayback \"http://daringfireball.net/2012/09/iphone_5\" %}})*, John Gruber made a statement that really stuck out to me:\n\n\u003e \\[…\\] but there is no benchmark, no tech spec, to measure *nice*. But you can feel it.\n\u003e\n\u003e And that is what resonates with millions of people around the world.\n\nAs soon as I read this, I was struck by how true this statement is for companies like Intel, Google and Amazon that claim to be “metrics-driven”. The unfortunate side-effect is that they focus so much on metrics that they end up being driven *only* by metrics — which ultimately results in consistently sub-par experiences. Companies that are driven by metrics — at the exclusion of *instinct* and *humanity* — will never produce the kind of quality that they truly need to in order to create the best experiences for their customers.\n\nClaiming to be both “metrics-driven” and “customer-obsessed” is going to be an untenable stance unless you’re willing to both hire and *enable* people who really, really understand the fundamentals of how to make really great *products*.\n"},
+    "links": {
+        "prev": {"title": "Clueless Recruiters, Issue #6", "permalink": "https://ryanparman.com/posts/2012/clueless-recruiters-issue-6/"},
+        "next": {"title": "App Judgment and sloppy reporting", "permalink": "https://ryanparman.com/posts/2012/app-judgment-and-sloppy-reporting/"},
+        "ignore": "me"
+    }
+}
+
+}

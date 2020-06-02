@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Awesome new features coming in PHP 5.4",
+    "description": "",
+    "summary": {
+        "content": "The next version of PHP, which saw its first release candidate today, has some really awesome new features. You can see a complete list of changes in the README, but here are the ones that caught my eye. Classes Support for Traits (i.e., mix-ins; addresses the multiple-inheritance problem). Support for chaining from the constructor: (new Class)-\u0026gt;method() Support for Class::{expr}() syntax. Closures inherit $this from the outer scope. Added ReflectionClass::newInstanceWithoutConstructor() to create a new instance of a class without invoking its constructor.",
+        "isTruncated": true
+    },
+    "published": "2011-11-11T09:03:20Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2011/awesome-new-features-coming-in-php-5-4/",
+    "relativePermalink": "/posts/2011/awesome-new-features-coming-in-php-5-4/",
+    "aliases": ["/2011/11/11/awesome-new-features-coming-in-php-5-4/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 156,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2011/20111111-awesome-new-features-coming-in-php-5-4.md",
+        "logicalName": "20111111-awesome-new-features-coming-in-php-5-4.md",
+        "translationBaseName": "20111111-awesome-new-features-coming-in-php-5-4",
+        "baseFileName": "20111111-awesome-new-features-coming-in-php-5-4",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2011/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003ca href=\"#classes\"\u003eClasses\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#improvements\"\u003eImprovements\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#fixing-the-cruft\"\u003eFixing the cruft\u003c/a\u003e\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/nav\u003e",
+        "html":"\u003cp\u003eThe next version of PHP, which saw its first release candidate today, has some really awesome new features. You can see a complete list of changes in the \u003ca href=\"https://web.archive.org/web/20111111090320/https://cdn.ryanparman.com/wp-content/uploads/2011/11/NEWS_5_4_0_RC1.txt\"\u003eREADME\u003c/a\u003e, but here are the ones that caught my eye.\u003c/p\u003e\n\u003ch2 id=\"classes\"\u003eClasses\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eSupport for Traits (i.e., mix-ins; addresses the multiple-inheritance problem).\u003c/li\u003e\n\u003cli\u003eSupport for chaining from the constructor: \u003ccode\u003e(new Class)-\u0026gt;method()\u003c/code\u003e\u003c/li\u003e\n\u003cli\u003eSupport for \u003ccode\u003eClass::{expr}()\u003c/code\u003e syntax.\u003c/li\u003e\n\u003cli\u003eClosures inherit \u003ccode\u003e$this\u003c/code\u003e from the outer scope.\u003c/li\u003e\n\u003cli\u003eAdded \u003ccode\u003eReflectionClass::newInstanceWithoutConstructor()\u003c/code\u003e to create a new instance of a class without invoking its constructor.\u003c/li\u003e\n\u003cli\u003eAdded a new typehint: \u003ccode\u003ecallable\u003c/code\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2 id=\"improvements\"\u003eImprovements\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003eArray dereferencing and short array syntax: \u003ccode\u003eecho [1, 2, 3][0]\u003c/code\u003e\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003ejson_encode()\u003c/code\u003e now supports these additional flags: \u003ccode\u003eJSON_UNESCAPED_UNICODE\u003c/code\u003e, \u003ccode\u003eJSON_BIGINT_AS_STRING\u003c/code\u003e, \u003ccode\u003eJSON_NUMERIC_CHECK\u003c/code\u003e, \u003ccode\u003eJSON_PRETTY_PRINT\u003c/code\u003e and \u003ccode\u003eJSON_UNESCAPED_SLASHES\u003c/code\u003e.\u003c/li\u003e\n\u003cli\u003eMultibyte support is enabled by default.\u003c/li\u003e\n\u003cli\u003eFaster \u003ccode\u003eunserialize()\u003c/code\u003e and ternary operator performance.\u003c/li\u003e\n\u003cli\u003eIPv6 support.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2 id=\"fixing-the-cruft\"\u003eFixing the cruft\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ccode\u003eext/mysql\u003c/code\u003e, \u003ccode\u003emysqli\u003c/code\u003e and \u003ccode\u003epdo_mysql\u003c/code\u003e now use \u003ccode\u003emysqlnd\u003c/code\u003e by default.\u003c/li\u003e\n\u003cli\u003eRemoved magic quotes, safe mode, register globals, allow call-time pass-by-reference, and more!\u003c/li\u003e\n\u003cli\u003eDefault character set is now \u003ccode\u003eUTF-8\u003c/code\u003e instead of \u003ccode\u003eISO-8859-1\u003c/code\u003e.\u003c/li\u003e\n\u003c/ul\u003e\n",
+        "plain":"The next version of PHP, which saw its first release candidate today, has some really awesome new features. You can see a complete list of changes in the README, but here are the ones that caught my eye.\nClasses  Support for Traits (i.e., mix-ins; addresses the multiple-inheritance problem). Support for chaining from the constructor: (new Class)-\u0026gt;method() Support for Class::{expr}() syntax. Closures inherit $this from the outer scope. Added ReflectionClass::newInstanceWithoutConstructor() to create a new instance of a class without invoking its constructor. Added a new typehint: callable  Improvements  Array dereferencing and short array syntax: echo [1, 2, 3][0] json_encode() now supports these additional flags: JSON_UNESCAPED_UNICODE, JSON_BIGINT_AS_STRING, JSON_NUMERIC_CHECK, JSON_PRETTY_PRINT and JSON_UNESCAPED_SLASHES. Multibyte support is enabled by default. Faster unserialize() and ternary operator performance. IPv6 support.  Fixing the cruft  ext/mysql, mysqli and pdo_mysql now use mysqlnd by default. Removed magic quotes, safe mode, register globals, allow call-time pass-by-reference, and more! Default character set is now UTF-8 instead of ISO-8859-1.  ",
+        "source":"\nThe next version of PHP, which saw its first release candidate today, has some really awesome new features. You can see a complete list of changes in the [README]({{% wayback \"https://cdn.ryanparman.com/wp-content/uploads/2011/11/NEWS_5_4_0_RC1.txt\" %}}), but here are the ones that caught my eye.\n\n## Classes\n\n* Support for Traits (i.e., mix-ins; addresses the multiple-inheritance problem).\n* Support for chaining from the constructor: `(new Class)-\u003emethod()`\n* Support for `Class::{expr}()` syntax.\n* Closures inherit `$this` from the outer scope.\n* Added `ReflectionClass::newInstanceWithoutConstructor()` to create a new instance of a class without invoking its constructor.\n* Added a new typehint: `callable`\n\n## Improvements\n\n* Array dereferencing and short array syntax: `echo [1, 2, 3][0]`\n* `json_encode()` now supports these additional flags: `JSON_UNESCAPED_UNICODE`, `JSON_BIGINT_AS_STRING`, `JSON_NUMERIC_CHECK`, `JSON_PRETTY_PRINT` and `JSON_UNESCAPED_SLASHES`.\n* Multibyte support is enabled by default.\n* Faster `unserialize()` and ternary operator performance.\n* IPv6 support.\n\n## Fixing the cruft\n\n* `ext/mysql`, `mysqli` and `pdo_mysql` now use `mysqlnd` by default.\n* Removed magic quotes, safe mode, register globals, allow call-time pass-by-reference, and more!\n* Default character set is now `UTF-8` instead of `ISO-8859-1`.\n\n"},
+    "links": {
+        "prev": {"title": "How to make technical professionals not hate your guts: A guide for technical recruiters", "permalink": "https://ryanparman.com/posts/2011/how-to-make-technical-professionals-not-hate-your-guts-a-guide-for-technical-recruiters/"},
+        "next": {"title": "Clueless Recruiters, Issue #2", "permalink": "https://ryanparman.com/posts/2011/clueless-recruiters-issue-2/"},
+        "ignore": "me"
+    }
+}
+
+}

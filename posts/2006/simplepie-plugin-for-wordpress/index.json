@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "SimplePie Plugin for Wordpress",
+    "description": "",
+    "summary": {
+        "content": "When we launched SimplePie Beta 2 last week, we launched with a couple of plugins. The first is a SimplePie Plugin for Wordpress, the ever-popular blogging tool from the fine folks at automattic. This plugin adds a single function to your Wordpress function ensemble that makes it simple to add SimplePie to your Wordpress templates. The other was the SimplePie Plugin for MediaWiki, the wiki software that powers the popular Wikipedia, by adding support for the \u0026lt;feed\u0026gt; tag in your wiki pages.",
+        "isTruncated": true
+    },
+    "published": "2006-06-07T16:50:24Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/simplepie-plugin-for-wordpress/",
+    "relativePermalink": "/posts/2006/simplepie-plugin-for-wordpress/",
+    "aliases": ["/2006/06/07/simplepie-plugin-for-wordpress/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 99,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060607-simplepie-plugin-for-wordpress.md",
+        "logicalName": "20060607-simplepie-plugin-for-wordpress.md",
+        "translationBaseName": "20060607-simplepie-plugin-for-wordpress",
+        "baseFileName": "20060607-simplepie-plugin-for-wordpress",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eWhen we launched SimplePie Beta 2 last week, we launched with a couple of plugins. The first is a SimplePie Plugin for Wordpress, the ever-popular blogging tool from the fine folks at automattic. This plugin adds a single function to your Wordpress function ensemble that makes it simple to add SimplePie to your Wordpress templates. The other was the SimplePie Plugin for MediaWiki, the wiki software that powers the popular Wikipedia, by adding support for the \u003ccode\u003e\u0026lt;feed\u0026gt;\u003c/code\u003e tag in your wiki pages. If you’re using either of these software packages, check out these plugins!\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20060607165024/http://simplepie.org/docs/installation/wordpress/\"\u003eread more\u003c/a\u003e | \u003ca href=\"https://web.archive.org/web/20060607165024/http://digg.com/software/SimplePie_Plugin_for_Wordpress\"\u003edigg story\u003c/a\u003e\u003c/p\u003e\n",
+        "plain":"When we launched SimplePie Beta 2 last week, we launched with a couple of plugins. The first is a SimplePie Plugin for Wordpress, the ever-popular blogging tool from the fine folks at automattic. This plugin adds a single function to your Wordpress function ensemble that makes it simple to add SimplePie to your Wordpress templates. The other was the SimplePie Plugin for MediaWiki, the wiki software that powers the popular Wikipedia, by adding support for the \u0026lt;feed\u0026gt; tag in your wiki pages. If you’re using either of these software packages, check out these plugins!\nread more | digg story\n",
+        "source":"\nWhen we launched SimplePie Beta 2 last week, we launched with a couple of plugins. The first is a SimplePie Plugin for Wordpress, the ever-popular blogging tool from the fine folks at automattic. This plugin adds a single function to your Wordpress function ensemble that makes it simple to add SimplePie to your Wordpress templates. The other was the SimplePie Plugin for MediaWiki, the wiki software that powers the popular Wikipedia, by adding support for the `\u003cfeed\u003e` tag in your wiki pages. If you’re using either of these software packages, check out these plugins!\n\n[read more]({{% wayback \"http://simplepie.org/docs/installation/wordpress/\" %}}) | [digg story]({{% wayback \"http://digg.com/software/SimplePie_Plugin_for_Wordpress\" %}})\n"},
+    "links": {
+        "prev": {"title": "SimplePie Beta 2 is now available!", "permalink": "https://ryanparman.com/posts/2006/simplepie-beta-2-is-now-available/"},
+        "next": {"title": "Google Toolbar Awesomeness!", "permalink": "https://ryanparman.com/posts/2006/google-toolbar-awesomeness/"},
+        "ignore": "me"
+    }
+}
+
+}

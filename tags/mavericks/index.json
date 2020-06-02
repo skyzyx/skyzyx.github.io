@@ -1,0 +1,115 @@
+{
+    "data": {
+        
+        
+        "taxonomy": "tag",
+        "term": "mavericks",
+        
+        "count": 2,
+        "items": [
+            
+            {
+    "kind": "page",
+    "title": "Apple’s 2013 iPad Announcement",
+    "description": "",
+    "summary": {
+        "content": "Last month, when writing about Apple’s Fall 2013 Product Announcement, I’d guessed at a few announcements that they didn’t end up making. Today, Apple announced all of those things and more. OS X Mavericks OS X 10.9 ”Mavericks”. Available today. Free (down from $19.99 last year). MacBook Air Lighter and faster than the last model. Faster 802.11ac wireless networking, Bluetooth 4.0 and Thunderbolt 2. Available today. Starting at $999. MacBook Pro with Retina Display Lighter and faster than the last model.",
+        "isTruncated": true
+    },
+    "published": "2013-10-22T18:29:02Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2013/apples-2013-ipad-announcement/",
+    "relativePermalink": "/posts/2013/apples-2013-ipad-announcement/",
+    "aliases": ["/2013/10/22/apples-2013-ipad-announcement/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Apple"],
+    "tags": ["apple", "macos", "mavericks", "macbook air", "macbook pro", "retina", "mac pro", "ipad air", "ipad mini"],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 379,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2013/20131022-apples-2013-ipad-announcement.md",
+        "logicalName": "20131022-apples-2013-ipad-announcement.md",
+        "translationBaseName": "20131022-apples-2013-ipad-announcement",
+        "baseFileName": "20131022-apples-2013-ipad-announcement",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2013/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003ca href=\"#os-x-mavericks\"\u003eOS X Mavericks\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#macbook-air\"\u003eMacBook Air\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#macbook-pro-with-retina-display\"\u003eMacBook Pro with Retina Display\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#macbook-pro-non-retina\"\u003eMacBook Pro (non-Retina)\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#mac-pro\"\u003eMac Pro\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#ilife-and-iwork-for-ios-and-os-x\"\u003eiLife and iWork (for iOS and OS X)\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#ipad-air\"\u003eiPad Air\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#ipad-mini-with-retina-display\"\u003eiPad mini with Retina Display\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#ipad\"\u003eiPad\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#what-was-not-announced-andor-what-we-didnt-get\"\u003eWhat was not announced and/or what we didn’t get\u003c/a\u003e\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/nav\u003e",
+        "html":"\u003cp\u003eLast month, when writing about \u003ca href=\"/2013/09/10/apples-fall-2013-product-announcement/\"\u003eApple’s Fall 2013 Product Announcement\u003c/a\u003e, I’d guessed at a few announcements that they didn’t end up making. Today, Apple announced all of those things and more.\u003c/p\u003e\n\u003ch2 id=\"os-x-mavericks\"\u003eOS X Mavericks\u003c/h2\u003e\n\u003cp\u003eOS X 10.9 ”Mavericks”. Available today. Free (down from $19.99 last year).\u003c/p\u003e\n\u003ch2 id=\"macbook-air\"\u003eMacBook Air\u003c/h2\u003e\n\u003cp\u003eLighter and faster than the last model. Faster 802.11ac wireless networking, Bluetooth 4.0 and Thunderbolt 2. Available today. Starting at $999.\u003c/p\u003e\n\u003ch2 id=\"macbook-pro-with-retina-display\"\u003eMacBook Pro with Retina Display\u003c/h2\u003e\n\u003cp\u003eLighter and faster than the last model. Faster 802.11ac wireless networking, Bluetooth 4.0 and Thunderbolt 2. Available today. Starting at $1,299.\u003c/p\u003e\n\u003ch2 id=\"macbook-pro-non-retina\"\u003eMacBook Pro (non-Retina)\u003c/h2\u003e\n\u003cp\u003eQuietly discontinued in favor of the all-Retina lineup.\u003c/p\u003e\n\u003ch2 id=\"mac-pro\"\u003eMac Pro\u003c/h2\u003e\n\u003cp\u003eAn incredibly powerful machine. Faster 802.11ac wireless networking, Bluetooth 4.0 and Thunderbolt 2. Available in December. Starting at $2,999.\u003c/p\u003e\n\u003ch2 id=\"ilife-and-iwork-for-ios-and-os-x\"\u003eiLife and iWork (for iOS and OS X)\u003c/h2\u003e\n\u003cp\u003eNew versions for iOS as well as OS X. Faster, better, simpler, more powerful. Free with any Mac or iOS device purchase.\u003c/p\u003e\n\u003ch2 id=\"ipad-air\"\u003eiPad Air\u003c/h2\u003e\n\u003cp\u003eNew line of iPads, replaces “iPad classic”. Smaller, lighter, faster. MIMO wireless networking. Available November 1. Starting at $499. iPad 2 sticking around for $399.\u003c/p\u003e\n\u003ch2 id=\"ipad-mini-with-retina-display\"\u003eiPad mini with Retina Display\u003c/h2\u003e\n\u003cp\u003eiPad mini with a Retina Display. Starting at $399. Available in November. Last-generation iPad mini sticking around for $299.\u003c/p\u003e\n\u003ch2 id=\"ipad\"\u003eiPad\u003c/h2\u003e\n\u003cp\u003eQuietly discontinued in favor of the iPad Air.\u003c/p\u003e\n\u003ch2 id=\"what-was-not-announced-andor-what-we-didnt-get\"\u003eWhat was not announced and/or what we didn’t get\u003c/h2\u003e\n\u003cp\u003eFor all the rumor and speculation from analysts and pundits, here’s where we landed.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eAnybody with a brain knew that there wouldn’t be an iWatch or iHDTV.\u003c/li\u003e\n\u003cli\u003eNo “Touch ID” fingerprint sensors in the new iPads. \u003ca href=\"https://web.archive.org/web/20131022182902/https://twitter.com/skyzyx/status/384494631204831233\"\u003eWe’ll be unlocking our iPads like neanderthals for the foreseeable future\u003c/a\u003e.\u003c/li\u003e\n\u003cli\u003eNo iMac or Mac mini updates.\u003c/li\u003e\n\u003cli\u003eNo Apple TV updates.\u003c/li\u003e\n\u003cli\u003eNo updates to the Thunderbolt display. (I was secretly wishing for a Retina-capable Thunderbolt display with 4K resolution.)\u003c/li\u003e\n\u003cli\u003eiPad Air gets the same larger-pixel update as the iPhone 5s got for better indoor shots, but stays at 5 MP.\u003c/li\u003e\n\u003cli\u003eiPad Air and iPad mini are still on 802.11n wireless networking speeds, but the iPad Air makes up for it with dual-signal \u003ca href=\"https://web.archive.org/web/20131022182902/https://secure.wikimedia.org/wikipedia/en/wiki/MIMO\"\u003eMIMO networking\u003c/a\u003e.\u003c/li\u003e\n\u003cli\u003eNo Gold/Champagne-colored iPads.\u003c/li\u003e\n\u003cli\u003eAfter reading through the things that the analysts are saying about Apple, they still have absolutely no idea how Apple works — despite Apple operating like clockwork, year after year.\u003c/li\u003e\n\u003c/ul\u003e\n",
+        "plain":"Last month, when writing about Apple’s Fall 2013 Product Announcement, I’d guessed at a few announcements that they didn’t end up making. Today, Apple announced all of those things and more.\nOS X Mavericks OS X 10.9 ”Mavericks”. Available today. Free (down from $19.99 last year).\nMacBook Air Lighter and faster than the last model. Faster 802.11ac wireless networking, Bluetooth 4.0 and Thunderbolt 2. Available today. Starting at $999.\nMacBook Pro with Retina Display Lighter and faster than the last model. Faster 802.11ac wireless networking, Bluetooth 4.0 and Thunderbolt 2. Available today. Starting at $1,299.\nMacBook Pro (non-Retina) Quietly discontinued in favor of the all-Retina lineup.\nMac Pro An incredibly powerful machine. Faster 802.11ac wireless networking, Bluetooth 4.0 and Thunderbolt 2. Available in December. Starting at $2,999.\niLife and iWork (for iOS and OS X) New versions for iOS as well as OS X. Faster, better, simpler, more powerful. Free with any Mac or iOS device purchase.\niPad Air New line of iPads, replaces “iPad classic”. Smaller, lighter, faster. MIMO wireless networking. Available November 1. Starting at $499. iPad 2 sticking around for $399.\niPad mini with Retina Display iPad mini with a Retina Display. Starting at $399. Available in November. Last-generation iPad mini sticking around for $299.\niPad Quietly discontinued in favor of the iPad Air.\nWhat was not announced and/or what we didn’t get For all the rumor and speculation from analysts and pundits, here’s where we landed.\n Anybody with a brain knew that there wouldn’t be an iWatch or iHDTV. No “Touch ID” fingerprint sensors in the new iPads. We’ll be unlocking our iPads like neanderthals for the foreseeable future. No iMac or Mac mini updates. No Apple TV updates. No updates to the Thunderbolt display. (I was secretly wishing for a Retina-capable Thunderbolt display with 4K resolution.) iPad Air gets the same larger-pixel update as the iPhone 5s got for better indoor shots, but stays at 5 MP. iPad Air and iPad mini are still on 802.11n wireless networking speeds, but the iPad Air makes up for it with dual-signal MIMO networking. No Gold/Champagne-colored iPads. After reading through the things that the analysts are saying about Apple, they still have absolutely no idea how Apple works — despite Apple operating like clockwork, year after year.  ",
+        "source":"\nLast month, when writing about [Apple’s Fall 2013 Product Announcement](/2013/09/10/apples-fall-2013-product-announcement/), I’d guessed at a few announcements that they didn’t end up making. Today, Apple announced all of those things and more.\n\n## OS X Mavericks\n\nOS X 10.9 ”Mavericks”. Available today. Free (down from $19.99 last year).\n\n## MacBook Air\n\nLighter and faster than the last model. Faster 802.11ac wireless networking, Bluetooth 4.0 and Thunderbolt 2. Available today. Starting at $999.\n\n## MacBook Pro with Retina Display\n\nLighter and faster than the last model. Faster 802.11ac wireless networking, Bluetooth 4.0 and Thunderbolt 2. Available today. Starting at $1,299.\n\n## MacBook Pro (non-Retina)\n\nQuietly discontinued in favor of the all-Retina lineup.\n\n## Mac Pro\n\nAn incredibly powerful machine. Faster 802.11ac wireless networking, Bluetooth 4.0 and Thunderbolt 2. Available in December. Starting at $2,999.\n\n## iLife and iWork (for iOS and OS X)\n\nNew versions for iOS as well as OS X. Faster, better, simpler, more powerful. Free with any Mac or iOS device purchase.\n\n## iPad Air\n\nNew line of iPads, replaces “iPad classic”. Smaller, lighter, faster. MIMO wireless networking. Available November 1. Starting at $499. iPad 2 sticking around for $399.\n\n## iPad mini with Retina Display\n\niPad mini with a Retina Display. Starting at $399. Available in November. Last-generation iPad mini sticking around for $299.\n\n## iPad\n\nQuietly discontinued in favor of the iPad Air.\n\n## What was not announced and/or what we didn’t get\n\nFor all the rumor and speculation from analysts and pundits, here’s where we landed.\n\n* Anybody with a brain knew that there wouldn’t be an iWatch or iHDTV.\n* No “Touch ID” fingerprint sensors in the new iPads. [We’ll be unlocking our iPads like neanderthals for the foreseeable future]({{% wayback \"https://twitter.com/skyzyx/status/384494631204831233\" %}}).\n* No iMac or Mac mini updates.\n* No Apple TV updates.\n* No updates to the Thunderbolt display. (I was secretly wishing for a Retina-capable Thunderbolt display with 4K resolution.)\n* iPad Air gets the same larger-pixel update as the iPhone 5s got for better indoor shots, but stays at 5 MP.\n* iPad Air and iPad mini are still on 802.11n wireless networking speeds, but the iPad Air makes up for it with dual-signal [MIMO networking]({{% wayback \"https://secure.wikimedia.org/wikipedia/en/wiki/MIMO\" %}}).\n* No Gold/Champagne-colored iPads.\n* After reading through the things that the analysts are saying about Apple, they still have absolutely no idea how Apple works — despite Apple operating like clockwork, year after year.\n"},
+    "links": {
+        "prev": {"title": "My experience with iOS 7", "permalink": "https://ryanparman.com/posts/2013/my-experience-with-ios-7/"},
+        "next": {"title": "Password security is important. Start treating it like it is.", "permalink": "https://ryanparman.com/posts/2013/password-security-is-important-start-treating-it-like-it-is/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "Apple’s Fall 2013 Product Announcement",
+    "description": "",
+    "summary": {
+        "content": "Apple’s fall product announcement begins at 10am PST; 1pm EST. My guesses? Definitely: Next-gen iPhone 5S, iOS 7, OS X Mavericks, iTunes 11 (with iTunes Radio), updated MacBook Pro. Maybe: New iPads (though I’d bet on spring instead), lower unsubsidized-cost iPhone for other (non-American) countries, updated iMac, updated Thunderbolt 2 display (with USB 3.0). Not a chance: An HDTV, a wrist-watch, a pull-string-to-talk Steve Jobs doll. How’d I do? How good were my predictions?",
+        "isTruncated": true
+    },
+    "published": "2013-09-10T16:49:33Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2013/apples-fall-2013-product-announcement/",
+    "relativePermalink": "/posts/2013/apples-fall-2013-product-announcement/",
+    "aliases": ["/2013/09/10/apples-fall-2013-product-announcement/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Apple"],
+    "tags": ["apple", "iphone", "ios", "macos", "mavericks", "itunes", "macbook pro"],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 147,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2013/20130910-apples-fall-2013-product-announcement.md",
+        "logicalName": "20130910-apples-fall-2013-product-announcement.md",
+        "translationBaseName": "20130910-apples-fall-2013-product-announcement",
+        "baseFileName": "20130910-apples-fall-2013-product-announcement",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2013/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003ca href=\"#my-guesses\"\u003eMy guesses?\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#howd-i-do\"\u003eHow’d I do?\u003c/a\u003e\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/nav\u003e",
+        "html":"\u003cp\u003eApple’s \u003ca href=\"https://web.archive.org/web/20130910164933/http://live.theverge.com/apple-iphone-5s-liveblog/\"\u003efall product announcement\u003c/a\u003e begins at 10am PST; 1pm EST.\u003c/p\u003e\n\u003ch2 id=\"my-guesses\"\u003eMy guesses?\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eDefinitely:\u003c/strong\u003e Next-gen iPhone 5S, iOS 7, OS X Mavericks, iTunes 11 (with iTunes Radio), updated MacBook Pro.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eMaybe:\u003c/strong\u003e New iPads (though I’d bet on spring instead), lower unsubsidized-cost iPhone for other (non-American) countries, updated iMac, updated Thunderbolt 2 display (with USB 3.0).\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eNot a chance:\u003c/strong\u003e An HDTV, a wrist-watch, a pull-string-to-talk Steve Jobs doll.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2 id=\"howd-i-do\"\u003eHow’d I do?\u003c/h2\u003e\n\u003cp\u003eHow good were my predictions? Well, this event was a little shorter than I was expecting and they only covered iPhone-related stuff.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003eNext-gen \u003ca href=\"https://web.archive.org/web/20130910164933/http://www.apple.com/iphone-5s/\"\u003eiPhone 5S\u003c/a\u003e. Check.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20130910164933/http://www.apple.com/ios/\"\u003eiOS 7\u003c/a\u003e. Check.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20130910164933/http://www.apple.com/itunes/itunes-radio/\"\u003eiTunes Radio\u003c/a\u003e. Sort-of. It got coverage on the website, but not the event.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20130910164933/http://www.apple.com/iphone-5c/\"\u003eLower unsubsidized-cost iPhone\u003c/a\u003e for other (non-American) countries. I’m going to say I was wrong. Instead, Apple changed their strategy and created a slightly-modified iPhone 5 called the \u003cem\u003e5c\u003c/em\u003e.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eNew MacBook Pro. I was also wrong here.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n",
+        "plain":"Apple’s fall product announcement begins at 10am PST; 1pm EST.\nMy guesses?   Definitely: Next-gen iPhone 5S, iOS 7, OS X Mavericks, iTunes 11 (with iTunes Radio), updated MacBook Pro.\n  Maybe: New iPads (though I’d bet on spring instead), lower unsubsidized-cost iPhone for other (non-American) countries, updated iMac, updated Thunderbolt 2 display (with USB 3.0).\n  Not a chance: An HDTV, a wrist-watch, a pull-string-to-talk Steve Jobs doll.\n  How’d I do? How good were my predictions? Well, this event was a little shorter than I was expecting and they only covered iPhone-related stuff.\n  Next-gen iPhone 5S. Check.\n  iOS 7. Check.\n  iTunes Radio. Sort-of. It got coverage on the website, but not the event.\n  Lower unsubsidized-cost iPhone for other (non-American) countries. I’m going to say I was wrong. Instead, Apple changed their strategy and created a slightly-modified iPhone 5 called the 5c.\n  New MacBook Pro. I was also wrong here.\n  ",
+        "source":"\nApple’s [fall product announcement]({{% wayback \"http://live.theverge.com/apple-iphone-5s-liveblog/\" %}}) begins at 10am PST; 1pm EST.\n\n## My guesses?\n\n* **Definitely:** Next-gen iPhone 5S, iOS 7, OS X Mavericks, iTunes 11 (with iTunes Radio), updated MacBook Pro.\n\n* **Maybe:** New iPads (though I’d bet on spring instead), lower unsubsidized-cost iPhone for other (non-American) countries, updated iMac, updated Thunderbolt 2 display (with USB 3.0).\n\n* **Not a chance:** An HDTV, a wrist-watch, a pull-string-to-talk Steve Jobs doll.\n\n## How’d I do?\n\nHow good were my predictions? Well, this event was a little shorter than I was expecting and they only covered iPhone-related stuff.\n\n* Next-gen [iPhone 5S]({{% wayback \"http://www.apple.com/iphone-5s/\" %}}). Check.\n\n* [iOS 7]({{% wayback \"http://www.apple.com/ios/\" %}}). Check.\n\n* [iTunes Radio]({{% wayback \"http://www.apple.com/itunes/itunes-radio/\" %}}). Sort-of. It got coverage on the website, but not the event.\n\n* [Lower unsubsidized-cost iPhone]({{% wayback \"http://www.apple.com/iphone-5c/\" %}}) for other (non-American) countries. I’m going to say I was wrong. Instead, Apple changed their strategy and created a slightly-modified iPhone 5 called the *5c*.\n\n* New MacBook Pro. I was also wrong here.\n"},
+    "links": {
+        "prev": {"title": "Stephen Elop to become the next Microsoft CEO? I’d buy it.", "permalink": "https://ryanparman.com/posts/2013/stephen-elop-to-become-the-next-microsoft-ceo-id-buy-it/"},
+        "next": {"title": "My experience with iOS 7", "permalink": "https://ryanparman.com/posts/2013/my-experience-with-ios-7/"},
+        "ignore": "me"
+    }
+}
+
+            
+        ]
+    }
+}

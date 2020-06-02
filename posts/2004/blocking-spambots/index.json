@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Blocking Spambots",
+    "description": "",
+    "summary": {
+        "content": "I’ve been using a PHP script called “Blocker” to block unwanted visitors to my website for several months now. It started out as a way to block refer spam from my refer list, and has grown to a full-fledged blocker of IP’s, Hostnames, Referrers, and User Agents. About once a month, I go through my raw access logs and check to see who’s been visiting me (and who I need to block from visiting me again). This morning, I’ve added several new spambots to the list of things to block.",
+        "isTruncated": true
+    },
+    "published": "2004-02-10T19:25:03Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/blocking-spambots/",
+    "relativePermalink": "/posts/2004/blocking-spambots/",
+    "aliases": ["/2004/02/10/blocking-spambots/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 231,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040210-blocking-spambots.md",
+        "logicalName": "20040210-blocking-spambots.md",
+        "translationBaseName": "20040210-blocking-spambots",
+        "baseFileName": "20040210-blocking-spambots",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve been using a PHP script called “Blocker” to block unwanted visitors to my website for several months now. It started out as a way to block refer spam from my refer list, and has grown to a full-fledged blocker of IP’s, Hostnames, Referrers, and User Agents.\u003c/p\u003e\n\u003cp\u003eAbout once a month, I go through my raw access logs and check to see who’s been visiting me (and who I need to block from visiting me again). This morning, I’ve added several new spambots to the list of things to block. If you’re using Blocker already, go to my \u003ca href=\"/downloads/\"\u003edownloads\u003c/a\u003e page and download the latest update. If you’re not using it yet, I suggest you begin to, as it’s helped me in the fight against website spam tremendously. This update has no functional changes, only blocking additions.\u003c/p\u003e\n\u003cp\u003eIf you’ve manually added things you want to block in your copy of Blocker, you’ll have to manually add them to the new version. If you’re blocking spambots, referrers, etc. that are not on my list, email them to me for inclusion in the next release.\u003c/p\u003e\n\u003cp\u003eTwo Bots that I’ve been getting pounded by are the “Turntin” bot and the “Microsoft URL Control” bot. Two weeks ago, Turntin nailed me over 220 times in 48 hours. Microsoft URL Control nailed me about 70 times last night. Both were blocked already before they hit me. Whew!\u003c/p\u003e\n",
+        "plain":"I’ve been using a PHP script called “Blocker” to block unwanted visitors to my website for several months now. It started out as a way to block refer spam from my refer list, and has grown to a full-fledged blocker of IP’s, Hostnames, Referrers, and User Agents.\nAbout once a month, I go through my raw access logs and check to see who’s been visiting me (and who I need to block from visiting me again). This morning, I’ve added several new spambots to the list of things to block. If you’re using Blocker already, go to my downloads page and download the latest update. If you’re not using it yet, I suggest you begin to, as it’s helped me in the fight against website spam tremendously. This update has no functional changes, only blocking additions.\nIf you’ve manually added things you want to block in your copy of Blocker, you’ll have to manually add them to the new version. If you’re blocking spambots, referrers, etc. that are not on my list, email them to me for inclusion in the next release.\nTwo Bots that I’ve been getting pounded by are the “Turntin” bot and the “Microsoft URL Control” bot. Two weeks ago, Turntin nailed me over 220 times in 48 hours. Microsoft URL Control nailed me about 70 times last night. Both were blocked already before they hit me. Whew!\n",
+        "source":"\nI’ve been using a PHP script called “Blocker” to block unwanted visitors to my website for several months now. It started out as a way to block refer spam from my refer list, and has grown to a full-fledged blocker of IP’s, Hostnames, Referrers, and User Agents.\n\nAbout once a month, I go through my raw access logs and check to see who’s been visiting me (and who I need to block from visiting me again). This morning, I’ve added several new spambots to the list of things to block. If you’re using Blocker already, go to my [downloads](/downloads/) page and download the latest update. If you’re not using it yet, I suggest you begin to, as it’s helped me in the fight against website spam tremendously. This update has no functional changes, only blocking additions.\n\nIf you’ve manually added things you want to block in your copy of Blocker, you’ll have to manually add them to the new version. If you’re blocking spambots, referrers, etc. that are not on my list, email them to me for inclusion in the next release.\n\nTwo Bots that I’ve been getting pounded by are the “Turntin” bot and the “Microsoft URL Control” bot. Two weeks ago, Turntin nailed me over 220 times in 48 hours. Microsoft URL Control nailed me about 70 times last night. Both were blocked already before they hit me. Whew!\n"},
+    "links": {
+        "prev": {"title": "Extensibly Extensible", "permalink": "https://ryanparman.com/posts/2004/extensibly-extensible/"},
+        "next": {"title": "Tweaking My RSS/Atom Feed Reader", "permalink": "https://ryanparman.com/posts/2004/tweaking-my-rssatom-feed-reader/"},
+        "ignore": "me"
+    }
+}
+
+}

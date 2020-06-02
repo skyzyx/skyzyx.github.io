@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Eolas, Eolas, Eolas...",
+    "description": "",
+    "summary": {
+        "content": "I first started reading articles on the new changes to Internet Explorer (due to the Eolas patent case) beginning last night. Much more was written by this morning. Here are the articles I’ve come across so far… “Get Ready for IE Changes” - What Do I Know? “Eolas Fallout” - Mezzoblue “Changes to IE” - All In The \u0026lt;head\u0026gt; “The Eolas matter” - Sidesh0w “Changes to Internet Explorer” - Gemal’s Psyched Site “Dance, Microsoft, Dance!” - YoungPup “Microsoft tweaks Explorer to address ruling” - News.",
+        "isTruncated": true
+    },
+    "published": "2003-10-07T19:47:35Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/eolas-eolas-eolas/",
+    "relativePermalink": "/posts/2003/eolas-eolas-eolas/",
+    "aliases": ["/2003/10/07/eolas-eolas-eolas/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 186,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20031007-eolas-eolas-eolas.md",
+        "logicalName": "20031007-eolas-eolas-eolas.md",
+        "translationBaseName": "20031007-eolas-eolas-eolas",
+        "baseFileName": "20031007-eolas-eolas-eolas",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI first started reading articles on the new changes to Internet Explorer (due to the Eolas patent case) beginning last night. Much more was written by this morning. Here are the articles I’ve come across so far…\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031007194735/http://www.whatdoiknow.org/archives/001254.shtml\"\u003e“Get Ready for IE Changes” - What Do I Know?\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031007194735/http://www.mezzoblue.com/archives/2003/10/06/eolas_fallou/index.php\"\u003e“Eolas Fallout” - Mezzoblue\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031007194735/http://www.allinthehead.com/index.php?id=114\"\u003e“Changes to IE” - All In The \u0026lt;head\u0026gt;\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031007194735/http://www.sidesh0w.com/weblog/2003/10/06/the_eolas_matter.html\"\u003e“The Eolas matter” - Sidesh0w\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031007194735/http://www.gemal.dk/archives/000307.html\"\u003e“Changes to Internet Explorer” - Gemal’s Psyched Site\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031007194735/http://www.youngpup.net/?request=/news/2003-10-07\"\u003e“Dance, Microsoft, Dance!” - YoungPup\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031007194735/http://rss.com.com/2100-1012_3-5087787.html?part=rss\u0026amp;tag=feed\u0026amp;subj=news\"\u003e“Microsoft tweaks Explorer to address ruling” - News.com\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031007194735/http://www.mozillazine.org/talkback.html?article=3786\"\u003e“Microsoft Details Changes to Internet Explorer in Wake of Eolas Suit, Mozilla Foundation Issues Statement” - MozillaZine\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eAlso, there are some technical documents regarding how to alter your web content so that the user experience continues to remain seamless coming from \u003ca href=\"https://web.archive.org/web/20031007194735/http://msdn.microsoft.com/ieupdate/activexchanges.asp\"\u003eMicrosoft\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20031007194735/http://developer.apple.com/internet/ieembedfix.html\"\u003eApple\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20031007194735/http://www.realnetworks.com/resources/howto/embedded/iechanges/index.html\"\u003eReal Networks\u003c/a\u003e and \u003ca href=\"https://web.archive.org/web/20031007194735/http://www.macromedia.com/devnet/activecontent/\"\u003eMacromedia\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eFirst SCO and their UNIX scam, and now Eolas. What’s next? Will Nintendo claim to have a patent on the GUI?\u003c/p\u003e\n\u003cp\u003eI think \u003ca href=\"https://web.archive.org/web/20031007194735/http://www.whatdoiknow.org\"\u003eTodd Dominey\u003c/a\u003e says it best:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eWhichever way, the new workarounds will lead to page bloat, additional server-calls, confusion, and additional monetary expense/time suckage for businesses and web developers everywhere. Yay Eolas.\u003c/p\u003e\n\u003c/blockquote\u003e\n",
+        "plain":"I first started reading articles on the new changes to Internet Explorer (due to the Eolas patent case) beginning last night. Much more was written by this morning. Here are the articles I’ve come across so far…\n “Get Ready for IE Changes” - What Do I Know? “Eolas Fallout” - Mezzoblue “Changes to IE” - All In The \u0026lt;head\u0026gt; “The Eolas matter” - Sidesh0w “Changes to Internet Explorer” - Gemal’s Psyched Site “Dance, Microsoft, Dance!” - YoungPup “Microsoft tweaks Explorer to address ruling” - News.com “Microsoft Details Changes to Internet Explorer in Wake of Eolas Suit, Mozilla Foundation Issues Statement” - MozillaZine  Also, there are some technical documents regarding how to alter your web content so that the user experience continues to remain seamless coming from Microsoft, Apple, Real Networks and Macromedia.\nFirst SCO and their UNIX scam, and now Eolas. What’s next? Will Nintendo claim to have a patent on the GUI?\nI think Todd Dominey says it best:\n Whichever way, the new workarounds will lead to page bloat, additional server-calls, confusion, and additional monetary expense/time suckage for businesses and web developers everywhere. Yay Eolas.\n ",
+        "source":"\nI first started reading articles on the new changes to Internet Explorer (due to the Eolas patent case) beginning last night. Much more was written by this morning. Here are the articles I’ve come across so far…\n\n* [“Get Ready for IE Changes” - What Do I Know?]({{% wayback \"http://www.whatdoiknow.org/archives/001254.shtml\" %}})\n* [“Eolas Fallout” - Mezzoblue]({{% wayback \"http://www.mezzoblue.com/archives/2003/10/06/eolas_fallou/index.php\" %}})\n* [“Changes to IE” - All In The \u0026lt;head\u0026gt;]({{% wayback \"http://www.allinthehead.com/index.php?id=114\" %}})\n* [“The Eolas matter” - Sidesh0w]({{% wayback \"http://www.sidesh0w.com/weblog/2003/10/06/the_eolas_matter.html\" %}})\n* [“Changes to Internet Explorer” - Gemal’s Psyched Site]({{% wayback \"http://www.gemal.dk/archives/000307.html\" %}})\n* [“Dance, Microsoft, Dance!” - YoungPup]({{% wayback \"http://www.youngpup.net/?request=/news/2003-10-07\" %}})\n* [“Microsoft tweaks Explorer to address ruling” - News.com]({{% wayback \"http://rss.com.com/2100-1012_3-5087787.html?part=rss\u0026tag=feed\u0026subj=news\" %}})\n* [“Microsoft Details Changes to Internet Explorer in Wake of Eolas Suit, Mozilla Foundation Issues Statement” - MozillaZine]({{% wayback \"http://www.mozillazine.org/talkback.html?article=3786\" %}})\n\nAlso, there are some technical documents regarding how to alter your web content so that the user experience continues to remain seamless coming from [Microsoft]({{% wayback \"http://msdn.microsoft.com/ieupdate/activexchanges.asp\" %}}), [Apple]({{% wayback \"http://developer.apple.com/internet/ieembedfix.html\" %}}), [Real Networks]({{% wayback \"http://www.realnetworks.com/resources/howto/embedded/iechanges/index.html\" %}}) and [Macromedia]({{% wayback \"http://www.macromedia.com/devnet/activecontent/\" %}}).\n\nFirst SCO and their UNIX scam, and now Eolas. What’s next? Will Nintendo claim to have a patent on the GUI?\n\nI think [Todd Dominey]({{% wayback \"http://www.whatdoiknow.org\" %}}) says it best:\n\n\u003e Whichever way, the new workarounds will lead to page bloat, additional server-calls, confusion, and additional monetary expense/time suckage for businesses and web developers everywhere. Yay Eolas.\n"},
+    "links": {
+        "prev": {"title": "Blogs + RSS", "permalink": "https://ryanparman.com/posts/2003/blogs-rss/"},
+        "next": {"title": "Acronym MT Plug-in", "permalink": "https://ryanparman.com/posts/2003/acronym-mt-plug-in/"},
+        "ignore": "me"
+    }
+}
+
+}

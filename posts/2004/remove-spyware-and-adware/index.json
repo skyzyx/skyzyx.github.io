@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Remove Spyware and Adware",
+    "description": "",
+    "summary": {
+        "content": "I’ve been very fortunate to have never been hit with spy/ad-ware. I’ve always been careful, and I’ve tried to teach my wife what actions are smart and which ones are not. Last night, however, I was looking for some information and ended up downloading a file from a shady website. After scanning the file and finding no viruses, I ran the executable. How stupid. It immediately began installing adware and my antivirus app began showing warnings of a trojan being installed.",
+        "isTruncated": true
+    },
+    "published": "2004-12-30T18:39:40Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/remove-spyware-and-adware/",
+    "relativePermalink": "/posts/2004/remove-spyware-and-adware/",
+    "aliases": ["/2004/12/30/remove-spyware-and-adware/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Software"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 330,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20041230-remove-spyware-and-adware.md",
+        "logicalName": "20041230-remove-spyware-and-adware.md",
+        "translationBaseName": "20041230-remove-spyware-and-adware",
+        "baseFileName": "20041230-remove-spyware-and-adware",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve been very fortunate to have never been hit with spy/ad-ware. I’ve always been careful, and I’ve tried to teach my wife what actions are smart and which ones are not. Last night, however, I was looking for some information and ended up downloading a file from a shady website.\u003c/p\u003e\n\u003cp\u003eAfter scanning the file and finding no viruses, I ran the executable. How stupid. It immediately began installing adware and my antivirus app began showing warnings of a trojan being installed. I quarantined the files that were causing problems, and while I was doing that, a few more non-cancellable installers ran before I could stop them. I immediately pulled the power plug from the wall.\u003c/p\u003e\n\u003cp\u003eIt took me about 2 hours to get everything worked out last night, but in the end I learned two things: (A) Don’t be a freakin’ moron, you freakin’ moron, and (B) there are some really good anti-adware tools out there that I didn’t know about. Here are a few useful tools/apps that I want to share with those that may not know about them:\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20041230183940/http://scribbling.net/how-to-fix-moms-computer\"\u003eHow to fix mom’s computer\u003c/a\u003e. Sounds like what I did over the holidays. Use this guide to fix your parents (or your own) adware-infested computer.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20041230183940/http://www.dslreports.com/scan\"\u003eOnline Port Scan\u003c/a\u003e. This free online utility checks your computer for ports that may be open to attack.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20041230183940/http://www.lavasoft.de/\"\u003eAd-Aware\u003c/a\u003e. Spyware scan and removal utility.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20041230183940/http://www.zonelabs.com\"\u003eZoneAlarm\u003c/a\u003e. A very good software firewall application and AntiVirus application. Free version available.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20041230183940/http://www.safer-networking.org/en/download/index.html\"\u003eSpybot Search \u0026amp; Destroy\u003c/a\u003e. This application prevents bad software from being installed in the first place.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20041230183940/http://www.free-av.com/\"\u003eAntiVir\u003c/a\u003e. A free AntiVirus application for Windows, protecting against over 80,000 viruses. (I’ve already got Norton AntiVirus, and ZoneAlarm has their own AV app)\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20041230183940/http://www.spywareinfo.com/~merijn/\"\u003eHijack-This\u003c/a\u003e. This application tracks what processes are currently running. Great for detecting malware.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eI’ve now learned that it doesn’t matter how good you are. If you’re willing to take a risk, you need to be willing to accept the consequences of that risk. Anyway, I hope this helps.\u003c/p\u003e\n",
+        "plain":"I’ve been very fortunate to have never been hit with spy/ad-ware. I’ve always been careful, and I’ve tried to teach my wife what actions are smart and which ones are not. Last night, however, I was looking for some information and ended up downloading a file from a shady website.\nAfter scanning the file and finding no viruses, I ran the executable. How stupid. It immediately began installing adware and my antivirus app began showing warnings of a trojan being installed. I quarantined the files that were causing problems, and while I was doing that, a few more non-cancellable installers ran before I could stop them. I immediately pulled the power plug from the wall.\nIt took me about 2 hours to get everything worked out last night, but in the end I learned two things: (A) Don’t be a freakin’ moron, you freakin’ moron, and (B) there are some really good anti-adware tools out there that I didn’t know about. Here are a few useful tools/apps that I want to share with those that may not know about them:\n  How to fix mom’s computer. Sounds like what I did over the holidays. Use this guide to fix your parents (or your own) adware-infested computer.\n  Online Port Scan. This free online utility checks your computer for ports that may be open to attack.\n  Ad-Aware. Spyware scan and removal utility.\n  ZoneAlarm. A very good software firewall application and AntiVirus application. Free version available.\n  Spybot Search \u0026amp; Destroy. This application prevents bad software from being installed in the first place.\n  AntiVir. A free AntiVirus application for Windows, protecting against over 80,000 viruses. (I’ve already got Norton AntiVirus, and ZoneAlarm has their own AV app)\n  Hijack-This. This application tracks what processes are currently running. Great for detecting malware.\n  I’ve now learned that it doesn’t matter how good you are. If you’re willing to take a risk, you need to be willing to accept the consequences of that risk. Anyway, I hope this helps.\n",
+        "source":"\nI’ve been very fortunate to have never been hit with spy/ad-ware. I’ve always been careful, and I’ve tried to teach my wife what actions are smart and which ones are not. Last night, however, I was looking for some information and ended up downloading a file from a shady website.\n\nAfter scanning the file and finding no viruses, I ran the executable. How stupid. It immediately began installing adware and my antivirus app began showing warnings of a trojan being installed. I quarantined the files that were causing problems, and while I was doing that, a few more non-cancellable installers ran before I could stop them. I immediately pulled the power plug from the wall.\n\nIt took me about 2 hours to get everything worked out last night, but in the end I learned two things: (A) Don’t be a freakin’ moron, you freakin’ moron, and (B) there are some really good anti-adware tools out there that I didn’t know about. Here are a few useful tools/apps that I want to share with those that may not know about them:\n\n1. [How to fix mom’s computer]({{% wayback \"http://scribbling.net/how-to-fix-moms-computer\" %}}). Sounds like what I did over the holidays. Use this guide to fix your parents (or your own) adware-infested computer.\n\n2. [Online Port Scan]({{% wayback \"http://www.dslreports.com/scan\" %}}). This free online utility checks your computer for ports that may be open to attack.\n\n3. [Ad-Aware]({{% wayback \"http://www.lavasoft.de/\" %}}). Spyware scan and removal utility.\n\n4. [ZoneAlarm]({{% wayback \"http://www.zonelabs.com\" %}}). A very good software firewall application and AntiVirus application. Free version available.\n\n5. [Spybot Search \u0026 Destroy]({{% wayback \"http://www.safer-networking.org/en/download/index.html\" %}}). This application prevents bad software from being installed in the first place.\n\n6. [AntiVir]({{% wayback \"http://www.free-av.com/\" %}}). A free AntiVirus application for Windows, protecting against over 80,000 viruses. (I’ve already got Norton AntiVirus, and ZoneAlarm has their own AV app)\n\n7. [Hijack-This]({{% wayback \"http://www.spywareinfo.com/~merijn/\" %}}). This application tracks what processes are currently running. Great for detecting malware.\n\nI’ve now learned that it doesn’t matter how good you are. If you’re willing to take a risk, you need to be willing to accept the consequences of that risk. Anyway, I hope this helps.\n"},
+    "links": {
+        "prev": {"title": "God Came Near", "permalink": "https://ryanparman.com/posts/2004/god-came-near/"},
+        "next": {"title": "Happiness Is...", "permalink": "https://ryanparman.com/posts/2005/happiness-is/"},
+        "ignore": "me"
+    }
+}
+
+}

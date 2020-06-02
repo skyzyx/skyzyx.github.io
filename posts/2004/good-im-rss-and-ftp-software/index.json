@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Good IM, RSS, and FTP Software",
+    "description": "",
+    "summary": {
+        "content": "It’s almost 2am, so I really need to get to bed. Before that, however, I’d like to share some really good new software I’ve come across lately. The first is Gaim. Gaim is an IM client for Windows/Linux that can log into AIM, ICQ, MSN, Yahoo, Jabber, and others. I know that a lot of people use Trillian, and it already does that. Two features that make me suggest Gaim over Trillian are: You can give people real names (you can set aliases), rather than being stuck with screen names.",
+        "isTruncated": true
+    },
+    "published": "2004-07-23T10:34:18Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/good-im-rss-and-ftp-software/",
+    "relativePermalink": "/posts/2004/good-im-rss-and-ftp-software/",
+    "aliases": ["/2004/07/23/good-im-rss-and-ftp-software/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Software"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 322,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040723-good-im-rss-and-ftp-software.md",
+        "logicalName": "20040723-good-im-rss-and-ftp-software.md",
+        "translationBaseName": "20040723-good-im-rss-and-ftp-software",
+        "baseFileName": "20040723-good-im-rss-and-ftp-software",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eIt’s almost 2am, so I really need to get to bed. Before that, however, I’d like to share some really good new software I’ve come across lately.\u003c/p\u003e\n\u003cp\u003eThe first is \u003ca href=\"https://web.archive.org/web/20040723103418/http://gaim.sourceforge.net\"\u003eGaim\u003c/a\u003e. Gaim is an IM client for Windows/Linux that can log into AIM, ICQ, MSN, Yahoo, Jabber, and others. I know that a lot of people use Trillian, and it already does that. Two features that make me suggest Gaim over Trillian are:\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003eYou can give people real names (you can set aliases), rather than being stuck with screen names.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eYou can group multiple screen names together as a single person. This is very helpful if some of your buddies have multiple screen names, or are logged on to multiple services at once. Instead of listing your best friend 5 times, you only see them once in your buddy list. Very handy.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eThe next is \u003ca href=\"https://web.archive.org/web/20040723103418/http://www.adiumx.com\"\u003eAdium X\u003c/a\u003e. Adium X is an IM client for Mac OS X. It is very customizable, and the development team seems to want to create a fun product… which is what they’ve done. You can customize sound sets, smileys, IM message display, the Dock icon, and a few other things.\u003c/p\u003e\n\u003cp\u003eFor RSS readers, I’d suggest \u003ca href=\"https://web.archive.org/web/20040723103418/http://www.feeddemon.com\"\u003eFeed Demon\u003c/a\u003e for Windows and \u003ca href=\"https://web.archive.org/web/20040723103418/http://freshsqueeze.com/products/pulpfiction/\"\u003ePulp Fiction\u003c/a\u003e for Mac OS X. Both of them cost money, but they both seem to be worth it. I’ve been using Feed Demon since November, and absolutely love it. I just started using Pulp Fiction tonight, but it’s already better than Shrook and NetNewsWire Lite. There’s a 15 day trial for PF, so I’d recommend checking it out.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20040723103418/http://www.flashfxp.com\"\u003eFlash FXP\u003c/a\u003e is a terrific FTP client for Windows. I used to use CuteFTP and FTP Voyager, and Flash FXP is far better than both. \u003ca href=\"https://web.archive.org/web/20040723103418/http://www.panic.com/transmit/\"\u003eTransmit\u003c/a\u003e was recommended on \u003ca href=\"https://web.archive.org/web/20040723103418/http://www.9rules.com/whitespace/\"\u003eWhitespace\u003c/a\u003e a couple of months back for Mac OS X. I gave it a try, and I love it.\u003c/p\u003e\n\u003cp\u003eThat’s enough promoting for tonight. I’m going to bed. G’nite.\u003c/p\u003e\n",
+        "plain":"It’s almost 2am, so I really need to get to bed. Before that, however, I’d like to share some really good new software I’ve come across lately.\nThe first is Gaim. Gaim is an IM client for Windows/Linux that can log into AIM, ICQ, MSN, Yahoo, Jabber, and others. I know that a lot of people use Trillian, and it already does that. Two features that make me suggest Gaim over Trillian are:\n  You can give people real names (you can set aliases), rather than being stuck with screen names.\n  You can group multiple screen names together as a single person. This is very helpful if some of your buddies have multiple screen names, or are logged on to multiple services at once. Instead of listing your best friend 5 times, you only see them once in your buddy list. Very handy.\n  The next is Adium X. Adium X is an IM client for Mac OS X. It is very customizable, and the development team seems to want to create a fun product… which is what they’ve done. You can customize sound sets, smileys, IM message display, the Dock icon, and a few other things.\nFor RSS readers, I’d suggest Feed Demon for Windows and Pulp Fiction for Mac OS X. Both of them cost money, but they both seem to be worth it. I’ve been using Feed Demon since November, and absolutely love it. I just started using Pulp Fiction tonight, but it’s already better than Shrook and NetNewsWire Lite. There’s a 15 day trial for PF, so I’d recommend checking it out.\nFlash FXP is a terrific FTP client for Windows. I used to use CuteFTP and FTP Voyager, and Flash FXP is far better than both. Transmit was recommended on Whitespace a couple of months back for Mac OS X. I gave it a try, and I love it.\nThat’s enough promoting for tonight. I’m going to bed. G’nite.\n",
+        "source":"\nIt’s almost 2am, so I really need to get to bed. Before that, however, I’d like to share some really good new software I’ve come across lately.\n\nThe first is [Gaim]({{% wayback \"http://gaim.sourceforge.net\" %}}). Gaim is an IM client for Windows/Linux that can log into AIM, ICQ, MSN, Yahoo, Jabber, and others. I know that a lot of people use Trillian, and it already does that. Two features that make me suggest Gaim over Trillian are:\n\n1. You can give people real names (you can set aliases), rather than being stuck with screen names.\n\n1. You can group multiple screen names together as a single person. This is very helpful if some of your buddies have multiple screen names, or are logged on to multiple services at once. Instead of listing your best friend 5 times, you only see them once in your buddy list. Very handy.\n\nThe next is [Adium X]({{% wayback \"http://www.adiumx.com\" %}}). Adium X is an IM client for Mac OS X. It is very customizable, and the development team seems to want to create a fun product… which is what they’ve done. You can customize sound sets, smileys, IM message display, the Dock icon, and a few other things.\n\nFor RSS readers, I’d suggest [Feed Demon]({{% wayback \"http://www.feeddemon.com\" %}}) for Windows and [Pulp Fiction]({{% wayback \"http://freshsqueeze.com/products/pulpfiction/\" %}}) for Mac OS X. Both of them cost money, but they both seem to be worth it. I’ve been using Feed Demon since November, and absolutely love it. I just started using Pulp Fiction tonight, but it’s already better than Shrook and NetNewsWire Lite. There’s a 15 day trial for PF, so I’d recommend checking it out.\n\n[Flash FXP]({{% wayback \"http://www.flashfxp.com\" %}}) is a terrific FTP client for Windows. I used to use CuteFTP and FTP Voyager, and Flash FXP is far better than both. [Transmit]({{% wayback \"http://www.panic.com/transmit/\" %}}) was recommended on [Whitespace]({{% wayback \"http://www.9rules.com/whitespace/\" %}}) a couple of months back for Mac OS X. I gave it a try, and I love it.\n\nThat’s enough promoting for tonight. I’m going to bed. G’nite.\n"},
+    "links": {
+        "prev": {"title": "Psychos Need Not Apply", "permalink": "https://ryanparman.com/posts/2004/psychos-need-not-apply/"},
+        "next": {"title": "Letting Go of Legacy Code", "permalink": "https://ryanparman.com/posts/2004/letting-go-of-legacy-code/"},
+        "ignore": "me"
+    }
+}
+
+}

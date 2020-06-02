@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Conditional Comments in Standalone Internet Explorer",
+    "description": "",
+    "summary": {
+        "content": "This was written by Manfred Staudinger from Vienna, Austria With a small, one-time change, Conditional Comments will work again and recognize the values 5.0 and 6.0, again; however, it will not recognize 5.5. How is it done? Go to the registry and look in HKLM\\Software\\Microsoft\\Internet Explorer\\Version Vector\\ for the key IE. Simply get rid of it by renaming it to zIE — that’s it! As I had installed IE 6.0, I looked into the registry for its version number “6.0.2800.1106” and found 7 entries in HKLM, 3 of them belonging to the key “Internet Explorer”: Wizard Version, Version and Build.",
+        "isTruncated": true
+    },
+    "published": "2005-01-09T17:07:57Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/conditional-comments-in-standalone-internet-explorer/",
+    "relativePermalink": "/posts/2005/conditional-comments-in-standalone-internet-explorer/",
+    "aliases": ["/2005/01/09/conditional-comments-in-standalone-internet-explorer/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 395,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050109-conditional-comments-in-standalone-internet-explorer.md",
+        "logicalName": "20050109-conditional-comments-in-standalone-internet-explorer.md",
+        "translationBaseName": "20050109-conditional-comments-in-standalone-internet-explorer",
+        "baseFileName": "20050109-conditional-comments-in-standalone-internet-explorer",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003e\u003cstrong\u003eThis was written by Manfred Staudinger from Vienna, Austria\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eWith a small, one-time change, Conditional Comments will work again and recognize the values 5.0 and 6.0, again; however, it will not recognize 5.5. How is it done? Go to the registry and look in \u003ccode\u003eHKLM\\Software\\Microsoft\\Internet Explorer\\Version Vector\\\u003c/code\u003e for the key \u003ccode\u003eIE\u003c/code\u003e. Simply get rid of it by renaming it to \u003ccode\u003ezIE\u003c/code\u003e — that’s it!\u003c/p\u003e\n\u003cp\u003eAs I had installed IE 6.0, I looked into the registry for its version number “6.0.2800.1106” and found 7 entries in HKLM, 3 of them belonging to the key “Internet Explorer”: Wizard Version, Version and Build. I looked also into the module iexplore.exe and found this information 4 times. All these 11 occurrences appear to be character data with minor variations in format, but no one was compatible with the design for the Conditional Comments!\u003c/p\u003e\n\u003cp\u003eSo to meet the specifications, a new structure was created, the “Version Vector”. IE reads the information (currently 5.0002, 5.5000, or 6.0000) from there when it is started: if the program cannot find it, it gets the information from the module. This also means that IE has to be closed and restarted to get the change.\u003c/p\u003e\n\u003cp\u003eNow in case of IE 5.5 we can see the incompatibility which forced the creation of a new structure: CC gives true for “gte IE 5.999” and “lte IE 5.9990”! As CC cannot be nested there is no way to identify IE 5.5 properly.\u003c/p\u003e\n\u003cp\u003eFor example the following CC’s will work even with multiple IE’s installed:\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\u003cem\u003e“if IE 6” or “if IE 6.0”\u003c/em\u003e — for use with IE 6.0\u003c/li\u003e\n\u003cli\u003e\u003cem\u003e“if IE 5” or “if lte IE 5.5”\u003c/em\u003e — for use with IE 5.01 and 5.5\u003c/li\u003e\n\u003cli\u003e\u003cem\u003e“if IE 5.0”\u003c/em\u003e — for use with IE 5.01\u003c/li\u003e\n\u003cli\u003e\u003cem\u003e“if gte IE 5.5”\u003c/em\u003e — for use with IE 5.5 and 6.0\u003c/li\u003e\n\u003cli\u003e\u003cem\u003e“if IE” or “if lte IE 6.0”\u003c/em\u003e — for use with IE 5.01, 5.5, and 6.0\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eThis CC will still not work when multiple IE’s are installed:\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\u003cem\u003e“if IE 5.5”\u003c/em\u003e — for use with IE 5.5\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003eTo see this run the above mentioned test. For better understanding CC you might want to read \u003ca href=\"https://web.archive.org/web/20050109170757/http://msdn.microsoft.com/workshop/author/dhtml/overview/ccomment_ovw.asp\"\u003eAbout Conditional Comments\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eI have tested quite a lot on my Win98, but as the whole structure was build exclusively for CC, I would expect no real problems with later versions.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eYou can discuss this further at the \u003ca href=\"https://web.archive.org/web/20050109170757/http://support.skyzyx.net/viewtopic.php?p=45\"\u003eSkyzyx Support Forums\u003c/a\u003e.\u003c/em\u003e\u003c/p\u003e\n",
+        "plain":"This was written by Manfred Staudinger from Vienna, Austria\nWith a small, one-time change, Conditional Comments will work again and recognize the values 5.0 and 6.0, again; however, it will not recognize 5.5. How is it done? Go to the registry and look in HKLM\\Software\\Microsoft\\Internet Explorer\\Version Vector\\ for the key IE. Simply get rid of it by renaming it to zIE — that’s it!\nAs I had installed IE 6.0, I looked into the registry for its version number “6.0.2800.1106” and found 7 entries in HKLM, 3 of them belonging to the key “Internet Explorer”: Wizard Version, Version and Build. I looked also into the module iexplore.exe and found this information 4 times. All these 11 occurrences appear to be character data with minor variations in format, but no one was compatible with the design for the Conditional Comments!\nSo to meet the specifications, a new structure was created, the “Version Vector”. IE reads the information (currently 5.0002, 5.5000, or 6.0000) from there when it is started: if the program cannot find it, it gets the information from the module. This also means that IE has to be closed and restarted to get the change.\nNow in case of IE 5.5 we can see the incompatibility which forced the creation of a new structure: CC gives true for “gte IE 5.999” and “lte IE 5.9990”! As CC cannot be nested there is no way to identify IE 5.5 properly.\nFor example the following CC’s will work even with multiple IE’s installed:\n “if IE 6” or “if IE 6.0” — for use with IE 6.0 “if IE 5” or “if lte IE 5.5” — for use with IE 5.01 and 5.5 “if IE 5.0” — for use with IE 5.01 “if gte IE 5.5” — for use with IE 5.5 and 6.0 “if IE” or “if lte IE 6.0” — for use with IE 5.01, 5.5, and 6.0  This CC will still not work when multiple IE’s are installed:\n “if IE 5.5” — for use with IE 5.5  To see this run the above mentioned test. For better understanding CC you might want to read About Conditional Comments.\nI have tested quite a lot on my Win98, but as the whole structure was build exclusively for CC, I would expect no real problems with later versions.\nYou can discuss this further at the Skyzyx Support Forums.\n",
+        "source":"\n**This was written by Manfred Staudinger from Vienna, Austria**\n\nWith a small, one-time change, Conditional Comments will work again and recognize the values 5.0 and 6.0, again; however, it will not recognize 5.5. How is it done? Go to the registry and look in `HKLM\\Software\\Microsoft\\Internet Explorer\\Version Vector\\` for the key `IE`. Simply get rid of it by renaming it to `zIE` — that’s it!\n\nAs I had installed IE 6.0, I looked into the registry for its version number “6.0.2800.1106” and found 7 entries in HKLM, 3 of them belonging to the key “Internet Explorer”: Wizard Version, Version and Build. I looked also into the module iexplore.exe and found this information 4 times. All these 11 occurrences appear to be character data with minor variations in format, but no one was compatible with the design for the Conditional Comments!\n\nSo to meet the specifications, a new structure was created, the “Version Vector”. IE reads the information (currently 5.0002, 5.5000, or 6.0000) from there when it is started: if the program cannot find it, it gets the information from the module. This also means that IE has to be closed and restarted to get the change.\n\nNow in case of IE 5.5 we can see the incompatibility which forced the creation of a new structure: CC gives true for “gte IE 5.999” and “lte IE 5.9990”! As CC cannot be nested there is no way to identify IE 5.5 properly.\n\nFor example the following CC’s will work even with multiple IE’s installed:\n\n1. *“if IE 6” or “if IE 6.0”* — for use with IE 6.0\n2. *“if IE 5” or “if lte IE 5.5”* — for use with IE 5.01 and 5.5\n3. *“if IE 5.0”* — for use with IE 5.01\n4. *“if gte IE 5.5”* — for use with IE 5.5 and 6.0\n5. *“if IE” or “if lte IE 6.0”* — for use with IE 5.01, 5.5, and 6.0\n\nThis CC will still not work when multiple IE’s are installed:\n\n1. *“if IE 5.5”* — for use with IE 5.5\n\nTo see this run the above mentioned test. For better understanding CC you might want to read [About Conditional Comments]({{% wayback \"http://msdn.microsoft.com/workshop/author/dhtml/overview/ccomment_ovw.asp\" %}}).\n\nI have tested quite a lot on my Win98, but as the whole structure was build exclusively for CC, I would expect no real problems with later versions.\n\n*You can discuss this further at the [Skyzyx Support Forums]({{% wayback \"http://support.skyzyx.net/viewtopic.php?p=45\" %}}).*\n"},
+    "links": {
+        "prev": {"title": "Happiness Is...", "permalink": "https://ryanparman.com/posts/2005/happiness-is/"},
+        "next": {"title": "Do Not Eat iPod shuffle", "permalink": "https://ryanparman.com/posts/2005/do-not-eat-ipod-shuffle/"},
+        "ignore": "me"
+    }
+}
+
+}

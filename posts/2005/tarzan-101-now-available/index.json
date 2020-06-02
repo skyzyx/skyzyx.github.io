@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Tarzan 1.0.1 Now Available!",
+    "description": "",
+    "summary": {
+        "content": "Tarzan 1.0.1 is now available. This is a relatively minor update where only three things were changed: I resolved some localization issues that primarily affected France, Germany, and Japan. If you’re currently localized as an english-speaking country, you probably won’t notice anything new. However, setting the character encoding for your Tarzan-enabled pages to UTF–8 is highly recommended for US, UK, and Canadian installations, and required for French, German, and Japanese installations. I also tweaked the get_rating() function to add /5 to the end of the rating (since it’s out of 5 anyways).",
+        "isTruncated": true
+    },
+    "published": "2005-02-04T04:10:44Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/tarzan-101-now-available/",
+    "relativePermalink": "/posts/2005/tarzan-101-now-available/",
+    "aliases": ["/2005/02/03/tarzan-101-now-available/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 166,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050204-tarzan-101-now-available.md",
+        "logicalName": "20050204-tarzan-101-now-available.md",
+        "translationBaseName": "20050204-tarzan-101-now-available",
+        "baseFileName": "20050204-tarzan-101-now-available",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003e\u003ca href=\"/projects/tarzan/\"\u003eTarzan 1.0.1\u003c/a\u003e is now available. This is a relatively minor update where only three things were changed:\u003c/p\u003e\n\u003cp\u003eI resolved some localization issues that primarily affected France, Germany, and Japan. If you’re currently localized as an english-speaking country, you probably won’t notice anything new. However, setting the character encoding for your Tarzan-enabled pages to UTF–8 is \u003cem\u003ehighly recommended\u003c/em\u003e for US, UK, and Canadian installations, and \u003cem\u003erequired\u003c/em\u003e for French, German, and Japanese installations.\u003c/p\u003e\n\u003cp\u003eI also tweaked the \u003ccode\u003eget_rating()\u003c/code\u003e function to add \u003ccode\u003e/5\u003c/code\u003e to the end of the rating (since it’s out of 5 anyways). If you’re currently adding \u003ccode\u003e/5\u003c/code\u003e or “out of 5” manually after using this function, you should remove it when you upgrade.\u003c/p\u003e\n\u003cp\u003eLastly, I made some very minor, primarily subtle cosmetic changes to the Tarzan Information Page. Mostly just tweaking the margins and padding. I also added the quantity of cached files alongside the cache file size.\u003c/p\u003e\n\u003cp\u003eAs always, you can check out a rough \u003ca href=\"/projects/tarzan/demo.php\"\u003edemo\u003c/a\u003e, ask a \u003ca href=\"https://web.archive.org/web/20050204041044/http://support.skyzyx.net/viewforum.php?f=10\"\u003equestion\u003c/a\u003e, or see a \u003ca href=\"/wishlist/\"\u003ereal live implementation\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":"Tarzan 1.0.1 is now available. This is a relatively minor update where only three things were changed:\nI resolved some localization issues that primarily affected France, Germany, and Japan. If you’re currently localized as an english-speaking country, you probably won’t notice anything new. However, setting the character encoding for your Tarzan-enabled pages to UTF–8 is highly recommended for US, UK, and Canadian installations, and required for French, German, and Japanese installations.\nI also tweaked the get_rating() function to add /5 to the end of the rating (since it’s out of 5 anyways). If you’re currently adding /5 or “out of 5” manually after using this function, you should remove it when you upgrade.\nLastly, I made some very minor, primarily subtle cosmetic changes to the Tarzan Information Page. Mostly just tweaking the margins and padding. I also added the quantity of cached files alongside the cache file size.\nAs always, you can check out a rough demo, ask a question, or see a real live implementation.\n",
+        "source":"\n[Tarzan 1.0.1](/projects/tarzan/) is now available. This is a relatively minor update where only three things were changed:\n\nI resolved some localization issues that primarily affected France, Germany, and Japan. If you’re currently localized as an english-speaking country, you probably won’t notice anything new. However, setting the character encoding for your Tarzan-enabled pages to UTF–8 is *highly recommended* for US, UK, and Canadian installations, and *required* for French, German, and Japanese installations.\n\nI also tweaked the `get_rating()` function to add `/5` to the end of the rating (since it’s out of 5 anyways). If you’re currently adding `/5` or “out of 5” manually after using this function, you should remove it when you upgrade.\n\nLastly, I made some very minor, primarily subtle cosmetic changes to the Tarzan Information Page. Mostly just tweaking the margins and padding. I also added the quantity of cached files alongside the cache file size.\n\nAs always, you can check out a rough [demo](/projects/tarzan/demo.php), ask a [question]({{% wayback \"http://support.skyzyx.net/viewforum.php?f=10\" %}}), or see a [real live implementation](/wishlist/).\n"},
+    "links": {
+        "prev": {"title": "Which Napoleon Dynamite Character Are You?", "permalink": "https://ryanparman.com/posts/2005/which-napoleon-dynamite-character-are-you/"},
+        "next": {"title": "Mac OS X 10.3.8 Is Now Available!", "permalink": "https://ryanparman.com/posts/2005/mac-os-x-1038-is-now-available/"},
+        "ignore": "me"
+    }
+}
+
+}

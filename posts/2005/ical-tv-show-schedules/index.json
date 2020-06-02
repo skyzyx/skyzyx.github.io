@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "iCal TV Show Schedules",
+    "description": "",
+    "summary": {
+        "content": "I’ve looked around for shared iCalendars for my favorite TV shows, but haven’t ever been able to find them. So, I’ve decided to do exactly that. Below are links to my shared calendars for the U.S. schedules for the following shows: 24 Alias House Lost Prison Break Smallville Supernatural Veronica Mars These should work with any iCal-enabled applications, such as iCal, Mozilla Sunbird, Mozilla Calendar, Ximian Evolution, and many others. Microsoft Outlook doesn’t yet support the iCal standard.",
+        "isTruncated": false
+    },
+    "published": "2005-09-05T16:39:38Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/ical-tv-show-schedules/",
+    "relativePermalink": "/posts/2005/ical-tv-show-schedules/",
+    "aliases": ["/2005/09/05/ical-tv-show-schedules/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Music, Movies, TV Shows"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 78,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050905-ical-tv-show-schedules.md",
+        "logicalName": "20050905-ical-tv-show-schedules.md",
+        "translationBaseName": "20050905-ical-tv-show-schedules",
+        "baseFileName": "20050905-ical-tv-show-schedules",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve looked around for shared iCalendars for my favorite TV shows, but haven’t ever been able to find them. So, I’ve decided to do exactly that. Below are links to my shared calendars for the U.S. schedules for the following shows:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"webcal://ical.mac.com/rparman/24.ics\"\u003e24\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"webcal://ical.mac.com/rparman/Alias.ics\"\u003eAlias\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"webcal://ical.mac.com/rparman/House.ics\"\u003eHouse\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"webcal://ical.mac.com/rparman/Lost.ics\"\u003eLost\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"webcal://ical.mac.com/rparman/Prison%20Break.ics\"\u003ePrison Break\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"webcal://ical.mac.com/rparman/Smallville.ics\"\u003eSmallville\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"webcal://ical.mac.com/rparman/Supernatural.ics\"\u003eSupernatural\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"webcal://ical.mac.com/rparman/Veronica%20Mars.ics\"\u003eVeronica Mars\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eThese should work with any iCal-enabled applications, such as iCal, Mozilla Sunbird, Mozilla Calendar, Ximian Evolution, and many others. Microsoft Outlook doesn’t yet support the iCal standard.\u003c/p\u003e\n",
+        "plain":"I’ve looked around for shared iCalendars for my favorite TV shows, but haven’t ever been able to find them. So, I’ve decided to do exactly that. Below are links to my shared calendars for the U.S. schedules for the following shows:\n 24 Alias House Lost Prison Break Smallville Supernatural Veronica Mars  These should work with any iCal-enabled applications, such as iCal, Mozilla Sunbird, Mozilla Calendar, Ximian Evolution, and many others. Microsoft Outlook doesn’t yet support the iCal standard.\n",
+        "source":"\nI’ve looked around for shared iCalendars for my favorite TV shows, but haven’t ever been able to find them. So, I’ve decided to do exactly that. Below are links to my shared calendars for the U.S. schedules for the following shows:\n\n* [24](webcal://ical.mac.com/rparman/24.ics)\n* [Alias](webcal://ical.mac.com/rparman/Alias.ics)\n* [House](webcal://ical.mac.com/rparman/House.ics)\n* [Lost](webcal://ical.mac.com/rparman/Lost.ics)\n* [Prison Break](webcal://ical.mac.com/rparman/Prison%20Break.ics)\n* [Smallville](webcal://ical.mac.com/rparman/Smallville.ics)\n* [Supernatural](webcal://ical.mac.com/rparman/Supernatural.ics)\n* [Veronica Mars](webcal://ical.mac.com/rparman/Veronica%20Mars.ics)\n\nThese should work with any iCal-enabled applications, such as iCal, Mozilla Sunbird, Mozilla Calendar, Ximian Evolution, and many others. Microsoft Outlook doesn’t yet support the iCal standard.\n"},
+    "links": {
+        "prev": {"title": "My Move To Services", "permalink": "https://ryanparman.com/posts/2005/my-move-to-services/"},
+        "next": {"title": "Draggable Lists", "permalink": "https://ryanparman.com/posts/2005/draggable-lists/"},
+        "ignore": "me"
+    }
+}
+
+}

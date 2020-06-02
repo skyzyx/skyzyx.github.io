@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "One DIV To Size Them All...",
+    "description": "",
+    "summary": {
+        "content": "I thought this was clever… Three DIVs for the design-gods, painting on Macs, Seven for the usability-lords in their websites of grey, Nine for Windoze geeks doomed to debug, One for the Zeldman on his orange page, In the land of New York where the pundits cry. One DIV to size them all, One DIV to pad them, One DIV to colour them all And in the browser style them In the land of W3 where the standards lie…\\",
+        "isTruncated": true
+    },
+    "published": "2004-01-08T19:57:18Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/one-div-to-size-them-all/",
+    "relativePermalink": "/posts/2004/one-div-to-size-them-all/",
+    "aliases": ["/2004/01/08/one-div-to-size-them-all/"],
+    "images": [],
+    "videos": [],
+    "categories": ["For Funsies"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 84,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040108-one-div-to-size-them-all.md",
+        "logicalName": "20040108-one-div-to-size-them-all.md",
+        "translationBaseName": "20040108-one-div-to-size-them-all",
+        "baseFileName": "20040108-one-div-to-size-them-all",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI thought this was clever…\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eThree DIVs for the design-gods, painting on Macs,\u003cbr\u003e\nSeven for the usability-lords in their websites of grey,\u003cbr\u003e\nNine for Windoze geeks doomed to debug,\u003cbr\u003e\nOne for the Zeldman on his orange page,\u003cbr\u003e\nIn the land of New York where the pundits cry.\u003cbr\u003e\n\u003cbr\u003e\nOne DIV to size them all,\u003cbr\u003e\nOne DIV to pad them,\u003cbr\u003e\nOne DIV to colour them all\u003cbr\u003e\nAnd in the browser style them\u003cbr\u003e\n\u003cbr\u003e\nIn the land of W3 where the standards lie…\\\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eHat Tip: \u003ca href=\"https://web.archive.org/web/20040108195718/http://www.zeldman.com/daily/1203i.shtml#tolkien\"\u003eZeldman\u003c/a\u003e and \u003ca href=\"https://web.archive.org/web/20040108195718/http://mezzoblue.com/archives/2003/12/16/how_to_conce/#c002814\"\u003eDave\u003c/a\u003e\u003c/p\u003e\n",
+        "plain":"I thought this was clever…\n Three DIVs for the design-gods, painting on Macs,\nSeven for the usability-lords in their websites of grey,\nNine for Windoze geeks doomed to debug,\nOne for the Zeldman on his orange page,\nIn the land of New York where the pundits cry.\nOne DIV to size them all,\nOne DIV to pad them,\nOne DIV to colour them all\nAnd in the browser style them\nIn the land of W3 where the standards lie…\\\n Hat Tip: Zeldman and Dave\n",
+        "source":"\nI thought this was clever…\n\n\u003e Three DIVs for the design-gods, painting on Macs,\\\n\u003e  Seven for the usability-lords in their websites of grey,\\\n\u003e  Nine for Windoze geeks doomed to debug,\\\n\u003e  One for the Zeldman on his orange page,\\\n\u003e  In the land of New York where the pundits cry.\\\n\u003e \\\n\u003e  One DIV to size them all,\\\n\u003e  One DIV to pad them,\\\n\u003e  One DIV to colour them all\\\n\u003e  And in the browser style them\\\n\u003e \\\n\u003e  In the land of W3 where the standards lie…\\\n\nHat Tip: [Zeldman]({{% wayback \"http://www.zeldman.com/daily/1203i.shtml#tolkien\" %}}) and [Dave]({{% wayback \"http://mezzoblue.com/archives/2003/12/16/how_to_conce/#c002814\" %}})\n"},
+    "links": {
+        "prev": {"title": "Support the Standards or the Browser?", "permalink": "https://ryanparman.com/posts/2004/support-the-standards-or-the-browser/"},
+        "next": {"title": "Kindly Reload", "permalink": "https://ryanparman.com/posts/2004/kindly-reload/"},
+        "ignore": "me"
+    }
+}
+
+}

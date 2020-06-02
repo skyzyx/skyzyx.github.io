@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Suck-O-Spam",
+    "description": "",
+    "summary": {
+        "content": "When I initially set up this site, I wanted to make it as good as I possibly could. I wanted it to in-depth, thorough, and a great source of information for the users. To help make it better, I’ve opened myself up to user comments. Specifically in the JavaScript section of my site (which is where I get roughly 85% of my hits), I’ve had a long-time feature called the “Suck-O-Meter”. In some cases, it’s been great to have. I’ve been able to get a sense of what my users think about my scripts and the documentation that I provide, and have been able to apply suggested improvements in an effort to make this site as good as it can be.",
+        "isTruncated": true
+    },
+    "published": "2003-09-22T23:40:24Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/suck-o-spam/",
+    "relativePermalink": "/posts/2003/suck-o-spam/",
+    "aliases": ["/2003/09/22/suck-o-spam/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 263,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030922-suck-o-spam.md",
+        "logicalName": "20030922-suck-o-spam.md",
+        "translationBaseName": "20030922-suck-o-spam",
+        "baseFileName": "20030922-suck-o-spam",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eWhen I initially set up this site, I wanted to make it as good as I possibly could. I wanted it to in-depth, thorough, and a great source of information for the users.\u003c/p\u003e\n\u003cp\u003eTo help make it better, I’ve opened myself up to user comments. Specifically in the \u003ca href=\"/scripts/\"\u003eJavaScript section\u003c/a\u003e of my site (which is where I get roughly 85% of my hits), I’ve had a long-time feature called the “Suck-O-Meter”. In some cases, it’s been great to have. I’ve been able to get a sense of what my users think about my scripts and the documentation that I provide, and have been able to apply suggested improvements in an effort to make this site as good as it can be.\u003c/p\u003e\n\u003cp\u003eUnfortunately, I get many users who like to send me “Suck-O-Spam”, wherein they rate the script seemingly arbitrarily, and then don’t leave a name or email or a comment on how I can make it not suck. These are a complete waste of my time, and continue to fill my email box.\u003c/p\u003e\n\u003cp\u003eAs of right now, I’m forcing those who want to comment to “Cowboy Up”, and put their name with their remarks. This way it’s not a waste of my time (and mailbox space), and they can actually do something to help this site improve. All form fields for the “Suck-O-Meter” are now required. It’s just plain better this way.\u003c/p\u003e\n\u003cp\u003eAnd no, I won’t give out your email addresses or flame you for giving a script a low score. If I do contact you, it would only be for clarification purposes.\u003c/p\u003e\n",
+        "plain":"When I initially set up this site, I wanted to make it as good as I possibly could. I wanted it to in-depth, thorough, and a great source of information for the users.\nTo help make it better, I’ve opened myself up to user comments. Specifically in the JavaScript section of my site (which is where I get roughly 85% of my hits), I’ve had a long-time feature called the “Suck-O-Meter”. In some cases, it’s been great to have. I’ve been able to get a sense of what my users think about my scripts and the documentation that I provide, and have been able to apply suggested improvements in an effort to make this site as good as it can be.\nUnfortunately, I get many users who like to send me “Suck-O-Spam”, wherein they rate the script seemingly arbitrarily, and then don’t leave a name or email or a comment on how I can make it not suck. These are a complete waste of my time, and continue to fill my email box.\nAs of right now, I’m forcing those who want to comment to “Cowboy Up”, and put their name with their remarks. This way it’s not a waste of my time (and mailbox space), and they can actually do something to help this site improve. All form fields for the “Suck-O-Meter” are now required. It’s just plain better this way.\nAnd no, I won’t give out your email addresses or flame you for giving a script a low score. If I do contact you, it would only be for clarification purposes.\n",
+        "source":"\nWhen I initially set up this site, I wanted to make it as good as I possibly could. I wanted it to in-depth, thorough, and a great source of information for the users.\n\nTo help make it better, I’ve opened myself up to user comments. Specifically in the [JavaScript section](/scripts/) of my site (which is where I get roughly 85% of my hits), I’ve had a long-time feature called the “Suck-O-Meter”. In some cases, it’s been great to have. I’ve been able to get a sense of what my users think about my scripts and the documentation that I provide, and have been able to apply suggested improvements in an effort to make this site as good as it can be.\n\nUnfortunately, I get many users who like to send me “Suck-O-Spam”, wherein they rate the script seemingly arbitrarily, and then don’t leave a name or email or a comment on how I can make it not suck. These are a complete waste of my time, and continue to fill my email box.\n\nAs of right now, I’m forcing those who want to comment to “Cowboy Up”, and put their name with their remarks. This way it’s not a waste of my time (and mailbox space), and they can actually do something to help this site improve. All form fields for the “Suck-O-Meter” are now required. It’s just plain better this way.\n\nAnd no, I won’t give out your email addresses or flame you for giving a script a low score. If I do contact you, it would only be for clarification purposes.\n"},
+    "links": {
+        "prev": {"title": "Ye Scurvy Dogs!", "permalink": "https://ryanparman.com/posts/2003/ye-scurvy-dogs/"},
+        "next": {"title": "Will Code HTML For Food", "permalink": "https://ryanparman.com/posts/2003/will-code-html-for-food/"},
+        "ignore": "me"
+    }
+}
+
+}

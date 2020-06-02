@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Opera 7.11 Bug",
+    "description": "",
+    "summary": {
+        "content": "I just downloaded Opera 7.11 today. I’ve been doing my web testing with Opera 6.05 and 7.03. Everything looks great in those Opera versions, but Opera 7.11 goofs on my \u0026lt;td align=\u0026quot;top\u0026quot;\u0026gt; tag for the right-side menubar. I hope they fix it in Opera 7.12 or Opera 7.2 (whichever comes next). “What? I thought this site was standards-compliant!” It is. I have what is called a “hybrid” site… kind of. A hybrid site is one that is in transition of making the move to CSS-only layouts.",
+        "isTruncated": true
+    },
+    "published": "2003-06-02T22:04:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/opera-711-bug/",
+    "relativePermalink": "/posts/2003/opera-711-bug/",
+    "aliases": ["/2003/06/02/opera-711-bug/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 193,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030602-opera-711-bug.md",
+        "logicalName": "20030602-opera-711-bug.md",
+        "translationBaseName": "20030602-opera-711-bug",
+        "baseFileName": "20030602-opera-711-bug",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI just downloaded Opera 7.11 today. I’ve been doing my web testing with Opera 6.05 and 7.03. Everything looks great in those Opera versions, but Opera 7.11 goofs on my \u003ccode\u003e\u0026lt;td align=\u0026quot;top\u0026quot;\u0026gt;\u003c/code\u003e tag for the right-side menubar. I hope they fix it in Opera 7.12 or Opera 7.2 (whichever comes next).\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e“What? I thought this site was standards-compliant!”\u003c/em\u003e It is. I have what is called a “hybrid” site… kind of. A hybrid site is one that is in transition of making the move to CSS-only layouts. A CSS-only layout was my intention, but a rendering bug in all versions of IE/Win wouldn’t let me do it. And since IE/Win is the significant majority of all browsers, I had to do it. However, all of the TABLE’s formatting, sizing, etc. is done with CSS. Even then, it’s only a single table with a single pair of TD’s — with one set of TR’s, of course. Look at the source, and the TABLE is as simple as can be.\u003c/p\u003e\n\u003cp\u003eView this site in any non-compliant browser, and it downgrades awfully well. View it in a PDA or web-enabled cell phone, and it still looks peachy.\u003c/p\u003e\n",
+        "plain":"I just downloaded Opera 7.11 today. I’ve been doing my web testing with Opera 6.05 and 7.03. Everything looks great in those Opera versions, but Opera 7.11 goofs on my \u0026lt;td align=\u0026quot;top\u0026quot;\u0026gt; tag for the right-side menubar. I hope they fix it in Opera 7.12 or Opera 7.2 (whichever comes next).\n“What? I thought this site was standards-compliant!” It is. I have what is called a “hybrid” site… kind of. A hybrid site is one that is in transition of making the move to CSS-only layouts. A CSS-only layout was my intention, but a rendering bug in all versions of IE/Win wouldn’t let me do it. And since IE/Win is the significant majority of all browsers, I had to do it. However, all of the TABLE’s formatting, sizing, etc. is done with CSS. Even then, it’s only a single table with a single pair of TD’s — with one set of TR’s, of course. Look at the source, and the TABLE is as simple as can be.\nView this site in any non-compliant browser, and it downgrades awfully well. View it in a PDA or web-enabled cell phone, and it still looks peachy.\n",
+        "source":"\nI just downloaded Opera 7.11 today. I’ve been doing my web testing with Opera 6.05 and 7.03. Everything looks great in those Opera versions, but Opera 7.11 goofs on my `\u003ctd align=\"top\"\u003e` tag for the right-side menubar. I hope they fix it in Opera 7.12 or Opera 7.2 (whichever comes next).\n\n_“What? I thought this site was standards-compliant!”_ It is. I have what is called a “hybrid” site… kind of. A hybrid site is one that is in transition of making the move to CSS-only layouts. A CSS-only layout was my intention, but a rendering bug in all versions of IE/Win wouldn’t let me do it. And since IE/Win is the significant majority of all browsers, I had to do it. However, all of the TABLE’s formatting, sizing, etc. is done with CSS. Even then, it’s only a single table with a single pair of TD’s — with one set of TR’s, of course. Look at the source, and the TABLE is as simple as can be.\n\nView this site in any non-compliant browser, and it downgrades awfully well. View it in a PDA or web-enabled cell phone, and it still looks peachy.\n"},
+    "links": {
+        "prev": {"title": "Making Peace with MILFs?", "permalink": "https://ryanparman.com/posts/2003/making-peace-with-milfs/"},
+        "next": {"title": "Personal Dreck and RSS Feeds", "permalink": "https://ryanparman.com/posts/2003/personal-dreck-and-rss-feeds/"},
+        "ignore": "me"
+    }
+}
+
+}

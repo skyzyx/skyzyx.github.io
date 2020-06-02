@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Re-learning Macs",
+    "description": "",
+    "summary": {
+        "content": "Well, I’m getting better at this Mac OS X thing. I’ve been fiddling with it all for far too long today — trying to get some essentials installed — and I’m getting better. There are some things, however, that are irritating me although it’s not really Apple’s fault. The first would definitely be the lack of Feed Demon (my absolute favorite RSS reader) for Mac. I got NetNewsWire Lite installed, but ease of use and features aren’t even comparable to Feed Demon.",
+        "isTruncated": true
+    },
+    "published": "2004-06-13T06:36:56Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/re-learning-macs/",
+    "relativePermalink": "/posts/2004/re-learning-macs/",
+    "aliases": ["/2004/06/12/re-learning-macs/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 444,
+        "readingTime": "3 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040613-re-learning-macs.md",
+        "logicalName": "20040613-re-learning-macs.md",
+        "translationBaseName": "20040613-re-learning-macs",
+        "baseFileName": "20040613-re-learning-macs",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eWell, I’m getting better at this Mac OS X thing. I’ve been fiddling with it all for far too long today — trying to get some essentials installed — and I’m getting better. There are some things, however, that are irritating me although it’s not really Apple’s fault.\u003c/p\u003e\n\u003cp\u003eThe first would definitely be the lack of \u003ca href=\"https://web.archive.org/web/20040613063656/http://www.feeddemon.com\"\u003eFeed Demon\u003c/a\u003e (my absolute favorite RSS reader) for Mac. I got NetNewsWire Lite installed, but ease of use and features aren’t even comparable to Feed Demon. *sigh*. I need to get my PC up and running again.\u003c/p\u003e\n\u003cp\u003eThe second would be a lack of a really good hand-coding tool that has code coloring. I’m using BB Edit to type this right now, and it’s beginning to drive me nuts. I used to use BB Edit Lite 4.1 back in the day, but aparently there isn’t even a Lite version anymore. Argh.\u003c/p\u003e\n\u003cp\u003eOne thing that I love is the iLife Suite. I’m having some minor issues going between my Windows iTunes to my iPod to Mac iTunes. My genres are all messed up. I’ll have to mess around with them. A good thing, though, is that the music I bought from iTMS on my PC still works on my Mac.\u003c/p\u003e\n\u003cp\u003eI’m having trouble getting Apache 1.3.x installed. I downloaded the Mac OS X binary from the Apache site, installed it, but couldn’t get it to start. After Googling around to figure out what might be wrong, I found out that Mac OS X already has Apache installed. Now I’m trying to figure out where all the Apache files live between the two versions (the manually-installed version is showing up on my localhost).\u003c/p\u003e\n\u003cp\u003eI don’t anticipate any problems getting PHP or MySQL installed, and after that I think I’ll be ready for some full-blown web development while I ride the train to work everyday. I’m wanting to finish up the 0.7 final for \u003ca href=\"/projects/feedparser/\"\u003eFeed Parser\u003c/a\u003e. I just need to implement support for the Creative Commons metadata in RSS 1.0 and add support for the RSS 1.0 Content Module. I’m trying not to get behind the FP roadmap too much.\u003c/p\u003e\n\u003cp\u003eIt will also allow me to move forward with some of the really, really cool features of \u003ca href=\"/projects/blocker/\"\u003eBlocker\u003c/a\u003e 2.0. I’ve got a whole slew of new features I am (was — before my computer crashed) working on for the next release. An early alpha of \u003ca href=\"/projects/blogroller/\"\u003eBlogroller\u003c/a\u003e will be available as soon as I have some time to get to it.\u003c/p\u003e\n\u003cp\u003eAnyways, I’ve rambled enough for this posting. I’ve been thinking about a lot of stuff lately, that I’m wanting to post about here. We’ll see what I have time to write.\u003c/p\u003e\n",
+        "plain":"Well, I’m getting better at this Mac OS X thing. I’ve been fiddling with it all for far too long today — trying to get some essentials installed — and I’m getting better. There are some things, however, that are irritating me although it’s not really Apple’s fault.\nThe first would definitely be the lack of Feed Demon (my absolute favorite RSS reader) for Mac. I got NetNewsWire Lite installed, but ease of use and features aren’t even comparable to Feed Demon. *sigh*. I need to get my PC up and running again.\nThe second would be a lack of a really good hand-coding tool that has code coloring. I’m using BB Edit to type this right now, and it’s beginning to drive me nuts. I used to use BB Edit Lite 4.1 back in the day, but aparently there isn’t even a Lite version anymore. Argh.\nOne thing that I love is the iLife Suite. I’m having some minor issues going between my Windows iTunes to my iPod to Mac iTunes. My genres are all messed up. I’ll have to mess around with them. A good thing, though, is that the music I bought from iTMS on my PC still works on my Mac.\nI’m having trouble getting Apache 1.3.x installed. I downloaded the Mac OS X binary from the Apache site, installed it, but couldn’t get it to start. After Googling around to figure out what might be wrong, I found out that Mac OS X already has Apache installed. Now I’m trying to figure out where all the Apache files live between the two versions (the manually-installed version is showing up on my localhost).\nI don’t anticipate any problems getting PHP or MySQL installed, and after that I think I’ll be ready for some full-blown web development while I ride the train to work everyday. I’m wanting to finish up the 0.7 final for Feed Parser. I just need to implement support for the Creative Commons metadata in RSS 1.0 and add support for the RSS 1.0 Content Module. I’m trying not to get behind the FP roadmap too much.\nIt will also allow me to move forward with some of the really, really cool features of Blocker 2.0. I’ve got a whole slew of new features I am (was — before my computer crashed) working on for the next release. An early alpha of Blogroller will be available as soon as I have some time to get to it.\nAnyways, I’ve rambled enough for this posting. I’ve been thinking about a lot of stuff lately, that I’m wanting to post about here. We’ll see what I have time to write.\n",
+        "source":"\nWell, I’m getting better at this Mac OS X thing. I’ve been fiddling with it all for far too long today — trying to get some essentials installed — and I’m getting better. There are some things, however, that are irritating me although it’s not really Apple’s fault.\n\nThe first would definitely be the lack of [Feed Demon]({{% wayback \"http://www.feeddemon.com\" %}}) (my absolute favorite RSS reader) for Mac. I got NetNewsWire Lite installed, but ease of use and features aren’t even comparable to Feed Demon. \\*sigh\\*. I need to get my PC up and running again.\n\nThe second would be a lack of a really good hand-coding tool that has code coloring. I’m using BB Edit to type this right now, and it’s beginning to drive me nuts. I used to use BB Edit Lite 4.1 back in the day, but aparently there isn’t even a Lite version anymore. Argh.\n\nOne thing that I love is the iLife Suite. I’m having some minor issues going between my Windows iTunes to my iPod to Mac iTunes. My genres are all messed up. I’ll have to mess around with them. A good thing, though, is that the music I bought from iTMS on my PC still works on my Mac.\n\nI’m having trouble getting Apache 1.3.x installed. I downloaded the Mac OS X binary from the Apache site, installed it, but couldn’t get it to start. After Googling around to figure out what might be wrong, I found out that Mac OS X already has Apache installed. Now I’m trying to figure out where all the Apache files live between the two versions (the manually-installed version is showing up on my localhost).\n\nI don’t anticipate any problems getting PHP or MySQL installed, and after that I think I’ll be ready for some full-blown web development while I ride the train to work everyday. I’m wanting to finish up the 0.7 final for [Feed Parser](/projects/feedparser/). I just need to implement support for the Creative Commons metadata in RSS 1.0 and add support for the RSS 1.0 Content Module. I’m trying not to get behind the FP roadmap too much.\n\nIt will also allow me to move forward with some of the really, really cool features of [Blocker](/projects/blocker/) 2.0. I’ve got a whole slew of new features I am (was — before my computer crashed) working on for the next release. An early alpha of [Blogroller](/projects/blogroller/) will be available as soon as I have some time to get to it.\n\nAnyways, I’ve rambled enough for this posting. I’ve been thinking about a lot of stuff lately, that I’m wanting to post about here. We’ll see what I have time to write.\n"},
+    "links": {
+        "prev": {"title": "PowerBook Goodness!", "permalink": "https://ryanparman.com/posts/2004/powerbook-goodness/"},
+        "next": {"title": "OpenOffice.org, Mac OS X, and X11", "permalink": "https://ryanparman.com/posts/2004/openofficeorg-mac-os-x-and-x11/"},
+        "ignore": "me"
+    }
+}
+
+}

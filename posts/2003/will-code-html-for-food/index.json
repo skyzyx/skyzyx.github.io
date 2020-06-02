@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Will Code HTML For Food",
+    "description": "",
+    "summary": {
+        "content": "Sorry I haven’t posted in a few days, but I’ve just become an Independent Contractor for a web company. It’s taken up a bit of time, but I plan to get back to normal in this upcoming week. I’ve discovered something particularly interesting about JavaScript, although I doubt it will have any effect on the real world. I’ll post about it next time. Also, I stumbled across this image the other day. I thought it was funny… ",
+        "isTruncated": false
+    },
+    "published": "2003-09-27T18:11:28Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/will-code-html-for-food/",
+    "relativePermalink": "/posts/2003/will-code-html-for-food/",
+    "aliases": ["/archives/000076.php", "/articles/000076.php", "/2003/09/27/will-code-html-for-food/"],
+    "images": [],
+    "videos": [],
+    "categories": ["For Funsies"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 77,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030927-will-code-html-for-food.md",
+        "logicalName": "20030927-will-code-html-for-food.md",
+        "translationBaseName": "20030927-will-code-html-for-food",
+        "baseFileName": "20030927-will-code-html-for-food",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eSorry I haven’t posted in a few days, but I’ve just become an Independent Contractor for a web company. It’s taken up a bit of time, but I plan to get back to normal in this upcoming week.\u003c/p\u003e\n\u003cp\u003eI’ve discovered something particularly interesting about JavaScript, although I doubt it will have any effect on the real world. I’ll post about it next time.\u003c/p\u003e\n\u003cp\u003eAlso, I stumbled across this image the other day. I thought it was funny…\u003c/p\u003e\n\u003cdiv class=\"pa2-ns\"\u003e\n\t\u003camp-img src=\"https://cdn.ryanparman.com/img/codehtml.jpg\" layout=\"responsive\" width=\"\" height=\"\"\u003e\u003c/amp-img\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n",
+        "plain":"Sorry I haven’t posted in a few days, but I’ve just become an Independent Contractor for a web company. It’s taken up a bit of time, but I plan to get back to normal in this upcoming week.\nI’ve discovered something particularly interesting about JavaScript, although I doubt it will have any effect on the real world. I’ll post about it next time.\nAlso, I stumbled across this image the other day. I thought it was funny…\n  ",
+        "source":"\nSorry I haven’t posted in a few days, but I’ve just become an Independent Contractor for a web company. It’s taken up a bit of time, but I plan to get back to normal in this upcoming week.\n\nI’ve discovered something particularly interesting about JavaScript, although I doubt it will have any effect on the real world. I’ll post about it next time.\n\nAlso, I stumbled across this image the other day. I thought it was funny…\n\n{{\u003cfullimage src=\"https://cdn.ryanparman.com/img/codehtml.jpg\" alt=\"Will Code HTML For Food!\"\u003e}}\n"},
+    "links": {
+        "prev": {"title": "Suck-O-Spam", "permalink": "https://ryanparman.com/posts/2003/suck-o-spam/"},
+        "next": {"title": "Season Premiere of Alias", "permalink": "https://ryanparman.com/posts/2003/season-premiere-of-alias/"},
+        "ignore": "me"
+    }
+}
+
+}

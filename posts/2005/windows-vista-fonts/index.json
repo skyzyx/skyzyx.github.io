@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Windows Vista Fonts",
+    "description": "",
+    "summary": {
+        "content": "I found these a couple of weeks back, and I think they’re really good, so I wanted to share them. They’re 6 fonts that are supposed to be included in Windows Vista, but they seem to work for both Windows XP and Mac OS X. Also for you sIFR users out there, I created sIFR versions that you can apply to your sites. I found these floating around online, and presumably they’ll be free at some point, so I think it would be reasonable to assume that it’s okay to pass these around.",
+        "isTruncated": true
+    },
+    "published": "2005-09-01T07:21:10Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/windows-vista-fonts/",
+    "relativePermalink": "/posts/2005/windows-vista-fonts/",
+    "aliases": ["/2005/08/31/windows-vista-fonts/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Design"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 154,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050901-windows-vista-fonts.md",
+        "logicalName": "20050901-windows-vista-fonts.md",
+        "translationBaseName": "20050901-windows-vista-fonts",
+        "baseFileName": "20050901-windows-vista-fonts",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI found these a couple of weeks back, and I think they’re really good, so I wanted to share them. They’re 6 fonts that are supposed to be included in Windows Vista, but they seem to work for both Windows XP and Mac OS X. Also for you sIFR users out there, I created sIFR versions that you can apply to your sites.\u003c/p\u003e\n\u003cp\u003eI found these floating around online, and presumably they’ll be free at some point, so I think it would be \u003cem\u003ereasonable\u003c/em\u003e to assume that it’s okay to pass these around. I didn’t see anything in the zip file to tell me otherwise, so that’s what I’m going to believe. If someone at Microsoft has a problem with this, \u003ca href=\"/contact/\"\u003elet me know\u003c/a\u003e and I’ll pull them offline.\u003c/p\u003e\n\u003cp\u003e« Update » It was suggested to me that it would be wise to remove these links. I’ve decided to heed that advice. Sorry folks!\u003c/p\u003e\n",
+        "plain":"I found these a couple of weeks back, and I think they’re really good, so I wanted to share them. They’re 6 fonts that are supposed to be included in Windows Vista, but they seem to work for both Windows XP and Mac OS X. Also for you sIFR users out there, I created sIFR versions that you can apply to your sites.\nI found these floating around online, and presumably they’ll be free at some point, so I think it would be reasonable to assume that it’s okay to pass these around. I didn’t see anything in the zip file to tell me otherwise, so that’s what I’m going to believe. If someone at Microsoft has a problem with this, let me know and I’ll pull them offline.\n« Update » It was suggested to me that it would be wise to remove these links. I’ve decided to heed that advice. Sorry folks!\n",
+        "source":"\nI found these a couple of weeks back, and I think they’re really good, so I wanted to share them. They’re 6 fonts that are supposed to be included in Windows Vista, but they seem to work for both Windows XP and Mac OS X. Also for you sIFR users out there, I created sIFR versions that you can apply to your sites.\n\nI found these floating around online, and presumably they’ll be free at some point, so I think it would be *reasonable* to assume that it’s okay to pass these around. I didn’t see anything in the zip file to tell me otherwise, so that’s what I’m going to believe. If someone at Microsoft has a problem with this, [let me know](/contact/) and I’ll pull them offline.\n\n« Update » It was suggested to me that it would be wise to remove these links. I’ve decided to heed that advice. Sorry folks!\n"},
+    "links": {
+        "prev": {"title": "Welcome to Wordpress!", "permalink": "https://ryanparman.com/posts/2005/welcome-to-wordpress/"},
+        "next": {"title": "My Move To Services", "permalink": "https://ryanparman.com/posts/2005/my-move-to-services/"},
+        "ignore": "me"
+    }
+}
+
+}

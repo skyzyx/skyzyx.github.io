@@ -1,0 +1,64 @@
+{
+    "data": {
+        
+        
+        "taxonomy": "tag",
+        "term": "yosemite",
+        
+        "count": 1,
+        "items": [
+            
+            {
+    "kind": "page",
+    "title": "Apple’s October 2014 Product Announcement",
+    "description": "",
+    "summary": {
+        "content": "Apple’s October 16th product announcement begins at 10am PST; 1pm EST. My guesses? Definitely: OS X Yosemite, iTunes 12, and the next-gen iPad Air and iPad mini. Maybe: Updated Thunderbolt 2 + Retina display (I’d guessed at this last year and was wrong), iMac with Retina display, updates to the MacBook Pro line, Apple TV 4 with support for third-party apps. Not a chance: An HDTV, more info about Apple Watch, a mega-sized iPad, or a pull-string-to-talk Steve Jobs doll.",
+        "isTruncated": true
+    },
+    "published": "2014-10-09T10:09:33Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2014/apples-october-2014-product-announcement/",
+    "relativePermalink": "/posts/2014/apples-october-2014-product-announcement/",
+    "aliases": ["/2014/10/09/apples-october-2014-product-announcement/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Apple"],
+    "tags": ["apple", "macos", "yosemite", "itunes", "ipad air", "ipad mini", "apple watch", "apple hdtv", "touch id", "retina", "thunderbolt", "apple tv"],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 301,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2014/20141009-apples-october-2014-product-announcement.md",
+        "logicalName": "20141009-apples-october-2014-product-announcement.md",
+        "translationBaseName": "20141009-apples-october-2014-product-announcement",
+        "baseFileName": "20141009-apples-october-2014-product-announcement",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2014/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003ca href=\"#my-guesses\"\u003eMy guesses?\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#new-ipads\"\u003eNew iPads\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#retina-thunderbolt-2-display\"\u003eRetina Thunderbolt 2 Display\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#apple-tv-4\"\u003eApple TV 4\u003c/a\u003e\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/nav\u003e",
+        "html":"\u003cp itemprop=\"description\" class=\"f5 f4-m f3-l mt0 lh-copy p-summary entry-summary\"\u003e\nApple’s October 16th product announcement begins at 10am PST; 1pm EST.\n\u003c/p\u003e\n\n\u003ch2 id=\"my-guesses\"\u003eMy guesses?\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eDefinitely:\u003c/strong\u003e OS X Yosemite, iTunes 12, and the next-gen iPad Air and iPad mini.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eMaybe:\u003c/strong\u003e Updated Thunderbolt 2 + Retina display (I’d guessed at this \u003ca href=\"/2013/09/10/apples-fall-2013-product-announcement/\"\u003elast year\u003c/a\u003e and was wrong), iMac with Retina display, updates to the MacBook Pro line, Apple TV 4 with support for third-party apps.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eNot a chance:\u003c/strong\u003e An HDTV, more info about Apple Watch, a mega-sized iPad, or a pull-string-to-talk Steve Jobs doll.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2 id=\"new-ipads\"\u003eNew iPads\u003c/h2\u003e\n\u003cp\u003eThinner, faster, beefier. I would expect to see a marginally-improved camera, and Touch ID is a definite.\u003c/p\u003e\n\u003cp\u003eiPad Air and iPad mini should have equal specs, except for the screen sizes. I don’t believe that a 12-point-whatever-inch “iPad Air Plus” will be a thing.\u003c/p\u003e\n\u003ch2 id=\"retina-thunderbolt-2-display\"\u003eRetina Thunderbolt 2 Display\u003c/h2\u003e\n\u003cp\u003eI’ve been looking forward to the successor to the Thunderbolt display for quite a while now, and I really hope that this is it. Thunderbolt 2 and USB 3.0 have been shipping in modern Macs for a couple of years now, and I’m anxious to see an updated display.\u003c/p\u003e\n\u003cp\u003eAlso, Helvetica looks like ass in Yosemite on non-Retina displays. It seems like a good time to update.\u003c/p\u003e\n\u003ch2 id=\"apple-tv-4\"\u003eApple TV 4\u003c/h2\u003e\n\u003cp\u003eI’ve also been keenly interested in seeing support for third-party apps on Apple TV.\u003c/p\u003e\n\u003cp\u003eWith modern SDK features like better scalability for different viewports, games for iPad (4:3) and iPhone (16:9), the introduction of a controller API in iOS 7, the Metal API, and a well-built system for managing your account, apps and games, introducing a new Apple TV capable of gaming and third-party apps seems ripe.\u003c/p\u003e\n\u003cp\u003eMaybe not PS4 or Xbox One-caliber just yet, but Apple TV has been outselling both of them (by an order of magnitude) for a couple of years now. Nintendo should be very, very worried.\u003c/p\u003e\n",
+        "plain":"Apple’s October 16th product announcement begins at 10am PST; 1pm EST. My guesses?   Definitely: OS X Yosemite, iTunes 12, and the next-gen iPad Air and iPad mini.\n  Maybe: Updated Thunderbolt 2 + Retina display (I’d guessed at this last year and was wrong), iMac with Retina display, updates to the MacBook Pro line, Apple TV 4 with support for third-party apps.\n  Not a chance: An HDTV, more info about Apple Watch, a mega-sized iPad, or a pull-string-to-talk Steve Jobs doll.\n  New iPads Thinner, faster, beefier. I would expect to see a marginally-improved camera, and Touch ID is a definite.\niPad Air and iPad mini should have equal specs, except for the screen sizes. I don’t believe that a 12-point-whatever-inch “iPad Air Plus” will be a thing.\nRetina Thunderbolt 2 Display I’ve been looking forward to the successor to the Thunderbolt display for quite a while now, and I really hope that this is it. Thunderbolt 2 and USB 3.0 have been shipping in modern Macs for a couple of years now, and I’m anxious to see an updated display.\nAlso, Helvetica looks like ass in Yosemite on non-Retina displays. It seems like a good time to update.\nApple TV 4 I’ve also been keenly interested in seeing support for third-party apps on Apple TV.\nWith modern SDK features like better scalability for different viewports, games for iPad (4:3) and iPhone (16:9), the introduction of a controller API in iOS 7, the Metal API, and a well-built system for managing your account, apps and games, introducing a new Apple TV capable of gaming and third-party apps seems ripe.\nMaybe not PS4 or Xbox One-caliber just yet, but Apple TV has been outselling both of them (by an order of magnitude) for a couple of years now. Nintendo should be very, very worried.\n",
+        "source":"\n{{\u003cdescription\u003e}}\nApple’s October 16th product announcement begins at 10am PST; 1pm EST.\n{{\u003c/description\u003e}}\n\n## My guesses?\n\n* **Definitely:** OS X Yosemite, iTunes 12, and the next-gen iPad Air and iPad mini.\n\n* **Maybe:** Updated Thunderbolt 2 + Retina display (I’d guessed at this [last year](/2013/09/10/apples-fall-2013-product-announcement/) and was wrong), iMac with Retina display, updates to the MacBook Pro line, Apple TV 4 with support for third-party apps.\n\n* **Not a chance:** An HDTV, more info about Apple Watch, a mega-sized iPad, or a pull-string-to-talk Steve Jobs doll.\n\n## New iPads\n\nThinner, faster, beefier. I would expect to see a marginally-improved camera, and Touch ID is a definite.\n\niPad Air and iPad mini should have equal specs, except for the screen sizes. I don’t believe that a 12-point-whatever-inch “iPad Air Plus” will be a thing.\n\n## Retina Thunderbolt 2 Display\n\nI’ve been looking forward to the successor to the Thunderbolt display for quite a while now, and I really hope that this is it. Thunderbolt 2 and USB 3.0 have been shipping in modern Macs for a couple of years now, and I’m anxious to see an updated display.\n\nAlso, Helvetica looks like ass in Yosemite on non-Retina displays. It seems like a good time to update.\n\n## Apple TV 4\n\nI’ve also been keenly interested in seeing support for third-party apps on Apple TV.\n\nWith modern SDK features like better scalability for different viewports, games for iPad (4:3) and iPhone (16:9), the introduction of a controller API in iOS 7, the Metal API, and a well-built system for managing your account, apps and games, introducing a new Apple TV capable of gaming and third-party apps seems ripe.\n\nMaybe not PS4 or Xbox One-caliber just yet, but Apple TV has been outselling both of them (by an order of magnitude) for a couple of years now. Nintendo should be very, very worried.\n"},
+    "links": {
+        "prev": {"title": "Dear Lockitron", "permalink": "https://ryanparman.com/posts/2014/dear-lockitron/"},
+        "next": {"title": "Rest in Peace, Jonathan Troiano", "permalink": "https://ryanparman.com/posts/2015/rest-in-peace-jonathan-troiano/"},
+        "ignore": "me"
+    }
+}
+
+            
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "ReleaseOne™",
+    "description": "",
+    "summary": {
+        "content": "I was just sitting at my desk at work, trying to kill some time before I leave for my vacation at 5pm. I went to CSS Zen Garden to check out some new CSS designs, and was blown away by one particular design. Outstanding! I wanna be like this guy when I grow up.",
+        "isTruncated": false
+    },
+    "published": "2003-08-01T00:57:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/releaseone/",
+    "relativePermalink": "/posts/2003/releaseone/",
+    "aliases": ["/2003/07/31/releaseone/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Design"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 54,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030801-releaseone.md",
+        "logicalName": "20030801-releaseone.md",
+        "translationBaseName": "20030801-releaseone",
+        "baseFileName": "20030801-releaseone",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI was just sitting at my desk at \u003ca href=\"https://web.archive.org/web/20030801005700/http://www.goldenruleproduce.com\"\u003ework\u003c/a\u003e, trying to kill some time before I leave for my vacation at 5pm. I went to \u003ca href=\"https://web.archive.org/web/20030801005700/http://www.csszengarden.com\"\u003eCSS Zen Garden\u003c/a\u003e to check out some new CSS designs, and was blown away by \u003ca href=\"https://web.archive.org/web/20030801005700/http://www.csszengarden.com/?cssfile=/035/035.css\u0026amp;page=0\"\u003eone particular design\u003c/a\u003e. Outstanding!\u003c/p\u003e\n\u003cp\u003eI wanna be like this guy when I grow up.\u003c/p\u003e\n",
+        "plain":"I was just sitting at my desk at work, trying to kill some time before I leave for my vacation at 5pm. I went to CSS Zen Garden to check out some new CSS designs, and was blown away by one particular design. Outstanding!\nI wanna be like this guy when I grow up.\n",
+        "source":"\nI was just sitting at my desk at [work]({{% wayback \"http://www.goldenruleproduce.com\" %}}), trying to kill some time before I leave for my vacation at 5pm. I went to [CSS Zen Garden]({{% wayback \"http://www.csszengarden.com\" %}}) to check out some new CSS designs, and was blown away by [one particular design]({{% wayback \"http://www.csszengarden.com/?cssfile=/035/035.css\u0026page=0\" %}}). Outstanding!\n\nI wanna be like this guy when I grow up.\n"},
+    "links": {
+        "prev": {"title": "A Disagreement Perhaps?", "permalink": "https://ryanparman.com/posts/2003/a-disagreement-perhaps/"},
+        "next": {"title": "Movie Reviews 2003", "permalink": "https://ryanparman.com/posts/2003/movie-reviews-2003/"},
+        "ignore": "me"
+    }
+}
+
+}

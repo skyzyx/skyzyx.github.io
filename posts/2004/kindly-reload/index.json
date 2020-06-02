@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Kindly Reload",
+    "description": "",
+    "summary": {
+        "content": "I rewrote parts of Paul Sowden’s Stylesheet Switcher about a year ago to support media types, and to utilize my own cookie functions instead. At one point, this site had multiple styles. Now, it does again. You can switch between the Winter style (the one that’s been here since the beginning of December), or you can use the Default one (the one in place before that). I’m working on another style or two, even still. There are still a couple of quirks, though.",
+        "isTruncated": true
+    },
+    "published": "2004-01-09T17:25:22Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/kindly-reload/",
+    "relativePermalink": "/posts/2004/kindly-reload/",
+    "aliases": ["/2004/01/09/kindly-reload/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 162,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040109-kindly-reload.md",
+        "logicalName": "20040109-kindly-reload.md",
+        "translationBaseName": "20040109-kindly-reload",
+        "baseFileName": "20040109-kindly-reload",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI rewrote parts of Paul Sowden’s Stylesheet Switcher about a year ago to support media types, and to utilize my own cookie functions instead. At one point, this site had multiple styles. Now, it does again.\u003c/p\u003e\n\u003cp\u003eYou can switch between the Winter style (the one that’s been here since the beginning of December), or you can use the Default one (the one in place before that). I’m working on another style or two, even still.\u003c/p\u003e\n\u003cp\u003eThere are still a couple of quirks, though. They’re more to do with stupid inline styles than anything. I’ll fix them. Unfortunately, I’m going out of town for the weekend, so whatever I don’t fix today will have to wait until Sunday night or Monday. Which reminds me, does anyone know if a \u003cem\u003enew\u003c/em\u003e Alias will be back on Sunday, or will we have to wait another week?\u003c/p\u003e\n\u003cp\u003eAnyways, I hope you all have a great weekend, and if something doesn’t work quite right today, kindly reload.\u003c/p\u003e\n",
+        "plain":"I rewrote parts of Paul Sowden’s Stylesheet Switcher about a year ago to support media types, and to utilize my own cookie functions instead. At one point, this site had multiple styles. Now, it does again.\nYou can switch between the Winter style (the one that’s been here since the beginning of December), or you can use the Default one (the one in place before that). I’m working on another style or two, even still.\nThere are still a couple of quirks, though. They’re more to do with stupid inline styles than anything. I’ll fix them. Unfortunately, I’m going out of town for the weekend, so whatever I don’t fix today will have to wait until Sunday night or Monday. Which reminds me, does anyone know if a new Alias will be back on Sunday, or will we have to wait another week?\nAnyways, I hope you all have a great weekend, and if something doesn’t work quite right today, kindly reload.\n",
+        "source":"\nI rewrote parts of Paul Sowden’s Stylesheet Switcher about a year ago to support media types, and to utilize my own cookie functions instead. At one point, this site had multiple styles. Now, it does again.\n\nYou can switch between the Winter style (the one that’s been here since the beginning of December), or you can use the Default one (the one in place before that). I’m working on another style or two, even still.\n\nThere are still a couple of quirks, though. They’re more to do with stupid inline styles than anything. I’ll fix them. Unfortunately, I’m going out of town for the weekend, so whatever I don’t fix today will have to wait until Sunday night or Monday. Which reminds me, does anyone know if a *new* Alias will be back on Sunday, or will we have to wait another week?\n\nAnyways, I hope you all have a great weekend, and if something doesn’t work quite right today, kindly reload.\n"},
+    "links": {
+        "prev": {"title": "One DIV To Size Them All...", "permalink": "https://ryanparman.com/posts/2004/one-div-to-size-them-all/"},
+        "next": {"title": "Apple+HP: Stunning The World", "permalink": "https://ryanparman.com/posts/2004/applehp-stunning-the-world/"},
+        "ignore": "me"
+    }
+}
+
+}

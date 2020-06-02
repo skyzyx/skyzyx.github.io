@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "CSS's text-shadow property in Firefox 2?",
+    "description": "",
+    "summary": {
+        "content": "After nearly 7 years in Bugzilla, it appears that the CSS2 text-shadow property will finally make it into Firefox 2. According to Bugzilla, the patch has already been added to the trunk (although it’s not quite complete yet), and seeing as how its status has been set to blocking 1.8.1 (which according to this roadmap is Firefox 2 timeframe), I’m hoping that this will finally get implemented. Yay!",
+        "isTruncated": false
+    },
+    "published": "2006-04-18T18:26:46Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/csss-text-shadow-property-in-firefox-2/",
+    "relativePermalink": "/posts/2006/csss-text-shadow-property-in-firefox-2/",
+    "aliases": ["/2006/04/18/csss-text-shadow-property-in-firefox-2/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 68,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060418-csss-text-shadow-property-in-firefox-2.md",
+        "logicalName": "20060418-csss-text-shadow-property-in-firefox-2.md",
+        "translationBaseName": "20060418-csss-text-shadow-property-in-firefox-2",
+        "baseFileName": "20060418-csss-text-shadow-property-in-firefox-2",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eAfter nearly 7 years in \u003ca href=\"https://web.archive.org/web/20060418182646/https://bugzilla.mozilla.org/show_bug.cgi?id=10713\"\u003eBugzilla\u003c/a\u003e, it appears that the CSS2 \u003ccode\u003etext-shadow\u003c/code\u003e property will finally make it into Firefox 2. According to \u003ca href=\"https://web.archive.org/web/20060418182646/https://bugzilla.mozilla.org/show_bug.cgi?id=10713\"\u003eBugzilla\u003c/a\u003e, the patch has already been added to the trunk (although it’s not quite complete yet), and seeing as how its status has been set to \u003cem\u003eblocking 1.8.1\u003c/em\u003e (which according to \u003ca href=\"https://web.archive.org/web/20060418182646/http://cbeard.typepad.com/mozilla/2005/11/mozilla_product.html\"\u003ethis roadmap\u003c/a\u003e is Firefox 2 timeframe), I’m hoping that this will finally get implemented. Yay!\u003c/p\u003e\n",
+        "plain":"After nearly 7 years in Bugzilla, it appears that the CSS2 text-shadow property will finally make it into Firefox 2. According to Bugzilla, the patch has already been added to the trunk (although it’s not quite complete yet), and seeing as how its status has been set to blocking 1.8.1 (which according to this roadmap is Firefox 2 timeframe), I’m hoping that this will finally get implemented. Yay!\n",
+        "source":"\nAfter nearly 7 years in [Bugzilla]({{% wayback \"https://bugzilla.mozilla.org/show_bug.cgi?id=10713\" %}}), it appears that the CSS2 `text-shadow` property will finally make it into Firefox 2. According to [Bugzilla]({{% wayback \"https://bugzilla.mozilla.org/show_bug.cgi?id=10713\" %}}), the patch has already been added to the trunk (although it’s not quite complete yet), and seeing as how its status has been set to *blocking 1.8.1* (which according to [this roadmap]({{% wayback \"http://cbeard.typepad.com/mozilla/2005/11/mozilla_product.html\" %}}) is Firefox 2 timeframe), I’m hoping that this will finally get implemented. Yay!\n"},
+    "links": {
+        "prev": {"title": "Movie Makers Just Don't Get It", "permalink": "https://ryanparman.com/posts/2006/movie-makers-just-dont-get-it/"},
+        "next": {"title": "The proper way to blow your nose", "permalink": "https://ryanparman.com/posts/2006/the-proper-way-to-blow-your-nose/"},
+        "ignore": "me"
+    }
+}
+
+}

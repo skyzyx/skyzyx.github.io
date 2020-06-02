@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "SimplePie's Triumphant Return!",
+    "description": "",
+    "summary": {
+        "content": "It’s been a year since the last SimplePie release, but that doesn’t mean the project is dead. Fortunately I was able to get some help from Geoffers, and he actually ended up driving most of the development since he came on board over the summer. I wish I could tell you that a shiny new version 1.0 was available, but alas, not yet. What we do have, however, is a shiny new Preview Release — soon. What is SimplePie?",
+        "isTruncated": true
+    },
+    "published": "2006-01-06T18:34:47Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/simplepies-triumphant-return/",
+    "relativePermalink": "/posts/2006/simplepies-triumphant-return/",
+    "aliases": ["/2006/01/06/simplepies-triumphant-return/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 152,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060106-simplepies-triumphant-return.md",
+        "logicalName": "20060106-simplepies-triumphant-return.md",
+        "translationBaseName": "20060106-simplepies-triumphant-return",
+        "baseFileName": "20060106-simplepies-triumphant-return",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cdiv class=\"pa2-ns\"\u003e\n\t\u003camp-img src=\"https://cdn.ryanparman.com/wp-content/uploads/2006/01/logo_simplepie_large.png\" layout=\"responsive\" width=\"\" height=\"\"\u003e\u003c/amp-img\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eIt’s been a year since the last SimplePie release, but that doesn’t mean the project is dead. Fortunately I was able to get some help from \u003ca href=\"https://web.archive.org/web/20060106183447/http://geoffers.uni.cc\"\u003eGeoffers\u003c/a\u003e, and he actually ended up driving most of the development since he came on board over the summer. I wish I could tell you that a shiny new version 1.0 was available, but alas, not yet. What we do have, however, is a shiny new Preview Release — soon. What is SimplePie? Let me tell you:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eSimplePie is a very fast and easy-to-use class, written in PHP, for reading RSS and Atom syndication feeds. By keeping it simple, and focusing on what’s important, we’ve built a pretty sweet little API. SimplePie’s focus has been two-fold: speed and ease of use, and has been very successful on both fronts.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eExpect to see a new SimplePie Preview Release and a matching \u003ca href=\"https://web.archive.org/web/20060106183447/http://www.simplepie.org\"\u003ewebsite\u003c/a\u003e in the next few days.\u003c/p\u003e\n",
+        "plain":"  It’s been a year since the last SimplePie release, but that doesn’t mean the project is dead. Fortunately I was able to get some help from Geoffers, and he actually ended up driving most of the development since he came on board over the summer. I wish I could tell you that a shiny new version 1.0 was available, but alas, not yet. What we do have, however, is a shiny new Preview Release — soon. What is SimplePie? Let me tell you:\n SimplePie is a very fast and easy-to-use class, written in PHP, for reading RSS and Atom syndication feeds. By keeping it simple, and focusing on what’s important, we’ve built a pretty sweet little API. SimplePie’s focus has been two-fold: speed and ease of use, and has been very successful on both fronts.\n Expect to see a new SimplePie Preview Release and a matching website in the next few days.\n",
+        "source":"\n{{\u003cfullimage src=\"https://cdn.ryanparman.com/wp-content/uploads/2006/01/logo_simplepie_large.png\" alt=\"SimplePie Preview Release\"\u003e}}\n\nIt’s been a year since the last SimplePie release, but that doesn’t mean the project is dead. Fortunately I was able to get some help from [Geoffers]({{% wayback \"http://geoffers.uni.cc\" %}}), and he actually ended up driving most of the development since he came on board over the summer. I wish I could tell you that a shiny new version 1.0 was available, but alas, not yet. What we do have, however, is a shiny new Preview Release — soon. What is SimplePie? Let me tell you:\n\n\u003e SimplePie is a very fast and easy-to-use class, written in PHP, for reading RSS and Atom syndication feeds. By keeping it simple, and focusing on what’s important, we’ve built a pretty sweet little API. SimplePie’s focus has been two-fold: speed and ease of use, and has been very successful on both fronts.\n\nExpect to see a new SimplePie Preview Release and a matching [website]({{% wayback \"http://www.simplepie.org\" %}}) in the next few days.\n"},
+    "links": {
+        "prev": {"title": "And the “Best Wife in the World” award goes to...", "permalink": "https://ryanparman.com/posts/2005/and-the-best-wife-in-the-world-award-goes-to/"},
+        "next": {"title": "SimplePie 1.0 Preview Release is now available!", "permalink": "https://ryanparman.com/posts/2006/simplepie-10-preview-release-is-now-available/"},
+        "ignore": "me"
+    }
+}
+
+}

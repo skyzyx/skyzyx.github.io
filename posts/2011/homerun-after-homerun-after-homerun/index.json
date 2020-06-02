@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Homerun after homerun after homerun",
+    "description": "",
+    "summary": {
+        "content": "One of the best pieces on Steve Jobs’ retirement I’ve read so far. “At the 25th hour, Jobs returned. He quickly re-installed his vision. And this time, the timing was exactly right. His vision seemed perfectly in line with the world at large. The result was a 14-year run that took Apple from near-death to the most valuable company on the planet. It wasn’t just hit after hit after hit. It was homerun after homerun after home run.” One More Thing… by M.",
+        "isTruncated": true
+    },
+    "published": "2011-08-27T18:36:12Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2011/homerun-after-homerun-after-homerun/",
+    "relativePermalink": "/posts/2011/homerun-after-homerun-after-homerun/",
+    "aliases": ["/2011/08/27/homerun-after-homerun-after-homerun/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Apple"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 84,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2011/20110827-homerun-after-homerun-after-homerun.md",
+        "logicalName": "20110827-homerun-after-homerun-after-homerun.md",
+        "translationBaseName": "20110827-homerun-after-homerun-after-homerun",
+        "baseFileName": "20110827-homerun-after-homerun-after-homerun",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2011/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eOne of the best pieces on Steve Jobs’ retirement I’ve read so far.\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e“At the 25th hour, Jobs returned. He quickly re-installed his vision. And this time, the timing was exactly right. His vision seemed perfectly in line with the world at large. The result was a 14-year run that took Apple from near-death to the most valuable company on the planet. It wasn’t just hit after hit after hit. It was homerun after homerun after home run.”\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20110827183612/http://techcrunch.com/2011/08/26/one-more-thing/\"\u003eOne More Thing…\u003c/a\u003e by M.G. Siegler.\u003c/p\u003e\n",
+        "plain":"One of the best pieces on Steve Jobs’ retirement I’ve read so far.\n “At the 25th hour, Jobs returned. He quickly re-installed his vision. And this time, the timing was exactly right. His vision seemed perfectly in line with the world at large. The result was a 14-year run that took Apple from near-death to the most valuable company on the planet. It wasn’t just hit after hit after hit. It was homerun after homerun after home run.”\n One More Thing… by M.G. Siegler.\n",
+        "source":"\nOne of the best pieces on Steve Jobs’ retirement I’ve read so far.\n\n\u003e “At the 25th hour, Jobs returned. He quickly re-installed his vision. And this time, the timing was exactly right. His vision seemed perfectly in line with the world at large. The result was a 14-year run that took Apple from near-death to the most valuable company on the planet. It wasn’t just hit after hit after hit. It was homerun after homerun after home run.”\n\n[One More Thing…]({{% wayback \"http://techcrunch.com/2011/08/26/one-more-thing/\" %}}) by M.G. Siegler.\n"},
+    "links": {
+        "prev": {"title": "Comparing the HP TouchPad to the iPad 2", "permalink": "https://ryanparman.com/posts/2011/comparing-the-hp-touchpad-to-the-ipad-2/"},
+        "next": {"title": "Skating to where the puck will be", "permalink": "https://ryanparman.com/posts/2011/skating-to-where-the-puck-will-be/"},
+        "ignore": "me"
+    }
+}
+
+}

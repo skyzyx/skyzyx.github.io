@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "SimplePie 0.96 Now Available!",
+    "description": "",
+    "summary": {
+        "content": "I quietly posted SimplePie 0.96 a few days ago, after having it in place in SimpleReader for about a week before that. So far, so good. For those of you currently using SimplePie, this new version makes more strides towards improving support for sucky feeds, tested support for PHP 5, and other bits of fine-tuning. You can download it, read the documentation for changes in this version, and report bugs and get support.",
+        "isTruncated": false
+    },
+    "published": "2005-01-15T06:38:52Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/simplepie-096-now-available/",
+    "relativePermalink": "/posts/2005/simplepie-096-now-available/",
+    "aliases": ["/2005/01/14/simplepie-096-now-available/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 73,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050115-simplepie-096-now-available.md",
+        "logicalName": "20050115-simplepie-096-now-available.md",
+        "translationBaseName": "20050115-simplepie-096-now-available",
+        "baseFileName": "20050115-simplepie-096-now-available",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI quietly posted \u003ca href=\"/projects/simplepie/\"\u003eSimplePie 0.96\u003c/a\u003e a few days ago, after having it in place in \u003ca href=\"/rss/\"\u003eSimpleReader\u003c/a\u003e for about a week before that. So far, so good.\u003c/p\u003e\n\u003cp\u003eFor those of you currently using SimplePie, this new version makes more strides towards improving support for sucky feeds, tested support for PHP 5, and other bits of fine-tuning.\u003c/p\u003e\n\u003cp\u003eYou can \u003ca href=\"/projects/simplepie/simplepie_0.96.zip\"\u003edownload\u003c/a\u003e it, read the \u003ca href=\"/projects/simplepie/documentation.htm\"\u003edocumentation\u003c/a\u003e for changes in this version, and \u003ca href=\"https://web.archive.org/web/20050115063852/http://support.skyzyx.net/\"\u003ereport bugs and get support\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":"I quietly posted SimplePie 0.96 a few days ago, after having it in place in SimpleReader for about a week before that. So far, so good.\nFor those of you currently using SimplePie, this new version makes more strides towards improving support for sucky feeds, tested support for PHP 5, and other bits of fine-tuning.\nYou can download it, read the documentation for changes in this version, and report bugs and get support.\n",
+        "source":"\nI quietly posted [SimplePie 0.96](/projects/simplepie/) a few days ago, after having it in place in [SimpleReader](/rss/) for about a week before that. So far, so good.\n\nFor those of you currently using SimplePie, this new version makes more strides towards improving support for sucky feeds, tested support for PHP 5, and other bits of fine-tuning.\n\nYou can [download](/projects/simplepie/simplepie_0.96.zip) it, read the [documentation](/projects/simplepie/documentation.htm) for changes in this version, and [report bugs and get support]({{% wayback \"http://support.skyzyx.net/\" %}}).\n"},
+    "links": {
+        "prev": {"title": "Do Not Eat iPod shuffle", "permalink": "https://ryanparman.com/posts/2005/do-not-eat-ipod-shuffle/"},
+        "next": {"title": "Guys Rules", "permalink": "https://ryanparman.com/posts/2005/guys-rules/"},
+        "ignore": "me"
+    }
+}
+
+}

@@ -1,0 +1,930 @@
+{
+    "data": {
+        
+        "section": "posts",
+        
+        
+        "count": 18,
+        "items": [
+            
+            {
+    "kind": "section",
+    "title": "Posts for 2003",
+    "description": "",
+    "summary": {
+        "content": "",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/",
+    "relativePermalink": "/posts/2003/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 0,
+        "readingTime": "0 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/_index.md",
+        "logicalName": "_index.md",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"",
+        "plain":"",
+        "source":"---\ntitle: \"Posts for 2003\"\nfeatured_image: https://cdn.ryanparman.com/hugo/posts/featured_image.jpg\n---\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Posts for 2004",
+    "description": "",
+    "summary": {
+        "content": "",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/",
+    "relativePermalink": "/posts/2004/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 0,
+        "readingTime": "0 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/_index.md",
+        "logicalName": "_index.md",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"",
+        "plain":"",
+        "source":"---\ntitle: \"Posts for 2004\"\nfeatured_image: https://cdn.ryanparman.com/hugo/posts/featured_image.jpg\n---\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Posts for 2005",
+    "description": "",
+    "summary": {
+        "content": "",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/",
+    "relativePermalink": "/posts/2005/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 0,
+        "readingTime": "0 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/_index.md",
+        "logicalName": "_index.md",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"",
+        "plain":"",
+        "source":"---\ntitle: \"Posts for 2005\"\nfeatured_image: https://cdn.ryanparman.com/hugo/posts/featured_image.jpg\n---\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Posts for 2006",
+    "description": "",
+    "summary": {
+        "content": "",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/",
+    "relativePermalink": "/posts/2006/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 0,
+        "readingTime": "0 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/_index.md",
+        "logicalName": "_index.md",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"",
+        "plain":"",
+        "source":"---\ntitle: \"Posts for 2006\"\nfeatured_image: https://cdn.ryanparman.com/hugo/posts/featured_image.jpg\n---\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Posts for 2007",
+    "description": "",
+    "summary": {
+        "content": "",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2007/",
+    "relativePermalink": "/posts/2007/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 0,
+        "readingTime": "0 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2007/_index.md",
+        "logicalName": "_index.md",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2007/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"",
+        "plain":"",
+        "source":"---\ntitle: \"Posts for 2007\"\nfeatured_image: https://cdn.ryanparman.com/hugo/posts/featured_image.jpg\n---\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Posts for 2008",
+    "description": "",
+    "summary": {
+        "content": "",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2008/",
+    "relativePermalink": "/posts/2008/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 0,
+        "readingTime": "0 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2008/_index.md",
+        "logicalName": "_index.md",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2008/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"",
+        "plain":"",
+        "source":"---\ntitle: \"Posts for 2008\"\nfeatured_image: https://cdn.ryanparman.com/hugo/posts/featured_image.jpg\n---\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Posts for 2009",
+    "description": "",
+    "summary": {
+        "content": "",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2009/",
+    "relativePermalink": "/posts/2009/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 0,
+        "readingTime": "0 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2009/_index.md",
+        "logicalName": "_index.md",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2009/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"",
+        "plain":"",
+        "source":"---\ntitle: \"Posts for 2009\"\nfeatured_image: https://cdn.ryanparman.com/hugo/posts/featured_image.jpg\n---\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Posts for 2010",
+    "description": "",
+    "summary": {
+        "content": "",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2010/",
+    "relativePermalink": "/posts/2010/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 0,
+        "readingTime": "0 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2010/_index.md",
+        "logicalName": "_index.md",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2010/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"",
+        "plain":"",
+        "source":"---\ntitle: \"Posts for 2010\"\nfeatured_image: https://cdn.ryanparman.com/hugo/posts/featured_image.jpg\n---\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Posts for 2011",
+    "description": "",
+    "summary": {
+        "content": "",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2011/",
+    "relativePermalink": "/posts/2011/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 0,
+        "readingTime": "0 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2011/_index.md",
+        "logicalName": "_index.md",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2011/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"",
+        "plain":"",
+        "source":"---\ntitle: \"Posts for 2011\"\nfeatured_image: https://cdn.ryanparman.com/hugo/posts/featured_image.jpg\n---\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Posts for 2012",
+    "description": "",
+    "summary": {
+        "content": "",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2012/",
+    "relativePermalink": "/posts/2012/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 0,
+        "readingTime": "0 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2012/_index.md",
+        "logicalName": "_index.md",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2012/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"",
+        "plain":"",
+        "source":"---\ntitle: \"Posts for 2012\"\nfeatured_image: https://cdn.ryanparman.com/hugo/posts/featured_image.jpg\n---\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Posts for 2013",
+    "description": "",
+    "summary": {
+        "content": "",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2013/",
+    "relativePermalink": "/posts/2013/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 0,
+        "readingTime": "0 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2013/_index.md",
+        "logicalName": "_index.md",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2013/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"",
+        "plain":"",
+        "source":"---\ntitle: \"Posts for 2013\"\nfeatured_image: https://cdn.ryanparman.com/hugo/posts/featured_image.jpg\n---\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Posts for 2014",
+    "description": "",
+    "summary": {
+        "content": "",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2014/",
+    "relativePermalink": "/posts/2014/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 0,
+        "readingTime": "0 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2014/_index.md",
+        "logicalName": "_index.md",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2014/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"",
+        "plain":"",
+        "source":"---\ntitle: \"Posts for 2014\"\nfeatured_image: https://cdn.ryanparman.com/hugo/posts/featured_image.jpg\n---\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Posts for 2015",
+    "description": "",
+    "summary": {
+        "content": "",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2015/",
+    "relativePermalink": "/posts/2015/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 0,
+        "readingTime": "0 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2015/_index.md",
+        "logicalName": "_index.md",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2015/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"",
+        "plain":"",
+        "source":"---\ntitle: \"Posts for 2015\"\nfeatured_image: https://cdn.ryanparman.com/hugo/posts/featured_image.jpg\n---\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Posts for 2016",
+    "description": "",
+    "summary": {
+        "content": "",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2016/",
+    "relativePermalink": "/posts/2016/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 0,
+        "readingTime": "0 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2016/_index.md",
+        "logicalName": "_index.md",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2016/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"",
+        "plain":"",
+        "source":"---\ntitle: \"Posts for 2016\"\nfeatured_image: https://cdn.ryanparman.com/hugo/posts/featured_image.jpg\n---\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Posts for 2017",
+    "description": "",
+    "summary": {
+        "content": "",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2017/",
+    "relativePermalink": "/posts/2017/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 0,
+        "readingTime": "0 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2017/_index.md",
+        "logicalName": "_index.md",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2017/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"",
+        "plain":"",
+        "source":"---\ntitle: \"Posts for 2017\"\nfeatured_image: https://cdn.ryanparman.com/hugo/posts/featured_image.jpg\n---\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Posts for 2018",
+    "description": "",
+    "summary": {
+        "content": "",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2018/",
+    "relativePermalink": "/posts/2018/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 0,
+        "readingTime": "0 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2018/_index.md",
+        "logicalName": "_index.md",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2018/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"",
+        "plain":"",
+        "source":"---\ntitle: \"Posts for 2018\"\nfeatured_image: https://cdn.ryanparman.com/hugo/posts/featured_image.jpg\n---\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Posts for 2019",
+    "description": "",
+    "summary": {
+        "content": "",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-03-09T14:28:24-08:00",
+    "permalink": "https://ryanparman.com/posts/2019/",
+    "relativePermalink": "/posts/2019/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 0,
+        "readingTime": "0 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2019/_index.md",
+        "logicalName": "_index.md",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2019/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"",
+        "plain":"",
+        "source":"---\ntitle: \"Posts for 2019\"\nfeatured_image: https://cdn.ryanparman.com/hugo/posts/featured_image.jpg\n---\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Posts for 2020",
+    "description": "",
+    "summary": {
+        "content": "",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2020-06-02T00:41:33-07:00",
+    "permalink": "https://ryanparman.com/posts/2020/",
+    "relativePermalink": "/posts/2020/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 0,
+        "readingTime": "0 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2020/_index.md",
+        "logicalName": "_index.md",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2020/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"",
+        "plain":"",
+        "source":"---\ntitle: \"Posts for 2020\"\nfeatured_image: https://cdn.ryanparman.com/hugo/posts/featured_image.jpg\n---\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+        ]
+    }
+}

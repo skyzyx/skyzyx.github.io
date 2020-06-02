@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "“Play By The Rules” Is A Hit!",
+    "description": "",
+    "summary": {
+        "content": "After getting back from my vacation last night, and checking my referrers, I’ve found that my article “Play By The Rules” has been a moderate success! Besides having a metric ton of hits from Google, apparently Henrik Gemal posted a link to my article on his website… which is very good. Paland.tv, Phaedo.cx, and Deluks Pixelworks all made weblog posts about it. EdgeWalker made a forum post about it, and “deLUKs” added it to his forum signature. I even got very positive feedback from Jeffrey Zeldman, Dave Shea, and Henrik Gemal.",
+        "isTruncated": true
+    },
+    "published": "2003-08-11T07:16:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/play-by-the-rules-is-a-hit/",
+    "relativePermalink": "/posts/2003/play-by-the-rules-is-a-hit/",
+    "aliases": ["/2003/08/10/play-by-the-rules-is-a-hit/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 91,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030811-play-by-the-rules-is-a-hit.md",
+        "logicalName": "20030811-play-by-the-rules-is-a-hit.md",
+        "translationBaseName": "20030811-play-by-the-rules-is-a-hit",
+        "baseFileName": "20030811-play-by-the-rules-is-a-hit",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eAfter getting back from my vacation last night, and checking my \u003ca href=\"../refer/\"\u003ereferrers\u003c/a\u003e, I’ve found that my article \u003ca href=\"../articles/playbytherules.htm\"\u003e“Play By The Rules”\u003c/a\u003e has been a moderate success!\u003c/p\u003e\n\u003cp\u003eBesides having a metric ton of hits from \u003ca href=\"https://web.archive.org/web/20030811071600/http://www.google.com\"\u003eGoogle\u003c/a\u003e, apparently \u003ca href=\"https://web.archive.org/web/20030811071600/http://www.gemal.dk\"\u003eHenrik Gemal\u003c/a\u003e posted a \u003ca href=\"https://web.archive.org/web/20030811071600/http://gemal.dk/archives/000230.html\"\u003elink to my article\u003c/a\u003e on his website… which is \u003cem\u003every\u003c/em\u003e good. \u003ca href=\"https://web.archive.org/web/20030811071600/http://paland.tv/blog/eintrag-154.htm\"\u003ePaland.tv\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20030811071600/http://phaedo.cx/archives/2003/07/30/jesus_people_play_by_the_rules.html\"\u003ePhaedo.cx\u003c/a\u003e, and \u003ca href=\"https://web.archive.org/web/20030811071600/http://www.deluks.de/v3/?nav=links\"\u003eDeluks Pixelworks\u003c/a\u003e all made weblog posts about it. \u003ca href=\"https://web.archive.org/web/20030811071600/http://forum.ingame.de/quake/showthread.php3?threadid=117105\"\u003eEdgeWalker made a forum post\u003c/a\u003e about it, and “deLUKs” added it to his \u003ca href=\"https://web.archive.org/web/20030811071600/http://forum.ingame.de/quake/showthread.php3?postid=1937865\"\u003eforum signature\u003c/a\u003e. I even got very positive feedback from \u003ca href=\"https://web.archive.org/web/20030811071600/http://www.zeldman.com\"\u003eJeffrey Zeldman\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20030811071600/http://www.mezzoblue.com\"\u003eDave Shea\u003c/a\u003e, and \u003ca href=\"https://web.archive.org/web/20030811071600/http://www.gemal.dk\"\u003eHenrik Gemal\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":"After getting back from my vacation last night, and checking my referrers, I’ve found that my article “Play By The Rules” has been a moderate success!\nBesides having a metric ton of hits from Google, apparently Henrik Gemal posted a link to my article on his website… which is very good. Paland.tv, Phaedo.cx, and Deluks Pixelworks all made weblog posts about it. EdgeWalker made a forum post about it, and “deLUKs” added it to his forum signature. I even got very positive feedback from Jeffrey Zeldman, Dave Shea, and Henrik Gemal.\n",
+        "source":"\nAfter getting back from my vacation last night, and checking my [referrers](../refer/), I’ve found that my article [“Play By The Rules”](../articles/playbytherules.htm) has been a moderate success!\n\nBesides having a metric ton of hits from [Google]({{% wayback \"http://www.google.com\" %}}), apparently [Henrik Gemal]({{% wayback \"http://www.gemal.dk\" %}}) posted a [link to my article]({{% wayback \"http://gemal.dk/archives/000230.html\" %}}) on his website… which is *very* good. [Paland.tv]({{% wayback \"http://paland.tv/blog/eintrag-154.htm\" %}}), [Phaedo.cx]({{% wayback \"http://phaedo.cx/archives/2003/07/30/jesus_people_play_by_the_rules.html\" %}}), and [Deluks Pixelworks]({{% wayback \"http://www.deluks.de/v3/?nav=links\" %}}) all made weblog posts about it. [EdgeWalker made a forum post]({{% wayback \"http://forum.ingame.de/quake/showthread.php3?threadid=117105\" %}}) about it, and “deLUKs” added it to his [forum signature]({{% wayback \"http://forum.ingame.de/quake/showthread.php3?postid=1937865\" %}}). I even got very positive feedback from [Jeffrey Zeldman]({{% wayback \"http://www.zeldman.com\" %}}), [Dave Shea]({{% wayback \"http://www.mezzoblue.com\" %}}), and [Henrik Gemal]({{% wayback \"http://www.gemal.dk\" %}}).\n"},
+    "links": {
+        "prev": {"title": "Movie Reviews 2003", "permalink": "https://ryanparman.com/posts/2003/movie-reviews-2003/"},
+        "next": {"title": "Welcome Movable Type!", "permalink": "https://ryanparman.com/posts/2003/welcome-movable-type/"},
+        "ignore": "me"
+    }
+}
+
+}

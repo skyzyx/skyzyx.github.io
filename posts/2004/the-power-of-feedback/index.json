@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "The Power of Feedback",
+    "description": "",
+    "summary": {
+        "content": "I’ve been using the Feed Demon RSS reader since 1.0 rc4, which was around November-ish. I liked it so much, that when 1.0 went final in January, I bought a license. This was the first time I’d ever actually bought shareware, and it kinda made me feel good. Wierd. Anyways, the only real problem I had with Feed Demon was that it didn’t properly parse the feed for Dunstan’s blog. I went back and looked at his XML, and he wasn’t using a \u0026lt;link\u0026gt; tag for his permalinks.",
+        "isTruncated": true
+    },
+    "published": "2004-02-02T19:26:17Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/the-power-of-feedback/",
+    "relativePermalink": "/posts/2004/the-power-of-feedback/",
+    "aliases": ["/2004/02/02/the-power-of-feedback/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Software"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 308,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040202-the-power-of-feedback.md",
+        "logicalName": "20040202-the-power-of-feedback.md",
+        "translationBaseName": "20040202-the-power-of-feedback",
+        "baseFileName": "20040202-the-power-of-feedback",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve been using the \u003ca href=\"https://web.archive.org/web/20040202192617/http://www.bradsoft.com/feeddemon/\"\u003eFeed Demon\u003c/a\u003e RSS reader since 1.0 rc4, which was around November-ish. I liked it so much, that when 1.0 went final in January, I bought a license. This was the first time I’d ever actually \u003cem\u003ebought\u003c/em\u003e shareware, and it kinda made me feel good. Wierd.\u003c/p\u003e\n\u003cp\u003eAnyways, the only real problem I had with Feed Demon was that it didn’t properly parse the feed for \u003ca href=\"https://web.archive.org/web/20040202192617/http://www.1976design.com/blog/\"\u003eDunstan’s blog\u003c/a\u003e. I went back and looked at his XML, and he wasn’t using a \u003ccode\u003e\u0026lt;link\u0026gt;\u003c/code\u003e tag for his permalinks. He was using the \u003ccode\u003e\u0026lt;guid\u0026gt;\u003c/code\u003e tag instead. Hmmm…\u003c/p\u003e\n\u003cp\u003eI went and dug up the \u003ca href=\"https://web.archive.org/web/20040202192617/http://blogs.law.harvard.edu/tech/rss\"\u003eRSS 2.0 specification\u003c/a\u003e so that I could read up on the \u003ccode\u003e\u0026lt;guid\u0026gt;\u003c/code\u003e tag. The \u003ca href=\"https://web.archive.org/web/20040202192617/http://blogs.law.harvard.edu/tech/rss#ltguidgtSubelementOfLtitemgt\"\u003etags details\u003c/a\u003e say this:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eIf the guid element has an attribute named \u003ccode\u003eisPermaLink\u003c/code\u003e with a value of true, the reader may assume that it is a permalink to the item, that is, a url that can be opened in a Web browser, that points to the full item described by the \u003ccode\u003e\u0026lt;item\u0026gt;\u003c/code\u003e element.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eThat’s all fine and dandy, but Dunstan’s \u003ccode\u003e\u0026lt;guid\u0026gt;\u003c/code\u003e tag didn’t have that. Oh no! Was Dunstan’s XML feed not well-formed? *Gasp!* I read on, and came across this:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u003ccode\u003eisPermaLink\u003c/code\u003e is optional, its default value is \u003ccode\u003etrue\u003c/code\u003e. If its value is \u003ccode\u003efalse\u003c/code\u003e, the guid may not be assumed to be a url, or a url to anything in particular.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eOkay, okay. So Dunstan knows what he’s doing. Fair enough. But will my favorite feed reader never be able to properly read Dunstan’s Permalinks?\u003c/p\u003e\n\u003cp\u003eI submitted this as a bug report on the Feed Demon newsgroup last week. Today, \u003ca href=\"https://web.archive.org/web/20040202192617/http://nick.typepad.com/blog/\"\u003eNick Bradbury\u003c/a\u003e released \u003ca href=\"https://web.archive.org/web/20040202192617/http://nick.typepad.com/blog/2004/01/feeddemon_110_b.html\"\u003eFeed Demon 1.1 Beta 1\u003c/a\u003e (it kinda rolls off the tongue, doesn’t it?). This issue is fixed in this release. Woo-hoo! There’s also basic support for \u003ca href=\"https://web.archive.org/web/20040202192617/http://www.mnot.net/drafts/draft-nottingham-atom-format-02.html\"\u003eAtom 0.3\u003c/a\u003e, which is kinda cool too.\u003c/p\u003e\n\u003cp\u003eI love the power of feedback.\u003c/p\u003e\n",
+        "plain":"I’ve been using the Feed Demon RSS reader since 1.0 rc4, which was around November-ish. I liked it so much, that when 1.0 went final in January, I bought a license. This was the first time I’d ever actually bought shareware, and it kinda made me feel good. Wierd.\nAnyways, the only real problem I had with Feed Demon was that it didn’t properly parse the feed for Dunstan’s blog. I went back and looked at his XML, and he wasn’t using a \u0026lt;link\u0026gt; tag for his permalinks. He was using the \u0026lt;guid\u0026gt; tag instead. Hmmm…\nI went and dug up the RSS 2.0 specification so that I could read up on the \u0026lt;guid\u0026gt; tag. The tags details say this:\n If the guid element has an attribute named isPermaLink with a value of true, the reader may assume that it is a permalink to the item, that is, a url that can be opened in a Web browser, that points to the full item described by the \u0026lt;item\u0026gt; element.\n That’s all fine and dandy, but Dunstan’s \u0026lt;guid\u0026gt; tag didn’t have that. Oh no! Was Dunstan’s XML feed not well-formed? *Gasp!* I read on, and came across this:\n isPermaLink is optional, its default value is true. If its value is false, the guid may not be assumed to be a url, or a url to anything in particular.\n Okay, okay. So Dunstan knows what he’s doing. Fair enough. But will my favorite feed reader never be able to properly read Dunstan’s Permalinks?\nI submitted this as a bug report on the Feed Demon newsgroup last week. Today, Nick Bradbury released Feed Demon 1.1 Beta 1 (it kinda rolls off the tongue, doesn’t it?). This issue is fixed in this release. Woo-hoo! There’s also basic support for Atom 0.3, which is kinda cool too.\nI love the power of feedback.\n",
+        "source":"\nI’ve been using the [Feed Demon]({{% wayback \"http://www.bradsoft.com/feeddemon/\" %}}) RSS reader since 1.0 rc4, which was around November-ish. I liked it so much, that when 1.0 went final in January, I bought a license. This was the first time I’d ever actually *bought* shareware, and it kinda made me feel good. Wierd.\n\nAnyways, the only real problem I had with Feed Demon was that it didn’t properly parse the feed for [Dunstan’s blog]({{% wayback \"http://www.1976design.com/blog/\" %}}). I went back and looked at his XML, and he wasn’t using a `\u003clink\u003e` tag for his permalinks. He was using the `\u003cguid\u003e` tag instead. Hmmm…\n\nI went and dug up the [RSS 2.0 specification]({{% wayback \"http://blogs.law.harvard.edu/tech/rss\" %}}) so that I could read up on the `\u003cguid\u003e` tag. The [tags details]({{% wayback \"http://blogs.law.harvard.edu/tech/rss#ltguidgtSubelementOfLtitemgt\" %}}) say this:\n\n\u003e If the guid element has an attribute named `isPermaLink` with a value of true, the reader may assume that it is a permalink to the item, that is, a url that can be opened in a Web browser, that points to the full item described by the `\u003citem\u003e` element.\n\nThat’s all fine and dandy, but Dunstan’s `\u003cguid\u003e` tag didn’t have that. Oh no! Was Dunstan’s XML feed not well-formed? \\*Gasp!\\* I read on, and came across this:\n\n\u003e `isPermaLink` is optional, its default value is `true`. If its value is `false`, the guid may not be assumed to be a url, or a url to anything in particular.\n\nOkay, okay. So Dunstan knows what he’s doing. Fair enough. But will my favorite feed reader never be able to properly read Dunstan’s Permalinks?\n\nI submitted this as a bug report on the Feed Demon newsgroup last week. Today, [Nick Bradbury]({{% wayback \"http://nick.typepad.com/blog/\" %}}) released [Feed Demon 1.1 Beta 1]({{% wayback \"http://nick.typepad.com/blog/2004/01/feeddemon_110_b.html\" %}}) (it kinda rolls off the tongue, doesn’t it?). This issue is fixed in this release. Woo-hoo! There’s also basic support for [Atom 0.3]({{% wayback \"http://www.mnot.net/drafts/draft-nottingham-atom-format-02.html\" %}}), which is kinda cool too.\n\nI love the power of feedback.\n"},
+    "links": {
+        "prev": {"title": "SpamMaster Joe", "permalink": "https://ryanparman.com/posts/2004/spammaster-joe/"},
+        "next": {"title": "The Browser Wars", "permalink": "https://ryanparman.com/posts/2004/the-browser-wars/"},
+        "ignore": "me"
+    }
+}
+
+}

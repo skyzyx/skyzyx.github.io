@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Welcome WaSP Buzzers!",
+    "description": "",
+    "summary": {
+        "content": "I just wanted to say hello to those of you who are visiting me from The Web Standards Project, and a big “thank you” to Dave Shea for being kind enough to mention me in the latest WaSP blog post, \u0026ldquo;Browser Testing\u0026rdquo;. If you’re just visiting for the first time, I’d like to point out that I’m currently looking for full-time employment as a web designer in Silicon Valley, Fresno, or San Diego. If all you’ve got is some contract work, I’d be interested in that too.",
+        "isTruncated": true
+    },
+    "published": "2003-12-02T23:51:11Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/welcome-wasp-buzzers/",
+    "relativePermalink": "/posts/2003/welcome-wasp-buzzers/",
+    "aliases": ["/2003/12/02/welcome-wasp-buzzers/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 112,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20031202-welcome-wasp-buzzers.md",
+        "logicalName": "20031202-welcome-wasp-buzzers.md",
+        "translationBaseName": "20031202-welcome-wasp-buzzers",
+        "baseFileName": "20031202-welcome-wasp-buzzers",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI just wanted to say hello to those of you who are visiting me from \u003ca href=\"https://web.archive.org/web/20031202235111/http://www.webstandards.org\"\u003eThe Web Standards Project\u003c/a\u003e, and a big “thank you” to \u003ca href=\"https://web.archive.org/web/20031202235111/http://www.mezzoblue.com\"\u003eDave Shea\u003c/a\u003e for being kind enough to mention me in the latest WaSP blog post, \u0026ldquo;\u003ca href=\"https://web.archive.org/web/20031202235111/http://www.webstandards.org/buzz/archive/2003_12.html#a000260\"\u003eBrowser Testing\u003c/a\u003e\u0026rdquo;.\u003c/p\u003e\n\u003cp\u003eIf you’re just visiting for the first time, I’d like to point out that I’m currently looking for full-time employment as a web designer in Silicon Valley, Fresno, or San Diego. If all you’ve got is some contract work, I’d be interested in that too. Here’s my \u003ca href=\"/resume/\"\u003erésumé\u003c/a\u003e. Let’s \u003ca href=\"/contact/\"\u003echat\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eAlso, I’ve got some useful \u003ca href=\"/scripts/\"\u003eJavaScripts\u003c/a\u003e, and my \u003ca href=\"/resources/\"\u003eResources\u003c/a\u003e section will see many changes by the weekend.\u003c/p\u003e\n\u003cp\u003eEnjoy your stay!\u003c/p\u003e\n",
+        "plain":"I just wanted to say hello to those of you who are visiting me from The Web Standards Project, and a big “thank you” to Dave Shea for being kind enough to mention me in the latest WaSP blog post, \u0026ldquo;Browser Testing\u0026rdquo;.\nIf you’re just visiting for the first time, I’d like to point out that I’m currently looking for full-time employment as a web designer in Silicon Valley, Fresno, or San Diego. If all you’ve got is some contract work, I’d be interested in that too. Here’s my résumé. Let’s chat.\nAlso, I’ve got some useful JavaScripts, and my Resources section will see many changes by the weekend.\nEnjoy your stay!\n",
+        "source":"\nI just wanted to say hello to those of you who are visiting me from [The Web Standards Project]({{% wayback \"http://www.webstandards.org\" %}}), and a big “thank you” to [Dave Shea]({{% wayback \"http://www.mezzoblue.com\" %}}) for being kind enough to mention me in the latest WaSP blog post, \"[Browser Testing]({{% wayback \"http://www.webstandards.org/buzz/archive/2003_12.html#a000260\" %}})\".\n\nIf you’re just visiting for the first time, I’d like to point out that I’m currently looking for full-time employment as a web designer in Silicon Valley, Fresno, or San Diego. If all you’ve got is some contract work, I’d be interested in that too. Here’s my [résumé](/resume/). Let’s [chat](/contact/).\n\nAlso, I’ve got some useful [JavaScripts](/scripts/), and my [Resources](/resources/) section will see many changes by the weekend.\n\nEnjoy your stay!\n"},
+    "links": {
+        "prev": {"title": "Broken Nintendo GameCube™", "permalink": "https://ryanparman.com/posts/2003/broken-nintendo-gamecube/"},
+        "next": {"title": "A Second Voice", "permalink": "https://ryanparman.com/posts/2003/a-second-voice/"},
+        "ignore": "me"
+    }
+}
+
+}

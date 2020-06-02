@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "SimplePie Beta Testing",
+    "description": "",
+    "summary": {
+        "content": "Rather than completely hold off the next version of SimplePie until it’s totally complete (which appears to be taking some time), I’ve decided to make the current Beta versions available for testing purposes. Although it appears to be fairly stable, I wouldn’t recommend this for a production site just yet. If you’d like to test out the current Beta build (2004.12.03), you can do so a couple of ways: Basic Online Feed Reader utilizing the latest version of SimplePie The SimplePie source file The documentation file for this particular build Please take the time to test it with your feeds that you read.",
+        "isTruncated": true
+    },
+    "published": "2004-12-04T02:26:55Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/simplepie-beta-testing/",
+    "relativePermalink": "/posts/2004/simplepie-beta-testing/",
+    "aliases": ["/2004/12/03/simplepie-beta-testing/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 162,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20041204-simplepie-beta-testing.md",
+        "logicalName": "20041204-simplepie-beta-testing.md",
+        "translationBaseName": "20041204-simplepie-beta-testing",
+        "baseFileName": "20041204-simplepie-beta-testing",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eRather than completely hold off the next version of SimplePie until it’s totally complete (which appears to be taking some time), I’ve decided to make the current Beta versions available for testing purposes. Although it appears to be fairly stable, I wouldn’t recommend this for a production site just yet.\u003c/p\u003e\n\u003cp\u003eIf you’d like to test out the current Beta build (2004.12.03), you can do so a couple of ways:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"/dev/simplepie/\"\u003eBasic Online Feed Reader utilizing the latest version of SimplePie\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/dev/simplepie/simplepie.inc\"\u003eThe SimplePie source file\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/dev/simplepie/documentation.htm\"\u003eThe documentation file for this particular build\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003ePlease take the time to test it with your feeds that you read. I’ve also enabled an option that allows you to see how the feed’s source code is modified by SimplePie. This is great for debugging and for helping test.\u003c/p\u003e\n\u003cp\u003eIf you have any bug reports, please list them in the \u003ca href=\"https://web.archive.org/web/20041204022655/http://www.skyzyx.net/forums/viewforum.php?f=7\"\u003eBug Report forum\u003c/a\u003e. The same goes for \u003ca href=\"https://web.archive.org/web/20041204022655/http://www.skyzyx.net/forums/viewforum.php?f=8\"\u003efeature requests\u003c/a\u003e and \u003ca href=\"https://web.archive.org/web/20041204022655/http://www.skyzyx.net/forums/viewforum.php?f=1\"\u003equestions and comments\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eThanks for helping to make SimplePie great!\u003c/p\u003e\n",
+        "plain":"Rather than completely hold off the next version of SimplePie until it’s totally complete (which appears to be taking some time), I’ve decided to make the current Beta versions available for testing purposes. Although it appears to be fairly stable, I wouldn’t recommend this for a production site just yet.\nIf you’d like to test out the current Beta build (2004.12.03), you can do so a couple of ways:\n Basic Online Feed Reader utilizing the latest version of SimplePie The SimplePie source file The documentation file for this particular build  Please take the time to test it with your feeds that you read. I’ve also enabled an option that allows you to see how the feed’s source code is modified by SimplePie. This is great for debugging and for helping test.\nIf you have any bug reports, please list them in the Bug Report forum. The same goes for feature requests and questions and comments.\nThanks for helping to make SimplePie great!\n",
+        "source":"\nRather than completely hold off the next version of SimplePie until it’s totally complete (which appears to be taking some time), I’ve decided to make the current Beta versions available for testing purposes. Although it appears to be fairly stable, I wouldn’t recommend this for a production site just yet.\n\nIf you’d like to test out the current Beta build (2004.12.03), you can do so a couple of ways:\n\n* [Basic Online Feed Reader utilizing the latest version of SimplePie](/dev/simplepie/)\n* [The SimplePie source file](/dev/simplepie/simplepie.inc)\n* [The documentation file for this particular build](/dev/simplepie/documentation.htm)\n\nPlease take the time to test it with your feeds that you read. I’ve also enabled an option that allows you to see how the feed’s source code is modified by SimplePie. This is great for debugging and for helping test.\n\nIf you have any bug reports, please list them in the [Bug Report forum]({{% wayback \"http://www.skyzyx.net/forums/viewforum.php?f=7\" %}}). The same goes for [feature requests]({{% wayback \"http://www.skyzyx.net/forums/viewforum.php?f=8\" %}}) and [questions and comments]({{% wayback \"http://www.skyzyx.net/forums/viewforum.php?f=1\" %}}).\n\nThanks for helping to make SimplePie great!\n"},
+    "links": {
+        "prev": {"title": "Screen Grab Confab", "permalink": "https://ryanparman.com/posts/2004/screen-grab-confab/"},
+        "next": {"title": "Happy Birthday, Emily Ann Boydston", "permalink": "https://ryanparman.com/posts/2004/happy-birthday-emily-ann-boydston/"},
+        "ignore": "me"
+    }
+}
+
+}

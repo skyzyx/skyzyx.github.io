@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Introduction to “Life Lessons”",
+    "description": "",
+    "summary": {
+        "content": "As I’ve watched my children grow, I’ve started collecting a list of little bits of wisdom that I want to pass along to my kids. For a number of years now, I’ve been taking notes. Sometimes these notes are funny, sometimes endearing, and sometimes very serious. But all of these notes are about experiences from my own life where I’ve learned something valuable. Baz Luhrmann is credited as the writer of a song called Everybody’s Free To Wear Sunscreen. Toward the end of the song, it says:",
+        "isTruncated": true
+    },
+    "published": "2012-01-07T10:09:10Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2012/introduction-to-life-lessons/",
+    "relativePermalink": "/posts/2012/introduction-to-life-lessons/",
+    "aliases": ["/2012/01/07/introduction-to-life-lessons/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Life Lessons"],
+    "tags": [],
+    "series": ["Life Lessons"],
+    "keywords": [],
+    "meta": {
+        "wordCount": 204,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2012/20120107-introduction-to-life-lessons.md",
+        "logicalName": "20120107-introduction-to-life-lessons.md",
+        "translationBaseName": "20120107-introduction-to-life-lessons",
+        "baseFileName": "20120107-introduction-to-life-lessons",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2012/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eAs I’ve watched my children grow, I’ve started collecting a list of little bits of wisdom that I want to pass along to my kids.\u003c/p\u003e\n\u003cp\u003eFor a number of years now, I’ve been taking notes. Sometimes these notes are funny, sometimes endearing, and sometimes very serious. But all of these notes are about experiences from my own life where I’ve learned something valuable. \u003ca href=\"https://web.archive.org/web/20120107100910/http://www.imdb.com/name/nm0525303/\"\u003eBaz Luhrmann\u003c/a\u003e is credited as the writer of a song called \u003ca href=\"http://www.anysonglyrics.com/lyrics/b/bazluhrmann/everybodys.htm\"\u003eEverybody’s Free To Wear Sunscreen\u003c/a\u003e. Toward the end of the song, it says:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e“Be careful whose advice you buy, but, be patient with those who supply it. Advice is a form of nostalgia, dispensing it is a way of fishing the past from the disposal, wiping it off, painting over the ugly parts and recycling it for more than it’s worth.”\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eSo today, I’ve decided to take my list of notes, pick one of the topics to write about, and start a new category on my blog called \u0026ldquo;\u003ca href=\"/tags/life-lessons/\"\u003eLife Lessons\u003c/a\u003e\u0026rdquo;. These are letters and lessons written to my children. I don’t know when they’ll read them, but I just hope that I can avoid a situation where \u003ca href=\"https://web.archive.org/web/20120107100910/http://www.gocomics.com/calvinandhobbes/1995/05/25\"\u003eall of my life’s experiences will someday become stories with no point\u003c/a\u003e. Enjoy.\u003c/p\u003e\n",
+        "plain":"As I’ve watched my children grow, I’ve started collecting a list of little bits of wisdom that I want to pass along to my kids.\nFor a number of years now, I’ve been taking notes. Sometimes these notes are funny, sometimes endearing, and sometimes very serious. But all of these notes are about experiences from my own life where I’ve learned something valuable. Baz Luhrmann is credited as the writer of a song called Everybody’s Free To Wear Sunscreen. Toward the end of the song, it says:\n “Be careful whose advice you buy, but, be patient with those who supply it. Advice is a form of nostalgia, dispensing it is a way of fishing the past from the disposal, wiping it off, painting over the ugly parts and recycling it for more than it’s worth.”\n So today, I’ve decided to take my list of notes, pick one of the topics to write about, and start a new category on my blog called \u0026ldquo;Life Lessons\u0026rdquo;. These are letters and lessons written to my children. I don’t know when they’ll read them, but I just hope that I can avoid a situation where all of my life’s experiences will someday become stories with no point. Enjoy.\n",
+        "source":"\nAs I’ve watched my children grow, I’ve started collecting a list of little bits of wisdom that I want to pass along to my kids.\n\nFor a number of years now, I’ve been taking notes. Sometimes these notes are funny, sometimes endearing, and sometimes very serious. But all of these notes are about experiences from my own life where I’ve learned something valuable. [Baz Luhrmann]({{% wayback \"http://www.imdb.com/name/nm0525303/\" %}}) is credited as the writer of a song called [Everybody’s Free To Wear Sunscreen](http://www.anysonglyrics.com/lyrics/b/bazluhrmann/everybodys.htm). Toward the end of the song, it says:\n\n\u003e “Be careful whose advice you buy, but, be patient with those who supply it. Advice is a form of nostalgia, dispensing it is a way of fishing the past from the disposal, wiping it off, painting over the ugly parts and recycling it for more than it’s worth.”\n\nSo today, I’ve decided to take my list of notes, pick one of the topics to write about, and start a new category on my blog called \"[Life Lessons](/tags/life-lessons/)\". These are letters and lessons written to my children. I don’t know when they’ll read them, but I just hope that I can avoid a situation where [all of my life’s experiences will someday become stories with no point]({{% wayback \"http://www.gocomics.com/calvinandhobbes/1995/05/25\" %}}). Enjoy.\n"},
+    "links": {
+        "prev": {"title": "Louis C.K. and a word about torrenting", "permalink": "https://ryanparman.com/posts/2011/louis-c-k-and-a-word-about-torrenting/"},
+        "next": {"title": "Life Lesson: You can do anything you put your mind to, even if it’s “I can't.”", "permalink": "https://ryanparman.com/posts/2012/you-can-do-anything-you-put-your-mind-to-even-if-its-i-cant/"},
+        "ignore": "me"
+    }
+}
+
+}

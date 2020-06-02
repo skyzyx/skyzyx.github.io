@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Multiple Versions of Internet Explorer",
+    "description": "",
+    "summary": {
+        "content": "Ethan Marcotte (aka Sidesh0w has posted a link to a tutorial on how to run Internet Explorer 5.01, 5.5, and 6.0 under Windows XP! I’ve tried it, and it works! To save some people the hassle, I’ve gone ahead and zipped each stand-alone installation and made them available for download. I’ve tested them on Windows 2000 and XP. You’d just need to upgrade your Windows 2000 installation with Internet Explorer 6.0, then download and unzip these files wherever you want (I put them in my Internet Explorer folder, myself).",
+        "isTruncated": true
+    },
+    "published": "2003-11-06T18:21:35Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/multiple-versions-of-internet-explorer/",
+    "relativePermalink": "/posts/2003/multiple-versions-of-internet-explorer/",
+    "aliases": ["/archives/000094.php", "/articles/000094.php", "/2003/11/06/multiple-versions-of-internet-explorer/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 208,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20031106-multiple-versions-of-internet-explorer.md",
+        "logicalName": "20031106-multiple-versions-of-internet-explorer.md",
+        "translationBaseName": "20031106-multiple-versions-of-internet-explorer",
+        "baseFileName": "20031106-multiple-versions-of-internet-explorer",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003ca href=\"#update\"\u003eUpdate\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#update-hahahugoshortcode-s2-hbhb\"\u003eUpdate (HAHAHUGOSHORTCODE-s2-HBHB)\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#update-hahahugoshortcode-s3-hbhb\"\u003eUpdate (HAHAHUGOSHORTCODE-s3-HBHB)\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#update-hahahugoshortcode-s4-hbhb\"\u003eUpdate (HAHAHUGOSHORTCODE-s4-HBHB)\u003c/a\u003e\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/nav\u003e",
+        "html":"\u003cp\u003eEthan Marcotte (aka \u003ca href=\"https://web.archive.org/web/20031106182135/http://www.sidesh0w.com\"\u003eSidesh0w\u003c/a\u003e has posted a link to a \u003ca href=\"https://web.archive.org/web/20031106182135/http://www.insert-title.com/web_design/?page=articles/dev/multi_IE\"\u003etutorial\u003c/a\u003e on how to run Internet Explorer 5.01, 5.5, and 6.0 under Windows XP! I’ve tried it, and it works!\u003c/p\u003e\n\u003cp\u003eTo save some people the hassle, I’ve gone ahead and zipped each stand-alone installation and made them available for download. I’ve tested them on Windows 2000 and XP. You’d just need to upgrade your Windows 2000 installation with Internet Explorer 6.0, then download and unzip these files wherever you want (I put them in my Internet Explorer folder, myself).\u003c/p\u003e\n\u003ch2 id=\"update\"\u003eUpdate\u003c/h2\u003e\n\u003cp\u003eJust so that everyone is aware, the official version number of Internet Explorer 4.01 is v4.01. The \u003cem\u003einternal\u003c/em\u003e version number for Internet Explorer 4.01 is v4.72. Why? I’m not sure, but this is the case. Some websites are reporting that you can download IE 4.72, when they really mean IE 4.01. Blame Microsoft for the confusion.\u003c/p\u003e\n\u003ch2 id=\"update-hahahugoshortcode-s2-hbhb\"\u003eUpdate (\u003ctime datetime=\"2003-12-03\"\u003e2003-12-03\u003c/time\u003e\n)\u003c/h2\u003e\n\u003cp\u003eJust wanted to say hello to everyone visiting from the Web Standards Project and WebMonkey.\u003c/p\u003e\n\u003ch2 id=\"update-hahahugoshortcode-s3-hbhb\"\u003eUpdate (\u003ctime datetime=\"2006-02-16\"\u003e2006-02-16\u003c/time\u003e\n)\u003c/h2\u003e\n\u003cp\u003eLooking for IE7 info? Find it here: \u003ca href=\"/2006/02/02/internet-explorer-70-beta-2-standalone-is-available/\"\u003eInternet Explorer 7.0 Beta 2 Standalone is available\u003c/a\u003e\u003c/p\u003e\n\u003ch2 id=\"update-hahahugoshortcode-s4-hbhb\"\u003eUpdate (\u003ctime datetime=\"2008-01-01\"\u003e2008-01-01\u003c/time\u003e\n)\u003c/h2\u003e\n\u003cp\u003eA company called Tredosoft has put together an installer that comes with fixes for things like cookies and conditional comments. \u003ca href=\"https://web.archive.org/web/20031106182135/http://tredosoft.com/Multiple_IE\"\u003eCheck it out!\u003c/a\u003e\u003c/p\u003e\n",
+        "plain":"Ethan Marcotte (aka Sidesh0w has posted a link to a tutorial on how to run Internet Explorer 5.01, 5.5, and 6.0 under Windows XP! I’ve tried it, and it works!\nTo save some people the hassle, I’ve gone ahead and zipped each stand-alone installation and made them available for download. I’ve tested them on Windows 2000 and XP. You’d just need to upgrade your Windows 2000 installation with Internet Explorer 6.0, then download and unzip these files wherever you want (I put them in my Internet Explorer folder, myself).\nUpdate Just so that everyone is aware, the official version number of Internet Explorer 4.01 is v4.01. The internal version number for Internet Explorer 4.01 is v4.72. Why? I’m not sure, but this is the case. Some websites are reporting that you can download IE 4.72, when they really mean IE 4.01. Blame Microsoft for the confusion.\nUpdate (2003-12-03 ) Just wanted to say hello to everyone visiting from the Web Standards Project and WebMonkey.\nUpdate (2006-02-16 ) Looking for IE7 info? Find it here: Internet Explorer 7.0 Beta 2 Standalone is available\nUpdate (2008-01-01 ) A company called Tredosoft has put together an installer that comes with fixes for things like cookies and conditional comments. Check it out!\n",
+        "source":"\nEthan Marcotte (aka [Sidesh0w]({{% wayback \"http://www.sidesh0w.com\" %}}) has posted a link to a [tutorial]({{% wayback \"http://www.insert-title.com/web_design/?page=articles/dev/multi_IE\" %}}) on how to run Internet Explorer 5.01, 5.5, and 6.0 under Windows XP! I’ve tried it, and it works!\n\nTo save some people the hassle, I’ve gone ahead and zipped each stand-alone installation and made them available for download. I’ve tested them on Windows 2000 and XP. You’d just need to upgrade your Windows 2000 installation with Internet Explorer 6.0, then download and unzip these files wherever you want (I put them in my Internet Explorer folder, myself).\n\n## Update\n\nJust so that everyone is aware, the official version number of Internet Explorer 4.01 is v4.01. The *internal* version number for Internet Explorer 4.01 is v4.72. Why? I’m not sure, but this is the case. Some websites are reporting that you can download IE 4.72, when they really mean IE 4.01. Blame Microsoft for the confusion.\n\n## Update ({{\u003cdate \"2003-12-03\"\u003e}})\n\nJust wanted to say hello to everyone visiting from the Web Standards Project and WebMonkey.\n\n## Update ({{\u003cdate \"2006-02-16\"\u003e}})\n\nLooking for IE7 info? Find it here: [Internet Explorer 7.0 Beta 2 Standalone is available](/2006/02/02/internet-explorer-70-beta-2-standalone-is-available/)\n\n## Update ({{\u003cdate \"2008-01-01\"\u003e}})\n\nA company called Tredosoft has put together an installer that comes with fixes for things like cookies and conditional comments. [Check it out!]({{% wayback \"http://tredosoft.com/Multiple_IE\" %}})\n"},
+    "links": {
+        "prev": {"title": "Rock The Vote", "permalink": "https://ryanparman.com/posts/2003/rock-the-vote/"},
+        "next": {"title": "New CSS Resources", "permalink": "https://ryanparman.com/posts/2003/new-css-resources/"},
+        "ignore": "me"
+    }
+}
+
+}

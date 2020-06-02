@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Spoofing, Spamming, and Formmail",
+    "description": "",
+    "summary": {
+        "content": "For the last few days, I’ve received gibberish emails from… myself. Well, not my actual account, but from the Skyzyx.com domain, with subject headings listing the URL of my formmail.cgi script. If anyone out there is receiving spam from me, I apologize, it’s not me. I use PHP to have messages sent to me, so I don’t even use Formmail. I’m going to delete it just to be safe, as I don’t want this to continue. Zeldman had the same problem recently, and although I can’t find it, I remember reading that someone else was having the same problem.",
+        "isTruncated": true
+    },
+    "published": "2003-08-25T15:34:30Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/spoofing-spamming-and-formmail/",
+    "relativePermalink": "/posts/2003/spoofing-spamming-and-formmail/",
+    "aliases": ["/2003/08/25/spoofing-spamming-and-formmail/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 100,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030825-spoofing-spamming-and-formmail.md",
+        "logicalName": "20030825-spoofing-spamming-and-formmail.md",
+        "translationBaseName": "20030825-spoofing-spamming-and-formmail",
+        "baseFileName": "20030825-spoofing-spamming-and-formmail",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eFor the last few days, I’ve received gibberish emails from… myself. Well, not my actual account, but from the Skyzyx.com domain, with subject headings listing the URL of my \u003ccode\u003eformmail.cgi\u003c/code\u003e script. If anyone out there is receiving spam from me, I apologize, it’s not me.\u003c/p\u003e\n\u003cp\u003eI use PHP to have messages sent to me, so I don’t even use Formmail. I’m going to delete it just to be safe, as I don’t want this to continue. \u003ca href=\"https://web.archive.org/web/20030825153430/http://www.zeldman.com/daily/0703b.shtml#spamhard\"\u003eZeldman\u003c/a\u003e had the same problem recently, and although I can’t find it, I remember reading that someone else was having the same problem. Grrr…\u003c/p\u003e\n",
+        "plain":"For the last few days, I’ve received gibberish emails from… myself. Well, not my actual account, but from the Skyzyx.com domain, with subject headings listing the URL of my formmail.cgi script. If anyone out there is receiving spam from me, I apologize, it’s not me.\nI use PHP to have messages sent to me, so I don’t even use Formmail. I’m going to delete it just to be safe, as I don’t want this to continue. Zeldman had the same problem recently, and although I can’t find it, I remember reading that someone else was having the same problem. Grrr…\n",
+        "source":"\nFor the last few days, I’ve received gibberish emails from… myself. Well, not my actual account, but from the Skyzyx.com domain, with subject headings listing the URL of my `formmail.cgi` script. If anyone out there is receiving spam from me, I apologize, it’s not me.\n\nI use PHP to have messages sent to me, so I don’t even use Formmail. I’m going to delete it just to be safe, as I don’t want this to continue. [Zeldman]({{% wayback \"http://www.zeldman.com/daily/0703b.shtml#spamhard\" %}}) had the same problem recently, and although I can’t find it, I remember reading that someone else was having the same problem. Grrr…\n"},
+    "links": {
+        "prev": {"title": "Building Better Websites", "permalink": "https://ryanparman.com/posts/2003/building-better-websites/"},
+        "next": {"title": "The Latest Goings-On", "permalink": "https://ryanparman.com/posts/2003/the-latest-goings-on/"},
+        "ignore": "me"
+    }
+}
+
+}

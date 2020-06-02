@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Lots of RSS-Related Changes",
+    "description": "",
+    "summary": {
+        "content": "A couple of people have asked me how I’m able to list the recent posts for nearly all of the blogs I read. The answer is simple. PHP, RSS, and the Magpie RSS Parser. At one point, I made available the PHP code that I use to do it, once Magpie is already installed. If you do a search on this site, you can probably find it. I’ve been very happy with Magpie since I first began using it last summer.",
+        "isTruncated": true
+    },
+    "published": "2003-12-09T19:25:41Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/lots-of-rss-related-changes/",
+    "relativePermalink": "/posts/2003/lots-of-rss-related-changes/",
+    "aliases": ["/2003/12/09/lots-of-rss-related-changes/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 236,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20031209-lots-of-rss-related-changes.md",
+        "logicalName": "20031209-lots-of-rss-related-changes.md",
+        "translationBaseName": "20031209-lots-of-rss-related-changes",
+        "baseFileName": "20031209-lots-of-rss-related-changes",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eA couple of people have asked me how I’m able to list the recent posts for nearly all of the \u003ca href=\"/blogs/\"\u003eblogs I read\u003c/a\u003e. The answer is simple. PHP, RSS, and the \u003ca href=\"https://web.archive.org/web/20031209192541/http://magpierss.sourceforge.net\"\u003eMagpie RSS Parser\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eAt one point, I made available the PHP code that I use to do it, once Magpie is already installed. If you do a search on this site, you can probably find it. I’ve been very happy with Magpie since I first began using it last summer. It was way better than the parser I’d written in JavaScript, and a lot faster too.\u003c/p\u003e\n\u003cp\u003eIf you look at the left-hand menu, you’ll see that I’ve added an \u003ca href=\"/rss/\"\u003eRSS News Reader\u003c/a\u003e section. This is much like the RSS section that I had a few months ago that ended up getting merged with the \u003ca href=\"/blogs/\"\u003eBlogs I Read\u003c/a\u003e section. The reader is also powered by Magpie, and I hope it does some people some good.\u003c/p\u003e\n\u003cp\u003eIn an effort to better track who is reading this site (and who isn’t), I’ve moved the location of my RSS feed. You can get the current URL from the \u003ca href=\"/rss/\"\u003eRSS section\u003c/a\u003e. I might even add more of a variety of feeds, depending on the response I get from people. I’ll play that one by ear.\u003c/p\u003e\n\u003cp\u003eLastly, I’ve made some ever-so-slight adjustments to the order of the menu. If you don’t see a menu option where it normally is, look lower.\u003c/p\u003e\n",
+        "plain":"A couple of people have asked me how I’m able to list the recent posts for nearly all of the blogs I read. The answer is simple. PHP, RSS, and the Magpie RSS Parser.\nAt one point, I made available the PHP code that I use to do it, once Magpie is already installed. If you do a search on this site, you can probably find it. I’ve been very happy with Magpie since I first began using it last summer. It was way better than the parser I’d written in JavaScript, and a lot faster too.\nIf you look at the left-hand menu, you’ll see that I’ve added an RSS News Reader section. This is much like the RSS section that I had a few months ago that ended up getting merged with the Blogs I Read section. The reader is also powered by Magpie, and I hope it does some people some good.\nIn an effort to better track who is reading this site (and who isn’t), I’ve moved the location of my RSS feed. You can get the current URL from the RSS section. I might even add more of a variety of feeds, depending on the response I get from people. I’ll play that one by ear.\nLastly, I’ve made some ever-so-slight adjustments to the order of the menu. If you don’t see a menu option where it normally is, look lower.\n",
+        "source":"\nA couple of people have asked me how I’m able to list the recent posts for nearly all of the [blogs I read](/blogs/). The answer is simple. PHP, RSS, and the [Magpie RSS Parser]({{% wayback \"http://magpierss.sourceforge.net\" %}}).\n\nAt one point, I made available the PHP code that I use to do it, once Magpie is already installed. If you do a search on this site, you can probably find it. I’ve been very happy with Magpie since I first began using it last summer. It was way better than the parser I’d written in JavaScript, and a lot faster too.\n\nIf you look at the left-hand menu, you’ll see that I’ve added an [RSS News Reader](/rss/) section. This is much like the RSS section that I had a few months ago that ended up getting merged with the [Blogs I Read](/blogs/) section. The reader is also powered by Magpie, and I hope it does some people some good.\n\nIn an effort to better track who is reading this site (and who isn’t), I’ve moved the location of my RSS feed. You can get the current URL from the [RSS section](/rss/). I might even add more of a variety of feeds, depending on the response I get from people. I’ll play that one by ear.\n\nLastly, I’ve made some ever-so-slight adjustments to the order of the menu. If you don’t see a menu option where it normally is, look lower.\n"},
+    "links": {
+        "prev": {"title": "Britney Is So Freaking Hot!", "permalink": "https://ryanparman.com/posts/2003/britney-is-so-freaking-hot/"},
+        "next": {"title": "LIR And Bug Fixes for IE5/Win", "permalink": "https://ryanparman.com/posts/2003/lir-and-bug-fixes-for-ie5win/"},
+        "ignore": "me"
+    }
+}
+
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Letting Go of Legacy Code",
+    "description": "",
+    "summary": {
+        "content": "Taking my own advice, I’ve updated my “crappy browser” messages to include Internet Explorer 5.5. IE 5.5 is now 5 years old (1999), and it’s time to encourage more and more people to move up. Since IE6 supports the correct CSS box model (in “almost standards” mode), I’m not going to bother with the CSS box model hack in the new design. This is 2004 people… get with the program. If users insist on hanging on to outdated technology, then they need to understand that at some point they’re going to be left behind.",
+        "isTruncated": true
+    },
+    "published": "2004-07-24T20:09:37Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/letting-go-of-legacy-code/",
+    "relativePermalink": "/posts/2004/letting-go-of-legacy-code/",
+    "aliases": ["/archives/000288.php", "/articles/000288.php", "/2004/07/24/letting-go-of-legacy-code/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 184,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040724-letting-go-of-legacy-code.md",
+        "logicalName": "20040724-letting-go-of-legacy-code.md",
+        "translationBaseName": "20040724-letting-go-of-legacy-code",
+        "baseFileName": "20040724-letting-go-of-legacy-code",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eTaking \u003ca href=\"/archives/000139.php\"\u003emy own advice\u003c/a\u003e, I’ve updated my “crappy browser” messages to include Internet Explorer 5.5. IE 5.5 is now 5 years old (1999), and it’s time to encourage more and more people to move up.\u003c/p\u003e\n\u003cp\u003eSince IE6 supports the correct CSS box model (in “almost standards” mode), I’m not going to bother with the CSS box model hack in the \u003ca href=\"/archives/000181.php\"\u003enew design\u003c/a\u003e. This is 2004 people… get with the program. If users insist on hanging on to outdated technology, then they need to understand that at some point they’re going to be left behind.\u003c/p\u003e\n\u003cp\u003eMicrosoft has left behind Windows 95/98/Me, Apple has let go of anything prior to Mac OS X 10.1.5 (pretty much), and I’ve let go of IE prior to 6.0. At some point, you just need to bite the bullet and let the legacy code go. That’s where I’m at.\u003c/p\u003e\n\u003cp\u003eIf you’re a die-hard Internet Explorer 5.0 user, sorry. If your company still hasn’t upgraded their systems with IE6, either find a new one that’s on-the-ball, or create a fuss to get IE6 installed (if not a better browser like \u003ca href=\"https://web.archive.org/web/20040724200937/http://www.mozilla.org/products/firefox/\"\u003eFirefox\u003c/a\u003e).\u003c/p\u003e\n",
+        "plain":"Taking my own advice, I’ve updated my “crappy browser” messages to include Internet Explorer 5.5. IE 5.5 is now 5 years old (1999), and it’s time to encourage more and more people to move up.\nSince IE6 supports the correct CSS box model (in “almost standards” mode), I’m not going to bother with the CSS box model hack in the new design. This is 2004 people… get with the program. If users insist on hanging on to outdated technology, then they need to understand that at some point they’re going to be left behind.\nMicrosoft has left behind Windows 95/98/Me, Apple has let go of anything prior to Mac OS X 10.1.5 (pretty much), and I’ve let go of IE prior to 6.0. At some point, you just need to bite the bullet and let the legacy code go. That’s where I’m at.\nIf you’re a die-hard Internet Explorer 5.0 user, sorry. If your company still hasn’t upgraded their systems with IE6, either find a new one that’s on-the-ball, or create a fuss to get IE6 installed (if not a better browser like Firefox).\n",
+        "source":"\nTaking [my own advice](/archives/000139.php), I’ve updated my “crappy browser” messages to include Internet Explorer 5.5. IE 5.5 is now 5 years old (1999), and it’s time to encourage more and more people to move up.\n\nSince IE6 supports the correct CSS box model (in “almost standards” mode), I’m not going to bother with the CSS box model hack in the [new design](/archives/000181.php). This is 2004 people… get with the program. If users insist on hanging on to outdated technology, then they need to understand that at some point they’re going to be left behind.\n\nMicrosoft has left behind Windows 95/98/Me, Apple has let go of anything prior to Mac OS X 10.1.5 (pretty much), and I’ve let go of IE prior to 6.0. At some point, you just need to bite the bullet and let the legacy code go. That’s where I’m at.\n\nIf you’re a die-hard Internet Explorer 5.0 user, sorry. If your company still hasn’t upgraded their systems with IE6, either find a new one that’s on-the-ball, or create a fuss to get IE6 installed (if not a better browser like [Firefox]({{% wayback \"http://www.mozilla.org/products/firefox/)\" %}}).\n"},
+    "links": {
+        "prev": {"title": "Good IM, RSS, and FTP Software", "permalink": "https://ryanparman.com/posts/2004/good-im-rss-and-ftp-software/"},
+        "next": {"title": "RealNetworks and the FairPlay DRM", "permalink": "https://ryanparman.com/posts/2004/realnetworks-and-the-fairplay-drm/"},
+        "ignore": "me"
+    }
+}
+
+}

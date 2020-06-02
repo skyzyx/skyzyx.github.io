@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Clientcopia",
+    "description": "",
+    "summary": {
+        "content": "I got this link from Digital Media Minute. It’s a site with real quotes from real clients, and is called Clientcopia. Here are a few quotes from the site: “We want it to be black, but could you not make it so dark?” And… “Why do you need the content to design the site. Can’t you just do all the design and leaves blanks and we can pop the stuff it the night before we launch?” And…",
+        "isTruncated": true
+    },
+    "published": "2004-10-10T18:13:10Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/clientcopia/",
+    "relativePermalink": "/posts/2004/clientcopia/",
+    "aliases": ["/2004/10/10/clientcopia/"],
+    "images": [],
+    "videos": [],
+    "categories": ["For Funsies"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 202,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20041010-clientcopia.md",
+        "logicalName": "20041010-clientcopia.md",
+        "translationBaseName": "20041010-clientcopia",
+        "baseFileName": "20041010-clientcopia",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI got this link from \u003ca href=\"https://web.archive.org/web/20041010181310/http://www.digitalmediaminute.com/article/1057/\"\u003eDigital Media Minute\u003c/a\u003e. It’s a site with real quotes from real clients, and is called \u003ca href=\"https://web.archive.org/web/20041010181310/http://www.clientcopia.com/\"\u003eClientcopia\u003c/a\u003e. Here are a few quotes from the site:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e“We want it to be black, but could you not make it so dark?”\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eAnd…\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e“Why do you need the content to design the site. Can’t you just do all the design and leaves blanks and we can pop the stuff it the night before we launch?”\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eAnd…\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e“Hey buddy, give me a call, I have the layout for you but I’m having problems uploading it to the web. I’m using Publisher, I hope you can help me.”\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eAnd…\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e“I need security… I want security on every page… I know about all the deviants who are waiting to, what would you say, HACK into my site and steal credit card numbers… oh speaking of credit card numbers you know that I don’t really want an online store, but I want people to be able to buy things right? don’t give them too much information on the site though or they might go buy from somewhere else”\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eSend this link to anyone who works in web/print design and has to deal with clients regularly.\u003c/p\u003e\n",
+        "plain":"I got this link from Digital Media Minute. It’s a site with real quotes from real clients, and is called Clientcopia. Here are a few quotes from the site:\n “We want it to be black, but could you not make it so dark?”\n And…\n “Why do you need the content to design the site. Can’t you just do all the design and leaves blanks and we can pop the stuff it the night before we launch?”\n And…\n “Hey buddy, give me a call, I have the layout for you but I’m having problems uploading it to the web. I’m using Publisher, I hope you can help me.”\n And…\n “I need security… I want security on every page… I know about all the deviants who are waiting to, what would you say, HACK into my site and steal credit card numbers… oh speaking of credit card numbers you know that I don’t really want an online store, but I want people to be able to buy things right? don’t give them too much information on the site though or they might go buy from somewhere else”\n Send this link to anyone who works in web/print design and has to deal with clients regularly.\n",
+        "source":"\nI got this link from [Digital Media Minute]({{% wayback \"http://www.digitalmediaminute.com/article/1057/\" %}}). It’s a site with real quotes from real clients, and is called [Clientcopia]({{% wayback \"http://www.clientcopia.com/\" %}}). Here are a few quotes from the site:\n\n\u003e “We want it to be black, but could you not make it so dark?”\n\nAnd…\n\n\u003e “Why do you need the content to design the site. Can’t you just do all the design and leaves blanks and we can pop the stuff it the night before we launch?”\n\nAnd…\n\n\u003e “Hey buddy, give me a call, I have the layout for you but I’m having problems uploading it to the web. I’m using Publisher, I hope you can help me.”\n\nAnd…\n\n\u003e “I need security… I want security on every page… I know about all the deviants who are waiting to, what would you say, HACK into my site and steal credit card numbers… oh speaking of credit card numbers you know that I don’t really want an online store, but I want people to be able to buy things right? don’t give them too much information on the site though or they might go buy from somewhere else”\n\nSend this link to anyone who works in web/print design and has to deal with clients regularly.\n"},
+    "links": {
+        "prev": {"title": "A New License", "permalink": "https://ryanparman.com/posts/2004/a-new-license/"},
+        "next": {"title": "SimplePie 0.95", "permalink": "https://ryanparman.com/posts/2004/simplepie-095/"},
+        "ignore": "me"
+    }
+}
+
+}

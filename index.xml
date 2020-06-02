@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flailing Wildly</title>
+    <link>https://ryanparman.com/</link>
+    <description>Recent content on Flailing Wildly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://ryanparman.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What did you expect would happen?</title>
+      <link>https://ryanparman.com/posts/2020/what-did-you-expect-would-happen/</link>
+      <pubDate>Tue, 02 Jun 2020 04:51:09 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/posts/2020/what-did-you-expect-would-happen/</guid>
+      <description>We, the people, grant law enforcement officers, judges, elected officials, and other people an increased level of authority in our society. However, this authority is neither free nor limitless.   This is not politics   These are our rights as American citizens.
+  Every single one of us is affected by this, either right this moment, or in the coming years and decades.
+  As voters, it is our responsiblity to hold our leadership accountable whether we voted for them or not — especially if we voted for them.</description>
+    </item>
+    
+    <item>
+      <title>Playlist: Best of Foo Fighters</title>
+      <link>https://ryanparman.com/posts/2019/playlist-best-of-foo-fighters/</link>
+      <pubDate>Wed, 02 Oct 2019 09:00:32 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/posts/2019/playlist-best-of-foo-fighters/</guid>
+      <description>The Foo Fighters are one of the greatest bands in rock music. Born from the ashes of Nirvana, Foo Fighters have gone on to take their own place in rock history. These are the songs that I think are the best from their repertoire.   Playlist    View on Apple Music, Pandora, Spotify, or YouTube.</description>
+    </item>
+    
+    <item>
+      <title>How to create local TLS certificates for development on macOS</title>
+      <link>https://ryanparman.com/posts/2019/how-to-create-local-tls-certificates-for-development-on-macos/</link>
+      <pubDate>Mon, 05 Aug 2019 19:52:30 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/posts/2019/how-to-create-local-tls-certificates-for-development-on-macos/</guid>
+      <description>By creating a Certificate Authority (a.k.a., a “CA”) and trusting it locally, any certificate that we create using this CA will also be trusted locally. This can simplify the development of HTTPS websites on your local machine.   This content is a fork of, and is largely based on, “Generating Self-Signed SSL Certificates for Use with Bluemix Custom Domains”, by Tony Erwin, dated 2014-09-15.
+The examples in this tutorial are from macOS Sierra (10.12).
+ Create a local Certificate Authority Start by opening Keychain Access.</description>
+    </item>
+    
+    <item>
+      <title>Using GNU command line tools in macOS instead of FreeBSD tools</title>
+      <link>https://ryanparman.com/posts/2019/using-gnu-command-line-tools-in-macos-instead-of-freebsd-tools/</link>
+      <pubDate>Tue, 18 Jun 2019 14:48:16 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/posts/2019/using-gnu-command-line-tools-in-macos-instead-of-freebsd-tools/</guid>
+      <description>macOS is a Unix, and not built on Linux. This can bite you when trying to write scripts which support both platforms.   I think most of us realize that macOS isn&amp;rsquo;t a Linux OS, but what that also means is that instead of shipping with the GNU flavor of command line tools, it ships with the FreeBSD flavor. As such, writing shell scripts which can work across both platforms can sometimes be challenging.
+Homebrew Homebrew can be used to install the GNU versions of tools onto your Mac, but they are all prefixed with &amp;ldquo;g&amp;rdquo; by default.</description>
+    </item>
+    
+    <item>
+      <title>Running aws-vault in macOS with local Docker containers</title>
+      <link>https://ryanparman.com/posts/2019/running-aws-vault-with-local-docker-containers/</link>
+      <pubDate>Fri, 19 Apr 2019 01:32:30 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/posts/2019/running-aws-vault-with-local-docker-containers/</guid>
+      <description>Overview aws-vault is a tool for storing your AWS credentials in your system keychain instead of as a plain text file on-disk.
+Credentials and other secrets (including your various system passwords) are stored inside your system keychain. They are encrypted, and cannot easily be stolen by a rogue script or application. By keeping your AWS credentials in your system keychain, they are available to you when you are logged in, unavailable when you are logged out, and provide an important layer of security that the standard plain text storage method does not.</description>
+    </item>
+    
+    <item>
+      <title>Converting iMessage Stickers, Animoji, and Memoji to Slackmoji (Slack Emoji)</title>
+      <link>https://ryanparman.com/posts/2019/converting-imessage-stickers-animoji-and-memoji-to-slackmoji-slack-emoji/</link>
+      <pubDate>Sun, 10 Feb 2019 21:29:11 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/posts/2019/converting-imessage-stickers-animoji-and-memoji-to-slackmoji-slack-emoji/</guid>
+      <description>With the impending shutdown of HipChat (February 2019), my team has been working hard on migrating everything over to Slack. Why not have some fun while we&#39;re at it?   Slackmoji Firstly, what is Slackmoji? Slackmoji (the word) refers to Slack + emoji — namely, the custom emoji you can add to your Slack account. It adds a bit of color and personality to the default Slack experience. Since I work in technology and the web, my set of Slackmoji tends to be Mac/Web/Browser-centric.</description>
+    </item>
+    
+    <item>
+      <title>Playlist: Best of P.O.D.</title>
+      <link>https://ryanparman.com/posts/2019/playlist-best-of-pod/</link>
+      <pubDate>Sat, 02 Feb 2019 21:01:42 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/posts/2019/playlist-best-of-pod/</guid>
+      <description>I’ve been a fan of P.O.D. since the 90s, and I’ve continued to follow them throughout their career. This is a collection of my favorite tracks into a single playlist.   Playlist    View on Apple Music, Pandora, or Spotify (in varying degrees of completeness).
+A few notes… For the most part, all of P.O.D.’s major-label releases (e.g., Atlantic, Universal) are easy to find across music services, but a couple of albums are incredibly hard to find. My original, local version of the playlist includes copies of:</description>
+    </item>
+    
+    <item>
+      <title>Understanding Trust in Your Infrastructure</title>
+      <link>https://ryanparman.com/posts/2018/understanding-trust-in-your-infrastructure/</link>
+      <pubDate>Thu, 27 Dec 2018 07:30:30 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/posts/2018/understanding-trust-in-your-infrastructure/</guid>
+      <description>Only a tiny fraction of the code your application runs was written by you or your team. How do you know you can trust the code that was written by other people? Where would you even start?   This piece is part of a larger series on Engineering for Site Reliability, specifically balancing stability against the edge of technology.
+ What do I mean by &amp;ldquo;trust&amp;rdquo;? Movies and TV shows have given us a version of trust which essentially boils down to “Do you trust me?</description>
+    </item>
+    
+    <item>
+      <title>The Hiring Process, Part I</title>
+      <link>https://ryanparman.com/posts/2018/the-hiring-process-part-i-what-i-look-for-in-a-cv-resume-remastered/</link>
+      <pubDate>Wed, 14 Nov 2018 23:26:24 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/posts/2018/the-hiring-process-part-i-what-i-look-for-in-a-cv-resume-remastered/</guid>
+      <description>Over my career, my job title has typically fallen into the baskets of: Front-End Web Developer, Software Engineer, or DevOps/SRE. I’ve done a lot of interviewing to try and find the right people to join the teams I’ve worked on, and I thought it might be helpful to share part of my process. NOTE: I want to start by stating that what is written here are my own thoughts, and not representative of any past or current employer.
+ Remastered? This is an updated and revised edition of my original piece from 2011, “The Hiring Process, Part I: What I Look For in a CV/Résumé”.</description>
+    </item>
+    
+    <item>
+      <title>Serving Bandwidth-Friendly Video with HTTP Live Streaming (HLS)</title>
+      <link>https://ryanparman.com/posts/2018/serving-bandwidth-friendly-video-with-hls/</link>
+      <pubDate>Sun, 09 Sep 2018 03:18:33 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/posts/2018/serving-bandwidth-friendly-video-with-hls/</guid>
+      <description>While YouTube is free (as in money) to use, the cost is paid in terms of privacy and advertising analytics. So I&#39;ve decided to investigate self-hosting my video content. The Cost of YouTube With YouTube, you sacrifice privacy in favor of cost. YouTube is the very best at what they do (serve video to all resolutions and bandwidths), and they are backed by Google who is the very best at what they do (collect data in order to facilitate selling a primed audience to advertisers).</description>
+    </item>
+    
+    <item>
+      <title>Clueless Recruiters, Issue #8</title>
+      <link>https://ryanparman.com/posts/2018/clueless-recruiters-issue-8/</link>
+      <pubDate>Wed, 22 Aug 2018 19:05:01 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/posts/2018/clueless-recruiters-issue-8/</guid>
+      <description>When recruiters have absolutely no understanding about the things that they&#39;re recruiting for! In this episode of Clueless Recruiters! (Cue theme music!) Explanation There are few things that technical people are more annoyed by than technical recruiters. A very large segment of the technical recruiting industry has made a bad name for the rest of their industry by relentlessly spamming technical professionals after having not done their homework.
+These people hock job openings the same way that sleazy salesmen hock used cars.</description>
+    </item>
+    
+    <item>
+      <title>Creating Smaller Docker Containers for Your Apps</title>
+      <link>https://ryanparman.com/posts/2018/creating-smaller-docker-containers-for-your-apps/</link>
+      <pubDate>Thu, 16 Aug 2018 16:27:52 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/posts/2018/creating-smaller-docker-containers-for-your-apps/</guid>
+      <description>When it comes to Docker containers, the smaller, the better. Smaller containers are easier to work with, deploy faster, and tend to have fewer security vulnerabilities.   This piece is part of a larger series on Engineering for Site Reliability, specifically Docker.
+ Big is Bad I worked at WePay during the transition from a monolithic application in the datacenter to a series of microservices running in the cloud. I spent a lot of time working on the Vagrant-based CentOS development environment for the monolith, and also started maintaining a custom CentOS base image in Google Cloud.</description>
+    </item>
+    
+    <item>
+      <title>Dear Nintendo, Part II</title>
+      <link>https://ryanparman.com/posts/2018/dear-nintendo-part-ii/</link>
+      <pubDate>Mon, 06 Aug 2018 02:51:03 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/posts/2018/dear-nintendo-part-ii/</guid>
+      <description>After reading Dear Nintendo…, a friend today asked me “How do you feel about the Switch?” Well, let&#39;s go down the list.   Nintendo Account   I can log into my account online, yes. Apparently, Nintendo Network ID is simply an OAuth provider for the rest of the Nintendo website. But you can also have a standalone Nintendo.com login. I deal with this stuff every day, and I still get confused on Nintendo&amp;rsquo;s website.
+  I have a Switch, a Wii U, the original 3DS, the original 3DS XL, and now the new clamshell 2DS XL.</description>
+    </item>
+    
+    <item>
+      <title>PHP, DOMDocument, XPath 1.0, Case-Insensitivity, and Performance</title>
+      <link>https://ryanparman.com/posts/2018/php-domdocument-xpath-1-0-case-insensitivity-and-performance/</link>
+      <pubDate>Sun, 04 Feb 2018 00:26:21 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/posts/2018/php-domdocument-xpath-1-0-case-insensitivity-and-performance/</guid>
+      <description>TL;DR: How I improved the performance of case-insensitive XPath queries by 30–35%, reducing an 8× performance hit to only 4.5–5×. This was originally posted to the SimplePie NG blog.
+   Parse-at-all-costs Most feeds are a mess. The old SimplePie “OG” took a parse-at-all-costs philosophy, and could handle many of the most broken feeds you could find — at a cost. While the early versions of SimplePie supported the letter of the RSS 2.0 specification, there were a surprising number of feeds which didn’t.</description>
+    </item>
+    
+    <item>
+      <title>A Refresh of the SimplePie Logo</title>
+      <link>https://ryanparman.com/posts/2017/a-refresh-of-the-simplepie-logo/</link>
+      <pubDate>Sun, 17 Dec 2017 23:36:16 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/posts/2017/a-refresh-of-the-simplepie-logo/</guid>
+      <description>Today, I’m introducing a refresh of the SimplePie logo and the most visible part of its brand. I’m calling this new branding style SimplePie Neue. This was originally posted to the SimplePie NG blog.
+ The Icon I designed the original SimplePie logo back in 2005. At the time, Web 2.0 and Ajax were brand-new things to most web developers. Mac OS X “Tiger” 10.4 was the latest OS running on my 17” PowerBook G4, and while the hard glossy feel hadn’t yet taken over the Internet, shadows and gradients definitely had.</description>
+    </item>
+    
+    <item>
+      <title>SimplePie is back in development!</title>
+      <link>https://ryanparman.com/posts/2017/simplepie-is-back-in-development/</link>
+      <pubDate>Thu, 07 Dec 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/posts/2017/simplepie-is-back-in-development/</guid>
+      <description>After retiring from SimplePie development in 2009, the project more or less went into maintenance mode. While I am thankful to the folks who have contributed to its development over the last 8 years, it’s time for a reboot. This was originally posted to the SimplePie NG blog.
+   SimplePie NG is a modern, next-generation PHP package for working with syndication feeds. It is being re-written from the ground-up to take advantage of the changes that have happened in the PHP community since the SimplePie project was started back in 2004.</description>
+    </item>
+    
+    <item>
+      <title>Business Review: Del Sol Auto Sales</title>
+      <link>https://ryanparman.com/posts/2017/business-review-del-sol-auto-sales/</link>
+      <pubDate>Sat, 08 Apr 2017 09:30:49 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/posts/2017/business-review-del-sol-auto-sales/</guid>
+      <description>Summary: After misleading us and sending text messages that we perceived to be rude and unprofessional, we were scolded when trying to get our deposit back after financing fell through.   This was originally posted to Yelp. This version is lightly edited.
+ She had to have a Jeep Girlfriend and I were looking for a Jeep for her, and came across Del Sol Auto Sales. Spoke with Alex and “Fat” Hector. Everyone was nice and friendly at this point.</description>
+    </item>
+    
+    <item>
+      <title>Dear Nintendo…</title>
+      <link>https://ryanparman.com/posts/2016/dear-nintendo/</link>
+      <pubDate>Mon, 05 Sep 2016 13:38:40 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/posts/2016/dear-nintendo/</guid>
+      <description>I’ve been a life-long Nintendo console owner. I have the NES, SNES, N64, GameCube, Wii and Wii U. I’ve also owned the GameBoy Advance, GameBoy Advance SP, multiple Nintendo DS lites, and a regular and XL-sized 3DS.   I have invested so much time and energy into your products over the years that I feel a certain qualification to be able to talk about them as an expert-level consumer.
+This was originally posted to Facebook Notes.
+ Let’s go back to the GameCube With the GameCube, you very nearly achieved perfection.</description>
+    </item>
+    
+    <item>
+      <title>Thoughts on Gun Ownership</title>
+      <link>https://ryanparman.com/posts/2016/thoughts-on-gun-ownership/</link>
+      <pubDate>Tue, 14 Jun 2016 14:45:32 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/posts/2016/thoughts-on-gun-ownership/</guid>
+      <description>This was originally posted to Facebook Notes.
+ A heart problem. Earlier today, someone I know posted this image on Facebook.
+ “TRUTH!!!”, my friend exclaimed.
+ As a rational person who values evidence and critical thinking, this photo misses the point by grossly oversimplifying a very complex issue. And while it maybe be technically true, that’s only in the most ideal sociological conditions.
+The real world is far more complex.
+(Instead of being flippant and dismissive toward people you disagree with, challenge the things that you think you know.</description>
+    </item>
+    
+    <item>
+      <title>Stupid, Short-Term Self-Interest</title>
+      <link>https://ryanparman.com/posts/2016/stupid-short-term-self-interest/</link>
+      <pubDate>Sat, 26 Mar 2016 21:14:27 +0000</pubDate>
+      
+      <guid>https://ryanparman.com/posts/2016/stupid-short-term-self-interest/</guid>
+      <description>In response to “I moved to the US 7 years ago from Finland — here&#39;s what Americans don&#39;t understand about Nordic countries”, and why I support Bernie Sanders. This was originally posted to Facebook Notes.
+ Here&amp;rsquo;s what Americans don&amp;rsquo;t understand about Nordic countries Anu Partanen, writing for The Atlantic:
+ Commentators repeat endlessly the mantra that Bernie Sanders ’ Nordic-style policies might sound nice, but they&amp;rsquo;d never work in the U.S. The upshot is that Sanders, and his supporters, are being treated a bit like children—good-hearted, but hopelessly naive.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Mozilla SeaMonkey vs Mozilla Firebird™",
+    "description": "",
+    "summary": {
+        "content": "For you Gecko fans out there, the Mozilla Foundation has released Mozilla 1.5a still based on SeaMonkey code. Now, I was under the impression that when they said “Firebird will replace SeaMonkey” that they were talking about codebases, not products. I had thought that Mozilla 1.6 or 1.7 would switch from the SeaMonkey codebase to the Firebird codebase, but according to the Mozilla Firebird™ Roadmap, it looks as though the Mozilla Application Suite product will come to an end, and the Mozilla Firebird™ browser will be the currently supported product.",
+        "isTruncated": true
+    },
+    "published": "2003-07-24T17:53:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/mozilla-seamonkey-vs-mozilla-firebird/",
+    "relativePermalink": "/posts/2003/mozilla-seamonkey-vs-mozilla-firebird/",
+    "aliases": ["/2003/07/24/mozilla-seamonkey-vs-mozilla-firebird/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 192,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030724-mozilla-seamonkey-vs-mozilla-firebird.md",
+        "logicalName": "20030724-mozilla-seamonkey-vs-mozilla-firebird.md",
+        "translationBaseName": "20030724-mozilla-seamonkey-vs-mozilla-firebird",
+        "baseFileName": "20030724-mozilla-seamonkey-vs-mozilla-firebird",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eFor you Gecko fans out there, the \u003ca href=\"https://web.archive.org/web/20030724175300/http://www.mozilla.org\"\u003eMozilla Foundation\u003c/a\u003e has released \u003ca href=\"https://web.archive.org/web/20030724175300/http://www.mozilla.org\"\u003eMozilla 1.5a\u003c/a\u003e still based on SeaMonkey code. Now, I was under the impression that when they said “Firebird will replace SeaMonkey” that they were talking about codebases, not products. I had thought that Mozilla 1.6 or 1.7 would switch from the SeaMonkey codebase to the Firebird codebase, but according to the \u003ca href=\"https://web.archive.org/web/20030724175300/http://www.mozilla.org/projects/firebird/roadmap.html\"\u003eMozilla Firebird™ Roadmap\u003c/a\u003e, it looks as though the Mozilla Application Suite product will come to an end, and the Mozilla Firebird™ browser will be the currently supported product.\u003c/p\u003e\n\u003cp\u003eOn the other hand, I downloaded Mozilla Firebird™ 0.6 yesterday, and I must say that I wasn’t all that impressed. Sure it’s quick and all, but it’s not nearly as fully-featured as SeaMonkey. Now, I know that Firebird™ is intended to be a standalone browser, but it’s not even fully-featured enough for that. There is still \u003cem\u003ea lot\u003c/em\u003e of work to do before I’m willing to give up the features of SeaMonkey for Firebird™. Of course, if what I’ve come to believe from the roadmap is correct, then I’ll probably be ready to switch by Firebird™ 0.8 or 0.9… somewhere in there.\u003c/p\u003e\n",
+        "plain":"For you Gecko fans out there, the Mozilla Foundation has released Mozilla 1.5a still based on SeaMonkey code. Now, I was under the impression that when they said “Firebird will replace SeaMonkey” that they were talking about codebases, not products. I had thought that Mozilla 1.6 or 1.7 would switch from the SeaMonkey codebase to the Firebird codebase, but according to the Mozilla Firebird™ Roadmap, it looks as though the Mozilla Application Suite product will come to an end, and the Mozilla Firebird™ browser will be the currently supported product.\nOn the other hand, I downloaded Mozilla Firebird™ 0.6 yesterday, and I must say that I wasn’t all that impressed. Sure it’s quick and all, but it’s not nearly as fully-featured as SeaMonkey. Now, I know that Firebird™ is intended to be a standalone browser, but it’s not even fully-featured enough for that. There is still a lot of work to do before I’m willing to give up the features of SeaMonkey for Firebird™. Of course, if what I’ve come to believe from the roadmap is correct, then I’ll probably be ready to switch by Firebird™ 0.8 or 0.9… somewhere in there.\n",
+        "source":"\nFor you Gecko fans out there, the [Mozilla Foundation]({{% wayback \"http://www.mozilla.org\" %}}) has released [Mozilla 1.5a]({{% wayback \"http://www.mozilla.org\" %}}) still based on SeaMonkey code. Now, I was under the impression that when they said “Firebird will replace SeaMonkey” that they were talking about codebases, not products. I had thought that Mozilla 1.6 or 1.7 would switch from the SeaMonkey codebase to the Firebird codebase, but according to the [Mozilla Firebird™ Roadmap]({{% wayback \"http://www.mozilla.org/projects/firebird/roadmap.html\" %}}), it looks as though the Mozilla Application Suite product will come to an end, and the Mozilla Firebird™ browser will be the currently supported product.\n\nOn the other hand, I downloaded Mozilla Firebird™ 0.6 yesterday, and I must say that I wasn’t all that impressed. Sure it’s quick and all, but it’s not nearly as fully-featured as SeaMonkey. Now, I know that Firebird™ is intended to be a standalone browser, but it’s not even fully-featured enough for that. There is still *a lot* of work to do before I’m willing to give up the features of SeaMonkey for Firebird™. Of course, if what I’ve come to believe from the roadmap is correct, then I’ll probably be ready to switch by Firebird™ 0.8 or 0.9… somewhere in there.\n"},
+    "links": {
+        "prev": {"title": "Play By The Rules", "permalink": "https://ryanparman.com/posts/2003/play-by-the-rules/"},
+        "next": {"title": "A Disagreement Perhaps?", "permalink": "https://ryanparman.com/posts/2003/a-disagreement-perhaps/"},
+        "ignore": "me"
+    }
+}
+
+}

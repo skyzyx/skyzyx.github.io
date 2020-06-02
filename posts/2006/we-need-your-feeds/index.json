@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "We need your feeds!",
+    "description": "",
+    "summary": {
+        "content": "RSS and Atom feeds that aren’t either UTF–8 or ISO–8859–1 have proven difficult to find, so I’m calling out to all of you. If you read or publish feeds that are in a character set other than these two, please post them here in the comments. We’ve just finished adding iconv support to SimplePie, and want to test that support (it’s in the trunk build as of this moment). Any help along these lines would be appreciated.",
+        "isTruncated": false
+    },
+    "published": "2006-03-26T23:33:22Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2006/we-need-your-feeds/",
+    "relativePermalink": "/posts/2006/we-need-your-feeds/",
+    "aliases": ["/2006/03/26/we-need-your-feeds/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 77,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2006/20060326-we-need-your-feeds.md",
+        "logicalName": "20060326-we-need-your-feeds.md",
+        "translationBaseName": "20060326-we-need-your-feeds",
+        "baseFileName": "20060326-we-need-your-feeds",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2006/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eRSS and Atom feeds that aren’t either UTF–8 or ISO–8859–1 have proven difficult to find, so I’m calling out to all of you. If you read or publish feeds that are in a character set other than these two, please post them here in the comments. We’ve just finished adding \u003ccode\u003eiconv\u003c/code\u003e support to SimplePie, and want to test that support (it’s in the trunk build as of this moment). Any help along these lines would be appreciated.\u003c/p\u003e\n",
+        "plain":"RSS and Atom feeds that aren’t either UTF–8 or ISO–8859–1 have proven difficult to find, so I’m calling out to all of you. If you read or publish feeds that are in a character set other than these two, please post them here in the comments. We’ve just finished adding iconv support to SimplePie, and want to test that support (it’s in the trunk build as of this moment). Any help along these lines would be appreciated.\n",
+        "source":"\nRSS and Atom feeds that aren’t either UTF–8 or ISO–8859–1 have proven difficult to find, so I’m calling out to all of you. If you read or publish feeds that are in a character set other than these two, please post them here in the comments. We’ve just finished adding `iconv` support to SimplePie, and want to test that support (it’s in the trunk build as of this moment). Any help along these lines would be appreciated.\n"},
+    "links": {
+        "prev": {"title": "Vasecto-who?", "permalink": "https://ryanparman.com/posts/2006/vasecto-who/"},
+        "next": {"title": "Movie Makers Just Don't Get It", "permalink": "https://ryanparman.com/posts/2006/movie-makers-just-dont-get-it/"},
+        "ignore": "me"
+    }
+}
+
+}

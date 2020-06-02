@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Mathematical Proof That Girls Are Evil",
+    "description": "",
+    "summary": {
+        "content": "My best friend sent this to me last night. I thought it was hilarious, so I just had to share. No offense, ladies. ",
+        "isTruncated": false
+    },
+    "published": "2005-03-09T19:37:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/mathematical-proof-that-girls-are-evil/",
+    "relativePermalink": "/posts/2005/mathematical-proof-that-girls-are-evil/",
+    "aliases": ["/archives/000399.php", "/articles/000399.php", "/2005/03/09/mathematical-proof-that-girls-are-evil/"],
+    "images": [],
+    "videos": [],
+    "categories": ["For Funsies"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 23,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050309-mathematical-proof-that-girls-are-evil.md",
+        "logicalName": "20050309-mathematical-proof-that-girls-are-evil.md",
+        "translationBaseName": "20050309-mathematical-proof-that-girls-are-evil",
+        "baseFileName": "20050309-mathematical-proof-that-girls-are-evil",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eMy best friend sent this to me last night. I thought it was hilarious, so I just had to share. No offense, ladies.\u003c/p\u003e\n\u003cdiv class=\"pa2-ns\"\u003e\n\t\u003camp-img src=\"https://cdn.ryanparman.com/img/girlsareevil.jpg\" layout=\"responsive\" width=\"\" height=\"\"\u003e\u003c/amp-img\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n",
+        "plain":"My best friend sent this to me last night. I thought it was hilarious, so I just had to share. No offense, ladies.\n  ",
+        "source":"\nMy best friend sent this to me last night. I thought it was hilarious, so I just had to share. No offense, ladies.\n\n{{\u003cfullimage src=\"https://cdn.ryanparman.com/img/girlsareevil.jpg\" alt=\"Mathematical proof that girls are evil.\"\u003e}}\n"},
+    "links": {
+        "prev": {"title": "What “Alias” Is Missing This Season", "permalink": "https://ryanparman.com/posts/2005/what-alias-is-missing-this-season/"},
+        "next": {"title": "Tarzan 1.1 Now Available!", "permalink": "https://ryanparman.com/posts/2005/tarzan-11-now-available/"},
+        "ignore": "me"
+    }
+}
+
+}

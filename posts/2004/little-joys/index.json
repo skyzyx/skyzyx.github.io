@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Little Joys",
+    "description": "",
+    "summary": {
+        "content": "My wife, daughter and I were all sitting at the kitchen table eating waffles for breakfast this morning, when this humorous exchange involving my 2-year-old took place: Wife, smiling at daughter: “This is a really fun age, isn’t it?” Ryan, chewing: “Mhmmm…” *short pause* Daughter, defiantly: “NO IT’S NOT!” Ryan, losing it: *muffled snicker* ",
+        "isTruncated": false
+    },
+    "published": "2004-09-29T16:18:51Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/little-joys/",
+    "relativePermalink": "/posts/2004/little-joys/",
+    "aliases": ["/2004/09/29/little-joys/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Family Life"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 54,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040929-little-joys.md",
+        "logicalName": "20040929-little-joys.md",
+        "translationBaseName": "20040929-little-joys",
+        "baseFileName": "20040929-little-joys",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eMy wife, daughter and I were all sitting at the kitchen table eating waffles for breakfast this morning, when this humorous exchange involving my \u003cem\u003e2-year-old\u003c/em\u003e took place:\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u003cstrong\u003eWife\u003c/strong\u003e, smiling at daughter: “This is a really fun age, isn’t it?”\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eRyan\u003c/strong\u003e, chewing: “Mhmmm…”\u003c/p\u003e\n\u003cp\u003e*short pause*\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eDaughter\u003c/strong\u003e, defiantly: \u003cem\u003e“NO IT’S NOT!”\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eRyan\u003c/strong\u003e, losing it: *muffled snicker*\u003c/p\u003e\n\u003c/blockquote\u003e\n",
+        "plain":"My wife, daughter and I were all sitting at the kitchen table eating waffles for breakfast this morning, when this humorous exchange involving my 2-year-old took place:\n Wife, smiling at daughter: “This is a really fun age, isn’t it?”\nRyan, chewing: “Mhmmm…”\n*short pause*\nDaughter, defiantly: “NO IT’S NOT!”\nRyan, losing it: *muffled snicker*\n ",
+        "source":"\nMy wife, daughter and I were all sitting at the kitchen table eating waffles for breakfast this morning, when this humorous exchange involving my *2-year-old* took place:\n\n\u003e **Wife**, smiling at daughter: “This is a really fun age, isn’t it?”\n\u003e\n\u003e **Ryan**, chewing: “Mhmmm…”\n\u003e\n\u003e \\*short pause\\*\n\u003e\n\u003e **Daughter**, defiantly: *“NO IT’S NOT!”*\n\u003e\n\u003e **Ryan**, losing it: \\*muffled snicker\\*\n"},
+    "links": {
+        "prev": {"title": "It Took Me Long Enough...", "permalink": "https://ryanparman.com/posts/2004/it-took-me-long-enough/"},
+        "next": {"title": "A New License", "permalink": "https://ryanparman.com/posts/2004/a-new-license/"},
+        "ignore": "me"
+    }
+}
+
+}

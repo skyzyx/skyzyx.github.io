@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "A New License",
+    "description": "",
+    "summary": {
+        "content": "When I had originally written the SkyGPL license, my intent was to allow people to do all kinds of cool, creative things with my scripts, while still allowing me some sort of ownership and credit for my own work. That has been more or less the case. However, today I was going through the licenses available from Creative Commons, and I’ve decided to drop the SkyGPL all-together. All of my scripts will soon be re-licensed under either the Attribution License, Attribution-ShareAlike License, or the Attribution-NonCommercial License.",
+        "isTruncated": true
+    },
+    "published": "2004-10-09T19:53:19Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/a-new-license/",
+    "relativePermalink": "/posts/2004/a-new-license/",
+    "aliases": ["/2004/10/09/a-new-license/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 183,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20041009-a-new-license.md",
+        "logicalName": "20041009-a-new-license.md",
+        "translationBaseName": "20041009-a-new-license",
+        "baseFileName": "20041009-a-new-license",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eWhen I had originally written the \u003ca href=\"/license/\"\u003eSkyGPL license\u003c/a\u003e, my intent was to allow people to do all kinds of cool, creative things with my scripts, while still allowing me some sort of ownership and credit for my own work. That has been more or less the case.\u003c/p\u003e\n\u003cp\u003eHowever, today I was going through the licenses available from \u003ca href=\"https://web.archive.org/web/20041009195319/http://www.creativecommons.org\"\u003eCreative Commons\u003c/a\u003e, and I’ve decided to drop the SkyGPL all-together. All of my scripts will soon be re-licensed under either the \u003ca href=\"https://web.archive.org/web/20041009195319/http://creativecommons.org/licenses/by/2.0/\"\u003eAttribution License\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20041009195319/http://creativecommons.org/licenses/by-sa/2.0/\"\u003eAttribution-ShareAlike License\u003c/a\u003e, or the \u003ca href=\"https://web.archive.org/web/20041009195319/http://creativecommons.org/licenses/by-nc/2.0/\"\u003eAttribution-NonCommercial License\u003c/a\u003e. I’ve found that these licenses are more specific and less restrictive than my own, so I’d highly doubt that anyone will have a problem with it.\u003c/p\u003e\n\u003cp\u003eThe first script to take on a new license will be \u003ca href=\"/projects/simplepie/\"\u003eSimplePie 0.95\u003c/a\u003e, once it comes out of Beta. Although previous versions (0.94 and older) are not bound by this license, newer versions will be. I don’t think that it’ll make much difference to anyone who’s already using SimplePie, but if you’re unsure if this affects you at all, drop me a line, and we’ll see what we can work out.\u003c/p\u003e\n",
+        "plain":"When I had originally written the SkyGPL license, my intent was to allow people to do all kinds of cool, creative things with my scripts, while still allowing me some sort of ownership and credit for my own work. That has been more or less the case.\nHowever, today I was going through the licenses available from Creative Commons, and I’ve decided to drop the SkyGPL all-together. All of my scripts will soon be re-licensed under either the Attribution License, Attribution-ShareAlike License, or the Attribution-NonCommercial License. I’ve found that these licenses are more specific and less restrictive than my own, so I’d highly doubt that anyone will have a problem with it.\nThe first script to take on a new license will be SimplePie 0.95, once it comes out of Beta. Although previous versions (0.94 and older) are not bound by this license, newer versions will be. I don’t think that it’ll make much difference to anyone who’s already using SimplePie, but if you’re unsure if this affects you at all, drop me a line, and we’ll see what we can work out.\n",
+        "source":"\nWhen I had originally written the [SkyGPL license](/license/), my intent was to allow people to do all kinds of cool, creative things with my scripts, while still allowing me some sort of ownership and credit for my own work. That has been more or less the case.\n\nHowever, today I was going through the licenses available from [Creative Commons]({{% wayback \"http://www.creativecommons.org\" %}}), and I’ve decided to drop the SkyGPL all-together. All of my scripts will soon be re-licensed under either the [Attribution License]({{% wayback \"http://creativecommons.org/licenses/by/2.0/\" %}}), [Attribution-ShareAlike License]({{% wayback \"http://creativecommons.org/licenses/by-sa/2.0/\" %}}), or the [Attribution-NonCommercial License]({{% wayback \"http://creativecommons.org/licenses/by-nc/2.0/\" %}}). I’ve found that these licenses are more specific and less restrictive than my own, so I’d highly doubt that anyone will have a problem with it.\n\nThe first script to take on a new license will be [SimplePie 0.95](/projects/simplepie/), once it comes out of Beta. Although previous versions (0.94 and older) are not bound by this license, newer versions will be. I don’t think that it’ll make much difference to anyone who’s already using SimplePie, but if you’re unsure if this affects you at all, drop me a line, and we’ll see what we can work out.\n"},
+    "links": {
+        "prev": {"title": "Little Joys", "permalink": "https://ryanparman.com/posts/2004/little-joys/"},
+        "next": {"title": "Clientcopia", "permalink": "https://ryanparman.com/posts/2004/clientcopia/"},
+        "ignore": "me"
+    }
+}
+
+}

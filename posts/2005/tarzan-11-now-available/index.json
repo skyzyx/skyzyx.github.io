@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Tarzan 1.1 Now Available!",
+    "description": "",
+    "summary": {
+        "content": "Tarzan 1.1 is now available. This release has so many new features, I can’t list them all. For that, you can read the release notes. There are also some minor changes for people upgrading from 1.0.x, so please look over the release notes anyways. Although there are zero API changes in this release, there are lots and lots of web interface improvements for people administering Tarzan installations. I’ve also laid the groundwork for keyword searching, which will be the primary feature of the next release.",
+        "isTruncated": true
+    },
+    "published": "2005-03-12T10:58:53Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/tarzan-11-now-available/",
+    "relativePermalink": "/posts/2005/tarzan-11-now-available/",
+    "aliases": ["/2005/03/12/tarzan-11-now-available/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 276,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050312-tarzan-11-now-available.md",
+        "logicalName": "20050312-tarzan-11-now-available.md",
+        "translationBaseName": "20050312-tarzan-11-now-available",
+        "baseFileName": "20050312-tarzan-11-now-available",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003e\u003ca href=\"/projects/tarzan/\"\u003eTarzan 1.1\u003c/a\u003e is now available. This release has so many new features, I can’t list them all. For that, you can read the \u003ca href=\"/projects/tarzan/\"\u003erelease notes\u003c/a\u003e. There are also some minor changes for people upgrading from 1.0.x, so please look over the release notes anyways.\u003c/p\u003e\n\u003cp\u003eAlthough there are zero API changes in this release, there are lots and lots of web interface improvements for people administering Tarzan installations. I’ve also laid the groundwork for keyword searching, which will be the primary feature of the next release.\u003c/p\u003e\n\u003cp\u003eBeyond that, here’s a short list of what’s new:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003eThe Tarzan information page has become the Tarzan Control Panel. You’ve got access to more information, and have more control over what all is going on with your Tarzan system. It now requires a login, and has been localized into English, French, German, and Japanese.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eAutomatic Update Detection for both the Tarzan software and your Tarzan Extensions. Color-coded notifiers in the Tarzan Control Panel allow you to know if updates are available just by glancing at them.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eThe lifespan of the cache is now a configurable option.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eYou can either use Tarzan’s built-in error messages, or enable error handling to handle your own Amazon errors.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eTarzan can work configuration-free for people who just want to upload and go. Even better is the new Tarzan Setup Assistant, which will import your old configuration settings (if any), ask you a few questions, then create the new configuration file automatically.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eLOTS of other changes, tweaks, and improvements.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eAs always, you can see the \u003ca href=\"/projects/tarzan/\"\u003edemo\u003c/a\u003e, view a \u003ca href=\"/wishlist/\"\u003eworking implementation\u003c/a\u003e, read the \u003ca href=\"/projects/tarzan/\"\u003erelease notes\u003c/a\u003e, ask a \u003ca href=\"https://web.archive.org/web/20050312105853/http://support.skyzyx.net/viewforum.php?f=10\"\u003equestion\u003c/a\u003e, or just get to the point and \u003ca href=\"/projects/tarzan/\"\u003edownload the software\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":"Tarzan 1.1 is now available. This release has so many new features, I can’t list them all. For that, you can read the release notes. There are also some minor changes for people upgrading from 1.0.x, so please look over the release notes anyways.\nAlthough there are zero API changes in this release, there are lots and lots of web interface improvements for people administering Tarzan installations. I’ve also laid the groundwork for keyword searching, which will be the primary feature of the next release.\nBeyond that, here’s a short list of what’s new:\n  The Tarzan information page has become the Tarzan Control Panel. You’ve got access to more information, and have more control over what all is going on with your Tarzan system. It now requires a login, and has been localized into English, French, German, and Japanese.\n  Automatic Update Detection for both the Tarzan software and your Tarzan Extensions. Color-coded notifiers in the Tarzan Control Panel allow you to know if updates are available just by glancing at them.\n  The lifespan of the cache is now a configurable option.\n  You can either use Tarzan’s built-in error messages, or enable error handling to handle your own Amazon errors.\n  Tarzan can work configuration-free for people who just want to upload and go. Even better is the new Tarzan Setup Assistant, which will import your old configuration settings (if any), ask you a few questions, then create the new configuration file automatically.\n  LOTS of other changes, tweaks, and improvements.\n  As always, you can see the demo, view a working implementation, read the release notes, ask a question, or just get to the point and download the software.\n",
+        "source":"\n[Tarzan 1.1](/projects/tarzan/) is now available. This release has so many new features, I can’t list them all. For that, you can read the [release notes](/projects/tarzan/). There are also some minor changes for people upgrading from 1.0.x, so please look over the release notes anyways.\n\nAlthough there are zero API changes in this release, there are lots and lots of web interface improvements for people administering Tarzan installations. I’ve also laid the groundwork for keyword searching, which will be the primary feature of the next release.\n\nBeyond that, here’s a short list of what’s new:\n\n* The Tarzan information page has become the Tarzan Control Panel. You’ve got access to more information, and have more control over what all is going on with your Tarzan system. It now requires a login, and has been localized into English, French, German, and Japanese.\n\n* Automatic Update Detection for both the Tarzan software and your Tarzan Extensions. Color-coded notifiers in the Tarzan Control Panel allow you to know if updates are available just by glancing at them.\n\n* The lifespan of the cache is now a configurable option.\n\n* You can either use Tarzan’s built-in error messages, or enable error handling to handle your own Amazon errors.\n\n* Tarzan can work configuration-free for people who just want to upload and go. Even better is the new Tarzan Setup Assistant, which will import your old configuration settings (if any), ask you a few questions, then create the new configuration file automatically.\n\n* LOTS of other changes, tweaks, and improvements.\n\nAs always, you can see the [demo](/projects/tarzan/), view a [working implementation](/wishlist/), read the [release notes](/projects/tarzan/), ask a [question]({{% wayback \"http://support.skyzyx.net/viewforum.php?f=10\" %}}), or just get to the point and [download the software](/projects/tarzan/).\n"},
+    "links": {
+        "prev": {"title": "Mathematical Proof That Girls Are Evil", "permalink": "https://ryanparman.com/posts/2005/mathematical-proof-that-girls-are-evil/"},
+        "next": {"title": "What's New?", "permalink": "https://ryanparman.com/posts/2005/whats-new-3/"},
+        "ignore": "me"
+    }
+}
+
+}

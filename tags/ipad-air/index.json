@@ -1,0 +1,115 @@
+{
+    "data": {
+        
+        
+        "taxonomy": "tag",
+        "term": "ipad air",
+        
+        "count": 2,
+        "items": [
+            
+            {
+    "kind": "page",
+    "title": "Apple’s October 2014 Product Announcement",
+    "description": "",
+    "summary": {
+        "content": "Apple’s October 16th product announcement begins at 10am PST; 1pm EST. My guesses? Definitely: OS X Yosemite, iTunes 12, and the next-gen iPad Air and iPad mini. Maybe: Updated Thunderbolt 2 + Retina display (I’d guessed at this last year and was wrong), iMac with Retina display, updates to the MacBook Pro line, Apple TV 4 with support for third-party apps. Not a chance: An HDTV, more info about Apple Watch, a mega-sized iPad, or a pull-string-to-talk Steve Jobs doll.",
+        "isTruncated": true
+    },
+    "published": "2014-10-09T10:09:33Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2014/apples-october-2014-product-announcement/",
+    "relativePermalink": "/posts/2014/apples-october-2014-product-announcement/",
+    "aliases": ["/2014/10/09/apples-october-2014-product-announcement/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Apple"],
+    "tags": ["apple", "macos", "yosemite", "itunes", "ipad air", "ipad mini", "apple watch", "apple hdtv", "touch id", "retina", "thunderbolt", "apple tv"],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 301,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2014/20141009-apples-october-2014-product-announcement.md",
+        "logicalName": "20141009-apples-october-2014-product-announcement.md",
+        "translationBaseName": "20141009-apples-october-2014-product-announcement",
+        "baseFileName": "20141009-apples-october-2014-product-announcement",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2014/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003ca href=\"#my-guesses\"\u003eMy guesses?\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#new-ipads\"\u003eNew iPads\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#retina-thunderbolt-2-display\"\u003eRetina Thunderbolt 2 Display\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#apple-tv-4\"\u003eApple TV 4\u003c/a\u003e\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/nav\u003e",
+        "html":"\u003cp itemprop=\"description\" class=\"f5 f4-m f3-l mt0 lh-copy p-summary entry-summary\"\u003e\nApple’s October 16th product announcement begins at 10am PST; 1pm EST.\n\u003c/p\u003e\n\n\u003ch2 id=\"my-guesses\"\u003eMy guesses?\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eDefinitely:\u003c/strong\u003e OS X Yosemite, iTunes 12, and the next-gen iPad Air and iPad mini.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eMaybe:\u003c/strong\u003e Updated Thunderbolt 2 + Retina display (I’d guessed at this \u003ca href=\"/2013/09/10/apples-fall-2013-product-announcement/\"\u003elast year\u003c/a\u003e and was wrong), iMac with Retina display, updates to the MacBook Pro line, Apple TV 4 with support for third-party apps.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eNot a chance:\u003c/strong\u003e An HDTV, more info about Apple Watch, a mega-sized iPad, or a pull-string-to-talk Steve Jobs doll.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2 id=\"new-ipads\"\u003eNew iPads\u003c/h2\u003e\n\u003cp\u003eThinner, faster, beefier. I would expect to see a marginally-improved camera, and Touch ID is a definite.\u003c/p\u003e\n\u003cp\u003eiPad Air and iPad mini should have equal specs, except for the screen sizes. I don’t believe that a 12-point-whatever-inch “iPad Air Plus” will be a thing.\u003c/p\u003e\n\u003ch2 id=\"retina-thunderbolt-2-display\"\u003eRetina Thunderbolt 2 Display\u003c/h2\u003e\n\u003cp\u003eI’ve been looking forward to the successor to the Thunderbolt display for quite a while now, and I really hope that this is it. Thunderbolt 2 and USB 3.0 have been shipping in modern Macs for a couple of years now, and I’m anxious to see an updated display.\u003c/p\u003e\n\u003cp\u003eAlso, Helvetica looks like ass in Yosemite on non-Retina displays. It seems like a good time to update.\u003c/p\u003e\n\u003ch2 id=\"apple-tv-4\"\u003eApple TV 4\u003c/h2\u003e\n\u003cp\u003eI’ve also been keenly interested in seeing support for third-party apps on Apple TV.\u003c/p\u003e\n\u003cp\u003eWith modern SDK features like better scalability for different viewports, games for iPad (4:3) and iPhone (16:9), the introduction of a controller API in iOS 7, the Metal API, and a well-built system for managing your account, apps and games, introducing a new Apple TV capable of gaming and third-party apps seems ripe.\u003c/p\u003e\n\u003cp\u003eMaybe not PS4 or Xbox One-caliber just yet, but Apple TV has been outselling both of them (by an order of magnitude) for a couple of years now. Nintendo should be very, very worried.\u003c/p\u003e\n",
+        "plain":"Apple’s October 16th product announcement begins at 10am PST; 1pm EST. My guesses?   Definitely: OS X Yosemite, iTunes 12, and the next-gen iPad Air and iPad mini.\n  Maybe: Updated Thunderbolt 2 + Retina display (I’d guessed at this last year and was wrong), iMac with Retina display, updates to the MacBook Pro line, Apple TV 4 with support for third-party apps.\n  Not a chance: An HDTV, more info about Apple Watch, a mega-sized iPad, or a pull-string-to-talk Steve Jobs doll.\n  New iPads Thinner, faster, beefier. I would expect to see a marginally-improved camera, and Touch ID is a definite.\niPad Air and iPad mini should have equal specs, except for the screen sizes. I don’t believe that a 12-point-whatever-inch “iPad Air Plus” will be a thing.\nRetina Thunderbolt 2 Display I’ve been looking forward to the successor to the Thunderbolt display for quite a while now, and I really hope that this is it. Thunderbolt 2 and USB 3.0 have been shipping in modern Macs for a couple of years now, and I’m anxious to see an updated display.\nAlso, Helvetica looks like ass in Yosemite on non-Retina displays. It seems like a good time to update.\nApple TV 4 I’ve also been keenly interested in seeing support for third-party apps on Apple TV.\nWith modern SDK features like better scalability for different viewports, games for iPad (4:3) and iPhone (16:9), the introduction of a controller API in iOS 7, the Metal API, and a well-built system for managing your account, apps and games, introducing a new Apple TV capable of gaming and third-party apps seems ripe.\nMaybe not PS4 or Xbox One-caliber just yet, but Apple TV has been outselling both of them (by an order of magnitude) for a couple of years now. Nintendo should be very, very worried.\n",
+        "source":"\n{{\u003cdescription\u003e}}\nApple’s October 16th product announcement begins at 10am PST; 1pm EST.\n{{\u003c/description\u003e}}\n\n## My guesses?\n\n* **Definitely:** OS X Yosemite, iTunes 12, and the next-gen iPad Air and iPad mini.\n\n* **Maybe:** Updated Thunderbolt 2 + Retina display (I’d guessed at this [last year](/2013/09/10/apples-fall-2013-product-announcement/) and was wrong), iMac with Retina display, updates to the MacBook Pro line, Apple TV 4 with support for third-party apps.\n\n* **Not a chance:** An HDTV, more info about Apple Watch, a mega-sized iPad, or a pull-string-to-talk Steve Jobs doll.\n\n## New iPads\n\nThinner, faster, beefier. I would expect to see a marginally-improved camera, and Touch ID is a definite.\n\niPad Air and iPad mini should have equal specs, except for the screen sizes. I don’t believe that a 12-point-whatever-inch “iPad Air Plus” will be a thing.\n\n## Retina Thunderbolt 2 Display\n\nI’ve been looking forward to the successor to the Thunderbolt display for quite a while now, and I really hope that this is it. Thunderbolt 2 and USB 3.0 have been shipping in modern Macs for a couple of years now, and I’m anxious to see an updated display.\n\nAlso, Helvetica looks like ass in Yosemite on non-Retina displays. It seems like a good time to update.\n\n## Apple TV 4\n\nI’ve also been keenly interested in seeing support for third-party apps on Apple TV.\n\nWith modern SDK features like better scalability for different viewports, games for iPad (4:3) and iPhone (16:9), the introduction of a controller API in iOS 7, the Metal API, and a well-built system for managing your account, apps and games, introducing a new Apple TV capable of gaming and third-party apps seems ripe.\n\nMaybe not PS4 or Xbox One-caliber just yet, but Apple TV has been outselling both of them (by an order of magnitude) for a couple of years now. Nintendo should be very, very worried.\n"},
+    "links": {
+        "prev": {"title": "Dear Lockitron", "permalink": "https://ryanparman.com/posts/2014/dear-lockitron/"},
+        "next": {"title": "Rest in Peace, Jonathan Troiano", "permalink": "https://ryanparman.com/posts/2015/rest-in-peace-jonathan-troiano/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "Apple’s 2013 iPad Announcement",
+    "description": "",
+    "summary": {
+        "content": "Last month, when writing about Apple’s Fall 2013 Product Announcement, I’d guessed at a few announcements that they didn’t end up making. Today, Apple announced all of those things and more. OS X Mavericks OS X 10.9 ”Mavericks”. Available today. Free (down from $19.99 last year). MacBook Air Lighter and faster than the last model. Faster 802.11ac wireless networking, Bluetooth 4.0 and Thunderbolt 2. Available today. Starting at $999. MacBook Pro with Retina Display Lighter and faster than the last model.",
+        "isTruncated": true
+    },
+    "published": "2013-10-22T18:29:02Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2013/apples-2013-ipad-announcement/",
+    "relativePermalink": "/posts/2013/apples-2013-ipad-announcement/",
+    "aliases": ["/2013/10/22/apples-2013-ipad-announcement/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Apple"],
+    "tags": ["apple", "macos", "mavericks", "macbook air", "macbook pro", "retina", "mac pro", "ipad air", "ipad mini"],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 379,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2013/20131022-apples-2013-ipad-announcement.md",
+        "logicalName": "20131022-apples-2013-ipad-announcement.md",
+        "translationBaseName": "20131022-apples-2013-ipad-announcement",
+        "baseFileName": "20131022-apples-2013-ipad-announcement",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2013/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003ca href=\"#os-x-mavericks\"\u003eOS X Mavericks\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#macbook-air\"\u003eMacBook Air\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#macbook-pro-with-retina-display\"\u003eMacBook Pro with Retina Display\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#macbook-pro-non-retina\"\u003eMacBook Pro (non-Retina)\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#mac-pro\"\u003eMac Pro\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#ilife-and-iwork-for-ios-and-os-x\"\u003eiLife and iWork (for iOS and OS X)\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#ipad-air\"\u003eiPad Air\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#ipad-mini-with-retina-display\"\u003eiPad mini with Retina Display\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#ipad\"\u003eiPad\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#what-was-not-announced-andor-what-we-didnt-get\"\u003eWhat was not announced and/or what we didn’t get\u003c/a\u003e\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/nav\u003e",
+        "html":"\u003cp\u003eLast month, when writing about \u003ca href=\"/2013/09/10/apples-fall-2013-product-announcement/\"\u003eApple’s Fall 2013 Product Announcement\u003c/a\u003e, I’d guessed at a few announcements that they didn’t end up making. Today, Apple announced all of those things and more.\u003c/p\u003e\n\u003ch2 id=\"os-x-mavericks\"\u003eOS X Mavericks\u003c/h2\u003e\n\u003cp\u003eOS X 10.9 ”Mavericks”. Available today. Free (down from $19.99 last year).\u003c/p\u003e\n\u003ch2 id=\"macbook-air\"\u003eMacBook Air\u003c/h2\u003e\n\u003cp\u003eLighter and faster than the last model. Faster 802.11ac wireless networking, Bluetooth 4.0 and Thunderbolt 2. Available today. Starting at $999.\u003c/p\u003e\n\u003ch2 id=\"macbook-pro-with-retina-display\"\u003eMacBook Pro with Retina Display\u003c/h2\u003e\n\u003cp\u003eLighter and faster than the last model. Faster 802.11ac wireless networking, Bluetooth 4.0 and Thunderbolt 2. Available today. Starting at $1,299.\u003c/p\u003e\n\u003ch2 id=\"macbook-pro-non-retina\"\u003eMacBook Pro (non-Retina)\u003c/h2\u003e\n\u003cp\u003eQuietly discontinued in favor of the all-Retina lineup.\u003c/p\u003e\n\u003ch2 id=\"mac-pro\"\u003eMac Pro\u003c/h2\u003e\n\u003cp\u003eAn incredibly powerful machine. Faster 802.11ac wireless networking, Bluetooth 4.0 and Thunderbolt 2. Available in December. Starting at $2,999.\u003c/p\u003e\n\u003ch2 id=\"ilife-and-iwork-for-ios-and-os-x\"\u003eiLife and iWork (for iOS and OS X)\u003c/h2\u003e\n\u003cp\u003eNew versions for iOS as well as OS X. Faster, better, simpler, more powerful. Free with any Mac or iOS device purchase.\u003c/p\u003e\n\u003ch2 id=\"ipad-air\"\u003eiPad Air\u003c/h2\u003e\n\u003cp\u003eNew line of iPads, replaces “iPad classic”. Smaller, lighter, faster. MIMO wireless networking. Available November 1. Starting at $499. iPad 2 sticking around for $399.\u003c/p\u003e\n\u003ch2 id=\"ipad-mini-with-retina-display\"\u003eiPad mini with Retina Display\u003c/h2\u003e\n\u003cp\u003eiPad mini with a Retina Display. Starting at $399. Available in November. Last-generation iPad mini sticking around for $299.\u003c/p\u003e\n\u003ch2 id=\"ipad\"\u003eiPad\u003c/h2\u003e\n\u003cp\u003eQuietly discontinued in favor of the iPad Air.\u003c/p\u003e\n\u003ch2 id=\"what-was-not-announced-andor-what-we-didnt-get\"\u003eWhat was not announced and/or what we didn’t get\u003c/h2\u003e\n\u003cp\u003eFor all the rumor and speculation from analysts and pundits, here’s where we landed.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eAnybody with a brain knew that there wouldn’t be an iWatch or iHDTV.\u003c/li\u003e\n\u003cli\u003eNo “Touch ID” fingerprint sensors in the new iPads. \u003ca href=\"https://web.archive.org/web/20131022182902/https://twitter.com/skyzyx/status/384494631204831233\"\u003eWe’ll be unlocking our iPads like neanderthals for the foreseeable future\u003c/a\u003e.\u003c/li\u003e\n\u003cli\u003eNo iMac or Mac mini updates.\u003c/li\u003e\n\u003cli\u003eNo Apple TV updates.\u003c/li\u003e\n\u003cli\u003eNo updates to the Thunderbolt display. (I was secretly wishing for a Retina-capable Thunderbolt display with 4K resolution.)\u003c/li\u003e\n\u003cli\u003eiPad Air gets the same larger-pixel update as the iPhone 5s got for better indoor shots, but stays at 5 MP.\u003c/li\u003e\n\u003cli\u003eiPad Air and iPad mini are still on 802.11n wireless networking speeds, but the iPad Air makes up for it with dual-signal \u003ca href=\"https://web.archive.org/web/20131022182902/https://secure.wikimedia.org/wikipedia/en/wiki/MIMO\"\u003eMIMO networking\u003c/a\u003e.\u003c/li\u003e\n\u003cli\u003eNo Gold/Champagne-colored iPads.\u003c/li\u003e\n\u003cli\u003eAfter reading through the things that the analysts are saying about Apple, they still have absolutely no idea how Apple works — despite Apple operating like clockwork, year after year.\u003c/li\u003e\n\u003c/ul\u003e\n",
+        "plain":"Last month, when writing about Apple’s Fall 2013 Product Announcement, I’d guessed at a few announcements that they didn’t end up making. Today, Apple announced all of those things and more.\nOS X Mavericks OS X 10.9 ”Mavericks”. Available today. Free (down from $19.99 last year).\nMacBook Air Lighter and faster than the last model. Faster 802.11ac wireless networking, Bluetooth 4.0 and Thunderbolt 2. Available today. Starting at $999.\nMacBook Pro with Retina Display Lighter and faster than the last model. Faster 802.11ac wireless networking, Bluetooth 4.0 and Thunderbolt 2. Available today. Starting at $1,299.\nMacBook Pro (non-Retina) Quietly discontinued in favor of the all-Retina lineup.\nMac Pro An incredibly powerful machine. Faster 802.11ac wireless networking, Bluetooth 4.0 and Thunderbolt 2. Available in December. Starting at $2,999.\niLife and iWork (for iOS and OS X) New versions for iOS as well as OS X. Faster, better, simpler, more powerful. Free with any Mac or iOS device purchase.\niPad Air New line of iPads, replaces “iPad classic”. Smaller, lighter, faster. MIMO wireless networking. Available November 1. Starting at $499. iPad 2 sticking around for $399.\niPad mini with Retina Display iPad mini with a Retina Display. Starting at $399. Available in November. Last-generation iPad mini sticking around for $299.\niPad Quietly discontinued in favor of the iPad Air.\nWhat was not announced and/or what we didn’t get For all the rumor and speculation from analysts and pundits, here’s where we landed.\n Anybody with a brain knew that there wouldn’t be an iWatch or iHDTV. No “Touch ID” fingerprint sensors in the new iPads. We’ll be unlocking our iPads like neanderthals for the foreseeable future. No iMac or Mac mini updates. No Apple TV updates. No updates to the Thunderbolt display. (I was secretly wishing for a Retina-capable Thunderbolt display with 4K resolution.) iPad Air gets the same larger-pixel update as the iPhone 5s got for better indoor shots, but stays at 5 MP. iPad Air and iPad mini are still on 802.11n wireless networking speeds, but the iPad Air makes up for it with dual-signal MIMO networking. No Gold/Champagne-colored iPads. After reading through the things that the analysts are saying about Apple, they still have absolutely no idea how Apple works — despite Apple operating like clockwork, year after year.  ",
+        "source":"\nLast month, when writing about [Apple’s Fall 2013 Product Announcement](/2013/09/10/apples-fall-2013-product-announcement/), I’d guessed at a few announcements that they didn’t end up making. Today, Apple announced all of those things and more.\n\n## OS X Mavericks\n\nOS X 10.9 ”Mavericks”. Available today. Free (down from $19.99 last year).\n\n## MacBook Air\n\nLighter and faster than the last model. Faster 802.11ac wireless networking, Bluetooth 4.0 and Thunderbolt 2. Available today. Starting at $999.\n\n## MacBook Pro with Retina Display\n\nLighter and faster than the last model. Faster 802.11ac wireless networking, Bluetooth 4.0 and Thunderbolt 2. Available today. Starting at $1,299.\n\n## MacBook Pro (non-Retina)\n\nQuietly discontinued in favor of the all-Retina lineup.\n\n## Mac Pro\n\nAn incredibly powerful machine. Faster 802.11ac wireless networking, Bluetooth 4.0 and Thunderbolt 2. Available in December. Starting at $2,999.\n\n## iLife and iWork (for iOS and OS X)\n\nNew versions for iOS as well as OS X. Faster, better, simpler, more powerful. Free with any Mac or iOS device purchase.\n\n## iPad Air\n\nNew line of iPads, replaces “iPad classic”. Smaller, lighter, faster. MIMO wireless networking. Available November 1. Starting at $499. iPad 2 sticking around for $399.\n\n## iPad mini with Retina Display\n\niPad mini with a Retina Display. Starting at $399. Available in November. Last-generation iPad mini sticking around for $299.\n\n## iPad\n\nQuietly discontinued in favor of the iPad Air.\n\n## What was not announced and/or what we didn’t get\n\nFor all the rumor and speculation from analysts and pundits, here’s where we landed.\n\n* Anybody with a brain knew that there wouldn’t be an iWatch or iHDTV.\n* No “Touch ID” fingerprint sensors in the new iPads. [We’ll be unlocking our iPads like neanderthals for the foreseeable future]({{% wayback \"https://twitter.com/skyzyx/status/384494631204831233\" %}}).\n* No iMac or Mac mini updates.\n* No Apple TV updates.\n* No updates to the Thunderbolt display. (I was secretly wishing for a Retina-capable Thunderbolt display with 4K resolution.)\n* iPad Air gets the same larger-pixel update as the iPhone 5s got for better indoor shots, but stays at 5 MP.\n* iPad Air and iPad mini are still on 802.11n wireless networking speeds, but the iPad Air makes up for it with dual-signal [MIMO networking]({{% wayback \"https://secure.wikimedia.org/wikipedia/en/wiki/MIMO\" %}}).\n* No Gold/Champagne-colored iPads.\n* After reading through the things that the analysts are saying about Apple, they still have absolutely no idea how Apple works — despite Apple operating like clockwork, year after year.\n"},
+    "links": {
+        "prev": {"title": "My experience with iOS 7", "permalink": "https://ryanparman.com/posts/2013/my-experience-with-ios-7/"},
+        "next": {"title": "Password security is important. Start treating it like it is.", "permalink": "https://ryanparman.com/posts/2013/password-security-is-important-start-treating-it-like-it-is/"},
+        "ignore": "me"
+    }
+}
+
+            
+        ]
+    }
+}

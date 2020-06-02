@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "A Second Voice",
+    "description": "",
+    "summary": {
+        "content": "I stumbled across Mezzoblue’s “A Second Voice” today. I remember coming across it before, near the end of summer, but I was pressed for time and didn’t get through them. A few days later, I forgot about them. I came across them again this morning, and actually read through each of the three articles. Fantastic! Web Standards: Designing For The Future by Ian Lloyd Bulletproof XHTML by Evan Goer Accessibility: Build it, and They Will Come by Nic Steenhout These three articles definitely rival many from A List Apart (I use the term “rival” somewhat loosely).",
+        "isTruncated": true
+    },
+    "published": "2003-12-04T19:54:13Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/a-second-voice/",
+    "relativePermalink": "/posts/2003/a-second-voice/",
+    "aliases": ["/2003/12/04/a-second-voice/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Reading"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 107,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20031204-a-second-voice.md",
+        "logicalName": "20031204-a-second-voice.md",
+        "translationBaseName": "20031204-a-second-voice",
+        "baseFileName": "20031204-a-second-voice",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI stumbled across Mezzoblue’s \u003ca href=\"https://web.archive.org/web/20031204195413/http://mezzoblue.com/archives/2003/09/03/a_second_voi/\"\u003e“A Second Voice”\u003c/a\u003e today. I remember coming across it before, near the end of summer, but I was pressed for time and didn’t get through them. A few days later, I forgot about them.\u003c/p\u003e\n\u003cp\u003eI came across them again this morning, and actually read through each of the three articles. \u003cem\u003eFantastic!\u003c/em\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031204195413/http://www.mezzoblue.com/archives/2003/08/27/standards_de/\"\u003eWeb Standards: Designing For The Future\u003c/a\u003e \u003cem\u003eby Ian Lloyd\u003c/em\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031204195413/http://www.mezzoblue.com/archives/2003/09/03/markup_bulle/\"\u003eBulletproof XHTML\u003c/a\u003e \u003cem\u003eby Evan Goer\u003c/em\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031204195413/http://www.mezzoblue.com/archives/2003/08/10/accessibilit/\"\u003eAccessibility: Build it, and They Will Come\u003c/a\u003e \u003cem\u003eby Nic Steenhout\u003c/em\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eThese three articles definitely rival many from \u003ca href=\"https://web.archive.org/web/20031204195413/http://www.alistapart.com\"\u003eA List Apart\u003c/a\u003e (I use the term “rival” somewhat loosely). I’ve added them to my \u003ca href=\"/resources/\"\u003eWeb Resources\u003c/a\u003e. Be enlightened. Please enjoy.\u003c/p\u003e\n",
+        "plain":"I stumbled across Mezzoblue’s “A Second Voice” today. I remember coming across it before, near the end of summer, but I was pressed for time and didn’t get through them. A few days later, I forgot about them.\nI came across them again this morning, and actually read through each of the three articles. Fantastic!\n Web Standards: Designing For The Future by Ian Lloyd Bulletproof XHTML by Evan Goer Accessibility: Build it, and They Will Come by Nic Steenhout  These three articles definitely rival many from A List Apart (I use the term “rival” somewhat loosely). I’ve added them to my Web Resources. Be enlightened. Please enjoy.\n",
+        "source":"\nI stumbled across Mezzoblue’s [“A Second Voice”]({{% wayback \"http://mezzoblue.com/archives/2003/09/03/a_second_voi/\" %}}) today. I remember coming across it before, near the end of summer, but I was pressed for time and didn’t get through them. A few days later, I forgot about them.\n\nI came across them again this morning, and actually read through each of the three articles. *Fantastic!*\n\n* [Web Standards: Designing For The Future]({{% wayback \"http://www.mezzoblue.com/archives/2003/08/27/standards_de/\" %}}) *by Ian Lloyd*\n* [Bulletproof XHTML]({{% wayback \"http://www.mezzoblue.com/archives/2003/09/03/markup_bulle/\" %}}) *by Evan Goer*\n* [Accessibility: Build it, and They Will Come]({{% wayback \"http://www.mezzoblue.com/archives/2003/08/10/accessibilit/\" %}}) *by Nic Steenhout*\n\nThese three articles definitely rival many from [A List Apart]({{% wayback \"http://www.alistapart.com\" %}}) (I use the term “rival” somewhat loosely). I’ve added them to my [Web Resources](/resources/). Be enlightened. Please enjoy.\n"},
+    "links": {
+        "prev": {"title": "Welcome WaSP Buzzers!", "permalink": "https://ryanparman.com/posts/2003/welcome-wasp-buzzers/"},
+        "next": {"title": "Britney Is So Freaking Hot!", "permalink": "https://ryanparman.com/posts/2003/britney-is-so-freaking-hot/"},
+        "ignore": "me"
+    }
+}
+
+}

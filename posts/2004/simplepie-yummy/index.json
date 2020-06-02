@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "SimplePie... Yummy!",
+    "description": "",
+    "summary": {
+        "content": "Have you ever wanted to create your own online RSS/Atom feed reader? Did you fiddle around with other solutions that just plain sucked? Did you try to use the awesome Magpie RSS, and just couldn’t get it to work like you wanted? Personally, I’m still fairly new to PHP, but I have a solid understanding of scripting principles and grasp of basic PHP syntax. Even still, I found Magpie a bit confusing sometimes as I was starting out with it. Because of this, I figured I’d try to make it easier for people like me to leverage Magpie’s power with a simpler command set.",
+        "isTruncated": true
+    },
+    "published": "2004-07-20T21:08:15Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/simplepie-yummy/",
+    "relativePermalink": "/posts/2004/simplepie-yummy/",
+    "aliases": ["/2004/07/20/simplepie-yummy/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 175,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040720-simplepie-yummy.md",
+        "logicalName": "20040720-simplepie-yummy.md",
+        "translationBaseName": "20040720-simplepie-yummy",
+        "baseFileName": "20040720-simplepie-yummy",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eHave you ever wanted to create your own online RSS/Atom feed reader? Did you fiddle around with other solutions that just plain sucked? Did you try to use the awesome \u003ca href=\"https://web.archive.org/web/20040720210815/http://magpierss.sourceforge.net\"\u003eMagpie RSS\u003c/a\u003e, and just couldn’t get it to work like you wanted?\u003c/p\u003e\n\u003cp\u003ePersonally, I’m still fairly new to PHP, but I have a solid understanding of scripting principles and grasp of basic PHP syntax. Even still, I found Magpie a bit confusing sometimes as I was starting out with it. Because of this, I figured I’d try to make it easier for people like me to leverage Magpie’s power with a simpler command set.\u003c/p\u003e\n\u003cp\u003eI’d like you all to welcome \u003ca href=\"/projects/simplepie/\"\u003eSimplePie\u003c/a\u003e. SimplePie is short for “Simple API for Magpie”, and makes it very easy to create your own PHP-based feed readers on your own sites.\u003c/p\u003e\n\u003cp\u003eI’m sure it’s not flawless, so I’d like you all to download the latest copy of \u003ca href=\"https://web.archive.org/web/20040720210815/http://sourceforge.net/project/showfiles.php?group_id=55691\u0026amp;package_id=50728\"\u003eMagpie RSS\u003c/a\u003e and \u003ca href=\"/projects/simplepie/\"\u003eSimplePie\u003c/a\u003e, give it a try, and tell me how you like it and what I can do to make it better.\u003c/p\u003e\n",
+        "plain":"Have you ever wanted to create your own online RSS/Atom feed reader? Did you fiddle around with other solutions that just plain sucked? Did you try to use the awesome Magpie RSS, and just couldn’t get it to work like you wanted?\nPersonally, I’m still fairly new to PHP, but I have a solid understanding of scripting principles and grasp of basic PHP syntax. Even still, I found Magpie a bit confusing sometimes as I was starting out with it. Because of this, I figured I’d try to make it easier for people like me to leverage Magpie’s power with a simpler command set.\nI’d like you all to welcome SimplePie. SimplePie is short for “Simple API for Magpie”, and makes it very easy to create your own PHP-based feed readers on your own sites.\nI’m sure it’s not flawless, so I’d like you all to download the latest copy of Magpie RSS and SimplePie, give it a try, and tell me how you like it and what I can do to make it better.\n",
+        "source":"\nHave you ever wanted to create your own online RSS/Atom feed reader? Did you fiddle around with other solutions that just plain sucked? Did you try to use the awesome [Magpie RSS]({{% wayback \"http://magpierss.sourceforge.net\" %}}), and just couldn’t get it to work like you wanted?\n\nPersonally, I’m still fairly new to PHP, but I have a solid understanding of scripting principles and grasp of basic PHP syntax. Even still, I found Magpie a bit confusing sometimes as I was starting out with it. Because of this, I figured I’d try to make it easier for people like me to leverage Magpie’s power with a simpler command set.\n\nI’d like you all to welcome [SimplePie](/projects/simplepie/). SimplePie is short for “Simple API for Magpie”, and makes it very easy to create your own PHP-based feed readers on your own sites.\n\nI’m sure it’s not flawless, so I’d like you all to download the latest copy of [Magpie RSS]({{% wayback \"http://sourceforge.net/project/showfiles.php?group_id=55691\u0026package_id=50728\" %}}) and [SimplePie](/projects/simplepie/), give it a try, and tell me how you like it and what I can do to make it better.\n"},
+    "links": {
+        "prev": {"title": "My Apple Store Experience", "permalink": "https://ryanparman.com/posts/2004/my-apple-store-experience/"},
+        "next": {"title": "Psychos Need Not Apply", "permalink": "https://ryanparman.com/posts/2004/psychos-need-not-apply/"},
+        "ignore": "me"
+    }
+}
+
+}

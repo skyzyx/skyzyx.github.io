@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Tweakin' Styles",
+    "description": "",
+    "summary": {
+        "content": "I’ve done a smidge of tweaking out my CSS file, and I’ve tweaked the behavior of my stylesheet switcher widget. If you’re getting plain text, you need to manually choose either the “default” or “classic” style. After you kill the cookie, close your browser and re-open it, and you shouldn’t have a problem. Contact me if you do.",
+        "isTruncated": false
+    },
+    "published": "2004-04-02T09:05:59Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/tweakin-styles/",
+    "relativePermalink": "/posts/2004/tweakin-styles/",
+    "aliases": ["/2004/04/02/tweakin-styles/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 58,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040402-tweakin-styles.md",
+        "logicalName": "20040402-tweakin-styles.md",
+        "translationBaseName": "20040402-tweakin-styles",
+        "baseFileName": "20040402-tweakin-styles",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve done a smidge of tweaking out my CSS file, and I’ve tweaked the behavior of my stylesheet switcher widget. If you’re getting plain text, you need to manually choose either the “default” or “classic” style. After you kill the cookie, close your browser and re-open it, and you shouldn’t have a problem. \u003ca href=\"/contact/\"\u003eContact me\u003c/a\u003e if you do.\u003c/p\u003e\n",
+        "plain":"I’ve done a smidge of tweaking out my CSS file, and I’ve tweaked the behavior of my stylesheet switcher widget. If you’re getting plain text, you need to manually choose either the “default” or “classic” style. After you kill the cookie, close your browser and re-open it, and you shouldn’t have a problem. Contact me if you do.\n",
+        "source":"\nI’ve done a smidge of tweaking out my CSS file, and I’ve tweaked the behavior of my stylesheet switcher widget. If you’re getting plain text, you need to manually choose either the “default” or “classic” style. After you kill the cookie, close your browser and re-open it, and you shouldn’t have a problem. [Contact me](/contact/) if you do.\n"},
+    "links": {
+        "prev": {"title": "Suggesting Improvements to Blockbuster", "permalink": "https://ryanparman.com/posts/2004/suggesting-improvements-to-blockbuster/"},
+        "next": {"title": "Pretty Freakin' Fast!", "permalink": "https://ryanparman.com/posts/2004/pretty-freakin-fast/"},
+        "ignore": "me"
+    }
+}
+
+}

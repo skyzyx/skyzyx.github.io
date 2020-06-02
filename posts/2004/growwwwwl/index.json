@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Growwwwwl...",
+    "description": "",
+    "summary": {
+        "content": "This year’s WWDC “Stevenote” is over. Among the more notable points: Tiger is a fully 64-bit OS… which is gonna allow the PowerMac G5’s to move so fast that they catch fire. “Expose for Widgets”, which is super similar to Konfabulator “Spotlight” which sounds an awful lot like the planned database-style search integration in Longhorn. 30-inch (wipe off your drool) displays RSS integration in Safari I was able to keep up with the play-by-play via Mac Minute, Apple-X, and Mac Update.",
+        "isTruncated": true
+    },
+    "published": "2004-06-28T20:09:28Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/growwwwwl/",
+    "relativePermalink": "/posts/2004/growwwwwl/",
+    "aliases": ["/2004/06/28/growwwwwl/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Apple"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 110,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040628-growwwwwl.md",
+        "logicalName": "20040628-growwwwwl.md",
+        "translationBaseName": "20040628-growwwwwl",
+        "baseFileName": "20040628-growwwwwl",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eThis year’s WWDC “Stevenote” is over. Among the more notable points:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eTiger is a fully 64-bit OS… which is gonna allow the PowerMac G5’s to move so fast that they catch fire.\u003c/li\u003e\n\u003cli\u003e“Expose for Widgets”, which is super similar to Konfabulator\u003c/li\u003e\n\u003cli\u003e“Spotlight” which sounds an awful lot like the planned database-style search integration in Longhorn.\u003c/li\u003e\n\u003cli\u003e30-inch (wipe off your drool) displays\u003c/li\u003e\n\u003cli\u003eRSS integration in Safari\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eI was able to keep up with the play-by-play via \u003ca href=\"https://web.archive.org/web/20040628200928/http://macminute.com/2004/06/28/wwdckeynote\"\u003eMac Minute\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20040628200928/http://www.apple-x.net/modules.php?op=modload\u0026amp;name=News\u0026amp;file=article\u0026amp;sid=987\u0026amp;mode=thread%E2%84%B4=0\u0026amp;thold=0\"\u003eApple-X\u003c/a\u003e, and \u003ca href=\"https://web.archive.org/web/20040628200928/http://maccentral.macworld.com/news/2004/06/28/liveupdate/\"\u003eMac Update\u003c/a\u003e. You can read more about Tiger from \u003ca href=\"https://web.archive.org/web/20040628200928/http://www.apple.com/macosx/tiger/\"\u003eApple.com\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eLastly, I was able to get copies of \u003ca href=\"/galleries/folder/tiger\"\u003ethese images\u003c/a\u003e before they got pulled from the MacMinute.com site. They’re awfully clever.\u003c/p\u003e\n",
+        "plain":"This year’s WWDC “Stevenote” is over. Among the more notable points:\n Tiger is a fully 64-bit OS… which is gonna allow the PowerMac G5’s to move so fast that they catch fire. “Expose for Widgets”, which is super similar to Konfabulator “Spotlight” which sounds an awful lot like the planned database-style search integration in Longhorn. 30-inch (wipe off your drool) displays RSS integration in Safari  I was able to keep up with the play-by-play via Mac Minute, Apple-X, and Mac Update. You can read more about Tiger from Apple.com.\nLastly, I was able to get copies of these images before they got pulled from the MacMinute.com site. They’re awfully clever.\n",
+        "source":"\nThis year’s WWDC “Stevenote” is over. Among the more notable points:\n\n* Tiger is a fully 64-bit OS… which is gonna allow the PowerMac G5’s to move so fast that they catch fire.\n* “Expose for Widgets”, which is super similar to Konfabulator\n* “Spotlight” which sounds an awful lot like the planned database-style search integration in Longhorn.\n* 30-inch (wipe off your drool) displays\n* RSS integration in Safari\n\nI was able to keep up with the play-by-play via [Mac Minute]({{% wayback \"http://macminute.com/2004/06/28/wwdckeynote\" %}}), [Apple-X]({{% wayback \"http://www.apple-x.net/modules.php?op=modload\u0026name=News\u0026file=article\u0026sid=987\u0026mode=threadℴ=0\u0026thold=0\" %}}), and [Mac Update]({{% wayback \"http://maccentral.macworld.com/news/2004/06/28/liveupdate/\" %}}). You can read more about Tiger from [Apple.com]({{% wayback \"http://www.apple.com/macosx/tiger/\" %}}).\n\nLastly, I was able to get copies of [these images](/galleries/folder/tiger) before they got pulled from the MacMinute.com site. They’re awfully clever.\n"},
+    "links": {
+        "prev": {"title": "WML/WAP Feed for Cell Phones", "permalink": "https://ryanparman.com/posts/2004/wmlwap-feed-for-cell-phones/"},
+        "next": {"title": "Lots of Little Things", "permalink": "https://ryanparman.com/posts/2004/lots-of-little-things/"},
+        "ignore": "me"
+    }
+}
+
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Whitespace Is Improving",
+    "description": "",
+    "summary": {
+        "content": "I’ve been reading Paul Scriven’s Whitespace for quite some time now. I’ve always enjoyed the content, but while the interface as always been usable, it hasn’t always been terrific. Nowadays, Whitespace is looking much better these days. I think that Paul has gotten much better at displaying lots of information in a usable — yet minimalistically beautiful ways at the same time. There are many features that I’ve been wanting to add to my website. Most of these aren’t big, new fancy features, but they mostly involve the intelligently elegant integration and layout of metadata and information in general.",
+        "isTruncated": true
+    },
+    "published": "2004-05-08T03:40:10Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/whitespace-is-improving/",
+    "relativePermalink": "/posts/2004/whitespace-is-improving/",
+    "aliases": ["/2004/05/07/whitespace-is-improving/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 166,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040508-whitespace-is-improving.md",
+        "logicalName": "20040508-whitespace-is-improving.md",
+        "translationBaseName": "20040508-whitespace-is-improving",
+        "baseFileName": "20040508-whitespace-is-improving",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve been reading Paul Scriven’s \u003ca href=\"https://web.archive.org/web/20040508034010/http://www.9rules.com/whitespace/\"\u003eWhitespace\u003c/a\u003e for quite some time now. I’ve always enjoyed the content, but while the interface as always been usable, it hasn’t always been terrific. Nowadays, Whitespace is looking much better these days. I think that Paul has gotten much better at displaying lots of information in a usable — yet minimalistically beautiful ways at the same time.\u003c/p\u003e\n\u003cp\u003eThere are many features that I’ve been wanting to add to my website. Most of these aren’t big, new fancy features, but they mostly involve the intelligently elegant integration and layout of metadata and information in general. I’ve been pondering how to more fully integrate certain types of data into the very core of my website through a combination of XML, PHP, MySQL, and Movable Type.\u003c/p\u003e\n\u003cp\u003eI think that Paul has simply had more time to play with new data ideas than I have. But that’s okay, because his site has really come a long way in the last several months.\u003c/p\u003e\n\u003cp\u003eGood job, Scrivs.\u003c/p\u003e\n",
+        "plain":"I’ve been reading Paul Scriven’s Whitespace for quite some time now. I’ve always enjoyed the content, but while the interface as always been usable, it hasn’t always been terrific. Nowadays, Whitespace is looking much better these days. I think that Paul has gotten much better at displaying lots of information in a usable — yet minimalistically beautiful ways at the same time.\nThere are many features that I’ve been wanting to add to my website. Most of these aren’t big, new fancy features, but they mostly involve the intelligently elegant integration and layout of metadata and information in general. I’ve been pondering how to more fully integrate certain types of data into the very core of my website through a combination of XML, PHP, MySQL, and Movable Type.\nI think that Paul has simply had more time to play with new data ideas than I have. But that’s okay, because his site has really come a long way in the last several months.\nGood job, Scrivs.\n",
+        "source":"\nI’ve been reading Paul Scriven’s [Whitespace]({{% wayback \"http://www.9rules.com/whitespace/\" %}}) for quite some time now. I’ve always enjoyed the content, but while the interface as always been usable, it hasn’t always been terrific. Nowadays, Whitespace is looking much better these days. I think that Paul has gotten much better at displaying lots of information in a usable — yet minimalistically beautiful ways at the same time.\n\nThere are many features that I’ve been wanting to add to my website. Most of these aren’t big, new fancy features, but they mostly involve the intelligently elegant integration and layout of metadata and information in general. I’ve been pondering how to more fully integrate certain types of data into the very core of my website through a combination of XML, PHP, MySQL, and Movable Type.\n\nI think that Paul has simply had more time to play with new data ideas than I have. But that’s okay, because his site has really come a long way in the last several months.\n\nGood job, Scrivs.\n"},
+    "links": {
+        "prev": {"title": "Using Safari?  Lucky You.", "permalink": "https://ryanparman.com/posts/2004/using-safari-lucky-you/"},
+        "next": {"title": "Domain Name Registry of America Scam", "permalink": "https://ryanparman.com/posts/2004/domain-name-registry-of-america-scam/"},
+        "ignore": "me"
+    }
+}
+
+}

@@ -1,0 +1,1132 @@
+{
+    "data": {
+        
+        
+        "count": 22,
+        "items": [
+            
+            {
+    "kind": "section",
+    "title": "About the Author…",
+    "description": "",
+    "summary": {
+        "content": "I have a set of blurbs I use for “about me” sections of websites, including this one, depending on how many characters I’m allowed. Avatars 2019–Present Standard 2017–Present Protest/Alternate 2015–2018 Standard 2015 (early) Standard 2013–2015 Standard 2012 (late) Standard 2012 Protest/Alternate 2012 (early) Standard 2011 Standard 2010–2011 Standard 2008–2010 Standard 2006–2008 Standard Full-length Includes Microformats2 and Schema.",
+        "isTruncated": true
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-12-26T16:46:47-08:00",
+    "permalink": "https://ryanparman.com/about/",
+    "relativePermalink": "/about/",
+    "aliases": ["/author/", "/author/skyzyx/", "/author/skyzyx/feed/", "/bio/"],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 614,
+        "readingTime": "3 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "about/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "about/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003ca href=\"#avatars\"\u003eAvatars\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#full-length\"\u003eFull-length\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#full-length-no-microdata\"\u003eFull-length, no microdata\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#full-length-no-html\"\u003eFull-length, no HTML\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#300-characters\"\u003e300 characters\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#250-characters\"\u003e250 characters\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#200-characters\"\u003e200 characters\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#160-characters\"\u003e160 characters\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#140-characters\"\u003e140 characters\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#headlines45-characters\"\u003eHeadlines/45 characters\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#markdown\"\u003eMarkdown\u003c/a\u003e\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/nav\u003e",
+        "html":"\u003cp itemprop=\"description\" class=\"f5 f4-m f3-l mt0 lh-copy p-summary entry-summary\"\u003e\nI have a set of blurbs I use for “about me” sections of websites, including this one, depending on how many characters I’m allowed.\n\u003c/p\u003e\n\n\u003ch2 id=\"avatars\"\u003eAvatars\u003c/h2\u003e\n\u003csection class=\"cf pa2-ns ba\"\u003e\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2019-early.jpg\"\u003e\n      \u003cimg style=\"background-image:url(https://cdn.ryanparman.com/hugo/gravatars/2019-early.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2019-early.jpg\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003e2019–Present\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003eStandard\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2016-alternate.jpg\"\u003e\n      \u003cimg style=\"background-image:url(https://cdn.ryanparman.com/hugo/gravatars/2016-alternate.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2016-alternate.jpg\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003e2017–Present\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003eProtest/Alternate\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2015-late.jpg\"\u003e\n      \u003cimg style=\"background-image:url(https://cdn.ryanparman.com/hugo/gravatars/2015-late.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2015-late.jpg\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003e2015–2018\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003eStandard\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2015-early.jpg\"\u003e\n      \u003cimg style=\"background-image:url(https://cdn.ryanparman.com/hugo/gravatars/2015-early.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2015-early.jpg\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003e2015 (early)\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003eStandard\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2013.jpg\"\u003e\n      \u003cimg style=\"background-image:url(https://cdn.ryanparman.com/hugo/gravatars/2013.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2013.jpg\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003e2013–2015\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003eStandard\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2012-late.jpg\"\u003e\n      \u003cimg style=\"background-image:url(https://cdn.ryanparman.com/hugo/gravatars/2012-late.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2012-late.jpg\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003e2012 (late)\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003eStandard\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2012-alternate.png\"\u003e\n      \u003cimg style=\"background-image:url(https://cdn.ryanparman.com/hugo/gravatars/2012-alternate.png);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2012-alternate.png\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003e2012\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003eProtest/Alternate\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2012-early.jpg\"\u003e\n      \u003cimg style=\"background-image:url(https://cdn.ryanparman.com/hugo/gravatars/2012-early.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2012-early.jpg\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003e2012 (early)\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003eStandard\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2011.jpg\"\u003e\n      \u003cimg style=\"background-image:url(https://cdn.ryanparman.com/hugo/gravatars/2011.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2011.jpg\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003e2011\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003eStandard\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2010.jpg\"\u003e\n      \u003cimg style=\"background-image:url(https://cdn.ryanparman.com/hugo/gravatars/2010.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2010.jpg\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003e2010–2011\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003eStandard\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2008.png\"\u003e\n      \u003cimg style=\"background-image:url(https://cdn.ryanparman.com/hugo/gravatars/2008.png);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2008.png\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003e2008–2010\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003eStandard\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2006.jpg\"\u003e\n      \u003cimg style=\"background-image:url(https://cdn.ryanparman.com/hugo/gravatars/2006.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"https://cdn.ryanparman.com/hugo/gravatars/2006.jpg\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003e2006–2008\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003eStandard\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n\u003c/section\u003e\n\n\u003ch2 id=\"full-length\"\u003eFull-length\u003c/h2\u003e\n\u003cp\u003eIncludes \u003ca href=\"http://microformats.org/wiki/microformats2\"\u003eMicroformats2\u003c/a\u003e and \u003ca href=\"https://schema.org\"\u003eSchema.org microdata\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cb\u003eWhere:\u003c/b\u003e \u003ca href=\"https://ryanparman.com\"\u003eFlailing Wildly\u003c/a\u003e, \u003ca href=\"https://www.goodreads.com/user/show/7693108-ryan-parman\"\u003eGoodreads\u003c/a\u003e\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u003cstrong itemprop=\"name\" class=\"p-name fn n\" rel=\"author\"\u003e\u003cspan itemprop=\"givenName\" class=\"p-given-name given-name\"\u003eRyan\u003c/span\u003e \u003cspan itemprop=\"familyName\" class=\"p-family-name family-name\"\u003eParman\u003c/span\u003e\u003c/strong\u003e is an \u003cspan itemprop=\"jobTitle\" class=\"p-role\"\u003eengineering manager\u003c/span\u003e with over 20 years of experience across \u003cspan itemprop=\"knowsAbout\"\u003esoftware development\u003c/span\u003e, \u003cspan itemprop=\"knowsAbout\"\u003esite reliability engineering\u003c/span\u003e, and \u003cspan itemprop=\"knowsAbout\"\u003esecurity\u003c/span\u003e. He is the creator of \u003ca href=\"http://simplepie.org\" class=\"u-url p-org\"\u003eSimplePie\u003c/a\u003e and \u003ca href=\"https://aws.amazon.com/sdk-for-php/\" class=\"u-url\"\u003eAWS SDK for PHP\u003c/a\u003e, patented \u003ca href=\"https://patents.google.com/patent/US20160241536A1/en?inventor=Ryan+Parman\"\u003emultifactor-authentication-as-a-service\u003c/a\u003e at \u003cspan itemprop=\"alumniOf\" itemscope itemtype=\"http://schema.org/Organization\"\u003e\u003ca href=\"https://wepay.com\" itemprop=\"name url\" class=\"u-url p-org\"\u003e\u003cspan itemprop=\"name\"\u003eWePay\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e, defined much of the \u003cspan itemprop=\"knowsAbout\"\u003e\u003cabbr title=\"Continuous Integration, Continuous Delivery\"\u003eCI/CD\u003c/abbr\u003e\u003c/span\u003e and \u003cspan itemprop=\"knowsAbout\"\u003e\u003cabbr title=\"Site Reliability Engineering\"\u003eSRE\u003c/abbr\u003e\u003c/span\u003e disciplines at \u003cspan itemprop=\"worksFor\" itemscope itemtype=\"http://schema.org/Organization\"\u003e\u003ca href=\"https://www.mheducation.com\" itemprop=\"name url\" class=\"u-url p-org\"\u003e\u003cspan itemprop=\"name\"\u003eMcGraw-Hill Education\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e, and came up with the idea of “\u003ca href=\"https://aws.amazon.com/lambda/\"\u003eserverless, event-driven, responsive functions in the cloud\u003c/a\u003e” while at \u003cspan itemprop=\"alumniOf\" itemscope itemtype=\"http://schema.org/Organization\"\u003e\u003ca href=\"https://aws.amazon.com\" itemprop=\"name url\" class=\"u-url p-org\"\u003e\u003cspan itemprop=\"name\"\u003eAmazon Web Services\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e in 2010. Ryan's aptly-named blog, \u003cspan itemprop=\"memberOf\" itemscope itemtype=\"http://schema.org/WebSite\"\u003e\u003ca href=\"https://ryanparman.com\" itemprop=\"url\" rel=\"me\" class=\"u-url\"\u003e\u003cspan itemprop=\"name\"\u003eFlailing Wildly\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e, is where he writes about ideas longer than \u003cspan itemscope itemtype=\"http://schema.org/FollowAction\"\u003e\u003ca href=\"https://twitter.com/skyzyx\" itemprop=\"url\" rel=\"me\" class=\"u-url\"\u003e280 characters\u003c/a\u003e\u003c/span\u003e. Ambivert. Curious. Not a coffee drinker.\u003c/p\u003e\n\n\n\u003c/blockquote\u003e\n\u003ch2 id=\"full-length-no-microdata\"\u003eFull-length, no microdata\u003c/h2\u003e\n\u003cp\u003e\u003cb\u003eWhere:\u003c/b\u003e \u003ca href=\"https://www.flickr.com/people/skyzyx\"\u003eFlickr\u003c/a\u003e, \u003ca href=\"https://www.quora.com/profile/Ryan-Parman\"\u003eQuora\u003c/a\u003e\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\u003cstrong\u003eRyan Parman\u003c/strong\u003e is an engineering manager with over 20 years of experience across software development, site reliability engineering, and security. He is the creator of \u003ca href=\"http://simplepie.org\"\u003eSimplePie\u003c/a\u003e and \u003ca href=\"https://aws.amazon.com/sdk-for-php/\"\u003eAWS SDK for PHP\u003c/a\u003e, patented \u003ca href=\"https://patents.google.com/patent/US20160241536A1/en?inventor=Ryan+Parman\"\u003emultifactor-authentication-as-a-service\u003c/a\u003e at \u003ca href=\"https://wepay.com\"\u003eWePay\u003c/a\u003e, defined much of the CI/CD and SRE disciplines at \u003ca href=\"https://www.mheducation.com\"\u003eMcGraw-Hill Education\u003c/a\u003e, and came up with the idea of “\u003ca href=\"https://aws.amazon.com/lambda/\"\u003eserverless, event-driven, responsive functions in the cloud\u003c/a\u003e” while at \u003ca href=\"https://aws.amazon.com\"\u003eAmazon Web Services\u003c/a\u003e in 2010. Ryan's aptly-named blog, \u003ca href=\"https://ryanparman.com\"\u003eFlailing Wildly\u003c/a\u003e, is where he writes about ideas longer than \u003ca href=\"https://twitter.com/skyzyx\"\u003e280 characters\u003c/a\u003e. Ambivert. Curious. Not a coffee drinker.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003ch2 id=\"full-length-no-html\"\u003eFull-length, no HTML\u003c/h2\u003e\n\u003cp\u003e\u003cb\u003eWhere:\u003c/b\u003e \u003ca href=\"https://www.linkedin.com/in/rparman/\"\u003eLinkedIn\u003c/a\u003e, \u003ca href=\"https://vimeo.com/skyzyx\"\u003eVimeo\u003c/a\u003e, \u003ca href=\"https://onename.com/skyzyx\"\u003eOneName\u003c/a\u003e\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003e\nRyan Parman is an engineering manager with over 20 years of experience across software development, site reliability engineering, and security. He is the creator of SimplePie and AWS SDK for PHP, patented multifactor-authentication-as-a-service at WePay, defined much of the CI/CD and SRE disciplines at McGraw-Hill Education, and came up with the idea of “serverless, event-driven, responsive functions in the cloud” while at Amazon Web Services in 2010. Ryan\u0026#39;s aptly-named blog, Flailing Wildly, is where he writes about ideas longer than 280 characters. Ambivert. Curious. Not a coffee drinker.\n\n\n\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003ch2 id=\"300-characters\"\u003e300 characters\u003c/h2\u003e\n\u003cp\u003e\u003cb\u003eWhere:\u003c/b\u003e \u003ca href=\"https://bandcamp.com/skyzyx\"\u003eBandcamp\u003c/a\u003e, \u003ca href=\"https://www.kickstarter.com/profile/skyzyx/about\"\u003eKickstarter\u003c/a\u003e, \u003ca href=\"https://letterboxd.com/skyzyx/\"\u003eLetterboxd\u003c/a\u003e\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eRyan Parman is an engineering manager with over 20 years experience across software development, site reliability, and security engineering. He created SimplePie and AWS SDK for PHP, patented MFA-as-a-service, and is the godfather of Serverless. Ambivert. Curious. Not a coffee drinker.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003ch2 id=\"250-characters\"\u003e250 characters\u003c/h2\u003e\n\u003cp\u003e\u003cb\u003eWhere:\u003c/b\u003e \u003ca href=\"https://unsplash.com/@skyzyx\"\u003eUnsplash\u003c/a\u003e\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eEngineering manager with 20+ years experience in software development, site reliability, and security. He created SimplePie and AWS SDK for PHP, patented MFA-as-a-service, and is the godfather of Serverless. Ambivert. Curious. Not a coffee drinker.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003ch2 id=\"200-characters\"\u003e200 characters\u003c/h2\u003e\n\u003cp\u003e\u003cb\u003eWhere:\u003c/b\u003e \u003ca href=\"https://keybase.io/skyzyx\"\u003eKeybase\u003c/a\u003e, \u003ca href=\"https://news.ycombinator.com/user?id=skyzyx\"\u003eHacker News\u003c/a\u003e, \u003ca href=\"https://www.last.fm/user/skyzyx\"\u003eLast.fm\u003c/a\u003e\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eEngineering manager with 20+ years in Software/DevOps/Security. Created SimplePie and AWS SDK for PHP. Patented MFA-as-a-service. The godfather of Serverless. Ambivert. Curious. Not a coffee drinker.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003ch2 id=\"160-characters\"\u003e160 characters\u003c/h2\u003e\n\u003cp\u003e\u003cb\u003eWhere:\u003c/b\u003e \u003ca href=\"https://angel.co/skyzyx\"\u003eAngel.co\u003c/a\u003e, \u003ca href=\"https://foursquare.com/skyzyx\"\u003eFoursquare\u003c/a\u003e, \u003ca href=\"https://github.com/skyzyx\"\u003eGitHub\u003c/a\u003e, \u003ca href=\"https://medium.com/@skyzyx\"\u003eMedium\u003c/a\u003e, \u003ca href=\"https://www.periscope.tv/skyzyx/\"\u003ePeriscope\u003c/a\u003e, \u003ca href=\"https://www.pinterest.com/ryguyami/\"\u003ePinterest\u003c/a\u003e, \u003ca href=\"https://twitter.com/skyzyx\"\u003eTwitter\u003c/a\u003e, \u003ca href=\"https://vimeo.com/skyzyx\"\u003eVimeo\u003c/a\u003e\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eExperienced Software/DevOps/Security engineer. Created SimplePie, AWS SDK for PHP, MFA-aaS. Godfather of Serverless. Ambivert. Curious. Not a coffee drinker.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003ch2 id=\"140-characters\"\u003e140 characters\u003c/h2\u003e\n\u003cp\u003e\u003cb\u003eWhere:\u003c/b\u003e \u003ca href=\"https://hackerone.com/skyzyx\"\u003eHackerOne\u003c/a\u003e\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eExperienced DevSecOps engineer. Created SimplePie and AWS SDK for PHP. Godfather of Serverless. Ambivert. Curious. Not a coffee drinker.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003ch2 id=\"headlines45-characters\"\u003eHeadlines/45 characters\u003c/h2\u003e\n\u003cp\u003e\u003cb\u003eWhere:\u003c/b\u003e \u003ca href=\"https://feedly.com/skyzyx\"\u003eFeedly\u003c/a\u003e\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eAmbivert. Curious. Not a coffee drinker.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003ch2 id=\"markdown\"\u003eMarkdown\u003c/h2\u003e\n\u003cp\u003e\u003cb\u003eWhere:\u003c/b\u003e \u003ca href=\"https://coderwall.com/skyzyx\"\u003eCoderwall\u003c/a\u003e, \u003ca href=\"https://skyzyx.micro.blog/about/\"\u003eMicro.blog\u003c/a\u003e, \u003ca href=\"https://stackoverflow.com/users/228514/ryan-parman?tab=profile\"\u003eStackOverflow\u003c/a\u003e\u003c/p\u003e\n\u003cdiv class=\"highlight\"\u003e\u003cpre style=\"color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4\"\u003e\u003ccode class=\"language-markdown\" data-lang=\"markdown\"\u003e**Ryan Parman** is an engineering manager with over 20 years of experience across software development, site reliability engineering, and security. He is the creator of [SimplePie](http://simplepie.org) and [AWS SDK for PHP](https://aws.amazon.com/sdk-for-php/), patented [multifactor-authentication-as-a-service](https://patents.google.com/patent/US20160241536A1/en?inventor=Ryan+Parman) at [WePay](https://wepay.com), defined much of the CI/CD and SRE disciplines at [McGraw-Hill Education](https://www.mheducation.com), and came up with the idea of “[serverless, event-driven, responsive functions in the cloud](https://aws.amazon.com/lambda/)” while at [Amazon Web Services](https://aws.amazon.com) in 2010. Ryan's aptly-named blog, [Flailing Wildly](https://ryanparman.com), is where he writes about ideas longer than [280 characters](https://twitter.com/skyzyx). Ambivert. Curious. Not a coffee drinker.\n\n\u003c/code\u003e\u003c/pre\u003e\u003c/div\u003e",
+        "plain":"I have a set of blurbs I use for “about me” sections of websites, including this one, depending on how many characters I’m allowed. Avatars   2019–Present Standard     2017–Present Protest/Alternate     2015–2018 Standard     2015 (early) Standard     2013–2015 Standard     2012 (late) Standard     2012 Protest/Alternate     2012 (early) Standard     2011 Standard     2010–2011 Standard     2008–2010 Standard     2006–2008 Standard    Full-length Includes Microformats2 and Schema.org microdata.\nWhere: Flailing Wildly, Goodreads\n Ryan Parman is an engineering manager with over 20 years of experience across software development, site reliability engineering, and security. He is the creator of SimplePie and AWS SDK for PHP, patented multifactor-authentication-as-a-service at WePay, defined much of the CI/CD and SRE disciplines at McGraw-Hill Education, and came up with the idea of “serverless, event-driven, responsive functions in the cloud” while at Amazon Web Services in 2010. Ryan's aptly-named blog, Flailing Wildly, is where he writes about ideas longer than 280 characters. Ambivert. Curious. Not a coffee drinker.\n Full-length, no microdata Where: Flickr, Quora\n Ryan Parman is an engineering manager with over 20 years of experience across software development, site reliability engineering, and security. He is the creator of SimplePie and AWS SDK for PHP, patented multifactor-authentication-as-a-service at WePay, defined much of the CI/CD and SRE disciplines at McGraw-Hill Education, and came up with the idea of “serverless, event-driven, responsive functions in the cloud” while at Amazon Web Services in 2010. Ryan's aptly-named blog, Flailing Wildly, is where he writes about ideas longer than 280 characters. Ambivert. Curious. Not a coffee drinker.\n Full-length, no HTML Where: LinkedIn, Vimeo, OneName\n  Ryan Parman is an engineering manager with over 20 years of experience across software development, site reliability engineering, and security. He is the creator of SimplePie and AWS SDK for PHP, patented multifactor-authentication-as-a-service at WePay, defined much of the CI/CD and SRE disciplines at McGraw-Hill Education, and came up with the idea of “serverless, event-driven, responsive functions in the cloud” while at Amazon Web Services in 2010. Ryan\u0026#39;s aptly-named blog, Flailing Wildly, is where he writes about ideas longer than 280 characters. Ambivert. Curious. Not a coffee drinker.  300 characters Where: Bandcamp, Kickstarter, Letterboxd\n Ryan Parman is an engineering manager with over 20 years experience across software development, site reliability, and security engineering. He created SimplePie and AWS SDK for PHP, patented MFA-as-a-service, and is the godfather of Serverless. Ambivert. Curious. Not a coffee drinker.\n 250 characters Where: Unsplash\n Engineering manager with 20+ years experience in software development, site reliability, and security. He created SimplePie and AWS SDK for PHP, patented MFA-as-a-service, and is the godfather of Serverless. Ambivert. Curious. Not a coffee drinker.\n 200 characters Where: Keybase, Hacker News, Last.fm\n Engineering manager with 20+ years in Software/DevOps/Security. Created SimplePie and AWS SDK for PHP. Patented MFA-as-a-service. The godfather of Serverless. Ambivert. Curious. Not a coffee drinker.\n 160 characters Where: Angel.co, Foursquare, GitHub, Medium, Periscope, Pinterest, Twitter, Vimeo\n Experienced Software/DevOps/Security engineer. Created SimplePie, AWS SDK for PHP, MFA-aaS. Godfather of Serverless. Ambivert. Curious. Not a coffee drinker.\n 140 characters Where: HackerOne\n Experienced DevSecOps engineer. Created SimplePie and AWS SDK for PHP. Godfather of Serverless. Ambivert. Curious. Not a coffee drinker.\n Headlines/45 characters Where: Feedly\n Ambivert. Curious. Not a coffee drinker.\n Markdown Where: Coderwall, Micro.blog, StackOverflow\n**Ryan Parman** is an engineering manager with over 20 years of experience across software development, site reliability engineering, and security. He is the creator of [SimplePie](http://simplepie.org) and [AWS SDK for PHP](https://aws.amazon.com/sdk-for-php/), patented [multifactor-authentication-as-a-service](https://patents.google.com/patent/US20160241536A1/en?inventor=Ryan+Parman) at [WePay](https://wepay.com), defined much of the CI/CD and SRE disciplines at [McGraw-Hill Education](https://www.mheducation.com), and came up with the idea of “[serverless, event-driven, responsive functions in the cloud](https://aws.amazon.com/lambda/)” while at [Amazon Web Services](https://aws.amazon.com) in 2010. Ryan's aptly-named blog, [Flailing Wildly](https://ryanparman.com), is where he writes about ideas longer than [280 characters](https://twitter.com/skyzyx). Ambivert. Curious. Not a coffee drinker. ",
+        "source":"\n{{\u003cdescription\u003e}}\nI have a set of blurbs I use for “about me” sections of websites, including this one, depending on how many characters I’m allowed.\n{{\u003c/description\u003e}}\n\n## Avatars\n\n{{\u003cimage-grid\u003e}}\n    {{\u003cimage\n        src=\"https://cdn.ryanparman.com/hugo/gravatars/2019-early.jpg\"\n        link=\"https://cdn.ryanparman.com/hugo/gravatars/2019-early.jpg\"\n        title=\"2019–Present\"\n        subtitle=\"Standard\"\n    \u003e}}\n    {{\u003cimage\n        src=\"https://cdn.ryanparman.com/hugo/gravatars/2016-alternate.jpg\"\n        link=\"https://cdn.ryanparman.com/hugo/gravatars/2016-alternate.jpg\"\n        title=\"2017–Present\"\n        subtitle=\"Protest/Alternate\"\n    \u003e}}\n    {{\u003cimage\n        src=\"https://cdn.ryanparman.com/hugo/gravatars/2015-late.jpg\"\n        link=\"https://cdn.ryanparman.com/hugo/gravatars/2015-late.jpg\"\n        title=\"2015–2018\"\n        subtitle=\"Standard\"\n    \u003e}}\n    {{\u003cimage\n        src=\"https://cdn.ryanparman.com/hugo/gravatars/2015-early.jpg\"\n        link=\"https://cdn.ryanparman.com/hugo/gravatars/2015-early.jpg\"\n        title=\"2015 (early)\"\n        subtitle=\"Standard\"\n    \u003e}}\n    {{\u003cimage\n        src=\"https://cdn.ryanparman.com/hugo/gravatars/2013.jpg\"\n        link=\"https://cdn.ryanparman.com/hugo/gravatars/2013.jpg\"\n        title=\"2013–2015\"\n        subtitle=\"Standard\"\n    \u003e}}\n    {{\u003cimage\n        src=\"https://cdn.ryanparman.com/hugo/gravatars/2012-late.jpg\"\n        link=\"https://cdn.ryanparman.com/hugo/gravatars/2012-late.jpg\"\n        title=\"2012 (late)\"\n        subtitle=\"Standard\"\n    \u003e}}\n    {{\u003cimage\n        src=\"https://cdn.ryanparman.com/hugo/gravatars/2012-alternate.png\"\n        link=\"https://cdn.ryanparman.com/hugo/gravatars/2012-alternate.png\"\n        title=\"2012\"\n        subtitle=\"Protest/Alternate\"\n    \u003e}}\n    {{\u003cimage\n        src=\"https://cdn.ryanparman.com/hugo/gravatars/2012-early.jpg\"\n        link=\"https://cdn.ryanparman.com/hugo/gravatars/2012-early.jpg\"\n        title=\"2012 (early)\"\n        subtitle=\"Standard\"\n    \u003e}}\n    {{\u003cimage\n        src=\"https://cdn.ryanparman.com/hugo/gravatars/2011.jpg\"\n        link=\"https://cdn.ryanparman.com/hugo/gravatars/2011.jpg\"\n        title=\"2011\"\n        subtitle=\"Standard\"\n    \u003e}}\n    {{\u003cimage\n        src=\"https://cdn.ryanparman.com/hugo/gravatars/2010.jpg\"\n        link=\"https://cdn.ryanparman.com/hugo/gravatars/2010.jpg\"\n        title=\"2010–2011\"\n        subtitle=\"Standard\"\n    \u003e}}\n    {{\u003cimage\n        src=\"https://cdn.ryanparman.com/hugo/gravatars/2008.png\"\n        link=\"https://cdn.ryanparman.com/hugo/gravatars/2008.png\"\n        title=\"2008–2010\"\n        subtitle=\"Standard\"\n    \u003e}}\n    {{\u003cimage\n        src=\"https://cdn.ryanparman.com/hugo/gravatars/2006.jpg\"\n        link=\"https://cdn.ryanparman.com/hugo/gravatars/2006.jpg\"\n        title=\"2006–2008\"\n        subtitle=\"Standard\"\n    \u003e}}\n{{\u003c/image-grid\u003e}}\n\n## Full-length\n\nIncludes [Microformats2](http://microformats.org/wiki/microformats2) and [Schema.org microdata](https://schema.org).\n\n\u003cb\u003eWhere:\u003c/b\u003e [Flailing Wildly](https://ryanparman.com), [Goodreads](https://www.goodreads.com/user/show/7693108-ryan-parman)\n\n\u003cblockquote\u003e\n{{\u003cauthor\u003e}}\n\u003c/blockquote\u003e\n\n## Full-length, no microdata\n\n\u003cb\u003eWhere:\u003c/b\u003e [Flickr](https://www.flickr.com/people/skyzyx), [Quora](https://www.quora.com/profile/Ryan-Parman)\n\n\u003cblockquote\u003e\n\u003cp\u003e\u003cstrong\u003eRyan Parman\u003c/strong\u003e is an engineering manager with over 20 years of experience across software development, site reliability engineering, and security. He is the creator of \u003ca href=\"http://simplepie.org\"\u003eSimplePie\u003c/a\u003e and \u003ca href=\"https://aws.amazon.com/sdk-for-php/\"\u003eAWS SDK for PHP\u003c/a\u003e, patented \u003ca href=\"https://patents.google.com/patent/US20160241536A1/en?inventor=Ryan+Parman\"\u003emultifactor-authentication-as-a-service\u003c/a\u003e at \u003ca href=\"https://wepay.com\"\u003eWePay\u003c/a\u003e, defined much of the CI/CD and SRE disciplines at \u003ca href=\"https://www.mheducation.com\"\u003eMcGraw-Hill Education\u003c/a\u003e, and came up with the idea of “\u003ca href=\"https://aws.amazon.com/lambda/\"\u003eserverless, event-driven, responsive functions in the cloud\u003c/a\u003e” while at \u003ca href=\"https://aws.amazon.com\"\u003eAmazon Web Services\u003c/a\u003e in 2010. Ryan's aptly-named blog, \u003ca href=\"https://ryanparman.com\"\u003eFlailing Wildly\u003c/a\u003e, is where he writes about ideas longer than \u003ca href=\"https://twitter.com/skyzyx\"\u003e280 characters\u003c/a\u003e. Ambivert. Curious. Not a coffee drinker.\u003c/p\u003e\n\n\u003c/blockquote\u003e\n\n## Full-length, no HTML\n\n\u003cb\u003eWhere:\u003c/b\u003e [LinkedIn](https://www.linkedin.com/in/rparman/), [Vimeo](https://vimeo.com/skyzyx), [OneName](https://onename.com/skyzyx)\n\n\u003cblockquote\u003e\n\u003cp\u003e\n{{\u003cauthor-plain\u003e}}\n\u003c/p\u003e\n\u003c/blockquote\u003e\n\n## 300 characters\n\n\u003cb\u003eWhere:\u003c/b\u003e [Bandcamp](https://bandcamp.com/skyzyx), [Kickstarter](https://www.kickstarter.com/profile/skyzyx/about), [Letterboxd](https://letterboxd.com/skyzyx/)\n\n\u003cblockquote\u003e\n\u003cp\u003eRyan Parman is an engineering manager with over 20 years experience across software development, site reliability, and security engineering. He created SimplePie and AWS SDK for PHP, patented MFA-as-a-service, and is the godfather of Serverless. Ambivert. Curious. Not a coffee drinker.\u003c/p\u003e\n\u003c/blockquote\u003e\n\n## 250 characters\n\n\u003cb\u003eWhere:\u003c/b\u003e [Unsplash](https://unsplash.com/@skyzyx)\n\n\u003cblockquote\u003e\n\u003cp\u003eEngineering manager with 20+ years experience in software development, site reliability, and security. He created SimplePie and AWS SDK for PHP, patented MFA-as-a-service, and is the godfather of Serverless. Ambivert. Curious. Not a coffee drinker.\u003c/p\u003e\n\u003c/blockquote\u003e\n\n## 200 characters\n\n\u003cb\u003eWhere:\u003c/b\u003e [Keybase](https://keybase.io/skyzyx), [Hacker News](https://news.ycombinator.com/user?id=skyzyx), [Last.fm](https://www.last.fm/user/skyzyx)\n\n\u003cblockquote\u003e\n\u003cp\u003eEngineering manager with 20+ years in Software/DevOps/Security. Created SimplePie and AWS SDK for PHP. Patented MFA-as-a-service. The godfather of Serverless. Ambivert. Curious. Not a coffee drinker.\u003c/p\u003e\n\u003c/blockquote\u003e\n\n## 160 characters\n\n\u003cb\u003eWhere:\u003c/b\u003e [Angel.co](https://angel.co/skyzyx), [Foursquare](https://foursquare.com/skyzyx), [GitHub](https://github.com/skyzyx), [Medium](https://medium.com/@skyzyx), [Periscope](https://www.periscope.tv/skyzyx/), [Pinterest](https://www.pinterest.com/ryguyami/), [Twitter](https://twitter.com/skyzyx), [Vimeo](https://vimeo.com/skyzyx)\n\n\u003cblockquote\u003e\n\u003cp\u003eExperienced Software/DevOps/Security engineer. Created SimplePie, AWS SDK for PHP, MFA-aaS. Godfather of Serverless. Ambivert. Curious. Not a coffee drinker.\u003c/p\u003e\n\u003c/blockquote\u003e\n\n## 140 characters\n\n\u003cb\u003eWhere:\u003c/b\u003e [HackerOne](https://hackerone.com/skyzyx)\n\n\u003cblockquote\u003e\n\u003cp\u003eExperienced DevSecOps engineer. Created SimplePie and AWS SDK for PHP. Godfather of Serverless. Ambivert. Curious. Not a coffee drinker.\u003c/p\u003e\n\u003c/blockquote\u003e\n\n## Headlines/45 characters\n\n\u003cb\u003eWhere:\u003c/b\u003e [Feedly](https://feedly.com/skyzyx)\n\n\u003cblockquote\u003e\n\u003cp\u003eAmbivert. Curious. Not a coffee drinker.\u003c/p\u003e\n\u003c/blockquote\u003e\n\n## Markdown\n\n\u003cb\u003eWhere:\u003c/b\u003e [Coderwall](https://coderwall.com/skyzyx), [Micro.blog](https://skyzyx.micro.blog/about/), [StackOverflow](https://stackoverflow.com/users/228514/ryan-parman?tab=profile)\n\n```markdown\n{{\u003cauthor-markdown\u003e}}\n```\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Amazon S3",
+    "description": "",
+    "summary": {
+        "content": "This page has moved to https://s3.amazonaws.com/s3.ryanparman.com.",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/s3/",
+    "relativePermalink": "/s3/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 6,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "s3/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "s3/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://s3.amazonaws.com/s3.ryanparman.com\"\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://s3.amazonaws.com/s3.ryanparman.com\"\u003ehttps://s3.amazonaws.com/s3.ryanparman.com\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":" This page has moved to https://s3.amazonaws.com/s3.ryanparman.com.\n",
+        "source":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://s3.amazonaws.com/s3.ryanparman.com\"\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://s3.amazonaws.com/s3.ryanparman.com\"\u003ehttps://s3.amazonaws.com/s3.ryanparman.com\u003c/a\u003e.\u003c/p\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Articles",
+    "description": "",
+    "summary": {
+        "content": "This page has moved to https://web.archive.org/web/20031205052705/http://www.skyzyx.com:80/articles/.",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/articles/",
+    "relativePermalink": "/articles/",
+    "aliases": ["/articles/playbytherules-snoop.php"],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 6,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "articles/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "articles/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://web.archive.org/web/20031205052705/http://www.skyzyx.com:80/articles/\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://web.archive.org/web/20031205052705/http://www.skyzyx.com:80/articles/\"\u003ehttps://web.archive.org/web/20031205052705/http://www.skyzyx.com:80/articles/\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":" This page has moved to https://web.archive.org/web/20031205052705/http://www.skyzyx.com:80/articles/.\n",
+        "source":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://web.archive.org/web/20031205052705/http://www.skyzyx.com:80/articles/\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://web.archive.org/web/20031205052705/http://www.skyzyx.com:80/articles/\"\u003ehttps://web.archive.org/web/20031205052705/http://www.skyzyx.com:80/articles/\u003c/a\u003e.\u003c/p\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Blogs",
+    "description": "",
+    "summary": {
+        "content": "This page has moved to https://feedly.com/skyzyx.",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/blogs/",
+    "relativePermalink": "/blogs/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 6,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "blogs/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "blogs/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://feedly.com/skyzyx\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://feedly.com/skyzyx\"\u003ehttps://feedly.com/skyzyx\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":" This page has moved to https://feedly.com/skyzyx.\n",
+        "source":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://feedly.com/skyzyx\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://feedly.com/skyzyx\"\u003ehttps://feedly.com/skyzyx\u003c/a\u003e.\u003c/p\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Content License",
+    "description": "",
+    "summary": {
+        "content": " This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. ",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/content-license/",
+    "relativePermalink": "/content-license/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 12,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "content-license/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "content-license/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://creativecommons.org/licenses/by-nc-nd/4.0/\"\u003e\n\n\u003cp\u003e\n\t\u003ca rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/\"\u003e\u003cimg alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-nd.svg\"\u003e\u003c/a\u003e\n\t\u003cbr\u003eThis work is licensed under a \u003ca rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/\"\u003eCreative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License\u003c/a\u003e.\n\u003c/p\u003e\n",
+        "plain":"   This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. ",
+        "source":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://creativecommons.org/licenses/by-nc-nd/4.0/\"\u003e\n\n\u003cp\u003e\n\t\u003ca rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/\"\u003e\u003cimg alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-nd.svg\"\u003e\u003c/a\u003e\n\t\u003cbr\u003eThis work is licensed under a \u003ca rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/\"\u003eCreative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License\u003c/a\u003e.\n\u003c/p\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Design Portfolio",
+    "description": "",
+    "summary": {
+        "content": "Design work where I have been the primary creative driver. FTO GTF [2015] Absolutely everything, soup-to-nuts. AWS Redesign [2012] Visual design, high-fidelity prototypes. Playback [2011] Visual design, front-end, PHP backend, AWS. Personal [2010] Interaction, visual design, front-end, PHP backend. CloudFusion [2010] Interaction, visual design, front-end, PHP backend. Personal [2009] Interaction, visual design, front-end, WordPress. Tarzan [2008] Interaction, visual design, front-end, PHP backend.",
+        "isTruncated": true
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/design/",
+    "relativePermalink": "/design/",
+    "aliases": ["/artwork/", "/portfolio/", "/portfolio/element3/", "/portfolio/threemacs/"],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 101,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "design/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "design/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp itemprop=\"description\" class=\"f5 f4-m f3-l mt0 lh-copy p-summary entry-summary\"\u003e\nDesign work where I have been the primary creative driver.\n\u003c/p\u003e\n\n\u003csection class=\"cf pa2-ns ba\"\u003e\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"https://c2.staticflickr.com/8/7248/28003256925_37e619daac_o.png\"\u003e\n      \u003cimg style=\"background-image:url(https://c2.staticflickr.com/8/7248/28003256925_fcabfd1e83.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"https://c2.staticflickr.com/8/7248/28003256925_37e619daac_o.png\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003eFTO GTF\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003e[2015] Absolutely everything, soup-to-nuts.\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"https://c2.staticflickr.com/8/7369/28003257125_b02a2799eb_o.png\"\u003e\n      \u003cimg style=\"background-image:url(https://c2.staticflickr.com/8/7369/28003257125_61e2b7626e.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"https://c2.staticflickr.com/8/7369/28003257125_b02a2799eb_o.png\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003eAWS Redesign\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003e[2012] Visual design, high-fidelity prototypes.\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"http://farm6.staticflickr.com/5524/12419716264_fc06d07f24_o.jpg\"\u003e\n      \u003cimg style=\"background-image:url(http://farm6.staticflickr.com/5524/12419716264_68bbe391c2_m.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"http://farm6.staticflickr.com/5524/12419716264_fc06d07f24_o.jpg\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003ePlayback\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003e[2011] Visual design, front-end, PHP backend, AWS.\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"http://farm5.static.flickr.com/4026/4694729526_0cd053c8b6_o.png\"\u003e\n      \u003cimg style=\"background-image:url(http://farm5.static.flickr.com/4026/4694729526_8ab355de68_m.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"http://farm5.static.flickr.com/4026/4694729526_0cd053c8b6_o.png\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003ePersonal\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003e[2010] Interaction, visual design, front-end, PHP backend.\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"http://farm3.static.flickr.com/2611/3842451907_077ed71d2f_o.png\"\u003e\n      \u003cimg style=\"background-image:url(http://farm3.static.flickr.com/2611/3842451907_cc6652af8f_m.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"http://farm3.static.flickr.com/2611/3842451907_077ed71d2f_o.png\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003eCloudFusion\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003e[2010] Interaction, visual design, front-end, PHP backend.\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"http://farm4.static.flickr.com/3368/3208194149_eea8253cf2_o.png\"\u003e\n      \u003cimg style=\"background-image:url(http://farm4.static.flickr.com/3368/3208194149_b45c8bf3a7.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"http://farm4.static.flickr.com/3368/3208194149_eea8253cf2_o.png\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003ePersonal\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003e[2009] Interaction, visual design, front-end, WordPress.\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"http://farm4.static.flickr.com/3020/2853913369_3454775021_o.png\"\u003e\n      \u003cimg style=\"background-image:url(http://farm4.static.flickr.com/3020/2853913369_b8769e32e2_m.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"http://farm4.static.flickr.com/3020/2853913369_3454775021_o.png\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003eTarzan\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003e[2008] Interaction, visual design, front-end, PHP backend.\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"http://farm3.static.flickr.com/2034/2521612458_9c98bd015a_o.png\"\u003e\n      \u003cimg style=\"background-image:url(http://farm3.static.flickr.com/2034/2521612458_45affa1ae9_m.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"http://farm3.static.flickr.com/2034/2521612458_9c98bd015a_o.png\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003eSynonym\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003e[2008] Interaction, visual design, front-end, WordPress.\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"http://farm3.static.flickr.com/2059/2386478465_aa5de1e213_o.png\"\u003e\n      \u003cimg style=\"background-image:url(http://farm3.static.flickr.com/2059/2386478465_8ffb5cb3db_m.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"http://farm3.static.flickr.com/2059/2386478465_aa5de1e213_o.png\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003eWarpShare\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003e[2007] Design mockups, front-end. Never launched.\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"http://farm4.static.flickr.com/3138/2387308754_ee1e68c554_o.png\"\u003e\n      \u003cimg style=\"background-image:url(http://farm4.static.flickr.com/3138/2387308754_cae14ba3c5_m.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"http://farm4.static.flickr.com/3138/2387308754_ee1e68c554_o.png\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003eFoleeo\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003e[2006] Interaction, design, front-end, PHP backend.\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"https://farm3.static.flickr.com/2169/2521677212_1edecb8a19_o.png\"\u003e\n      \u003cimg style=\"background-image:url(https://farm3.static.flickr.com/2169/2521677212_1131758d2d_m.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"https://farm3.static.flickr.com/2169/2521677212_1edecb8a19_o.png\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003eStryker\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003e[2005] Visual design template for Oracle Portal. Never launched.\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n    \u003carticle class=\"fl-l fl-m w-25-l w-50-m pa2-ns\"\u003e\n  \u003cdiv class=\"aspect-ratio aspect-ratio--1x1\"\u003e\n    \u003ca href=\"https://farm3.static.flickr.com/2244/2521613702_ebe3042b71_o.png\"\u003e\n      \u003cimg style=\"background-image:url(https://farm3.static.flickr.com/2244/2521613702_0bbabf38b1_m.jpg);\" class=\"db bg-center cover aspect-ratio--object\" /\u003e\n    \u003c/a\u003e\n  \u003c/div\u003e\n  \n  \u003ca href=\"https://farm3.static.flickr.com/2244/2521613702_ebe3042b71_o.png\" class=\"ph2 ph0-ns pb3 link db\"\u003e\n  \n    \u003ch3 class=\"f5 f4-ns mb0 black-90\"\u003eSimplePie\u003c/h3\u003e\n    \u003ch3 class=\"f6 f5 fw4 mt0 black-60\"\u003e[2005] Interaction, visual design, front-end, PHP backend.\u003c/h3\u003e\n  \n  \u003c/a\u003e\n  \n\u003c/article\u003e\n\n\u003c/section\u003e\n\n",
+        "plain":"Design work where I have been the primary creative driver.   FTO GTF [2015] Absolutely everything, soup-to-nuts.     AWS Redesign [2012] Visual design, high-fidelity prototypes.     Playback [2011] Visual design, front-end, PHP backend, AWS.     Personal [2010] Interaction, visual design, front-end, PHP backend.     CloudFusion [2010] Interaction, visual design, front-end, PHP backend.     Personal [2009] Interaction, visual design, front-end, WordPress.     Tarzan [2008] Interaction, visual design, front-end, PHP backend.     Synonym [2008] Interaction, visual design, front-end, WordPress.     WarpShare [2007] Design mockups, front-end. Never launched.     Foleeo [2006] Interaction, design, front-end, PHP backend.     Stryker [2005] Visual design template for Oracle Portal. Never launched.     SimplePie [2005] Interaction, visual design, front-end, PHP backend.    ",
+        "source":"\n{{\u003cdescription\u003e}}\nDesign work where I have been the primary creative driver.\n{{\u003c/description\u003e}}\n\n{{\u003cimage-grid\u003e}}\n    {{\u003cimage\n        src=\"https://c2.staticflickr.com/8/7248/28003256925_fcabfd1e83.jpg\"\n        link=\"https://c2.staticflickr.com/8/7248/28003256925_37e619daac_o.png\"\n        title=\"FTO GTF\"\n        subtitle=\"[2015] Absolutely everything, soup-to-nuts.\"\n    \u003e}}\n    {{\u003cimage\n        src=\"https://c2.staticflickr.com/8/7369/28003257125_61e2b7626e.jpg\"\n        link=\"https://c2.staticflickr.com/8/7369/28003257125_b02a2799eb_o.png\"\n        title=\"AWS Redesign\"\n        subtitle=\"[2012] Visual design, high-fidelity prototypes.\"\n    \u003e}}\n    {{\u003cimage\n        src=\"http://farm6.staticflickr.com/5524/12419716264_68bbe391c2_m.jpg\"\n        link=\"http://farm6.staticflickr.com/5524/12419716264_fc06d07f24_o.jpg\"\n        title=\"Playback\"\n        subtitle=\"[2011] Visual design, front-end, PHP backend, AWS.\"\n    \u003e}}\n    {{\u003cimage\n        src=\"http://farm5.static.flickr.com/4026/4694729526_8ab355de68_m.jpg\"\n        link=\"http://farm5.static.flickr.com/4026/4694729526_0cd053c8b6_o.png\"\n        title=\"Personal\"\n        subtitle=\"[2010] Interaction, visual design, front-end, PHP backend.\"\n    \u003e}}\n    {{\u003cimage\n        src=\"http://farm3.static.flickr.com/2611/3842451907_cc6652af8f_m.jpg\"\n        link=\"http://farm3.static.flickr.com/2611/3842451907_077ed71d2f_o.png\"\n        title=\"CloudFusion\"\n        subtitle=\"[2010] Interaction, visual design, front-end, PHP backend.\"\n    \u003e}}\n    {{\u003cimage\n        src=\"http://farm4.static.flickr.com/3368/3208194149_b45c8bf3a7.jpg\"\n        link=\"http://farm4.static.flickr.com/3368/3208194149_eea8253cf2_o.png\"\n        title=\"Personal\"\n        subtitle=\"[2009] Interaction, visual design, front-end, WordPress.\"\n    \u003e}}\n    {{\u003cimage\n        src=\"http://farm4.static.flickr.com/3020/2853913369_b8769e32e2_m.jpg\"\n        link=\"http://farm4.static.flickr.com/3020/2853913369_3454775021_o.png\"\n        title=\"Tarzan\"\n        subtitle=\"[2008] Interaction, visual design, front-end, PHP backend.\"\n    \u003e}}\n    {{\u003cimage\n        src=\"http://farm3.static.flickr.com/2034/2521612458_45affa1ae9_m.jpg\"\n        link=\"http://farm3.static.flickr.com/2034/2521612458_9c98bd015a_o.png\"\n        title=\"Synonym\"\n        subtitle=\"[2008] Interaction, visual design, front-end, WordPress.\"\n    \u003e}}\n    {{\u003cimage\n        src=\"http://farm3.static.flickr.com/2059/2386478465_8ffb5cb3db_m.jpg\"\n        link=\"http://farm3.static.flickr.com/2059/2386478465_aa5de1e213_o.png\"\n        title=\"WarpShare\"\n        subtitle=\"[2007] Design mockups, front-end. Never launched.\"\n    \u003e}}\n    {{\u003cimage\n        src=\"http://farm4.static.flickr.com/3138/2387308754_cae14ba3c5_m.jpg\"\n        link=\"http://farm4.static.flickr.com/3138/2387308754_ee1e68c554_o.png\"\n        title=\"Foleeo\"\n        subtitle=\"[2006] Interaction, design, front-end, PHP backend.\"\n    \u003e}}\n    {{\u003cimage\n        src=\"https://farm3.static.flickr.com/2169/2521677212_1131758d2d_m.jpg\"\n        link=\"https://farm3.static.flickr.com/2169/2521677212_1edecb8a19_o.png\"\n        title=\"Stryker\"\n        subtitle=\"[2005] Visual design template for Oracle Portal. Never launched.\"\n    \u003e}}\n    {{\u003cimage\n        src=\"https://farm3.static.flickr.com/2244/2521613702_0bbabf38b1_m.jpg\"\n        link=\"https://farm3.static.flickr.com/2244/2521613702_ebe3042b71_o.png\"\n        title=\"SimplePie\"\n        subtitle=\"[2005] Interaction, visual design, front-end, PHP backend.\"\n    \u003e}}\n{{\u003c/image-grid\u003e}}\n\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Downloads",
+    "description": "",
+    "summary": {
+        "content": " This section has been lost in the depths of Internet history. Please check the Internet Archive instead. www.skyzyx.com/downloads downloads.skyzyx.net ",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/downloads/",
+    "relativePermalink": "/downloads/",
+    "aliases": ["/downloads/dshock.wal", "/downloads/mmd3.wal", "/downloads/echo.wal", "/downloads/blackdawn.wsz", "/downloads/badgermushroomsnake.swf"],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 19,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "downloads/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "downloads/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cp\u003eThis section has been lost in the depths of Internet history. Please check the Internet Archive instead.\u003c/p\u003e\n\u003cul\u003e\n    \u003cli\u003e\u003ca href=\"https://web.archive.org/web/*/www.skyzyx.com/downloads/*\"\u003ewww.skyzyx.com/downloads\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"https://web.archive.org/web/*/http://downloads.skyzyx.net/*\"\u003edownloads.skyzyx.net\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n",
+        "plain":" This section has been lost in the depths of Internet history. Please check the Internet Archive instead.\n www.skyzyx.com/downloads downloads.skyzyx.net  ",
+        "source":"\n\u003cp\u003eThis section has been lost in the depths of Internet history. Please check the Internet Archive instead.\u003c/p\u003e\n\u003cul\u003e\n    \u003cli\u003e\u003ca href=\"https://web.archive.org/web/*/www.skyzyx.com/downloads/*\"\u003ewww.skyzyx.com/downloads\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"https://web.archive.org/web/*/http://downloads.skyzyx.net/*\"\u003edownloads.skyzyx.net\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Follow Ryan",
+    "description": "Follow me on social media, play video games with me, or send me cryptocurrency.",
+    "summary": {
+        "content": "📬 Email I don't generally post my email address online. I generally receive over 10,000 inbound emails per month to my personal account, so if I don't know you, I'll probably delete or ignore it. But if you feel like rolling the dice, you can reach me at {firstname}@{firstname}{lastname}.com. If you are a technical recruiter, please don't be clueless. At the moment, I am not available for hire for freelance projects (sometimes this status changes). 🌀 Social Twitterhttps://twitter.com/skyzyx @media screen and (min-width: 30em) { .",
+        "isTruncated": true
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/follow/",
+    "relativePermalink": "/follow/",
+    "aliases": ["/contact/"],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 750,
+        "readingTime": "4 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "follow/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "follow/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003ch2 class=\"bb b--black-10\"\u003e📬 Email\u003c/h2\u003e\n\u003cp\u003eI don't generally post my email address online. I generally receive over 10,000 inbound emails per month to my personal account, so if I don't know you, I'll probably delete or ignore it. But if you feel like rolling the dice, you can reach me at \u003ccode\u003e{firstname}@{firstname}{lastname}.com\u003c/code\u003e.\u003c/p\u003e\n\n\u003caside class=\"age aside container flex\"\u003e\n  \u003cp\u003eIf you are a technical recruiter, \u003ca href=\"/series/clueless-recruiters/\"\u003eplease don't be \u003cem\u003eclueless\u003c/em\u003e\u003c/a\u003e. At the moment, I am not available for hire for freelance projects (sometimes this status changes).\u003c/p\u003e\n\u003c/aside\u003e\n\n\u003ch2 class=\"bb b--black-10\" id=\"social\"\u003e🌀 Social\u003c/h2\u003e\n\n\u003cdiv class=\"__h_social\"\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eTwitter\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://twitter.com/skyzyx\" class=\"link mid-gray\"\u003ehttps://twitter.com/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cstyle type=\"text/css\"\u003e\n@media screen and (min-width: 30em) {\n  .__h_social {\n    -webkit-column-count: 2;\n       -moz-column-count: 2;\n            column-count: 2;\n  }\n  .__h_social \u003e div.no-break {\n    display: inline-block;\n    -webkit-column-break-inside: avoid;\n              page-break-inside: avoid;\n                   break-inside: avoid;\n  }\n}\n\u003c/style\u003e\n\n\n\u003ch2 class=\"bb b--black-10\" id=\"security-and-identity\"\u003e🔑 Security and Identity\u003c/h2\u003e\n\n\u003cdiv class=\"__h_social\"\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003ePGP Key\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://keybase.io/skyzyx/key.asc\" class=\"link mid-gray\"\u003ehttps://keybase.io/skyzyx/key.asc\u003c/a\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eHackerOne\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://hackerone.com/skyzyx\" class=\"link mid-gray\"\u003ehttps://hackerone.com/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eKeybase\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://keybase.io/skyzyx\" class=\"link mid-gray\"\u003ehttps://keybase.io/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cstyle type=\"text/css\"\u003e\n@media screen and (min-width: 30em) {\n  .__h_social {\n    -webkit-column-count: 2;\n       -moz-column-count: 2;\n            column-count: 2;\n  }\n  .__h_social \u003e div.no-break {\n    display: inline-block;\n    -webkit-column-break-inside: avoid;\n              page-break-inside: avoid;\n                   break-inside: avoid;\n  }\n}\n\u003c/style\u003e\n\n\n\u003ch2 class=\"bb b--black-10\" id=\"professional-networking\"\u003e👔 Professional Networking\u003c/h2\u003e\n\n\u003cdiv class=\"__h_social\"\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eAngel.co\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://angel.co/skyzyx\" class=\"link mid-gray\"\u003ehttps://angel.co/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eBetalist\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://betalist.com/@skyzyx\" class=\"link mid-gray\"\u003ehttps://betalist.com/@skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eLinkedIn\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://www.linkedin.com/in/rparman\" class=\"link mid-gray\"\u003ehttps://www.linkedin.com/in/rparman\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cstyle type=\"text/css\"\u003e\n@media screen and (min-width: 30em) {\n  .__h_social {\n    -webkit-column-count: 2;\n       -moz-column-count: 2;\n            column-count: 2;\n  }\n  .__h_social \u003e div.no-break {\n    display: inline-block;\n    -webkit-column-break-inside: avoid;\n              page-break-inside: avoid;\n                   break-inside: avoid;\n  }\n}\n\u003c/style\u003e\n\n\n\u003ch2 class=\"bb b--black-10\" id=\"work\"\u003e💼 Work\u003c/h2\u003e\n\n\u003cdiv class=\"__h_social\"\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eAWS SDK for PHP\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://aws.amazon.com/sdk-for-php/\" class=\"link mid-gray\"\u003ehttps://aws.amazon.com/sdk-for-php/\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eMcGraw-Hill Education\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://www.mheducation.com\" class=\"link mid-gray\"\u003ehttps://www.mheducation.com\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eSimplePie\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://github.com/simplepie\" class=\"link mid-gray\"\u003ehttps://github.com/simplepie\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eWePay\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://wepay.com\" class=\"link mid-gray\"\u003ehttps://wepay.com\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cstyle type=\"text/css\"\u003e\n@media screen and (min-width: 30em) {\n  .__h_social {\n    -webkit-column-count: 2;\n       -moz-column-count: 2;\n            column-count: 2;\n  }\n  .__h_social \u003e div.no-break {\n    display: inline-block;\n    -webkit-column-break-inside: avoid;\n              page-break-inside: avoid;\n                   break-inside: avoid;\n  }\n}\n\u003c/style\u003e\n\n\n\u003ch2 class=\"bb b--black-10\" id=\"code\"\u003e🌐 Code\u003c/h2\u003e\n\n\u003cdiv class=\"__h_social\"\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eCodepen\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://codepen.io/skyzyx/\" class=\"link mid-gray\"\u003ehttps://codepen.io/skyzyx/\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eCoderwall\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://coderwall.com/skyzyx\" class=\"link mid-gray\"\u003ehttps://coderwall.com/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eDocker Hub\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://hub.docker.com/u/skyzyx/\" class=\"link mid-gray\"\u003ehttps://hub.docker.com/u/skyzyx/\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eGitHub\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://github.com/skyzyx\" class=\"link mid-gray\"\u003ehttps://github.com/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eLibraries.io\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://libraries.io/github/skyzyx\" class=\"link mid-gray\"\u003ehttps://libraries.io/github/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003enpm\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://www.npmjs.com/~skyzyx\" class=\"link mid-gray\"\u003ehttps://www.npmjs.com/~skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003ePypi\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://pypi.org/user/skyzyx/\" class=\"link mid-gray\"\u003ehttps://pypi.org/user/skyzyx/\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cstyle type=\"text/css\"\u003e\n@media screen and (min-width: 30em) {\n  .__h_social {\n    -webkit-column-count: 2;\n       -moz-column-count: 2;\n            column-count: 2;\n  }\n  .__h_social \u003e div.no-break {\n    display: inline-block;\n    -webkit-column-break-inside: avoid;\n              page-break-inside: avoid;\n                   break-inside: avoid;\n  }\n}\n\u003c/style\u003e\n\n\n\u003ch2 class=\"bb b--black-10\" id=\"music\"\u003e🎧 Music\u003c/h2\u003e\n\n\u003cdiv class=\"__h_social\"\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eApple Music\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://itunes.apple.com/profile/skyzyx\" class=\"link mid-gray\"\u003ehttps://itunes.apple.com/profile/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eBandcamp\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://bandcamp.com/skyzyx\" class=\"link mid-gray\"\u003ehttps://bandcamp.com/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eLast.fm\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://www.last.fm/user/skyzyx\" class=\"link mid-gray\"\u003ehttps://www.last.fm/user/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eSoundCloud\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://soundcloud.com/skyzyx\" class=\"link mid-gray\"\u003ehttps://soundcloud.com/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eSpotify\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://open.spotify.com/user/skyzyx\" class=\"link mid-gray\"\u003ehttps://open.spotify.com/user/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cstyle type=\"text/css\"\u003e\n@media screen and (min-width: 30em) {\n  .__h_social {\n    -webkit-column-count: 2;\n       -moz-column-count: 2;\n            column-count: 2;\n  }\n  .__h_social \u003e div.no-break {\n    display: inline-block;\n    -webkit-column-break-inside: avoid;\n              page-break-inside: avoid;\n                   break-inside: avoid;\n  }\n}\n\u003c/style\u003e\n\n\n\u003ch2 class=\"bb b--black-10\" id=\"tv-and-movies\"\u003e📺 TV and Movies\u003c/h2\u003e\n\n\u003cdiv class=\"__h_social\"\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eIMDb\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://imdb.com/user/ur24445966/\" class=\"link mid-gray\"\u003ehttps://imdb.com/user/ur24445966/\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eLetterboxd\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://letterboxd.com/skyzyx/\" class=\"link mid-gray\"\u003ehttps://letterboxd.com/skyzyx/\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003etrakt.tv\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://trakt.tv/users/skyzyx\" class=\"link mid-gray\"\u003ehttps://trakt.tv/users/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cstyle type=\"text/css\"\u003e\n@media screen and (min-width: 30em) {\n  .__h_social {\n    -webkit-column-count: 2;\n       -moz-column-count: 2;\n            column-count: 2;\n  }\n  .__h_social \u003e div.no-break {\n    display: inline-block;\n    -webkit-column-break-inside: avoid;\n              page-break-inside: avoid;\n                   break-inside: avoid;\n  }\n}\n\u003c/style\u003e\n\n\n\u003ch2 class=\"bb b--black-10\" id=\"gaming\"\u003e🎮 Gaming\u003c/h2\u003e\n\n\u003cdiv class=\"__h_social\"\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eApple Game Center ID\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ccode\u003eSkyzyx\u003c/code\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eNintendo Network ID\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ccode\u003eSkyzyx\u003c/code\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eNintendo 3DS Friend Code\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ccode\u003e2105-9785-3579\u003c/code\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eNintendo Switch Friend Code\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ccode\u003eSW-6095-9528-5891\u003c/code\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003ePlaystation Network ID\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ccode\u003eSkyzyx\u003c/code\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eXbox Live Gamertag\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ccode\u003eSkyzyxRP\u003c/code\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cstyle type=\"text/css\"\u003e\n@media screen and (min-width: 30em) {\n  .__h_social {\n    -webkit-column-count: 2;\n       -moz-column-count: 2;\n            column-count: 2;\n  }\n  .__h_social \u003e div.no-break {\n    display: inline-block;\n    -webkit-column-break-inside: avoid;\n              page-break-inside: avoid;\n                   break-inside: avoid;\n  }\n}\n\u003c/style\u003e\n\n\n\u003ch2 class=\"bb b--black-10\" id=\"photography\"\u003e📷 Photography\u003c/h2\u003e\n\n\u003cdiv class=\"__h_social\"\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eFlickr\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://flickr.com/people/skyzyx\" class=\"link mid-gray\"\u003ehttps://flickr.com/people/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eUnsplash\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://unsplash.com/@skyzyx\" class=\"link mid-gray\"\u003ehttps://unsplash.com/@skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cstyle type=\"text/css\"\u003e\n@media screen and (min-width: 30em) {\n  .__h_social {\n    -webkit-column-count: 2;\n       -moz-column-count: 2;\n            column-count: 2;\n  }\n  .__h_social \u003e div.no-break {\n    display: inline-block;\n    -webkit-column-break-inside: avoid;\n              page-break-inside: avoid;\n                   break-inside: avoid;\n  }\n}\n\u003c/style\u003e\n\n\n\u003ch2 class=\"bb b--black-10\" id=\"reading\"\u003e📖 Reading\u003c/h2\u003e\n\n\u003cdiv class=\"__h_social\"\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eFeedly\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://feedly.com/skyzyx\" class=\"link mid-gray\"\u003ehttps://feedly.com/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eGoodreads\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://www.goodreads.com/user/show/7693108-ryan-parman\" class=\"link mid-gray\"\u003ehttps://www.goodreads.com/user/show/7693108-ryan-parman\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eMedium\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://medium.com/@skyzyx\" class=\"link mid-gray\"\u003ehttps://medium.com/@skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003ePinboard\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://pinboard.in/u:skyzyx\" class=\"link mid-gray\"\u003ehttps://pinboard.in/u:skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cstyle type=\"text/css\"\u003e\n@media screen and (min-width: 30em) {\n  .__h_social {\n    -webkit-column-count: 2;\n       -moz-column-count: 2;\n            column-count: 2;\n  }\n  .__h_social \u003e div.no-break {\n    display: inline-block;\n    -webkit-column-break-inside: avoid;\n              page-break-inside: avoid;\n                   break-inside: avoid;\n  }\n}\n\u003c/style\u003e\n\n\n\u003ch2 class=\"bb b--black-10\" id=\"video\"\u003e📹 Video\u003c/h2\u003e\n\n\u003cdiv class=\"__h_social\"\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eTwitch\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://www.twitch.tv/skyzyxrp\" class=\"link mid-gray\"\u003ehttps://www.twitch.tv/skyzyxrp\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eVimeo\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://vimeo.com/skyzyx\" class=\"link mid-gray\"\u003ehttps://vimeo.com/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eYouTube\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://www.youtube.com/user/Skyzyx\" class=\"link mid-gray\"\u003ehttps://www.youtube.com/user/Skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cstyle type=\"text/css\"\u003e\n@media screen and (min-width: 30em) {\n  .__h_social {\n    -webkit-column-count: 2;\n       -moz-column-count: 2;\n            column-count: 2;\n  }\n  .__h_social \u003e div.no-break {\n    display: inline-block;\n    -webkit-column-break-inside: avoid;\n              page-break-inside: avoid;\n                   break-inside: avoid;\n  }\n}\n\u003c/style\u003e\n\n\n\u003ch2 class=\"bb b--black-10\" id=\"finance\"\u003e💰 Finance\u003c/h2\u003e\n\n\u003cdiv class=\"__h_social\"\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eCash.me\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://cash.me/$rparman\" class=\"link mid-gray\"\u003ehttps://cash.me/$rparman\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003ePaypal\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://www.paypal.me/rparman\" class=\"link mid-gray\"\u003ehttps://www.paypal.me/rparman\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eVenmo\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://venmo.com/skyzyx\" class=\"link mid-gray\"\u003ehttps://venmo.com/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cstyle type=\"text/css\"\u003e\n@media screen and (min-width: 30em) {\n  .__h_social {\n    -webkit-column-count: 2;\n       -moz-column-count: 2;\n            column-count: 2;\n  }\n  .__h_social \u003e div.no-break {\n    display: inline-block;\n    -webkit-column-break-inside: avoid;\n              page-break-inside: avoid;\n                   break-inside: avoid;\n  }\n}\n\u003c/style\u003e\n\n\n\u003ch2 class=\"bb b--black-10\" id=\"cryptocurrency\"\u003e👾 Cryptocurrency\u003c/h2\u003e\n\n\u003cdiv class=\"__h_social\"\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eBitcoin (BTC)\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ccode\u003e3K37fk33hCZ3z4cAzqCfQYMBvXq7Gnbyhy\u003c/code\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eBitcoin Cash (BCH)\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ccode\u003eqrxjr346k5cyvzlxevppkk3ny7dggzhdgq0am6urh4\u003c/code\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eEther (ETH)\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ccode\u003e0x9228DCB4Bf6d738242ec41381963aed98d9209FC\u003c/code\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eEtherium Classic (ETC)\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ccode\u003e0x7137F02402C36420D289c22Cf639bbD8240174c1\u003c/code\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eLitecoin (LTC)\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ccode\u003eM9VjQV8Fb4xjVzbTGFq291E2xSzqNL9oEQ\u003c/code\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eZcash (ZEC)\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ccode\u003et1WrdqBCMYhGdXFHemiA9UakiWgUYn7dnb2\u003c/code\u003e\u003c/span\u003e\u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cstyle type=\"text/css\"\u003e\n@media screen and (min-width: 30em) {\n  .__h_social {\n    -webkit-column-count: 2;\n       -moz-column-count: 2;\n            column-count: 2;\n  }\n  .__h_social \u003e div.no-break {\n    display: inline-block;\n    -webkit-column-break-inside: avoid;\n              page-break-inside: avoid;\n                   break-inside: avoid;\n  }\n}\n\u003c/style\u003e\n\n\n\u003ch2 class=\"bb b--black-10\" id=\"communities\"\u003e 💈Communities\u003c/h2\u003e\n\n\u003cdiv class=\"__h_social\"\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eAWS Forums\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://forums.aws.amazon.com/profile.jspa?userID=62398\" class=\"link mid-gray\"\u003ehttps://forums.aws.amazon.com/profile.jspa?userID=62398\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eDev.to\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://dev.to/skyzyx\" class=\"link mid-gray\"\u003ehttps://dev.to/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eHackerNews\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://news.ycombinator.com/user?id=skyzyx\" class=\"link mid-gray\"\u003ehttps://news.ycombinator.com/user?id=skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eReddit\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://www.reddit.com/user/skyzyx\" class=\"link mid-gray\"\u003ehttps://www.reddit.com/user/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eStack Overflow\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://stackoverflow.com/users/228514/ryan-parman\" class=\"link mid-gray\"\u003ehttps://stackoverflow.com/users/228514/ryan-parman\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cstyle type=\"text/css\"\u003e\n@media screen and (min-width: 30em) {\n  .__h_social {\n    -webkit-column-count: 2;\n       -moz-column-count: 2;\n            column-count: 2;\n  }\n  .__h_social \u003e div.no-break {\n    display: inline-block;\n    -webkit-column-break-inside: avoid;\n              page-break-inside: avoid;\n                   break-inside: avoid;\n  }\n}\n\u003c/style\u003e\n\n\n\u003ch2 class=\"bb b--black-10\" id=\"location\"\u003e📍 Location\u003c/h2\u003e\n\n\u003cdiv class=\"__h_social\"\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eYelp!\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://rparman.yelp.com/\" class=\"link mid-gray\"\u003ehttps://rparman.yelp.com/\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cstyle type=\"text/css\"\u003e\n@media screen and (min-width: 30em) {\n  .__h_social {\n    -webkit-column-count: 2;\n       -moz-column-count: 2;\n            column-count: 2;\n  }\n  .__h_social \u003e div.no-break {\n    display: inline-block;\n    -webkit-column-break-inside: avoid;\n              page-break-inside: avoid;\n                   break-inside: avoid;\n  }\n}\n\u003c/style\u003e\n\n\n\u003ch2 class=\"bb b--black-10\" id=\"miscellaneous\"\u003e🎲 Miscellaneous\u003c/h2\u003e\n\n\u003cdiv class=\"__h_social\"\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eAirbnb\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://www.airbnb.com/users/show/47877510\" class=\"link mid-gray\"\u003ehttps://www.airbnb.com/users/show/47877510\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eAmazon wishlist\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://amazon.com/wishlist/KAFYR57E8R81\" class=\"link mid-gray\"\u003ehttps://amazon.com/wishlist/KAFYR57E8R81\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eHomescreen\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://homescreen.me/skyzyx\" class=\"link mid-gray\"\u003ehttps://homescreen.me/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eKickstarter\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://www.kickstarter.com/profile/skyzyx\" class=\"link mid-gray\"\u003ehttps://www.kickstarter.com/profile/skyzyx\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cstyle type=\"text/css\"\u003e\n@media screen and (min-width: 30em) {\n  .__h_social {\n    -webkit-column-count: 2;\n       -moz-column-count: 2;\n            column-count: 2;\n  }\n  .__h_social \u003e div.no-break {\n    display: inline-block;\n    -webkit-column-break-inside: avoid;\n              page-break-inside: avoid;\n                   break-inside: avoid;\n  }\n}\n\u003c/style\u003e\n\n\n\u003ch2 class=\"bb b--black-10\" id=\"book-references\"\u003e📖 Book References\u003c/h2\u003e\n\u003cp\u003eReferences in books to either myself or my work.\u003c/p\u003e\n\n\u003cdiv class=\"__h_social\"\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eAmazon S3 Cookbook\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://flwd.dk/2VpzPoo\" class=\"link mid-gray\"\u003ehttps://flwd.dk/2VpzPoo\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eCSS Mastery: Advanced Web Standards Solutions\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://flwd.dk/2Qi9AMR\" class=\"link mid-gray\"\u003ehttps://flwd.dk/2Qi9AMR\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eDynamoDB Cookbook\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://flwd.dk/2QhyFr3\" class=\"link mid-gray\"\u003ehttps://flwd.dk/2QhyFr3\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eHost Your Web Site In The Cloud: Amazon Web Services Made Easy\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://flwd.dk/2QgmgE4\" class=\"link mid-gray\"\u003ehttps://flwd.dk/2QgmgE4\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eImplementing Cloud Design Patterns for AWS\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://flwd.dk/2Qkox0W\" class=\"link mid-gray\"\u003ehttps://flwd.dk/2Qkox0W\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eMastering Joomla! 1.5 Extension and Framework Development\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://flwd.dk/2Qi580o\" class=\"link mid-gray\"\u003ehttps://flwd.dk/2Qi580o\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003ePHP: per professionisti\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://flwd.dk/2VnkFjw\" class=\"link mid-gray\"\u003ehttps://flwd.dk/2VnkFjw\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eProfessional Search Engine Optimization with PHP: A Developer\u0026#39;s Guide to SEO\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://flwd.dk/2QdO3F7\" class=\"link mid-gray\"\u003ehttps://flwd.dk/2QdO3F7\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003ePro PHP Programming\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://flwd.dk/2QdO3F7\" class=\"link mid-gray\"\u003ehttps://flwd.dk/2QdO3F7\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003cdiv class=\"no-break relative w-100 bg-white nested-copy-line-height\"\u003e\n  \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n    \u003ch3 class=\"f4 near-black pv0 mv0\"\u003eSmashing WordPress: Beyond the Blog\u003c/h3\u003e\u003cspan class=\"f6 db mid-gray\"\u003e\u003ca href=\"https://flwd.dk/2QdOcZb\" class=\"link mid-gray\"\u003ehttps://flwd.dk/2QdOcZb\u003c/a\u003e\u003c/span\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cstyle type=\"text/css\"\u003e\n@media screen and (min-width: 30em) {\n  .__h_social {\n    -webkit-column-count: 2;\n       -moz-column-count: 2;\n            column-count: 2;\n  }\n  .__h_social \u003e div.no-break {\n    display: inline-block;\n    -webkit-column-break-inside: avoid;\n              page-break-inside: avoid;\n                   break-inside: avoid;\n  }\n}\n\u003c/style\u003e\n\n",
+        "plain":" 📬 Email I don't generally post my email address online. I generally receive over 10,000 inbound emails per month to my personal account, so if I don't know you, I'll probably delete or ignore it. But if you feel like rolling the dice, you can reach me at {firstname}@{firstname}{lastname}.com.\nIf you are a technical recruiter, please don't be clueless. At the moment, I am not available for hire for freelance projects (sometimes this status changes).\n 🌀 Social Twitterhttps://twitter.com/skyzyx    @media screen and (min-width: 30em) { .__h_social { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; } .__h_social  div.no-break { display: inline-block; -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid; } }  🔑 Security and Identity PGP Keyhttps://keybase.io/skyzyx/key.asc  HackerOnehttps://hackerone.com/skyzyx   Keybasehttps://keybase.io/skyzyx    @media screen and (min-width: 30em) { .__h_social { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; } .__h_social  div.no-break { display: inline-block; -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid; } }  👔 Professional Networking Angel.cohttps://angel.co/skyzyx   Betalisthttps://betalist.com/@skyzyx   LinkedInhttps://www.linkedin.com/in/rparman    @media screen and (min-width: 30em) { .__h_social { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; } .__h_social  div.no-break { display: inline-block; -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid; } }  💼 Work AWS SDK for PHPhttps://aws.amazon.com/sdk-for-php/   McGraw-Hill Educationhttps://www.mheducation.com   SimplePiehttps://github.com/simplepie   WePayhttps://wepay.com    @media screen and (min-width: 30em) { .__h_social { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; } .__h_social  div.no-break { display: inline-block; -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid; } }  🌐 Code Codepenhttps://codepen.io/skyzyx/   Coderwallhttps://coderwall.com/skyzyx   Docker Hubhttps://hub.docker.com/u/skyzyx/   GitHubhttps://github.com/skyzyx   Libraries.iohttps://libraries.io/github/skyzyx   npmhttps://www.npmjs.com/~skyzyx   Pypihttps://pypi.org/user/skyzyx/    @media screen and (min-width: 30em) { .__h_social { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; } .__h_social  div.no-break { display: inline-block; -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid; } }  🎧 Music Apple Musichttps://itunes.apple.com/profile/skyzyx   Bandcamphttps://bandcamp.com/skyzyx   Last.fmhttps://www.last.fm/user/skyzyx   SoundCloudhttps://soundcloud.com/skyzyx   Spotifyhttps://open.spotify.com/user/skyzyx    @media screen and (min-width: 30em) { .__h_social { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; } .__h_social  div.no-break { display: inline-block; -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid; } }  📺 TV and Movies IMDbhttps://imdb.com/user/ur24445966/   Letterboxdhttps://letterboxd.com/skyzyx/   trakt.tvhttps://trakt.tv/users/skyzyx    @media screen and (min-width: 30em) { .__h_social { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; } .__h_social  div.no-break { display: inline-block; -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid; } }  🎮 Gaming Apple Game Center IDSkyzyx  Nintendo Network IDSkyzyx  Nintendo 3DS Friend Code2105-9785-3579  Nintendo Switch Friend CodeSW-6095-9528-5891  Playstation Network IDSkyzyx  Xbox Live GamertagSkyzyxRP   @media screen and (min-width: 30em) { .__h_social { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; } .__h_social  div.no-break { display: inline-block; -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid; } }  📷 Photography Flickrhttps://flickr.com/people/skyzyx   Unsplashhttps://unsplash.com/@skyzyx    @media screen and (min-width: 30em) { .__h_social { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; } .__h_social  div.no-break { display: inline-block; -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid; } }  📖 Reading Feedlyhttps://feedly.com/skyzyx   Goodreadshttps://www.goodreads.com/user/show/7693108-ryan-parman   Mediumhttps://medium.com/@skyzyx   Pinboardhttps://pinboard.in/u:skyzyx    @media screen and (min-width: 30em) { .__h_social { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; } .__h_social  div.no-break { display: inline-block; -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid; } }  📹 Video Twitchhttps://www.twitch.tv/skyzyxrp   Vimeohttps://vimeo.com/skyzyx   YouTubehttps://www.youtube.com/user/Skyzyx    @media screen and (min-width: 30em) { .__h_social { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; } .__h_social  div.no-break { display: inline-block; -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid; } }  💰 Finance Cash.mehttps://cash.me/$rparman   Paypalhttps://www.paypal.me/rparman   Venmohttps://venmo.com/skyzyx    @media screen and (min-width: 30em) { .__h_social { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; } .__h_social  div.no-break { display: inline-block; -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid; } }  👾 Cryptocurrency Bitcoin (BTC)3K37fk33hCZ3z4cAzqCfQYMBvXq7Gnbyhy  Bitcoin Cash (BCH)qrxjr346k5cyvzlxevppkk3ny7dggzhdgq0am6urh4  Ether (ETH)0x9228DCB4Bf6d738242ec41381963aed98d9209FC  Etherium Classic (ETC)0x7137F02402C36420D289c22Cf639bbD8240174c1  Litecoin (LTC)M9VjQV8Fb4xjVzbTGFq291E2xSzqNL9oEQ  Zcash (ZEC)t1WrdqBCMYhGdXFHemiA9UakiWgUYn7dnb2   @media screen and (min-width: 30em) { .__h_social { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; } .__h_social  div.no-break { display: inline-block; -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid; } }  💈Communities AWS Forumshttps://forums.aws.amazon.com/profile.jspa?userID=62398   Dev.tohttps://dev.to/skyzyx   HackerNewshttps://news.ycombinator.com/user?id=skyzyx   Reddithttps://www.reddit.com/user/skyzyx   Stack Overflowhttps://stackoverflow.com/users/228514/ryan-parman    @media screen and (min-width: 30em) { .__h_social { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; } .__h_social  div.no-break { display: inline-block; -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid; } }  📍 Location Yelp!https://rparman.yelp.com/    @media screen and (min-width: 30em) { .__h_social { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; } .__h_social  div.no-break { display: inline-block; -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid; } }  🎲 Miscellaneous Airbnbhttps://www.airbnb.com/users/show/47877510   Amazon wishlisthttps://amazon.com/wishlist/KAFYR57E8R81   Homescreenhttps://homescreen.me/skyzyx   Kickstarterhttps://www.kickstarter.com/profile/skyzyx    @media screen and (min-width: 30em) { .__h_social { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; } .__h_social  div.no-break { display: inline-block; -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid; } }  📖 Book References References in books to either myself or my work.\nAmazon S3 Cookbookhttps://flwd.dk/2VpzPoo   CSS Mastery: Advanced Web Standards Solutionshttps://flwd.dk/2Qi9AMR   DynamoDB Cookbookhttps://flwd.dk/2QhyFr3   Host Your Web Site In The Cloud: Amazon Web Services Made Easyhttps://flwd.dk/2QgmgE4   Implementing Cloud Design Patterns for AWShttps://flwd.dk/2Qkox0W   Mastering Joomla! 1.5 Extension and Framework Developmenthttps://flwd.dk/2Qi580o   PHP: per professionistihttps://flwd.dk/2VnkFjw   Professional Search Engine Optimization with PHP: A Developer\u0026#39;s Guide to SEOhttps://flwd.dk/2QdO3F7   Pro PHP Programminghttps://flwd.dk/2QdO3F7   Smashing WordPress: Beyond the Bloghttps://flwd.dk/2QdOcZb    @media screen and (min-width: 30em) { .__h_social { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; } .__h_social  div.no-break { display: inline-block; -webkit-column-break-inside: avoid; page-break-inside: avoid; break-inside: avoid; } }  ",
+        "source":"\n\u003ch2 class=\"bb b--black-10\"\u003e📬 Email\u003c/h2\u003e\n\u003cp\u003eI don't generally post my email address online. I generally receive over 10,000 inbound emails per month to my personal account, so if I don't know you, I'll probably delete or ignore it. But if you feel like rolling the dice, you can reach me at \u003ccode\u003e{firstname}@{firstname}{lastname}.com\u003c/code\u003e.\u003c/p\u003e\n\n\u003caside class=\"age aside container flex\"\u003e\n  \u003cp\u003eIf you are a technical recruiter, \u003ca href=\"/series/clueless-recruiters/\"\u003eplease don't be \u003cem\u003eclueless\u003c/em\u003e\u003c/a\u003e. At the moment, I am not available for hire for freelance projects (sometimes this status changes).\u003c/p\u003e\n\u003c/aside\u003e\n\n\u003ch2 class=\"bb b--black-10\" id=\"social\"\u003e🌀 Social\u003c/h2\u003e\n{{\u003csocial social\u003e}}\n\n\u003ch2 class=\"bb b--black-10\" id=\"security-and-identity\"\u003e🔑 Security and Identity\u003c/h2\u003e\n{{\u003csocial security_identity\u003e}}\n\n\u003ch2 class=\"bb b--black-10\" id=\"professional-networking\"\u003e👔 Professional Networking\u003c/h2\u003e\n{{\u003csocial professional\u003e}}\n\n\u003ch2 class=\"bb b--black-10\" id=\"work\"\u003e💼 Work\u003c/h2\u003e\n{{\u003csocial work\u003e}}\n\n\u003ch2 class=\"bb b--black-10\" id=\"code\"\u003e🌐 Code\u003c/h2\u003e\n{{\u003csocial code\u003e}}\n\n\u003ch2 class=\"bb b--black-10\" id=\"music\"\u003e🎧 Music\u003c/h2\u003e\n{{\u003csocial music\u003e}}\n\n\u003ch2 class=\"bb b--black-10\" id=\"tv-and-movies\"\u003e📺 TV and Movies\u003c/h2\u003e\n{{\u003csocial tv_movies\u003e}}\n\n\u003ch2 class=\"bb b--black-10\" id=\"gaming\"\u003e🎮 Gaming\u003c/h2\u003e\n{{\u003csocial gaming\u003e}}\n\n\u003ch2 class=\"bb b--black-10\" id=\"photography\"\u003e📷 Photography\u003c/h2\u003e\n{{\u003csocial photography\u003e}}\n\n\u003ch2 class=\"bb b--black-10\" id=\"reading\"\u003e📖 Reading\u003c/h2\u003e\n{{\u003csocial reading\u003e}}\n\n\u003ch2 class=\"bb b--black-10\" id=\"video\"\u003e📹 Video\u003c/h2\u003e\n{{\u003csocial video\u003e}}\n\n\u003ch2 class=\"bb b--black-10\" id=\"finance\"\u003e💰 Finance\u003c/h2\u003e\n{{\u003csocial finance\u003e}}\n\n\u003ch2 class=\"bb b--black-10\" id=\"cryptocurrency\"\u003e👾 Cryptocurrency\u003c/h2\u003e\n{{\u003csocial crypto\u003e}}\n\n\u003ch2 class=\"bb b--black-10\" id=\"communities\"\u003e 💈Communities\u003c/h2\u003e\n{{\u003csocial communities\u003e}}\n\n\u003ch2 class=\"bb b--black-10\" id=\"location\"\u003e📍 Location\u003c/h2\u003e\n{{\u003csocial location\u003e}}\n\n\u003ch2 class=\"bb b--black-10\" id=\"miscellaneous\"\u003e🎲 Miscellaneous\u003c/h2\u003e\n{{\u003csocial other\u003e}}\n\n\u003ch2 class=\"bb b--black-10\" id=\"book-references\"\u003e📖 Book References\u003c/h2\u003e\n\u003cp\u003eReferences in books to either myself or my work.\u003c/p\u003e\n{{\u003csocial bookref\u003e}}\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Images",
+    "description": "",
+    "summary": {
+        "content": " This section has been lost in the depths of Internet history. Please check the Internet Archive instead. www.skyzyx.com/images blog.skyzyx.net/images www.ryanparman.com/images blog.ryanparman.com/images ",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/images/",
+    "relativePermalink": "/images/",
+    "aliases": ["/images/fancybox/", "/images/mini/social/ReadMe.rtf", "/images/mini/social/", "/images/mini/"],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 21,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "images/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "images/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cp\u003eThis section has been lost in the depths of Internet history. Please check the Internet Archive instead.\u003c/p\u003e\n\u003cul\u003e\n    \u003cli\u003e\u003ca href=\"https://web.archive.org/web/*/www.skyzyx.com/images/*\"\u003ewww.skyzyx.com/images\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"https://web.archive.org/web/*/blog.skyzyx.net/images/*\"\u003eblog.skyzyx.net/images\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"https://web.archive.org/web/*/www.ryanparman.com/images/*\"\u003ewww.ryanparman.com/images\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"https://web.archive.org/web/*/blog.ryanparman.com/images/*\"\u003eblog.ryanparman.com/images\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n",
+        "plain":" This section has been lost in the depths of Internet history. Please check the Internet Archive instead.\n www.skyzyx.com/images blog.skyzyx.net/images www.ryanparman.com/images blog.ryanparman.com/images  ",
+        "source":"\n\u003cp\u003eThis section has been lost in the depths of Internet history. Please check the Internet Archive instead.\u003c/p\u003e\n\u003cul\u003e\n    \u003cli\u003e\u003ca href=\"https://web.archive.org/web/*/www.skyzyx.com/images/*\"\u003ewww.skyzyx.com/images\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"https://web.archive.org/web/*/blog.skyzyx.net/images/*\"\u003eblog.skyzyx.net/images\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"https://web.archive.org/web/*/www.ryanparman.com/images/*\"\u003ewww.ryanparman.com/images\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"https://web.archive.org/web/*/blog.ryanparman.com/images/*\"\u003eblog.ryanparman.com/images\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Posts",
+    "description": "",
+    "summary": {
+        "content": "",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/",
+    "relativePermalink": "/posts/",
+    "aliases": ["/archives/", "/articles/"],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 0,
+        "readingTime": "0 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/_index.md",
+        "logicalName": "_index.md",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"",
+        "plain":"",
+        "source":"---\ntitle: \"Posts\"\nfeatured_image: https://cdn.ryanparman.com/hugo/posts/featured_image.jpg\naliases:\n  - /archives/\n  - /articles/\n---\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Pre-GitHub Projects",
+    "description": "",
+    "summary": {
+        "content": ".__h_social { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; } Projects that lived Tarzan https://aws.amazon.com/sdk-for-php/ An SDK for Amazon Web Services. Became the official AWS SDK for PHP in 2010. SimplePie https://github.com/simplepie A library for parsing RSS and Atom feeds in PHP. Became wildly popular and is now integrated into WordPress. Projects that died Blocker Blocked robots from visiting your website. Helped websites avoid referrer spam. FeedParser A pre-cursor to SimplePie, FeedParser parsed RSS 2.",
+        "isTruncated": true
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/projects/",
+    "relativePermalink": "/projects/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 111,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "projects/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "projects/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cstyle type=\"text/css\"\u003e\n.__h_social {\n    -webkit-column-count: 2;\n       -moz-column-count: 2;\n            column-count: 2;\n}\n\u003c/style\u003e\n\n\u003ch2 class=\"f2 fw3 bb b--black-10 mv3\"\u003eProjects that lived\u003c/h2\u003e\n\u003cdiv class=\"__h_social\"\u003e\n\n    \u003cdiv class=\"relative w-100 bg-white nested-copy-line-height\"\u003e\n      \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n        \u003ch3 class=\"f3 near-black pv0 mv0\"\u003eTarzan\u003c/h3\u003e\n        \u003cspan class=\"f6 db\"\u003e\u003ca href=\"https://aws.amazon.com/sdk-for-php/\" class=\"link mid-gray\"\u003ehttps://aws.amazon.com/sdk-for-php/\u003c/a\u003e\u003c/span\u003e\n        \u003cp class=\"f6 db\"\u003eAn SDK for Amazon Web Services. Became the official AWS SDK for PHP in 2010.\u003c/p\u003e\n      \u003c/div\u003e\n    \u003c/div\u003e\n\n    \u003cdiv class=\"relative w-100 bg-white nested-copy-line-height\"\u003e\n      \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n        \u003ch3 class=\"f3 near-black pv0 mv0\"\u003eSimplePie\u003c/h3\u003e\n        \u003cspan class=\"f6 db\"\u003e\u003ca href=\"https://github.com/simplepie\" class=\"link mid-gray\"\u003ehttps://github.com/simplepie\u003c/a\u003e\u003c/span\u003e\n        \u003cp class=\"f6 db\"\u003eA library for parsing RSS and Atom feeds in PHP. Became wildly popular and is now integrated into WordPress.\u003c/p\u003e\n      \u003c/div\u003e\n    \u003c/div\u003e\n\n\u003c/div\u003e\n\n\u003ch2 class=\"f2 fw3 bb b--black-10 mv3\"\u003eProjects that died\u003c/h2\u003e\n\u003cdiv class=\"__h_social\"\u003e\n\n    \u003cdiv class=\"relative w-100 bg-white nested-copy-line-height\"\u003e\n      \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n        \u003ch3 class=\"f3 near-black pv0 mv0\"\u003eBlocker\u003c/h3\u003e\n        \u003cp class=\"f6 db\"\u003eBlocked robots from visiting your website. Helped websites avoid referrer spam.\u003c/p\u003e\n      \u003c/div\u003e\n    \u003c/div\u003e\n\n    \u003cdiv class=\"relative w-100 bg-white nested-copy-line-height\"\u003e\n      \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n        \u003ch3 class=\"f3 near-black pv0 mv0\"\u003eFeedParser\u003c/h3\u003e\n        \u003cp class=\"f6 db\"\u003eA pre-cursor to SimplePie, FeedParser parsed RSS 2.0 feeds in the browser with JavaScript.\u003c/p\u003e\n      \u003c/div\u003e\n    \u003c/div\u003e\n\n    \u003cdiv class=\"relative w-100 bg-white nested-copy-line-height\"\u003e\n      \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n        \u003ch3 class=\"f3 near-black pv0 mv0\"\u003eBlogroller\u003c/h3\u003e\n        \u003cp class=\"f6 db\"\u003eThis was the project I was building SimplePie for in the first place. No code ever got written because SimplePie became so popular.\u003c/p\u003e\n      \u003c/div\u003e\n    \u003c/div\u003e\n\n\n    \u003cdiv class=\"relative w-100 bg-white nested-copy-line-height\"\u003e\n      \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n        \u003ch3 class=\"f3 near-black pv0 mv0\"\u003eRequestCore\u003c/h3\u003e\n        \u003cp class=\"f6 db\"\u003eThis was discontinued after discovering \u003ca href=\"https://github.com/guzzle/\"\u003eGuzzle\u003c/a\u003e.\u003c/p\u003e\n      \u003c/div\u003e\n    \u003c/div\u003e\n\n\u003c/div\u003e\n",
+        "plain":" .__h_social { -webkit-column-count: 2; -moz-column-count: 2; column-count: 2; }  Projects that lived Tarzan https://aws.amazon.com/sdk-for-php/ An SDK for Amazon Web Services. Became the official AWS SDK for PHP in 2010.\n  SimplePie https://github.com/simplepie A library for parsing RSS and Atom feeds in PHP. Became wildly popular and is now integrated into WordPress.\n   Projects that died Blocker Blocked robots from visiting your website. Helped websites avoid referrer spam.\n  FeedParser A pre-cursor to SimplePie, FeedParser parsed RSS 2.0 feeds in the browser with JavaScript.\n  Blogroller This was the project I was building SimplePie for in the first place. No code ever got written because SimplePie became so popular.\n  RequestCore This was discontinued after discovering Guzzle.\n   ",
+        "source":"\n\u003cstyle type=\"text/css\"\u003e\n.__h_social {\n    -webkit-column-count: 2;\n       -moz-column-count: 2;\n            column-count: 2;\n}\n\u003c/style\u003e\n\n\u003ch2 class=\"f2 fw3 bb b--black-10 mv3\"\u003eProjects that lived\u003c/h2\u003e\n\u003cdiv class=\"__h_social\"\u003e\n\n    \u003cdiv class=\"relative w-100 bg-white nested-copy-line-height\"\u003e\n      \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n        \u003ch3 class=\"f3 near-black pv0 mv0\"\u003eTarzan\u003c/h3\u003e\n        \u003cspan class=\"f6 db\"\u003e\u003ca href=\"https://aws.amazon.com/sdk-for-php/\" class=\"link mid-gray\"\u003ehttps://aws.amazon.com/sdk-for-php/\u003c/a\u003e\u003c/span\u003e\n        \u003cp class=\"f6 db\"\u003eAn SDK for Amazon Web Services. Became the official AWS SDK for PHP in 2010.\u003c/p\u003e\n      \u003c/div\u003e\n    \u003c/div\u003e\n\n    \u003cdiv class=\"relative w-100 bg-white nested-copy-line-height\"\u003e\n      \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n        \u003ch3 class=\"f3 near-black pv0 mv0\"\u003eSimplePie\u003c/h3\u003e\n        \u003cspan class=\"f6 db\"\u003e\u003ca href=\"https://github.com/simplepie\" class=\"link mid-gray\"\u003ehttps://github.com/simplepie\u003c/a\u003e\u003c/span\u003e\n        \u003cp class=\"f6 db\"\u003eA library for parsing RSS and Atom feeds in PHP. Became wildly popular and is now integrated into WordPress.\u003c/p\u003e\n      \u003c/div\u003e\n    \u003c/div\u003e\n\n\u003c/div\u003e\n\n\u003ch2 class=\"f2 fw3 bb b--black-10 mv3\"\u003eProjects that died\u003c/h2\u003e\n\u003cdiv class=\"__h_social\"\u003e\n\n    \u003cdiv class=\"relative w-100 bg-white nested-copy-line-height\"\u003e\n      \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n        \u003ch3 class=\"f3 near-black pv0 mv0\"\u003eBlocker\u003c/h3\u003e\n        \u003cp class=\"f6 db\"\u003eBlocked robots from visiting your website. Helped websites avoid referrer spam.\u003c/p\u003e\n      \u003c/div\u003e\n    \u003c/div\u003e\n\n    \u003cdiv class=\"relative w-100 bg-white nested-copy-line-height\"\u003e\n      \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n        \u003ch3 class=\"f3 near-black pv0 mv0\"\u003eFeedParser\u003c/h3\u003e\n        \u003cp class=\"f6 db\"\u003eA pre-cursor to SimplePie, FeedParser parsed RSS 2.0 feeds in the browser with JavaScript.\u003c/p\u003e\n      \u003c/div\u003e\n    \u003c/div\u003e\n\n    \u003cdiv class=\"relative w-100 bg-white nested-copy-line-height\"\u003e\n      \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n        \u003ch3 class=\"f3 near-black pv0 mv0\"\u003eBlogroller\u003c/h3\u003e\n        \u003cp class=\"f6 db\"\u003eThis was the project I was building SimplePie for in the first place. No code ever got written because SimplePie became so popular.\u003c/p\u003e\n      \u003c/div\u003e\n    \u003c/div\u003e\n\n\n    \u003cdiv class=\"relative w-100 bg-white nested-copy-line-height\"\u003e\n      \u003cdiv class=\"bg-white pv1 pv1-m pv2-ns gray overflow-hidden\"\u003e\n        \u003ch3 class=\"f3 near-black pv0 mv0\"\u003eRequestCore\u003c/h3\u003e\n        \u003cp class=\"f6 db\"\u003eThis was discontinued after discovering \u003ca href=\"https://github.com/guzzle/\"\u003eGuzzle\u003c/a\u003e.\u003c/p\u003e\n      \u003c/div\u003e\n    \u003c/div\u003e\n\n\u003c/div\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Privacy Policy",
+    "description": "",
+    "summary": {
+        "content": "This page is hosted at https://www.iubenda.com/privacy-policy/61889742.",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/privacy/",
+    "relativePermalink": "/privacy/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 6,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "privacy/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "privacy/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://www.iubenda.com/privacy-policy/61889742\" /\u003e\n\u003cp\u003eThis page is hosted at \u003ca href=\"https://www.iubenda.com/privacy-policy/61889742\"\u003ehttps://www.iubenda.com/privacy-policy/61889742\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":" This page is hosted at https://www.iubenda.com/privacy-policy/61889742.\n",
+        "source":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://www.iubenda.com/privacy-policy/61889742\" /\u003e\n\u003cp\u003eThis page is hosted at \u003ca href=\"https://www.iubenda.com/privacy-policy/61889742\"\u003ehttps://www.iubenda.com/privacy-policy/61889742\u003c/a\u003e.\u003c/p\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Random Tools",
+    "description": "A random assortment of developer tools.",
+    "summary": {
+        "content": " A random assortment of developer tools. Security Certificate Checker — Will show you information about the certificate, certificate chain, time-to-expiration, etc. ",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2020-02-27T15:16:24-08:00",
+    "permalink": "https://ryanparman.com/tools/",
+    "relativePermalink": "/tools/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 21,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "tools/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "tools/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cp itemprop=\"description\" class=\"f5 f4-m f3-l mt0 lh-copy p-summary entry-summary\"\u003e\nA random assortment of developer tools.\n\u003c/p\u003e\n\n\n\u003ch2 class=\"bb b--black-10\"\u003eSecurity\u003c/h2\u003e\n\n\u003cul\u003e\n\t\u003cli\u003e\u003cp\u003e\u003ca href=\"/tools/cert-checker\"\u003e\u003cstrong\u003eCertificate Checker\u003c/strong\u003e\u003c/a\u003e — Will show you information about the certificate, certificate chain, time-to-expiration, etc.\u003c/p\u003e\u003c/li\u003e\n\u003c/ul\u003e\n",
+        "plain":" A random assortment of developer tools. Security  Certificate Checker — Will show you information about the certificate, certificate chain, time-to-expiration, etc.\n  ",
+        "source":"\n{{\u003cdescription\u003e}}\nA random assortment of developer tools.\n{{\u003c/description\u003e}}\n\n\u003ch2 class=\"bb b--black-10\"\u003eSecurity\u003c/h2\u003e\n\n\u003cul\u003e\n\t\u003cli\u003e\u003cp\u003e\u003ca href=\"/tools/cert-checker\"\u003e\u003cstrong\u003eCertificate Checker\u003c/strong\u003e\u003c/a\u003e — Will show you information about the certificate, certificate chain, time-to-expiration, etc.\u003c/p\u003e\u003c/li\u003e\n\u003c/ul\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Resources",
+    "description": "",
+    "summary": {
+        "content": "This page has moved to http://www.devmarks.me.",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/resources/",
+    "relativePermalink": "/resources/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 6,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "resources/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "resources/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=http://www.devmarks.me\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"http://www.devmarks.me\"\u003ehttp://www.devmarks.me\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":" This page has moved to http://www.devmarks.me.\n",
+        "source":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=http://www.devmarks.me\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"http://www.devmarks.me\"\u003ehttp://www.devmarks.me\u003c/a\u003e.\u003c/p\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "RSS Reader",
+    "description": "",
+    "summary": {
+        "content": "This page has moved to http://simplepie.org/demo/.",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/rss/",
+    "relativePermalink": "/rss/",
+    "aliases": ["/posts/2003/rss/", "/rss/skyzyx.xml"],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 6,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "rss/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "rss/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=http://simplepie.org/demo/\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"http://simplepie.org/demo/\"\u003ehttp://simplepie.org/demo/\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":" This page has moved to http://simplepie.org/demo/.\n",
+        "source":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=http://simplepie.org/demo/\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"http://simplepie.org/demo/\"\u003ehttp://simplepie.org/demo/\u003c/a\u003e.\u003c/p\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Résumé",
+    "description": "",
+    "summary": {
+        "content": "This page has moved to https://github.com/skyzyx/resume.",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/resume/",
+    "relativePermalink": "/resume/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 6,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "resume/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "resume/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://github.com/skyzyx/resume\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://github.com/skyzyx/resume\"\u003ehttps://github.com/skyzyx/resume\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":" This page has moved to https://github.com/skyzyx/resume.\n",
+        "source":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://github.com/skyzyx/resume\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://github.com/skyzyx/resume\"\u003ehttps://github.com/skyzyx/resume\u003c/a\u003e.\u003c/p\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Scripts",
+    "description": "",
+    "summary": {
+        "content": "This page has moved to https://github.com/skyzyx.",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/scripts/",
+    "relativePermalink": "/scripts/",
+    "aliases": ["/posts/2003/scripts/cdvoodoo.htm", "/random/browser.php", "/scripts/3p/ui/", "/scripts/acrobat.php", "/scripts/calendar.php", "/scripts/cdvoodoo.htm", "/scripts/convert.php", "/scripts/imagepop.php", "/scripts/messagecenter.php", "/scripts/module/", "/scripts/quicktime.php", "/scripts/shockwave.php", "/scripts/sleight.php", "/scripts/styleswap.php", "/scripts/util/"],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 6,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "scripts/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "scripts/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://github.com/skyzyx\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://github.com/skyzyx\"\u003ehttps://github.com/skyzyx\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":" This page has moved to https://github.com/skyzyx.\n",
+        "source":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://github.com/skyzyx\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://github.com/skyzyx\"\u003ehttps://github.com/skyzyx\u003c/a\u003e.\u003c/p\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Search",
+    "description": "",
+    "summary": {
+        "content": " What can I help you find? Not working? Must support URLSearchParams, fetch(), and HTML templates. ",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/search/",
+    "relativePermalink": "/search/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 15,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "search/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "search/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cp itemprop=\"description\" class=\"f5 f4-m f3-l mt0 lh-copy p-summary entry-summary\"\u003e\n\u003cspan id=\"query\"\u003eWhat can I help you find?\u003c/span\u003e\n\u003c/p\u003e\n\n\n\u003cform action=\"/search\" method=\"get\" accept-charset=\"utf-8\" class=\"black-80 w-100\"\u003e\n    \u003cinput name=\"q\" id=\"q\" class=\"input-reset ba b--black-20 pa2 mb2 db w-100\" type=\"search\" aria-describedby=\"name-desc\"\u003e\n    \u003cdiv class=\"cf\"\u003e\n      \u003cdiv class=\"fl\"\u003e\n        \u003cinput type=\"submit\" value=\"Search\" class=\"f6 link dim br1 ph3 pv2 mb2 dib white bg-dark-blue bw0\"\u003e\n      \u003c/div\u003e\n      \u003cdiv class=\"fr\"\u003e\n        \u003cp class=\"f6 black-60 db mb2 mt1\"\u003eNot working? Must support \u003ca href=\"https://caniuse.com/#search=URLSearchParams\"\u003eURLSearchParams\u003c/a\u003e, \u003ca href=\"https://caniuse.com/#search=fetch\"\u003efetch()\u003c/a\u003e, and \u003ca href=\"https://caniuse.com/#search=templates\"\u003eHTML templates\u003c/a\u003e.\u003c/p\u003e\n      \u003c/div\u003e\n    \u003c/div\u003e\n\u003c/form\u003e\n\n\u003cdiv id=\"results\"\u003e\u003c/div\u003e\n\n\u003cscript type=\"text/javascript\" src=\"https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js\"\u003e\u003c/script\u003e\n\u003cscript type=\"text/javascript\" src=\"https://ryanparman.com/js/search.min.a98b99df8a7332bfb9e0b37d16e7093c30c8a35e539b15c1fd72674f4484d912.js\" integrity=\"sha256-qYuZ34pzMr\u0026#43;54LN9FucJPDDIo15TmxXB/XJnT0SE2RI=\"\u003e\u003c/script\u003e\n\n",
+        "plain":" What can I help you find?  Not working? Must support URLSearchParams, fetch(), and HTML templates.\n      ",
+        "source":"\n{{\u003cdescription\u003e}}\n\u003cspan id=\"query\"\u003eWhat can I help you find?\u003c/span\u003e\n{{\u003c/description\u003e}}\n\n\u003cform action=\"/search\" method=\"get\" accept-charset=\"utf-8\" class=\"black-80 w-100\"\u003e\n    \u003cinput name=\"q\" id=\"q\" class=\"input-reset ba b--black-20 pa2 mb2 db w-100\" type=\"search\" aria-describedby=\"name-desc\"\u003e\n    \u003cdiv class=\"cf\"\u003e\n      \u003cdiv class=\"fl\"\u003e\n        \u003cinput type=\"submit\" value=\"Search\" class=\"f6 link dim br1 ph3 pv2 mb2 dib white bg-dark-blue bw0\"\u003e\n      \u003c/div\u003e\n      \u003cdiv class=\"fr\"\u003e\n        \u003cp class=\"f6 black-60 db mb2 mt1\"\u003eNot working? Must support \u003ca href=\"https://caniuse.com/#search=URLSearchParams\"\u003eURLSearchParams\u003c/a\u003e, \u003ca href=\"https://caniuse.com/#search=fetch\"\u003efetch()\u003c/a\u003e, and \u003ca href=\"https://caniuse.com/#search=templates\"\u003eHTML templates\u003c/a\u003e.\u003c/p\u003e\n      \u003c/div\u003e\n    \u003c/div\u003e\n\u003c/form\u003e\n\n\u003cdiv id=\"results\"\u003e\u003c/div\u003e\n\n\u003cscript type=\"text/javascript\" src=\"https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.0/fuse.min.js\"\u003e\u003c/script\u003e\n{{\u003cscript src=\"/js/search.js\"\u003e}}\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Sidebar",
+    "description": "",
+    "summary": {
+        "content": "This page has moved to https://pinboard.in/u:skyzyx/.",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/sidebar/",
+    "relativePermalink": "/sidebar/",
+    "aliases": ["/sidebar/", "/sidebar/000146.php", "/sidebar/000209.php", "/sidebar/000228.php", "/sidebar/000322.php", "/sidebar/000325.php", "/sidebar/000333.php", "/sidebar/000350.php", "/sidebar/sidebar.atom", "/sidebar/sidebar.rdf", "/sidebar/sidebar.rsd", "/sidebar/sidebar.rss", "/sidebar/sidebar.xml"],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 6,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "sidebar/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "sidebar/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://pinboard.in/u:skyzyx/\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://pinboard.in/u:skyzyx/\"\u003ehttps://pinboard.in/u:skyzyx/\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":" This page has moved to https://pinboard.in/u:skyzyx/.\n",
+        "source":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://pinboard.in/u:skyzyx/\" /\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://pinboard.in/u:skyzyx/\"\u003ehttps://pinboard.in/u:skyzyx/\u003c/a\u003e.\u003c/p\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Skyzyx General Public License (SkyGPL)",
+    "description": "",
+    "summary": {
+        "content": "This page has been archived. See https://web.archive.org/web/20040606215618/www.skyzyx.com/license/.",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/license/",
+    "relativePermalink": "/license/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 7,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "license/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "license/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://web.archive.org/web/20040606215618/www.skyzyx.com/license/\" /\u003e\n\u003cp\u003eThis page has been archived. See \u003ca href=\"https://web.archive.org/web/20040606215618/www.skyzyx.com/license/\"\u003ehttps://web.archive.org/web/20040606215618/www.skyzyx.com/license/\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":" This page has been archived. See https://web.archive.org/web/20040606215618/www.skyzyx.com/license/.\n",
+        "source":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://web.archive.org/web/20040606215618/www.skyzyx.com/license/\" /\u003e\n\u003cp\u003eThis page has been archived. See \u003ca href=\"https://web.archive.org/web/20040606215618/www.skyzyx.com/license/\"\u003ehttps://web.archive.org/web/20040606215618/www.skyzyx.com/license/\u003c/a\u003e.\u003c/p\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Subscription Feeds",
+    "description": "",
+    "summary": {
+        "content": "Do you have a feed reader? Do you use things like RSS or Atom feeds to subscribe to websites? Then this section is for you… Content I Write Main blog — The blog posts I write. Typically long-form writing. Link blog — Links I think are interesting. Tweet-worthy posts. Instagram photos. Combined: Main blog + Link blog — All of the above. Media I Consume Movies — Films I rate/review on Letterboxd. TV Shows — TV shows that I watch, by episode.",
+        "isTruncated": true
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/feeds/",
+    "relativePermalink": "/feeds/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 124,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "feeds/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "feeds/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003ca href=\"#content-i-write\"\u003eContent I Write\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#media-i-consume\"\u003eMedia I Consume\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#everything\"\u003eEverything\u003c/a\u003e\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/nav\u003e",
+        "html":"\u003cp itemprop=\"description\" class=\"f5 f4-m f3-l mt0 lh-copy p-summary entry-summary\"\u003e\nDo you have a feed reader? Do you use things like RSS or Atom feeds to subscribe to websites? Then this section is for you…\n\u003c/p\u003e\n\n\u003ch2 id=\"content-i-write\"\u003eContent I Write\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://feed.ryanparman.com\"\u003eMain blog\u003c/a\u003e — The blog posts I write. Typically long-form writing.\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://feed.ryanparman.com/linkblog\"\u003eLink blog\u003c/a\u003e — Links I think are interesting. Tweet-worthy posts. Instagram photos.\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://feed.ryanparman.com/content\"\u003eCombined: Main blog + Link blog\u003c/a\u003e — All of the above.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2 id=\"media-i-consume\"\u003eMedia I Consume\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://feed.ryanparman.com/movies\"\u003eMovies\u003c/a\u003e — Films I rate/review on \u003ca href=\"https://letterboxd.com/skyzyx/\"\u003eLetterboxd\u003c/a\u003e.\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://feed.ryanparman.com/tv\"\u003eTV Shows\u003c/a\u003e — TV shows that I watch, by episode. From \u003ca href=\"https://trakt.tv/users/skyzyx\"\u003eTrakt.tv\u003c/a\u003e.\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://feed.ryanparman.com/youtube\"\u003eYouTube\u003c/a\u003e — \u003ca href=\"https://www.youtube.com/user/Skyzyx\"\u003eYouTube\u003c/a\u003e videos that I mark as \u003cem\u003efavorites\u003c/em\u003e.\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://feed.ryanparman.com/media\"\u003eCombined: Movies + TV Shows + YouTube\u003c/a\u003e — All of the above.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2 id=\"everything\"\u003eEverything\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://feed.ryanparman.com/conglomo\"\u003eEverything\u003c/a\u003e — All of the above feeds rolled into one. Subscribing to this feed is full-on stalker status.\u003c/li\u003e\n\u003c/ul\u003e\n",
+        "plain":"Do you have a feed reader? Do you use things like RSS or Atom feeds to subscribe to websites? Then this section is for you… Content I Write  Main blog — The blog posts I write. Typically long-form writing. Link blog — Links I think are interesting. Tweet-worthy posts. Instagram photos. Combined: Main blog + Link blog — All of the above.  Media I Consume  Movies — Films I rate/review on Letterboxd. TV Shows — TV shows that I watch, by episode. From Trakt.tv. YouTube — YouTube videos that I mark as favorites. Combined: Movies + TV Shows + YouTube — All of the above.  Everything  Everything — All of the above feeds rolled into one. Subscribing to this feed is full-on stalker status.  ",
+        "source":"\n{{\u003cdescription\u003e}}\nDo you have a feed reader? Do you use things like RSS or Atom feeds to subscribe to websites? Then this section is for you…\n{{\u003c/description\u003e}}\n\n## Content I Write\n\n* [Main blog](https://feed.ryanparman.com) — The blog posts I write. Typically long-form writing.\n* [Link blog](https://feed.ryanparman.com/linkblog) — Links I think are interesting. Tweet-worthy posts. Instagram photos.\n* [Combined: Main blog + Link blog](https://feed.ryanparman.com/content) — All of the above.\n\n## Media I Consume\n\n* [Movies](https://feed.ryanparman.com/movies) — Films I rate/review on [Letterboxd](https://letterboxd.com/skyzyx/).\n* [TV Shows](https://feed.ryanparman.com/tv) — TV shows that I watch, by episode. From [Trakt.tv](https://trakt.tv/users/skyzyx).\n* [YouTube](https://feed.ryanparman.com/youtube) — [YouTube](https://www.youtube.com/user/Skyzyx) videos that I mark as _favorites_.\n* [Combined: Movies + TV Shows + YouTube](https://feed.ryanparman.com/media) — All of the above.\n\n## Everything\n\n* [Everything](https://feed.ryanparman.com/conglomo) — All of the above feeds rolled into one. Subscribing to this feed is full-on stalker status.\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "section",
+    "title": "Wishlist",
+    "description": "",
+    "summary": {
+        "content": "This page has moved to https://www.amazon.com/wishlist/KAFYR57E8R81.",
+        "isTruncated": false
+    },
+    "published": "0001-01-01T00:00:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/wishlist/",
+    "relativePermalink": "/wishlist/",
+    "aliases": [],
+    "images": [],
+    "videos": [],
+    "categories": [],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 6,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": true,
+        "isPage": false,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "wishlist/_index.html",
+        "logicalName": "_index.html",
+        "translationBaseName": "_index",
+        "baseFileName": "_index",
+        "ext": "html",
+        "lang": "en",
+        "dir": "wishlist/"
+    },
+    "content": {
+        "tableOfContents": "",
+        "html":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://www.amazon.com/wishlist/KAFYR57E8R81?sort=priority\"\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://www.amazon.com/wishlist/KAFYR57E8R81?sort=priority\"\u003ehttps://www.amazon.com/wishlist/KAFYR57E8R81\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":" This page has moved to https://www.amazon.com/wishlist/KAFYR57E8R81.\n",
+        "source":"\n\u003cmeta http-equiv=\"refresh\" content=\"5;url=https://www.amazon.com/wishlist/KAFYR57E8R81?sort=priority\"\u003e\n\u003cp\u003eThis page has moved to \u003ca href=\"https://www.amazon.com/wishlist/KAFYR57E8R81?sort=priority\"\u003ehttps://www.amazon.com/wishlist/KAFYR57E8R81\u003c/a\u003e.\u003c/p\u003e\n"},
+    "links": {
+        
+        
+        "ignore": "me"
+    }
+}
+
+            
+        ]
+    }
+}

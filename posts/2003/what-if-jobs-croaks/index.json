@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "What If Jobs Croaks?",
+    "description": "",
+    "summary": {
+        "content": "I was reading an article entitled “Soon Available In Six-Packs (8/20/03)” over at As the Apple Turns. It plays on the idea of “What happens to Apple if Steve Jobs dies?” On the other hand, do you honestly think that Apple hasn’t prepared for that doomsday scenario? Well, it’s easy enough to find out; frankly, we lack the attention span to get through more than six words of Apple’s quarterly 10-Q without downing a couple of bottles of Focusyn first, but even we get a kick out of the “What If?",
+        "isTruncated": true
+    },
+    "published": "2003-08-22T22:34:14Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/what-if-jobs-croaks/",
+    "relativePermalink": "/posts/2003/what-if-jobs-croaks/",
+    "aliases": ["/2003/08/22/what-if-jobs-croaks/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Apple"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 214,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030822-what-if-jobs-croaks.md",
+        "logicalName": "20030822-what-if-jobs-croaks.md",
+        "translationBaseName": "20030822-what-if-jobs-croaks",
+        "baseFileName": "20030822-what-if-jobs-croaks",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI was reading an article entitled “Soon Available In Six-Packs (8/20/03)” over at \u003ca href=\"https://web.archive.org/web/20030822223414/http://www.appleturns.com\"\u003eAs the Apple Turns\u003c/a\u003e. It plays on the idea of “What happens to Apple if Steve Jobs dies?”\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eOn the other hand, do you honestly think that Apple hasn’t prepared for that doomsday scenario? Well, it’s easy enough to find out; frankly, we lack the attention span to get through more than six words of Apple’s quarterly 10-Q without downing a couple of bottles of Focusyn first, but even we get a kick out of the “What If?” drama in the section called “Factors That May Affect Future Results and Financial Condition”— and the most current one lists such hazards as terrorist attacks, SARS, earthquakes, fires, labor disputes, price wars, higher R\u0026amp;D costs, screwed-up product intros, inventory write-downs, supply shortages, quality control problems, a cratering of the retail initiative, plunging pro product sales, getting smacked down in education, patent litigation, rising insurance costs, deadbeat debtors, tax rate hikes, and third-party software developers being abducted by an evil cult of mutant cannibals. There’s nary a mention of the single greatest hazard facing the company, namely Steve kicking the bucket or otherwise vacating his role as Omnipotent Apple Overlord.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eIt’s a rather entertaining article to read, whether or not you even like Apple.\u003c/p\u003e\n",
+        "plain":"I was reading an article entitled “Soon Available In Six-Packs (8/20/03)” over at As the Apple Turns. It plays on the idea of “What happens to Apple if Steve Jobs dies?”\n On the other hand, do you honestly think that Apple hasn’t prepared for that doomsday scenario? Well, it’s easy enough to find out; frankly, we lack the attention span to get through more than six words of Apple’s quarterly 10-Q without downing a couple of bottles of Focusyn first, but even we get a kick out of the “What If?” drama in the section called “Factors That May Affect Future Results and Financial Condition”— and the most current one lists such hazards as terrorist attacks, SARS, earthquakes, fires, labor disputes, price wars, higher R\u0026amp;D costs, screwed-up product intros, inventory write-downs, supply shortages, quality control problems, a cratering of the retail initiative, plunging pro product sales, getting smacked down in education, patent litigation, rising insurance costs, deadbeat debtors, tax rate hikes, and third-party software developers being abducted by an evil cult of mutant cannibals. There’s nary a mention of the single greatest hazard facing the company, namely Steve kicking the bucket or otherwise vacating his role as Omnipotent Apple Overlord.\n It’s a rather entertaining article to read, whether or not you even like Apple.\n",
+        "source":"\nI was reading an article entitled “Soon Available In Six-Packs (8/20/03)” over at [As the Apple Turns]({{% wayback \"http://www.appleturns.com\" %}}). It plays on the idea of “What happens to Apple if Steve Jobs dies?”\n\n\u003e On the other hand, do you honestly think that Apple hasn’t prepared for that doomsday scenario? Well, it’s easy enough to find out; frankly, we lack the attention span to get through more than six words of Apple’s quarterly 10-Q without downing a couple of bottles of Focusyn first, but even we get a kick out of the “What If?” drama in the section called “Factors That May Affect Future Results and Financial Condition”— and the most current one lists such hazards as terrorist attacks, SARS, earthquakes, fires, labor disputes, price wars, higher R\u0026D costs, screwed-up product intros, inventory write-downs, supply shortages, quality control problems, a cratering of the retail initiative, plunging pro product sales, getting smacked down in education, patent litigation, rising insurance costs, deadbeat debtors, tax rate hikes, and third-party software developers being abducted by an evil cult of mutant cannibals. There’s nary a mention of the single greatest hazard facing the company, namely Steve kicking the bucket or otherwise vacating his role as Omnipotent Apple Overlord.\n\nIt’s a rather entertaining article to read, whether or not you even like Apple.\n"},
+    "links": {
+        "prev": {"title": "Gemal's Gettin' Hitched!", "permalink": "https://ryanparman.com/posts/2003/gemals-gettin-hitched/"},
+        "next": {"title": "Building Better Websites", "permalink": "https://ryanparman.com/posts/2003/building-better-websites/"},
+        "ignore": "me"
+    }
+}
+
+}

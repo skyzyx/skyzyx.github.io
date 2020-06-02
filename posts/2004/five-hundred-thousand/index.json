@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Five Hundred Thousand",
+    "description": "",
+    "summary": {
+        "content": "Sometime last night, while I was sleeping, my website reached the 500,000 visitor mark. This is very exciting for me. It’s good to know that I have a site that people would bother going to visit 500,000 times in a year-and-a-half. I’ve come quite a long ways since version 1.0 of this website was released back in October 1997. One thing that I’ve learned is that your site will be much more successful if it’s about something. I spent the first 5 years coming up with better and better designs and really working to sharpen my coding skills (“chicks like guys who have good skills” — Napoleon Dynamite), but I never had any real content.",
+        "isTruncated": true
+    },
+    "published": "2004-09-01T23:49:21Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/five-hundred-thousand/",
+    "relativePermalink": "/posts/2004/five-hundred-thousand/",
+    "aliases": ["/2004/09/01/five-hundred-thousand/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 245,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040901-five-hundred-thousand.md",
+        "logicalName": "20040901-five-hundred-thousand.md",
+        "translationBaseName": "20040901-five-hundred-thousand",
+        "baseFileName": "20040901-five-hundred-thousand",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eSometime last night, while I was sleeping, my website reached the 500,000 visitor mark. This is very exciting for me. It’s good to know that I have a site that people would bother going to visit 500,000 times in a year-and-a-half.\u003c/p\u003e\n\u003cp\u003eI’ve come quite a long ways since version 1.0 of this website was released back in October 1997. One thing that I’ve learned is that your site will be much more successful if it’s \u003cem\u003eabout\u003c/em\u003e something. I spent the first 5 years coming up with better and better designs and really working to sharpen my coding skills (“chicks like guys who have good skills” — Napoleon Dynamite), but I never had any real content. Of course, most of that knowledge was tossed away when I randomly stumbled across the website of a guy who called himself \u0026ldquo;\u003ca href=\"https://web.archive.org/web/20040901234921/http://www.zeldman.com\"\u003eThe Ubiquitous Z\u003c/a\u003e\u0026rdquo;.\u003c/p\u003e\n\u003cp\u003eI’ve learned much from from the web design/development/standards community. When I started this site back in March 2003, my goal was to give back as much as I could to the web community, as well as to help budding web designers learn the things that it took me years to figure out.\u003c/p\u003e\n\u003cp\u003eEven if I’ve only helped a handful of people in the last year-and-a-half, that handful is enough to make this site not only worthwhile, but also a success.\u003c/p\u003e\n\u003cp\u003eTo the web community at large, thank you for teaching me so much, and allowing me to teach you a thing or two as well.\u003c/p\u003e\n",
+        "plain":"Sometime last night, while I was sleeping, my website reached the 500,000 visitor mark. This is very exciting for me. It’s good to know that I have a site that people would bother going to visit 500,000 times in a year-and-a-half.\nI’ve come quite a long ways since version 1.0 of this website was released back in October 1997. One thing that I’ve learned is that your site will be much more successful if it’s about something. I spent the first 5 years coming up with better and better designs and really working to sharpen my coding skills (“chicks like guys who have good skills” — Napoleon Dynamite), but I never had any real content. Of course, most of that knowledge was tossed away when I randomly stumbled across the website of a guy who called himself \u0026ldquo;The Ubiquitous Z\u0026rdquo;.\nI’ve learned much from from the web design/development/standards community. When I started this site back in March 2003, my goal was to give back as much as I could to the web community, as well as to help budding web designers learn the things that it took me years to figure out.\nEven if I’ve only helped a handful of people in the last year-and-a-half, that handful is enough to make this site not only worthwhile, but also a success.\nTo the web community at large, thank you for teaching me so much, and allowing me to teach you a thing or two as well.\n",
+        "source":"\nSometime last night, while I was sleeping, my website reached the 500,000 visitor mark. This is very exciting for me. It’s good to know that I have a site that people would bother going to visit 500,000 times in a year-and-a-half.\n\nI’ve come quite a long ways since version 1.0 of this website was released back in October 1997. One thing that I’ve learned is that your site will be much more successful if it’s *about* something. I spent the first 5 years coming up with better and better designs and really working to sharpen my coding skills (“chicks like guys who have good skills” — Napoleon Dynamite), but I never had any real content. Of course, most of that knowledge was tossed away when I randomly stumbled across the website of a guy who called himself \"[The Ubiquitous Z]({{% wayback \"http://www.zeldman.com\" %}})\".\n\nI’ve learned much from from the web design/development/standards community. When I started this site back in March 2003, my goal was to give back as much as I could to the web community, as well as to help budding web designers learn the things that it took me years to figure out.\n\nEven if I’ve only helped a handful of people in the last year-and-a-half, that handful is enough to make this site not only worthwhile, but also a success.\n\nTo the web community at large, thank you for teaching me so much, and allowing me to teach you a thing or two as well.\n"},
+    "links": {
+        "prev": {"title": "I Need Your Help!", "permalink": "https://ryanparman.com/posts/2004/i-need-your-help/"},
+        "next": {"title": "“Wait, Didn't He Just...?”", "permalink": "https://ryanparman.com/posts/2004/wait-didnt-he-just/"},
+        "ignore": "me"
+    }
+}
+
+}

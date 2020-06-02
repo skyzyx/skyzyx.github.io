@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Internet Explorer for Mac Is Dead",
+    "description": "",
+    "summary": {
+        "content": "Shortly after the announcement of the death of a standalone version of Internet Explorer for Windows, the death of Internet Explorer for Mac has come to pass. Apparently, further updates of IE/Mac will only occur within the MSN for Mac OS X software. Supposedly this decision was made so that Apple could push Safari, Apple’s lightning-fast browser for Mac OS X 10.2 or later, without having fight with Microsoft on the desktop. Everyone seems to be wondering what in the world Microsoft is doing cutting off IE at the knees.",
+        "isTruncated": true
+    },
+    "published": "2003-06-14T05:19:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/internet-explorer-for-mac-is-dead/",
+    "relativePermalink": "/posts/2003/internet-explorer-for-mac-is-dead/",
+    "aliases": ["/2003/06/13/internet-explorer-for-mac-is-dead/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 156,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030614-internet-explorer-for-mac-is-dead.md",
+        "logicalName": "20030614-internet-explorer-for-mac-is-dead.md",
+        "translationBaseName": "20030614-internet-explorer-for-mac-is-dead",
+        "baseFileName": "20030614-internet-explorer-for-mac-is-dead",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eShortly after the announcement of the \u003ca href=\"https://web.archive.org/web/20030614051900/http://news.com.com/2100-1032_3-1011859.html?tag=fd_top\"\u003edeath of a standalone version of Internet Explorer for Windows\u003c/a\u003e, the \u003ca href=\"https://web.archive.org/web/20030614051900/http://www.zeldman.com/daily/0603a.shtml#rip\"\u003edeath of Internet Explorer for Mac\u003c/a\u003e has come to pass.\u003c/p\u003e\n\u003cp\u003eApparently, further \u003ca href=\"https://web.archive.org/web/20030614051900/http://www.pcpro.co.uk/news/news_story.php?id=43191\"\u003eupdates of IE/Mac\u003c/a\u003e will only occur within the \u003ca href=\"https://web.archive.org/web/20030614051900/http://www.microsoft.com/mac/msn/\"\u003eMSN for Mac OS X\u003c/a\u003e software. Supposedly this decision was made so that Apple could push \u003ca href=\"https://web.archive.org/web/20030614051900/http://www.apple.com/safari/\"\u003eSafari\u003c/a\u003e, Apple’s lightning-fast browser for \u003ca href=\"https://web.archive.org/web/20030614051900/http://www.apple.com/macosx/\"\u003eMac OS X 10.2\u003c/a\u003e or later, without having fight with Microsoft on the desktop.\u003c/p\u003e\n\u003cp\u003eEveryone seems to be wondering what in the world Microsoft is doing cutting off IE at the knees. About a year ago, I was reading an article discussing how Microsoft would probably phase out Internet Explorer in favor of MSN Explorer internet software. Now that \u003ca href=\"https://web.archive.org/web/20030614051900/http://news.com.com/2009-1083_3-1011419.html?tag=fd_top\"\u003eAOL has signed a seven year deal\u003c/a\u003e with Microsoft to continue using IE in it’s own AOL software (despite the fact that AOL owns Netscape), Microsoft may be getting lazy. Either that, or they’ve got something evil in mind…\u003c/p\u003e\n",
+        "plain":"Shortly after the announcement of the death of a standalone version of Internet Explorer for Windows, the death of Internet Explorer for Mac has come to pass.\nApparently, further updates of IE/Mac will only occur within the MSN for Mac OS X software. Supposedly this decision was made so that Apple could push Safari, Apple’s lightning-fast browser for Mac OS X 10.2 or later, without having fight with Microsoft on the desktop.\nEveryone seems to be wondering what in the world Microsoft is doing cutting off IE at the knees. About a year ago, I was reading an article discussing how Microsoft would probably phase out Internet Explorer in favor of MSN Explorer internet software. Now that AOL has signed a seven year deal with Microsoft to continue using IE in it’s own AOL software (despite the fact that AOL owns Netscape), Microsoft may be getting lazy. Either that, or they’ve got something evil in mind…\n",
+        "source":"\nShortly after the announcement of the [death of a standalone version of Internet Explorer for Windows]({{% wayback \"http://news.com.com/2100-1032_3-1011859.html?tag=fd_top\" %}}), the [death of Internet Explorer for Mac]({{% wayback \"http://www.zeldman.com/daily/0603a.shtml#rip\" %}}) has come to pass.\n\nApparently, further [updates of IE/Mac]({{% wayback \"http://www.pcpro.co.uk/news/news_story.php?id=43191\" %}}) will only occur within the [MSN for Mac OS X]({{% wayback \"http://www.microsoft.com/mac/msn/\" %}}) software. Supposedly this decision was made so that Apple could push [Safari]({{% wayback \"http://www.apple.com/safari/\" %}}), Apple’s lightning-fast browser for [Mac OS X 10.2]({{% wayback \"http://www.apple.com/macosx/\" %}}) or later, without having fight with Microsoft on the desktop.\n\nEveryone seems to be wondering what in the world Microsoft is doing cutting off IE at the knees. About a year ago, I was reading an article discussing how Microsoft would probably phase out Internet Explorer in favor of MSN Explorer internet software. Now that [AOL has signed a seven year deal]({{% wayback \"http://news.com.com/2009-1083_3-1011419.html?tag=fd_top\" %}}) with Microsoft to continue using IE in it’s own AOL software (despite the fact that AOL owns Netscape), Microsoft may be getting lazy. Either that, or they’ve got something evil in mind…\n"},
+    "links": {
+        "prev": {"title": "Only 99.29% of Websites Are Obsolete", "permalink": "https://ryanparman.com/posts/2003/only-9929-of-websites-are-obsolete/"},
+        "next": {"title": "OpenBeOS Is Moving Right Along", "permalink": "https://ryanparman.com/posts/2003/openbeos-is-moving-right-along/"},
+        "ignore": "me"
+    }
+}
+
+}

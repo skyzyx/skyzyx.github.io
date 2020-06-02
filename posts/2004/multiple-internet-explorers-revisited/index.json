@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Multiple Internet Explorers Revisited",
+    "description": "",
+    "summary": {
+        "content": "Over 400,000 downloads and counting from my webserver alone. This doesn’t count any of the mirrors that are posted. Suprisingly, Microsoft hasn’t said a word to me. I suppose this is a good thing. I was recently made aware that all of this was featured on C|Net’s TechTV, as well as on C|Net’s Builder.com site. Anyways, I just wanted to let you all know that I had a conversation with a little birdie. This little birdie told me something about an upcoming ALA article, and something else about full support for conditional comments, DX filters, and other nifty things that the standalones have been lacking for the last few months.",
+        "isTruncated": true
+    },
+    "published": "2004-03-02T18:06:30Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/multiple-internet-explorers-revisited/",
+    "relativePermalink": "/posts/2004/multiple-internet-explorers-revisited/",
+    "aliases": ["/2004/03/02/multiple-internet-explorers-revisited/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 131,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040302-multiple-internet-explorers-revisited.md",
+        "logicalName": "20040302-multiple-internet-explorers-revisited.md",
+        "translationBaseName": "20040302-multiple-internet-explorers-revisited",
+        "baseFileName": "20040302-multiple-internet-explorers-revisited",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eOver 400,000 downloads and counting from my webserver alone. This doesn’t count any of the mirrors that are posted. Suprisingly, Microsoft hasn’t said a word to me. I suppose this is a good thing.\u003c/p\u003e\n\u003cp\u003eI was recently made aware that all of this was \u003ca href=\"https://web.archive.org/web/20040302180630/http://insert-title.com/web_design/?page=articles/bb_flv/movie\"\u003efeatured\u003c/a\u003e on C|Net’s \u003ca href=\"https://web.archive.org/web/20040302180630/http://www.techtv.com/\"\u003eTechTV\u003c/a\u003e, as well as on C|Net’s \u003ca href=\"https://web.archive.org/web/20040302180630/http://builder.com.com/5100-6371_14-5157896.html\"\u003eBuilder.com\u003c/a\u003e site.\u003c/p\u003e\n\u003cp\u003eAnyways, I just wanted to let you all know that I had a conversation with a little birdie. This little birdie told me something about an upcoming \u003ca href=\"https://web.archive.org/web/20040302180630/http://www.alistapart.com\"\u003eALA\u003c/a\u003e article, and something else about full support for conditional comments, DX filters, and other nifty things that the standalones have been lacking for the last few months.\u003c/p\u003e\n\u003cp\u003eI don’t know about any timeline other than “soon”. After he said that, the birdie just flew away. Hmmm… strange. *shrug*\u003c/p\u003e\n",
+        "plain":"Over 400,000 downloads and counting from my webserver alone. This doesn’t count any of the mirrors that are posted. Suprisingly, Microsoft hasn’t said a word to me. I suppose this is a good thing.\nI was recently made aware that all of this was featured on C|Net’s TechTV, as well as on C|Net’s Builder.com site.\nAnyways, I just wanted to let you all know that I had a conversation with a little birdie. This little birdie told me something about an upcoming ALA article, and something else about full support for conditional comments, DX filters, and other nifty things that the standalones have been lacking for the last few months.\nI don’t know about any timeline other than “soon”. After he said that, the birdie just flew away. Hmmm… strange. *shrug*\n",
+        "source":"\nOver 400,000 downloads and counting from my webserver alone. This doesn’t count any of the mirrors that are posted. Suprisingly, Microsoft hasn’t said a word to me. I suppose this is a good thing.\n\nI was recently made aware that all of this was [featured]({{% wayback \"http://insert-title.com/web_design/?page=articles/bb_flv/movie\" %}}) on C|Net’s [TechTV]({{% wayback \"http://www.techtv.com/\" %}}), as well as on C|Net’s [Builder.com]({{% wayback \"http://builder.com.com/5100-6371_14-5157896.html\" %}}) site.\n\nAnyways, I just wanted to let you all know that I had a conversation with a little birdie. This little birdie told me something about an upcoming [ALA]({{% wayback \"http://www.alistapart.com\" %}}) article, and something else about full support for conditional comments, DX filters, and other nifty things that the standalones have been lacking for the last few months.\n\nI don’t know about any timeline other than “soon”. After he said that, the birdie just flew away. Hmmm… strange. \\*shrug\\*\n"},
+    "links": {
+        "prev": {"title": "A Not-So-Idle Wednesday", "permalink": "https://ryanparman.com/posts/2004/a-not-so-idle-wednesday/"},
+        "next": {"title": "ALA Favelet", "permalink": "https://ryanparman.com/posts/2004/ala-favelet/"},
+        "ignore": "me"
+    }
+}
+
+}

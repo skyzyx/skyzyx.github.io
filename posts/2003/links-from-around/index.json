@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Links From Around",
+    "description": "",
+    "summary": {
+        "content": "Here are a few interesting reads from around the world wide web this evening. Microsoft trying to control blogging. Gator tries to shed it’s self-inflicted unpopularity by changing it’s name to Claria. Napster’s back (well, it’s pretending to be…). MSN splits in two. Mozilla Firebird is a viable (and better) alternative to Microsoft Internet Explorer. Well, duh! Eolas, don’t make the W3C smack you down… ",
+        "isTruncated": false
+    },
+    "published": "2003-10-30T06:48:05Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/links-from-around/",
+    "relativePermalink": "/posts/2003/links-from-around/",
+    "aliases": ["/2003/10/29/links-from-around/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Reading"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 65,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20031030-links-from-around.md",
+        "logicalName": "20031030-links-from-around.md",
+        "translationBaseName": "20031030-links-from-around",
+        "baseFileName": "20031030-links-from-around",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eHere are a few interesting reads from around the world wide web this evening.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031030064805/http://www.michaelhanscom.com/eclecticism/2003/10/even_microsoft_.html\"\u003eMicrosoft trying to control blogging.\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031030064805/http://news.com.com/2100-1024_3-5099212.html?tag=nefd_top\"\u003eGator tries to shed it’s self-inflicted unpopularity by changing it’s name to Claria.\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031030064805/http://www.napster.com\"\u003eNapster’s back (well, it’s pretending to be…).\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031030064805/http://news.com.com/2100-1038_3-5098985.html?tag=nefd_top\"\u003eMSN splits in two.\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031030064805/http://www.smartcomputing.com/editorial/article.asp?article=articles/2003/s1411/31s11/31s11.asp\"\u003eMozilla Firebird is a viable (and better) alternative to Microsoft Internet Explorer. Well, duh!\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20031030064805/http://www.webstandards.org/buzz/archive/2003_10.html#a000237\"\u003eEolas, don’t make the W3C smack you down…\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n",
+        "plain":"Here are a few interesting reads from around the world wide web this evening.\n Microsoft trying to control blogging. Gator tries to shed it’s self-inflicted unpopularity by changing it’s name to Claria. Napster’s back (well, it’s pretending to be…). MSN splits in two. Mozilla Firebird is a viable (and better) alternative to Microsoft Internet Explorer. Well, duh! Eolas, don’t make the W3C smack you down…  ",
+        "source":"\nHere are a few interesting reads from around the world wide web this evening.\n\n* [Microsoft trying to control blogging.]({{% wayback \"http://www.michaelhanscom.com/eclecticism/2003/10/even_microsoft_.html\" %}})\n* [Gator tries to shed it’s self-inflicted unpopularity by changing it’s name to Claria.]({{% wayback \"http://news.com.com/2100-1024_3-5099212.html?tag=nefd_top\" %}})\n* [Napster’s back (well, it’s pretending to be…).]({{% wayback \"http://www.napster.com\" %}})\n* [MSN splits in two.]({{% wayback \"http://news.com.com/2100-1038_3-5098985.html?tag=nefd_top\" %}})\n* [Mozilla Firebird is a viable (and better) alternative to Microsoft Internet Explorer. Well, duh!]({{% wayback \"http://www.smartcomputing.com/editorial/article.asp?article=articles/2003/s1411/31s11/31s11.asp\" %}})\n* [Eolas, don’t make the W3C smack you down…]({{% wayback \"http://www.webstandards.org/buzz/archive/2003_10.html#a000237\" %}})\n"},
+    "links": {
+        "prev": {"title": "Winamp 5 Beta", "permalink": "https://ryanparman.com/posts/2003/winamp-5-beta/"},
+        "next": {"title": "Fewer Posts", "permalink": "https://ryanparman.com/posts/2003/fewer-posts/"},
+        "ignore": "me"
+    }
+}
+
+}

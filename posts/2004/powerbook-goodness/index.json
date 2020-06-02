@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "PowerBook Goodness!",
+    "description": "",
+    "summary": {
+        "content": "This morning, I have two computers sitting in front of me: The first is the one that I built from scratch a few months ago. That one has been almost completely unused (as of late) except for trying to get Windows XP re-installed from a scratched disc. My best friend is coming up this week, and I’m having him bring his Windows CD so I can use my serial. Once I get XP re-installed, I can finally begin the process of re-installing the rest of my applications, and getting my digital life back in order.",
+        "isTruncated": true
+    },
+    "published": "2004-06-12T17:46:45Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/powerbook-goodness/",
+    "relativePermalink": "/posts/2004/powerbook-goodness/",
+    "aliases": ["/archives/000269.php", "/articles/000269.php", "/2004/06/12/powerbook-goodness/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Apple"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 246,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040612-powerbook-goodness.md",
+        "logicalName": "20040612-powerbook-goodness.md",
+        "translationBaseName": "20040612-powerbook-goodness",
+        "baseFileName": "20040612-powerbook-goodness",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eThis morning, I have two computers sitting in front of me: The first is the one that I built from scratch a few months ago. That one has been almost completely unused (as of late) except for trying to get Windows XP re-installed from a scratched disc. My best friend is coming up this week, and I’m having him bring his Windows CD so I can use my serial. Once I get XP re-installed, I can finally begin the process of re-installing the rest of my applications, and getting my digital life back in order.\u003c/p\u003e\n\u003cp\u003eThe other thing in front of me was a suprise from my wonderful, beautiful wife: A 17-inch Widescreen PowerBook G4. I almost wet myself as I opened the black box and saw the words “Made by Apple in California”. The only Macs I’ve ever had were at least 10 years old when I got them. I’ve had a \u003cem\u003ethirty-three MHz\u003c/em\u003e Performa 550 with twenty megs of RAM for quite some time now. But, I’ll tell you, System 7.5.5 isn’t nearly as elegant and beautiful as 10.3 is.\u003c/p\u003e\n\u003cp\u003eI was up until 5am last night toying around with everything: getting iLife installed, installing Classic and XCode, and downloading Camino, Firefox, and Thunderbird.\u003c/p\u003e\n\u003cp\u003eWith my 6.0 megabit internet connection, I was able to download ALL of the software updates and get them installed in under 5 minutes.\u003c/p\u003e\n\u003cp\u003eNow I just to find a way to remove the lick marks from my 17-inch LCD…\u003c/p\u003e\n",
+        "plain":"This morning, I have two computers sitting in front of me: The first is the one that I built from scratch a few months ago. That one has been almost completely unused (as of late) except for trying to get Windows XP re-installed from a scratched disc. My best friend is coming up this week, and I’m having him bring his Windows CD so I can use my serial. Once I get XP re-installed, I can finally begin the process of re-installing the rest of my applications, and getting my digital life back in order.\nThe other thing in front of me was a suprise from my wonderful, beautiful wife: A 17-inch Widescreen PowerBook G4. I almost wet myself as I opened the black box and saw the words “Made by Apple in California”. The only Macs I’ve ever had were at least 10 years old when I got them. I’ve had a thirty-three MHz Performa 550 with twenty megs of RAM for quite some time now. But, I’ll tell you, System 7.5.5 isn’t nearly as elegant and beautiful as 10.3 is.\nI was up until 5am last night toying around with everything: getting iLife installed, installing Classic and XCode, and downloading Camino, Firefox, and Thunderbird.\nWith my 6.0 megabit internet connection, I was able to download ALL of the software updates and get them installed in under 5 minutes.\nNow I just to find a way to remove the lick marks from my 17-inch LCD…\n",
+        "source":"\nThis morning, I have two computers sitting in front of me: The first is the one that I built from scratch a few months ago. That one has been almost completely unused (as of late) except for trying to get Windows XP re-installed from a scratched disc. My best friend is coming up this week, and I’m having him bring his Windows CD so I can use my serial. Once I get XP re-installed, I can finally begin the process of re-installing the rest of my applications, and getting my digital life back in order.\n\nThe other thing in front of me was a suprise from my wonderful, beautiful wife: A 17-inch Widescreen PowerBook G4. I almost wet myself as I opened the black box and saw the words “Made by Apple in California”. The only Macs I’ve ever had were at least 10 years old when I got them. I’ve had a *thirty-three MHz* Performa 550 with twenty megs of RAM for quite some time now. But, I’ll tell you, System 7.5.5 isn’t nearly as elegant and beautiful as 10.3 is.\n\nI was up until 5am last night toying around with everything: getting iLife installed, installing Classic and XCode, and downloading Camino, Firefox, and Thunderbird.\n\nWith my 6.0 megabit internet connection, I was able to download ALL of the software updates and get them installed in under 5 minutes.\n\nNow I just to find a way to remove the lick marks from my 17-inch LCD…\n"},
+    "links": {
+        "prev": {"title": "The Ant and the Grasshopper", "permalink": "https://ryanparman.com/posts/2004/the-ant-and-the-grasshopper/"},
+        "next": {"title": "Re-learning Macs", "permalink": "https://ryanparman.com/posts/2004/re-learning-macs/"},
+        "ignore": "me"
+    }
+}
+
+}

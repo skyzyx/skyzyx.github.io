@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Winamp 5, Wasabi, and the Future",
+    "description": "",
+    "summary": {
+        "content": "I’ve been a Winamp fan for quite some time now. I’ve been using it since the days of 2.1-ish, and it’s been near impossible to get me to switch to another full-time media player. Winamp 5 pretty much seals the deal with me. The naming convention for Winamp 5 has already been discussed, and I’ve made available my favorite Winamp skins. Although I wasn’t much of a fan of Winamp 3 in terms of using it (it was very, very slow), the thing that I did think was fantastic was Wasabi.",
+        "isTruncated": true
+    },
+    "published": "2003-12-16T19:22:13Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/winamp-5-wasabi-and-the-future/",
+    "relativePermalink": "/posts/2003/winamp-5-wasabi-and-the-future/",
+    "aliases": ["/archives/000131.php", "/articles/000131.php", "/2003/12/16/winamp-5-wasabi-and-the-future/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Software"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 329,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20031216-winamp-5-wasabi-and-the-future.md",
+        "logicalName": "20031216-winamp-5-wasabi-and-the-future.md",
+        "translationBaseName": "20031216-winamp-5-wasabi-and-the-future",
+        "baseFileName": "20031216-winamp-5-wasabi-and-the-future",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve been a \u003ca href=\"https://web.archive.org/web/20031216192213/http://www.winamp.com\" title=\"Winamp.com\"\u003eWinamp\u003c/a\u003e fan for quite some time now. I’ve been using it since the days of 2.1-ish, and it’s been near impossible to get me to switch to another full-time media player. Winamp 5 pretty much seals the deal with me.\u003c/p\u003e\n\u003cp\u003eThe naming convention for Winamp 5 has \u003ca href=\"/archives/000086.php\"\u003ealready been discussed\u003c/a\u003e, and I’ve made available my \u003ca href=\"/archives/000097.php\"\u003efavorite Winamp skins\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eAlthough I wasn’t much of a fan of Winamp 3 in terms of using it (it was very, \u003cem\u003every\u003c/em\u003e slow), the thing that I did think was fantastic was \u003ca href=\"https://web.archive.org/web/20031216192213/http://www.guiolympics.com/articles/interview_nullsoft.html\"\u003eWasabi\u003c/a\u003e. Even though it was slow, it was a brilliant piece of work that had much potential to be something really useful.\u003c/p\u003e\n\u003cp\u003eAccording to \u003ca href=\"https://web.archive.org/web/20031216192213/http://news.com.com/2100-1025_3-5125657.html?tag=nefd_top\"\u003eC|Net\u003c/a\u003e, Brennan Underwood (the head honcho behind Wasabi) has been laid-off by AOL. Apparently, it seems as though AOL is making \u003ca href=\"/archives/000039.php\"\u003emore and more mistakes\u003c/a\u003e with the technology that it owns, which leads me to believe that AOL won’t be around for much longer.\u003c/p\u003e\n\u003cp\u003eThe \u003ca href=\"https://web.archive.org/web/20031216192213/http://forums.winamp.com/showthread.php?s=cc552c0d20d3dafae0261afd318c74c8\u0026amp;threadid=158594\"\u003eWasabi Development Board\u003c/a\u003e over at the Winamp Forums has a posting about making Wasabi an open-source project. The \u003ca href=\"https://web.archive.org/web/20031216192213/http://www.wasabidev.org/\"\u003eWasabiDev\u003c/a\u003e website says pretty much the same thing. I know that Winamp 5 has compatibility with the Wasabi API, since the whole point of Winamp 5 was to “Wasabify Winamp 2”. So far, so good.\u003c/p\u003e\n\u003cp\u003eAlthough I’m kinda bummed that Wasabi Development at Nullsoft is being abandoned (although I’m sure that other Nullsofters will contribute time and code to the new project), I’m sure that the newly dubbed “wasabi.player” (based on Winamp 3) will do very well once the API matures. Winamp 5 support for Wasabi will probably be limited to skinning and components — the same as it is now. I’d be suprised if AOL continued to pay their Nullsoft employees to continue work on their own Wasabi, separate from the open-source Wasabi.\u003c/p\u003e\n\u003cp\u003eAll of that aside, I’m loving the new Winamp 5 Final release. It’s fast, supports cool skins, and even plays my excessively large video files like a champ.\u003c/p\u003e\n",
+        "plain":"I’ve been a Winamp fan for quite some time now. I’ve been using it since the days of 2.1-ish, and it’s been near impossible to get me to switch to another full-time media player. Winamp 5 pretty much seals the deal with me.\nThe naming convention for Winamp 5 has already been discussed, and I’ve made available my favorite Winamp skins.\nAlthough I wasn’t much of a fan of Winamp 3 in terms of using it (it was very, very slow), the thing that I did think was fantastic was Wasabi. Even though it was slow, it was a brilliant piece of work that had much potential to be something really useful.\nAccording to C|Net, Brennan Underwood (the head honcho behind Wasabi) has been laid-off by AOL. Apparently, it seems as though AOL is making more and more mistakes with the technology that it owns, which leads me to believe that AOL won’t be around for much longer.\nThe Wasabi Development Board over at the Winamp Forums has a posting about making Wasabi an open-source project. The WasabiDev website says pretty much the same thing. I know that Winamp 5 has compatibility with the Wasabi API, since the whole point of Winamp 5 was to “Wasabify Winamp 2”. So far, so good.\nAlthough I’m kinda bummed that Wasabi Development at Nullsoft is being abandoned (although I’m sure that other Nullsofters will contribute time and code to the new project), I’m sure that the newly dubbed “wasabi.player” (based on Winamp 3) will do very well once the API matures. Winamp 5 support for Wasabi will probably be limited to skinning and components — the same as it is now. I’d be suprised if AOL continued to pay their Nullsoft employees to continue work on their own Wasabi, separate from the open-source Wasabi.\nAll of that aside, I’m loving the new Winamp 5 Final release. It’s fast, supports cool skins, and even plays my excessively large video files like a champ.\n",
+        "source":"\nI’ve been a [Winamp]({{% wayback \"http://www.winamp.com\" %}} \"Winamp.com\") fan for quite some time now. I’ve been using it since the days of 2.1-ish, and it’s been near impossible to get me to switch to another full-time media player. Winamp 5 pretty much seals the deal with me.\n\nThe naming convention for Winamp 5 has [already been discussed](/archives/000086.php), and I’ve made available my [favorite Winamp skins](/archives/000097.php).\n\nAlthough I wasn’t much of a fan of Winamp 3 in terms of using it (it was very, *very* slow), the thing that I did think was fantastic was [Wasabi]({{% wayback \"http://www.guiolympics.com/articles/interview_nullsoft.html\" %}}). Even though it was slow, it was a brilliant piece of work that had much potential to be something really useful.\n\nAccording to [C|Net]({{% wayback \"http://news.com.com/2100-1025_3-5125657.html?tag=nefd_top\" %}}), Brennan Underwood (the head honcho behind Wasabi) has been laid-off by AOL. Apparently, it seems as though AOL is making [more and more mistakes](/archives/000039.php) with the technology that it owns, which leads me to believe that AOL won’t be around for much longer.\n\nThe [Wasabi Development Board]({{% wayback \"http://forums.winamp.com/showthread.php?s=cc552c0d20d3dafae0261afd318c74c8\u0026threadid=158594\" %}}) over at the Winamp Forums has a posting about making Wasabi an open-source project. The [WasabiDev]({{% wayback \"http://www.wasabidev.org/\" %}}) website says pretty much the same thing. I know that Winamp 5 has compatibility with the Wasabi API, since the whole point of Winamp 5 was to “Wasabify Winamp 2”. So far, so good.\n\nAlthough I’m kinda bummed that Wasabi Development at Nullsoft is being abandoned (although I’m sure that other Nullsofters will contribute time and code to the new project), I’m sure that the newly dubbed “wasabi.player” (based on Winamp 3) will do very well once the API matures. Winamp 5 support for Wasabi will probably be limited to skinning and components — the same as it is now. I’d be suprised if AOL continued to pay their Nullsoft employees to continue work on their own Wasabi, separate from the open-source Wasabi.\n\nAll of that aside, I’m loving the new Winamp 5 Final release. It’s fast, supports cool skins, and even plays my excessively large video files like a champ.\n"},
+    "links": {
+        "prev": {"title": "Christmastime Is Here...", "permalink": "https://ryanparman.com/posts/2003/christmastime-is-here/"},
+        "next": {"title": "Movable Type Problems", "permalink": "https://ryanparman.com/posts/2003/movable-type-problems/"},
+        "ignore": "me"
+    }
+}
+
+}

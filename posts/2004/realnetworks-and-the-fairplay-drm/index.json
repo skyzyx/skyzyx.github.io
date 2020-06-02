@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "RealNetworks and the FairPlay DRM",
+    "description": "",
+    "summary": {
+        "content": "Apparently, RealNetworks has reverse-engineered Apple’s FairPlay software. FairPlay is the name of Apple’s DRM (digital rights management) software. RealNetworks has been trying to get Apple to license their FairPlay software so that Real can sell iPod-ready music files from their online music store. Apple has consistently denied their requests. My biggest issue is just wanting to play the music that I’ve purchased anywhere I want. Hymn is a very good DRE (digital rights enabler) for iTunes Music Store files.",
+        "isTruncated": false
+    },
+    "published": "2004-07-26T23:30:17Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/realnetworks-and-the-fairplay-drm/",
+    "relativePermalink": "/posts/2004/realnetworks-and-the-fairplay-drm/",
+    "aliases": ["/2004/07/26/realnetworks-and-the-fairplay-drm/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Software"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 79,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040726-realnetworks-and-the-fairplay-drm.md",
+        "logicalName": "20040726-realnetworks-and-the-fairplay-drm.md",
+        "translationBaseName": "20040726-realnetworks-and-the-fairplay-drm",
+        "baseFileName": "20040726-realnetworks-and-the-fairplay-drm",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eApparently, \u003ca href=\"https://web.archive.org/web/20040726233017/http://www.real.com\"\u003eRealNetworks\u003c/a\u003e has \u003ca href=\"https://web.archive.org/web/20040726233017/http://www.apple-x.net/modules.php?op=modload\u0026amp;name=News\u0026amp;file=article\u0026amp;sid=1021\"\u003ereverse-engineered\u003c/a\u003e Apple’s \u003ca href=\"https://web.archive.org/web/20040726233017/http://www.apple.com/support/itunes/authorization.html\"\u003eFairPlay\u003c/a\u003e software. FairPlay is the name of Apple’s DRM (digital rights management) software. RealNetworks has been trying to get Apple to license their FairPlay software so that Real can sell iPod-ready music files from their online music store. Apple has consistently denied their requests.\u003c/p\u003e\n\u003cp\u003eMy biggest issue is just wanting to play the music that I’ve \u003cem\u003epurchased\u003c/em\u003e anywhere I want. \u003ca href=\"https://web.archive.org/web/20040726233017/http://hymn-project.org/\"\u003eHymn\u003c/a\u003e is a very good DRE (digital rights \u003cem\u003eenabler\u003c/em\u003e) for iTunes Music Store files.\u003c/p\u003e\n",
+        "plain":"Apparently, RealNetworks has reverse-engineered Apple’s FairPlay software. FairPlay is the name of Apple’s DRM (digital rights management) software. RealNetworks has been trying to get Apple to license their FairPlay software so that Real can sell iPod-ready music files from their online music store. Apple has consistently denied their requests.\nMy biggest issue is just wanting to play the music that I’ve purchased anywhere I want. Hymn is a very good DRE (digital rights enabler) for iTunes Music Store files.\n",
+        "source":"\nApparently, [RealNetworks]({{% wayback \"http://www.real.com\" %}}) has [reverse-engineered]({{% wayback \"http://www.apple-x.net/modules.php?op=modload\u0026name=News\u0026file=article\u0026sid=1021\" %}}) Apple’s [FairPlay]({{% wayback \"http://www.apple.com/support/itunes/authorization.html\" %}}) software. FairPlay is the name of Apple’s DRM (digital rights management) software. RealNetworks has been trying to get Apple to license their FairPlay software so that Real can sell iPod-ready music files from their online music store. Apple has consistently denied their requests.\n\nMy biggest issue is just wanting to play the music that I’ve *purchased* anywhere I want. [Hymn]({{% wayback \"http://hymn-project.org/\" %}}) is a very good DRE (digital rights *enabler*) for iTunes Music Store files.\n"},
+    "links": {
+        "prev": {"title": "Letting Go of Legacy Code", "permalink": "https://ryanparman.com/posts/2004/letting-go-of-legacy-code/"},
+        "next": {"title": "Standards, Invalidation, and Missing the Point", "permalink": "https://ryanparman.com/posts/2004/standards-invalidation-and-missing-the-point/"},
+        "ignore": "me"
+    }
+}
+
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Welcome Movable Type!",
+    "description": "",
+    "summary": {
+        "content": "I’ve just switched over to the Movable Type publishing system. So far, so good. I can tell that there are many, many, many features available in this system that will make weblogging easier than the hand-rolled way. So far, I like it. I’m still working on configuration stuff and getting my templates set up, but besides that this is definitely a Good Thing™. We’ll see how this all goes…",
+        "isTruncated": false
+    },
+    "published": "2003-08-13T20:27:24Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/welcome-movable-type/",
+    "relativePermalink": "/posts/2003/welcome-movable-type/",
+    "aliases": ["/2003/08/13/welcome-movable-type/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 69,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030813-welcome-movable-type.md",
+        "logicalName": "20030813-welcome-movable-type.md",
+        "translationBaseName": "20030813-welcome-movable-type",
+        "baseFileName": "20030813-welcome-movable-type",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve just switched over to the \u003ca href=\"https://web.archive.org/web/20030813202724/http://www.movabletype.org\" title=\"The awesome Movable Type publishing system\"\u003eMovable Type\u003c/a\u003e publishing system. So far, so good. I can tell that there are many, many, many features available in this system that will make weblogging easier than the hand-rolled way. So far, I like it. I’m still working on configuration stuff and getting my templates set up, but besides that this is definitely a Good Thing™. We’ll see how this all goes…\u003c/p\u003e\n",
+        "plain":"I’ve just switched over to the Movable Type publishing system. So far, so good. I can tell that there are many, many, many features available in this system that will make weblogging easier than the hand-rolled way. So far, I like it. I’m still working on configuration stuff and getting my templates set up, but besides that this is definitely a Good Thing™. We’ll see how this all goes…\n",
+        "source":"\nI’ve just switched over to the [Movable Type]({{% wayback \"http://www.movabletype.org\" %}} \"The awesome Movable Type publishing system\") publishing system. So far, so good. I can tell that there are many, many, many features available in this system that will make weblogging easier than the hand-rolled way. So far, I like it. I’m still working on configuration stuff and getting my templates set up, but besides that this is definitely a Good Thing™. We’ll see how this all goes…\n"},
+    "links": {
+        "prev": {"title": "“Play By The Rules” Is A Hit!", "permalink": "https://ryanparman.com/posts/2003/play-by-the-rules-is-a-hit/"},
+        "next": {"title": "Time For A Redesign?", "permalink": "https://ryanparman.com/posts/2003/time-for-a-redesign/"},
+        "ignore": "me"
+    }
+}
+
+}

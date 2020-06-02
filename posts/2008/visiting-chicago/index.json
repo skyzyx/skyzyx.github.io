@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Visiting Chicago",
+    "description": "",
+    "summary": {
+        "content": "I’m visiting my best friend Eric in Chicago this weekend. I’ve never been to Chicago before, but I must say that the few blocks of downtown that I’ve seen are simply breathtaking. Beautiful architecture and tall buildings give this place a very different feel from the more familiar San Francisco or San Jose, CA. Between the flights today, I didn’t have a chance to eat dinner. So when I got here, I decided to get something to eat. That, and I wanted to go exploring a bit.",
+        "isTruncated": true
+    },
+    "published": "2008-07-18T07:18:42Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2008/visiting-chicago/",
+    "relativePermalink": "/posts/2008/visiting-chicago/",
+    "aliases": ["/2008/07/17/visiting-chicago/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Personal"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 216,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2008/20080718-visiting-chicago.md",
+        "logicalName": "20080718-visiting-chicago.md",
+        "translationBaseName": "20080718-visiting-chicago",
+        "baseFileName": "20080718-visiting-chicago",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2008/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’m visiting my best friend Eric in Chicago this weekend. I’ve never been to Chicago before, but I must say that the few blocks of downtown that I’ve seen are simply breathtaking. Beautiful architecture and tall buildings give this place a very different feel from the more familiar San Francisco or San Jose, CA.\u003c/p\u003e\n\u003cp\u003eBetween the flights today, I didn’t have a chance to eat dinner. So when I got here, I decided to get something to eat. That, and I wanted to go exploring a bit. In the end, I ended up walking around the downtown area of a large, unfamiliar city all by myself at 1:00am. Although quite unorthodox for me, it was a fun hour of walking around. It’s about 80 degrees and humid, even at 1:00am.\u003c/p\u003e\n\u003cp\u003eCoincidentally, my friend Michelle is also visiting Chicago from the Seattle area. I didn’t know this until after we’d already booked our flights, but she’s a professional \u003ca href=\"https://web.archive.org/web/20080718071842/http://michellejophotography.com/main.html\"\u003ephotographer\u003c/a\u003e and \u003ca href=\"https://web.archive.org/web/20080718071842/http://michellejoklomp.blogspot.com/\"\u003escrapbooker\u003c/a\u003e and apparently there’s some convention in Chicago this weekend. I ended up chatting with a lady on the place and on the subway ride afterwords that was going to the same convention where my friend Michelle is going to be.\u003c/p\u003e\n\u003cp\u003eI’ll be meeting up with Eric and his girlfriend Katie tomorrow. It’s going to be fun!\u003c/p\u003e\n",
+        "plain":"I’m visiting my best friend Eric in Chicago this weekend. I’ve never been to Chicago before, but I must say that the few blocks of downtown that I’ve seen are simply breathtaking. Beautiful architecture and tall buildings give this place a very different feel from the more familiar San Francisco or San Jose, CA.\nBetween the flights today, I didn’t have a chance to eat dinner. So when I got here, I decided to get something to eat. That, and I wanted to go exploring a bit. In the end, I ended up walking around the downtown area of a large, unfamiliar city all by myself at 1:00am. Although quite unorthodox for me, it was a fun hour of walking around. It’s about 80 degrees and humid, even at 1:00am.\nCoincidentally, my friend Michelle is also visiting Chicago from the Seattle area. I didn’t know this until after we’d already booked our flights, but she’s a professional photographer and scrapbooker and apparently there’s some convention in Chicago this weekend. I ended up chatting with a lady on the place and on the subway ride afterwords that was going to the same convention where my friend Michelle is going to be.\nI’ll be meeting up with Eric and his girlfriend Katie tomorrow. It’s going to be fun!\n",
+        "source":"\nI’m visiting my best friend Eric in Chicago this weekend. I’ve never been to Chicago before, but I must say that the few blocks of downtown that I’ve seen are simply breathtaking. Beautiful architecture and tall buildings give this place a very different feel from the more familiar San Francisco or San Jose, CA.\n\nBetween the flights today, I didn’t have a chance to eat dinner. So when I got here, I decided to get something to eat. That, and I wanted to go exploring a bit. In the end, I ended up walking around the downtown area of a large, unfamiliar city all by myself at 1:00am. Although quite unorthodox for me, it was a fun hour of walking around. It’s about 80 degrees and humid, even at 1:00am.\n\nCoincidentally, my friend Michelle is also visiting Chicago from the Seattle area. I didn’t know this until after we’d already booked our flights, but she’s a professional [photographer]({{% wayback \"http://michellejophotography.com/main.html\" %}}) and [scrapbooker]({{% wayback \"http://michellejoklomp.blogspot.com/\" %}}) and apparently there’s some convention in Chicago this weekend. I ended up chatting with a lady on the place and on the subway ride afterwords that was going to the same convention where my friend Michelle is going to be.\n\nI’ll be meeting up with Eric and his girlfriend Katie tomorrow. It’s going to be fun!\n"},
+    "links": {
+        "prev": {"title": "Installing FFMPEG and FFMPEG-PHP in Fedora 8 running on Amazon EC2", "permalink": "https://ryanparman.com/posts/2008/installing-ffmpeg-php-fedora-amazon-aws/"},
+        "next": {"title": "Dr. Horrible’s Sing-Along Blog", "permalink": "https://ryanparman.com/posts/2008/dr-horribles-sing-along-blog/"},
+        "ignore": "me"
+    }
+}
+
+}

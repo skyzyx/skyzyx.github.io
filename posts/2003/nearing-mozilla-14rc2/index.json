@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Nearing Mozilla 1.4rc2",
+    "description": "",
+    "summary": {
+        "content": "MozillaZine has reported that Mozilla 1.4, Release Candidate 2 (1.4rc2) is very close to being ready, which is good since 1.4rc1 did nothing but crash on my system. Remember that 1.4 is going to replace 1.0 as the stable branch for Netscape, CompuServe, Camino™, and other Gecko™-based browsers.",
+        "isTruncated": false
+    },
+    "published": "2003-06-12T08:33:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/nearing-mozilla-14rc2/",
+    "relativePermalink": "/posts/2003/nearing-mozilla-14rc2/",
+    "aliases": ["/2003/06/12/nearing-mozilla-14rc2/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 48,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030612-nearing-mozilla-14rc2.md",
+        "logicalName": "20030612-nearing-mozilla-14rc2.md",
+        "translationBaseName": "20030612-nearing-mozilla-14rc2",
+        "baseFileName": "20030612-nearing-mozilla-14rc2",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20030612083300/http://www.mozillazine.org\"\u003eMozillaZine\u003c/a\u003e has reported that \u003ca href=\"https://web.archive.org/web/20030612083300/http://www.mozillazine.org/articles/article3268.html\"\u003eMozilla 1.4, Release Candidate 2\u003c/a\u003e (1.4rc2) is very close to being ready, which is good since 1.4rc1 did nothing but crash on my system.\u003c/p\u003e\n\u003cp\u003eRemember that 1.4 is going to replace 1.0 as the stable branch for \u003ca href=\"https://web.archive.org/web/20030612083300/http://channels.netscape.com/ns/browsers/default.jsp\"\u003eNetscape\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20030612083300/http://free.compuserve.com/trycsfree/\"\u003eCompuServe\u003c/a\u003e, \u003ca href=\"https://web.archive.org/web/20030612083300/http://www.mozilla.org/projects/camino/\"\u003eCamino™\u003c/a\u003e, and other Gecko™-based browsers.\u003c/p\u003e\n",
+        "plain":"MozillaZine has reported that Mozilla 1.4, Release Candidate 2 (1.4rc2) is very close to being ready, which is good since 1.4rc1 did nothing but crash on my system.\nRemember that 1.4 is going to replace 1.0 as the stable branch for Netscape, CompuServe, Camino™, and other Gecko™-based browsers.\n",
+        "source":"\n[MozillaZine]({{% wayback \"http://www.mozillazine.org\" %}}) has reported that [Mozilla 1.4, Release Candidate 2]({{% wayback \"http://www.mozillazine.org/articles/article3268.html\" %}}) (1.4rc2) is very close to being ready, which is good since 1.4rc1 did nothing but crash on my system.\n\nRemember that 1.4 is going to replace 1.0 as the stable branch for [Netscape]({{% wayback \"http://channels.netscape.com/ns/browsers/default.jsp\" %}}), [CompuServe]({{% wayback \"http://free.compuserve.com/trycsfree/\" %}}), [Camino™]({{% wayback \"http://www.mozilla.org/projects/camino/\" %}}), and other Gecko™-based browsers.\n"},
+    "links": {
+        "prev": {"title": "Another Internet Explorer “Feature”", "permalink": "https://ryanparman.com/posts/2003/another-internet-explorer-feature/"},
+        "next": {"title": "Blogs and Scripts and Code, Oh My!", "permalink": "https://ryanparman.com/posts/2003/blogs-and-scripts-and-code-oh-my/"},
+        "ignore": "me"
+    }
+}
+
+}

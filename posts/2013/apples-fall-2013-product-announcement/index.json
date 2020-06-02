@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Apple’s Fall 2013 Product Announcement",
+    "description": "",
+    "summary": {
+        "content": "Apple’s fall product announcement begins at 10am PST; 1pm EST. My guesses? Definitely: Next-gen iPhone 5S, iOS 7, OS X Mavericks, iTunes 11 (with iTunes Radio), updated MacBook Pro. Maybe: New iPads (though I’d bet on spring instead), lower unsubsidized-cost iPhone for other (non-American) countries, updated iMac, updated Thunderbolt 2 display (with USB 3.0). Not a chance: An HDTV, a wrist-watch, a pull-string-to-talk Steve Jobs doll. How’d I do? How good were my predictions?",
+        "isTruncated": true
+    },
+    "published": "2013-09-10T16:49:33Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2013/apples-fall-2013-product-announcement/",
+    "relativePermalink": "/posts/2013/apples-fall-2013-product-announcement/",
+    "aliases": ["/2013/09/10/apples-fall-2013-product-announcement/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Apple"],
+    "tags": ["apple", "iphone", "ios", "macos", "mavericks", "itunes", "macbook pro"],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 147,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2013/20130910-apples-fall-2013-product-announcement.md",
+        "logicalName": "20130910-apples-fall-2013-product-announcement.md",
+        "translationBaseName": "20130910-apples-fall-2013-product-announcement",
+        "baseFileName": "20130910-apples-fall-2013-product-announcement",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2013/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003ca href=\"#my-guesses\"\u003eMy guesses?\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#howd-i-do\"\u003eHow’d I do?\u003c/a\u003e\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/nav\u003e",
+        "html":"\u003cp\u003eApple’s \u003ca href=\"https://web.archive.org/web/20130910164933/http://live.theverge.com/apple-iphone-5s-liveblog/\"\u003efall product announcement\u003c/a\u003e begins at 10am PST; 1pm EST.\u003c/p\u003e\n\u003ch2 id=\"my-guesses\"\u003eMy guesses?\u003c/h2\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eDefinitely:\u003c/strong\u003e Next-gen iPhone 5S, iOS 7, OS X Mavericks, iTunes 11 (with iTunes Radio), updated MacBook Pro.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eMaybe:\u003c/strong\u003e New iPads (though I’d bet on spring instead), lower unsubsidized-cost iPhone for other (non-American) countries, updated iMac, updated Thunderbolt 2 display (with USB 3.0).\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003cstrong\u003eNot a chance:\u003c/strong\u003e An HDTV, a wrist-watch, a pull-string-to-talk Steve Jobs doll.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2 id=\"howd-i-do\"\u003eHow’d I do?\u003c/h2\u003e\n\u003cp\u003eHow good were my predictions? Well, this event was a little shorter than I was expecting and they only covered iPhone-related stuff.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003eNext-gen \u003ca href=\"https://web.archive.org/web/20130910164933/http://www.apple.com/iphone-5s/\"\u003eiPhone 5S\u003c/a\u003e. Check.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20130910164933/http://www.apple.com/ios/\"\u003eiOS 7\u003c/a\u003e. Check.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20130910164933/http://www.apple.com/itunes/itunes-radio/\"\u003eiTunes Radio\u003c/a\u003e. Sort-of. It got coverage on the website, but not the event.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20130910164933/http://www.apple.com/iphone-5c/\"\u003eLower unsubsidized-cost iPhone\u003c/a\u003e for other (non-American) countries. I’m going to say I was wrong. Instead, Apple changed their strategy and created a slightly-modified iPhone 5 called the \u003cem\u003e5c\u003c/em\u003e.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eNew MacBook Pro. I was also wrong here.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n",
+        "plain":"Apple’s fall product announcement begins at 10am PST; 1pm EST.\nMy guesses?   Definitely: Next-gen iPhone 5S, iOS 7, OS X Mavericks, iTunes 11 (with iTunes Radio), updated MacBook Pro.\n  Maybe: New iPads (though I’d bet on spring instead), lower unsubsidized-cost iPhone for other (non-American) countries, updated iMac, updated Thunderbolt 2 display (with USB 3.0).\n  Not a chance: An HDTV, a wrist-watch, a pull-string-to-talk Steve Jobs doll.\n  How’d I do? How good were my predictions? Well, this event was a little shorter than I was expecting and they only covered iPhone-related stuff.\n  Next-gen iPhone 5S. Check.\n  iOS 7. Check.\n  iTunes Radio. Sort-of. It got coverage on the website, but not the event.\n  Lower unsubsidized-cost iPhone for other (non-American) countries. I’m going to say I was wrong. Instead, Apple changed their strategy and created a slightly-modified iPhone 5 called the 5c.\n  New MacBook Pro. I was also wrong here.\n  ",
+        "source":"\nApple’s [fall product announcement]({{% wayback \"http://live.theverge.com/apple-iphone-5s-liveblog/\" %}}) begins at 10am PST; 1pm EST.\n\n## My guesses?\n\n* **Definitely:** Next-gen iPhone 5S, iOS 7, OS X Mavericks, iTunes 11 (with iTunes Radio), updated MacBook Pro.\n\n* **Maybe:** New iPads (though I’d bet on spring instead), lower unsubsidized-cost iPhone for other (non-American) countries, updated iMac, updated Thunderbolt 2 display (with USB 3.0).\n\n* **Not a chance:** An HDTV, a wrist-watch, a pull-string-to-talk Steve Jobs doll.\n\n## How’d I do?\n\nHow good were my predictions? Well, this event was a little shorter than I was expecting and they only covered iPhone-related stuff.\n\n* Next-gen [iPhone 5S]({{% wayback \"http://www.apple.com/iphone-5s/\" %}}). Check.\n\n* [iOS 7]({{% wayback \"http://www.apple.com/ios/\" %}}). Check.\n\n* [iTunes Radio]({{% wayback \"http://www.apple.com/itunes/itunes-radio/\" %}}). Sort-of. It got coverage on the website, but not the event.\n\n* [Lower unsubsidized-cost iPhone]({{% wayback \"http://www.apple.com/iphone-5c/\" %}}) for other (non-American) countries. I’m going to say I was wrong. Instead, Apple changed their strategy and created a slightly-modified iPhone 5 called the *5c*.\n\n* New MacBook Pro. I was also wrong here.\n"},
+    "links": {
+        "prev": {"title": "Stephen Elop to become the next Microsoft CEO? I’d buy it.", "permalink": "https://ryanparman.com/posts/2013/stephen-elop-to-become-the-next-microsoft-ceo-id-buy-it/"},
+        "next": {"title": "My experience with iOS 7", "permalink": "https://ryanparman.com/posts/2013/my-experience-with-ios-7/"},
+        "ignore": "me"
+    }
+}
+
+}

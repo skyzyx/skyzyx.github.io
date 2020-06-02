@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "SimplePie 0.95",
+    "description": "",
+    "summary": {
+        "content": "SimplePie 0.95 is now available. Anyone who is using any other version of SimplePie should update now. Major features/changes in this version include: Much improved support for reading all feeds, resolved display issues with \u0026lt;code\u0026gt; and \u0026lt;pre\u0026gt; tags, and added the ability to alter the display of feed dates using PHP’s date() variables. This version is pretty much feature-complete. The only remaining pre–1.0 work will be testing and catching any remaining bugs. I might add a couple of minor features, but nothing too major.",
+        "isTruncated": true
+    },
+    "published": "2004-10-11T05:42:40Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/simplepie-095/",
+    "relativePermalink": "/posts/2004/simplepie-095/",
+    "aliases": ["/2004/10/10/simplepie-095/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 146,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20041011-simplepie-095.md",
+        "logicalName": "20041011-simplepie-095.md",
+        "translationBaseName": "20041011-simplepie-095",
+        "baseFileName": "20041011-simplepie-095",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003e\u003ca href=\"/projects/simplepie/\"\u003eSimplePie 0.95\u003c/a\u003e is now available. Anyone who is using any other version of SimplePie should update now. Major features/changes in this version include: Much improved support for reading all feeds, resolved display issues with \u003ccode\u003e\u0026lt;code\u0026gt;\u003c/code\u003e and \u003ccode\u003e\u0026lt;pre\u0026gt;\u003c/code\u003e tags, and added the ability to alter the display of feed dates using PHP’s \u003ccode\u003edate()\u003c/code\u003e variables.\u003c/p\u003e\n\u003cp\u003eThis version is pretty much feature-complete. The only remaining pre–1.0 work will be testing and catching any remaining bugs. I might add a couple of minor features, but nothing too major. I’m open to feature requests for the 1.0 - 1.1 releases, so if SimplePie is missing something or if it should have something that other parsers don’t, let me know.\u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"personal\"\u003e« Update »\u003c/span\u003e If you downloaded SimplePie within 60 minutes of this posting, you should re-download it. I fixed a glitch that affected feeds from East of GMT, and some related documentation.\u003c/p\u003e\n",
+        "plain":"SimplePie 0.95 is now available. Anyone who is using any other version of SimplePie should update now. Major features/changes in this version include: Much improved support for reading all feeds, resolved display issues with \u0026lt;code\u0026gt; and \u0026lt;pre\u0026gt; tags, and added the ability to alter the display of feed dates using PHP’s date() variables.\nThis version is pretty much feature-complete. The only remaining pre–1.0 work will be testing and catching any remaining bugs. I might add a couple of minor features, but nothing too major. I’m open to feature requests for the 1.0 - 1.1 releases, so if SimplePie is missing something or if it should have something that other parsers don’t, let me know.\n« Update » If you downloaded SimplePie within 60 minutes of this posting, you should re-download it. I fixed a glitch that affected feeds from East of GMT, and some related documentation.\n",
+        "source":"\n[SimplePie 0.95](/projects/simplepie/) is now available. Anyone who is using any other version of SimplePie should update now. Major features/changes in this version include: Much improved support for reading all feeds, resolved display issues with `\u003ccode\u003e` and `\u003cpre\u003e` tags, and added the ability to alter the display of feed dates using PHP’s `date()` variables.\n\nThis version is pretty much feature-complete. The only remaining pre–1.0 work will be testing and catching any remaining bugs. I might add a couple of minor features, but nothing too major. I’m open to feature requests for the 1.0 - 1.1 releases, so if SimplePie is missing something or if it should have something that other parsers don’t, let me know.\n\n\u003cspan class=\"personal\"\u003e« Update »\u003c/span\u003e If you downloaded SimplePie within 60 minutes of this posting, you should re-download it. I fixed a glitch that affected feeds from East of GMT, and some related documentation.\n"},
+    "links": {
+        "prev": {"title": "Clientcopia", "permalink": "https://ryanparman.com/posts/2004/clientcopia/"},
+        "next": {"title": "Why Did The Chicken Cross The Road?", "permalink": "https://ryanparman.com/posts/2004/why-did-the-chicken-cross-the-road/"},
+        "ignore": "me"
+    }
+}
+
+}

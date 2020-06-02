@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Current Stats",
+    "description": "",
+    "summary": {
+        "content": "Hmmm… very interesting. Here are my stats as of, well, now. Internet Explorer 6.0 - 39% Gecko browsers - 22% Internet Explorer 5.x (Win \u0026amp; Mac) - 19% Crawlers/Search Engines - 12% Netscape 4.x - 3% Safari - 3% Opera 7.x - 2% Gecko browsers are gaining on IE 6.0 here at Skyzyx.com. It’s good to know.",
+        "isTruncated": false
+    },
+    "published": "2004-07-29T06:41:22Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/current-stats/",
+    "relativePermalink": "/posts/2004/current-stats/",
+    "aliases": ["/2004/07/28/current-stats/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 57,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040729-current-stats.md",
+        "logicalName": "20040729-current-stats.md",
+        "translationBaseName": "20040729-current-stats",
+        "baseFileName": "20040729-current-stats",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eHmmm… very interesting. Here are my stats as of, well, now.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cstrong\u003eInternet Explorer 6.0\u003c/strong\u003e - 39%\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eGecko browsers\u003c/strong\u003e - 22%\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eInternet Explorer 5.x (Win \u0026amp; Mac)\u003c/strong\u003e - 19%\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eCrawlers/Search Engines\u003c/strong\u003e - 12%\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eNetscape 4.x\u003c/strong\u003e - 3%\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eSafari\u003c/strong\u003e - 3%\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eOpera 7.x\u003c/strong\u003e - 2%\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eGecko browsers are gaining on IE 6.0 here at Skyzyx.com. It’s good to know.\u003c/p\u003e\n",
+        "plain":"Hmmm… very interesting. Here are my stats as of, well, now.\n Internet Explorer 6.0 - 39% Gecko browsers - 22% Internet Explorer 5.x (Win \u0026amp; Mac) - 19% Crawlers/Search Engines - 12% Netscape 4.x - 3% Safari - 3% Opera 7.x - 2%  Gecko browsers are gaining on IE 6.0 here at Skyzyx.com. It’s good to know.\n",
+        "source":"\nHmmm… very interesting. Here are my stats as of, well, now.\n\n* **Internet Explorer 6.0** - 39%\n* **Gecko browsers** - 22%\n* **Internet Explorer 5.x (Win \u0026 Mac)** - 19%\n* **Crawlers/Search Engines** - 12%\n* **Netscape 4.x** - 3%\n* **Safari** - 3%\n* **Opera 7.x** - 2%\n\nGecko browsers are gaining on IE 6.0 here at Skyzyx.com. It’s good to know.\n"},
+    "links": {
+        "prev": {"title": "Standards, Invalidation, and Missing the Point", "permalink": "https://ryanparman.com/posts/2004/standards-invalidation-and-missing-the-point/"},
+        "next": {"title": "The Ultrafast SimplePie 0.9 Is Now Available!", "permalink": "https://ryanparman.com/posts/2004/the-ultrafast-simplepie-09-is-now-available/"},
+        "ignore": "me"
+    }
+}
+
+}

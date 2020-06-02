@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "I Need Your Help!",
+    "description": "",
+    "summary": {
+        "content": "I’ve been on a roll with SimplePie development lately (if you couldn’t already tell). Version 0.93 will probably be released in the next day or so, and at that point should be feature-complete. The remaining Pre–1.0 releases (0.94, 0.95, 0.96, etc.) will be dedicated to compatibility fixes. There are a lot of poorly coded feeds out there, and I need to know about them to that I can patch them up as best as possible. What I need from you are your reading lists.",
+        "isTruncated": true
+    },
+    "published": "2004-08-31T23:10:18Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/i-need-your-help/",
+    "relativePermalink": "/posts/2004/i-need-your-help/",
+    "aliases": ["/2004/08/31/i-need-your-help/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 250,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040831-i-need-your-help.md",
+        "logicalName": "20040831-i-need-your-help.md",
+        "translationBaseName": "20040831-i-need-your-help",
+        "baseFileName": "20040831-i-need-your-help",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’ve been on a roll with SimplePie development lately (if you couldn’t already tell). Version 0.93 will probably be released in the next day or so, and at that point should be feature-complete. The remaining Pre–1.0 releases (0.94, 0.95, 0.96, etc.) will be dedicated to compatibility fixes. There are a lot of poorly coded feeds out there, and I need to know about them to that I can patch them up as best as possible.\u003c/p\u003e\n\u003cp\u003eWhat I need from you are your reading lists. Whatever sites you read or follow via RSS or Atom, I want to know about them. If you’ve got Feed Demon, SharpReader, RSS Bandit, NetNewsWire, Shrook, PulpFiction, or another feed reader, do me a favor and export your feed listings in OPML format (which would be the easiest thing for you) and upload them to your website somewhere. Then, leave a comment that contains the URL to that OPML file. I’ll then go through each and every site and find each and every RSS or Atom feed and test them one-by-one to make sure that SimplePie is as solid and production-ready as possible.\u003c/p\u003e\n\u003cp\u003eThe higher the quantity of feeds I’m able to test, the better SimplePie will be. I know that most of the (standards-compliant) blogging world is pretty solid, but I’ve noticed that many development and programming-related sites have horrendous feeds. I’m also going through the Feed Demon forums and testing as many of those feeds as I can.\u003c/p\u003e\n\u003cp\u003eYour help would be tremendously appreciated!\u003c/p\u003e\n",
+        "plain":"I’ve been on a roll with SimplePie development lately (if you couldn’t already tell). Version 0.93 will probably be released in the next day or so, and at that point should be feature-complete. The remaining Pre–1.0 releases (0.94, 0.95, 0.96, etc.) will be dedicated to compatibility fixes. There are a lot of poorly coded feeds out there, and I need to know about them to that I can patch them up as best as possible.\nWhat I need from you are your reading lists. Whatever sites you read or follow via RSS or Atom, I want to know about them. If you’ve got Feed Demon, SharpReader, RSS Bandit, NetNewsWire, Shrook, PulpFiction, or another feed reader, do me a favor and export your feed listings in OPML format (which would be the easiest thing for you) and upload them to your website somewhere. Then, leave a comment that contains the URL to that OPML file. I’ll then go through each and every site and find each and every RSS or Atom feed and test them one-by-one to make sure that SimplePie is as solid and production-ready as possible.\nThe higher the quantity of feeds I’m able to test, the better SimplePie will be. I know that most of the (standards-compliant) blogging world is pretty solid, but I’ve noticed that many development and programming-related sites have horrendous feeds. I’m also going through the Feed Demon forums and testing as many of those feeds as I can.\nYour help would be tremendously appreciated!\n",
+        "source":"\nI’ve been on a roll with SimplePie development lately (if you couldn’t already tell). Version 0.93 will probably be released in the next day or so, and at that point should be feature-complete. The remaining Pre–1.0 releases (0.94, 0.95, 0.96, etc.) will be dedicated to compatibility fixes. There are a lot of poorly coded feeds out there, and I need to know about them to that I can patch them up as best as possible.\n\nWhat I need from you are your reading lists. Whatever sites you read or follow via RSS or Atom, I want to know about them. If you’ve got Feed Demon, SharpReader, RSS Bandit, NetNewsWire, Shrook, PulpFiction, or another feed reader, do me a favor and export your feed listings in OPML format (which would be the easiest thing for you) and upload them to your website somewhere. Then, leave a comment that contains the URL to that OPML file. I’ll then go through each and every site and find each and every RSS or Atom feed and test them one-by-one to make sure that SimplePie is as solid and production-ready as possible.\n\nThe higher the quantity of feeds I’m able to test, the better SimplePie will be. I know that most of the (standards-compliant) blogging world is pretty solid, but I’ve noticed that many development and programming-related sites have horrendous feeds. I’m also going through the Feed Demon forums and testing as many of those feeds as I can.\n\nYour help would be tremendously appreciated!\n"},
+    "links": {
+        "prev": {"title": "Newer-er.  Better-er.  Simpler-er.", "permalink": "https://ryanparman.com/posts/2004/newer-er-better-er-simpler-er/"},
+        "next": {"title": "Five Hundred Thousand", "permalink": "https://ryanparman.com/posts/2004/five-hundred-thousand/"},
+        "ignore": "me"
+    }
+}
+
+}

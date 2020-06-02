@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Twenty Cows and a Chicken",
+    "description": "",
+    "summary": {
+        "content": "I got this voicemail from my best friend Jeff. Twenty cows and a chicken were all taking a bath. Suddenly, they all looked up and said “Ryan’s not answering his phone.” Good grief, I love that guy! I like where Jeff’s brain goes. I wish I saw more of his “schizo-scherzo” personality in my life.",
+        "isTruncated": false
+    },
+    "published": "2003-06-13T20:57:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/twenty-cows-and-a-chicken/",
+    "relativePermalink": "/posts/2003/twenty-cows-and-a-chicken/",
+    "aliases": ["/2003/06/13/twenty-cows-and-a-chicken/"],
+    "images": [],
+    "videos": [],
+    "categories": ["For Funsies"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 55,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030613-twenty-cows-and-a-chicken.md",
+        "logicalName": "20030613-twenty-cows-and-a-chicken.md",
+        "translationBaseName": "20030613-twenty-cows-and-a-chicken",
+        "baseFileName": "20030613-twenty-cows-and-a-chicken",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI got this voicemail from my best friend Jeff.\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eTwenty cows and a chicken were all taking a bath. Suddenly, they all looked up and said “Ryan’s not answering his phone.”\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003eGood grief, I love that guy! I like where Jeff’s brain goes. I wish I saw more of his “schizo-scherzo” personality in my life.\u003c/p\u003e\n",
+        "plain":"I got this voicemail from my best friend Jeff.\n Twenty cows and a chicken were all taking a bath. Suddenly, they all looked up and said “Ryan’s not answering his phone.”\n Good grief, I love that guy! I like where Jeff’s brain goes. I wish I saw more of his “schizo-scherzo” personality in my life.\n",
+        "source":"\nI got this voicemail from my best friend Jeff.\n\n\u003e Twenty cows and a chicken were all taking a bath. Suddenly, they all looked up and said “Ryan’s not answering his phone.”\n\nGood grief, I love that guy! I like where Jeff’s brain goes. I wish I saw more of his “schizo-scherzo” personality in my life.\n"},
+    "links": {
+        "prev": {"title": "Blogs and Scripts and Code, Oh My!", "permalink": "https://ryanparman.com/posts/2003/blogs-and-scripts-and-code-oh-my/"},
+        "next": {"title": "Only 99.29% of Websites Are Obsolete", "permalink": "https://ryanparman.com/posts/2003/only-9929-of-websites-are-obsolete/"},
+        "ignore": "me"
+    }
+}
+
+}

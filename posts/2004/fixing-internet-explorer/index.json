@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Fixing Internet Explorer",
+    "description": "",
+    "summary": {
+        "content": "I came across Geek Aggregator through a link from Twenty4.org. The posting is by someone who is involved somehow with the IE/Win development team. The question asks: What do you want from the Internet Explorer team? Here’s what a list of what I put. Feel free to add your comments as well, as I’m interested in seeing what other people think. Full CSS1 and CSS 2/2.1 support. Support for the application/xhtml+xml mime type. Full PNG support. As much of the CSS3 recommendation (not working draft) support as possible.",
+        "isTruncated": true
+    },
+    "published": "2004-01-14T19:17:28Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/fixing-internet-explorer/",
+    "relativePermalink": "/posts/2004/fixing-internet-explorer/",
+    "aliases": ["/2004/01/14/fixing-internet-explorer/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Browsers"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 251,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040114-fixing-internet-explorer.md",
+        "logicalName": "20040114-fixing-internet-explorer.md",
+        "translationBaseName": "20040114-fixing-internet-explorer",
+        "baseFileName": "20040114-fixing-internet-explorer",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI came across \u003ca href=\"https://web.archive.org/web/20040114191728/http://radio.weblogs.com/0001011/2004/01/14.html#a6183\"\u003eGeek Aggregator\u003c/a\u003e through a link from \u003ca href=\"https://web.archive.org/web/20040114191728/http://twenty4.org/archives/2004/01/14/ie_team_lunch/\"\u003eTwenty4.org\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eThe posting is by someone who is involved somehow with the IE/Win development team. The question asks: What do you want from the Internet Explorer team? Here’s what a list of what I put. Feel free to add your comments as well, as I’m interested in seeing what other people think.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFull CSS1 and CSS 2/2.1 support.\u003c/li\u003e\n\u003cli\u003eSupport for the application/xhtml+xml mime type.\u003c/li\u003e\n\u003cli\u003eFull PNG support.\u003c/li\u003e\n\u003cli\u003eAs much of the CSS3 recommendation (not working draft) support as possible.\u003c/li\u003e\n\u003cli\u003eFix the CSS bug that requires “position:relative;” to fix IE-only bugs in pure XHTML+CSS layouts.\u003c/li\u003e\n\u003cli\u003eSupport the standard DOM 0, 1, and 2.\u003c/li\u003e\n\u003cli\u003eBuilt-in SVG support.\u003c/li\u003e\n\u003cli\u003eComplete support for XML, XSLT, XSL:FO, XForms, XLink, and other emerging XML-based standards.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eA \u003ca href=\"https://web.archive.org/web/20040114191728/http://radio.weblogs.com/0001011/2004/01/14.html#a6186\"\u003efew posts later\u003c/a\u003e addressed some of the issues that the IE team had expressed concern over.\u003c/p\u003e\n\u003cblockquote\u003e\n\u003cp\u003eAnother thing that the commenters generally aren’t thinking of is “how to get adoption.” I keep pointing out that if we fixed the CSS and PNG issues, you still wouldn’t be able to use those for years. Why? Cause consumers (and companies) really don’t care about those issues and won’t download a new version just cause you fixed one or two issues.\u003c/p\u003e\n\u003c/blockquote\u003e\n\u003cp\u003ePeople don’t care because \u003cem\u003epeople don’t know!\u003c/em\u003e If the IE development team doesn’t implement them now, then it’ll be \u003cem\u003eeven longer\u003c/em\u003e before web designers can take advantage of \u003cem\u003ecurrent\u003c/em\u003e technology.\u003c/p\u003e\n\u003cp\u003eWhat are your thoughts? And what would you tell them to fix if you could?\u003c/p\u003e\n",
+        "plain":"I came across Geek Aggregator through a link from Twenty4.org.\nThe posting is by someone who is involved somehow with the IE/Win development team. The question asks: What do you want from the Internet Explorer team? Here’s what a list of what I put. Feel free to add your comments as well, as I’m interested in seeing what other people think.\n Full CSS1 and CSS 2/2.1 support. Support for the application/xhtml+xml mime type. Full PNG support. As much of the CSS3 recommendation (not working draft) support as possible. Fix the CSS bug that requires “position:relative;” to fix IE-only bugs in pure XHTML+CSS layouts. Support the standard DOM 0, 1, and 2. Built-in SVG support. Complete support for XML, XSLT, XSL:FO, XForms, XLink, and other emerging XML-based standards.  A few posts later addressed some of the issues that the IE team had expressed concern over.\n Another thing that the commenters generally aren’t thinking of is “how to get adoption.” I keep pointing out that if we fixed the CSS and PNG issues, you still wouldn’t be able to use those for years. Why? Cause consumers (and companies) really don’t care about those issues and won’t download a new version just cause you fixed one or two issues.\n People don’t care because people don’t know! If the IE development team doesn’t implement them now, then it’ll be even longer before web designers can take advantage of current technology.\nWhat are your thoughts? And what would you tell them to fix if you could?\n",
+        "source":"\nI came across [Geek Aggregator]({{% wayback \"http://radio.weblogs.com/0001011/2004/01/14.html#a6183\" %}}) through a link from [Twenty4.org]({{% wayback \"http://twenty4.org/archives/2004/01/14/ie_team_lunch/\" %}}).\n\nThe posting is by someone who is involved somehow with the IE/Win development team. The question asks: What do you want from the Internet Explorer team? Here’s what a list of what I put. Feel free to add your comments as well, as I’m interested in seeing what other people think.\n\n* Full CSS1 and CSS 2/2.1 support.\n* Support for the application/xhtml+xml mime type.\n* Full PNG support.\n* As much of the CSS3 recommendation (not working draft) support as possible.\n* Fix the CSS bug that requires “position:relative;” to fix IE-only bugs in pure XHTML+CSS layouts.\n* Support the standard DOM 0, 1, and 2.\n* Built-in SVG support.\n* Complete support for XML, XSLT, XSL:FO, XForms, XLink, and other emerging XML-based standards.\n\nA [few posts later]({{% wayback \"http://radio.weblogs.com/0001011/2004/01/14.html#a6186\" %}}) addressed some of the issues that the IE team had expressed concern over.\n\n\u003e Another thing that the commenters generally aren’t thinking of is “how to get adoption.” I keep pointing out that if we fixed the CSS and PNG issues, you still wouldn’t be able to use those for years. Why? Cause consumers (and companies) really don’t care about those issues and won’t download a new version just cause you fixed one or two issues.\n\nPeople don’t care because *people don’t know!* If the IE development team doesn’t implement them now, then it’ll be *even longer* before web designers can take advantage of *current* technology.\n\nWhat are your thoughts? And what would you tell them to fix if you could?\n"},
+    "links": {
+        "prev": {"title": "Lord of the Rings Name Translator", "permalink": "https://ryanparman.com/posts/2004/lord-of-the-rings-name-translator/"},
+        "next": {"title": "Corporate-Speak", "permalink": "https://ryanparman.com/posts/2004/corporate-speak/"},
+        "ignore": "me"
+    }
+}
+
+}

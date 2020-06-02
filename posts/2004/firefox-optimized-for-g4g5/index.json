@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Firefox Optimized for G4/G5",
+    "description": "",
+    "summary": {
+        "content": "On my work and home PC’s I use Firefox… period. There is no better browser. The only thing that really irks me, however, is how slowly it starts up on my 400 MHz Pentium II running Windows 2000 at work. Since the FFX team won’t implement Mozilla Suite’s “Turbo Mode”, then to get around it, I usually just leave the download manager open and minimized so that whenever I need to open a browser window, it opens super-fast. The Mac platform just doesn’t work the same.",
+        "isTruncated": true
+    },
+    "published": "2004-11-08T20:26:51Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/firefox-optimized-for-g4g5/",
+    "relativePermalink": "/posts/2004/firefox-optimized-for-g4g5/",
+    "aliases": ["/2004/11/08/firefox-optimized-for-g4g5/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Software"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 250,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20041108-firefox-optimized-for-g4g5.md",
+        "logicalName": "20041108-firefox-optimized-for-g4g5.md",
+        "translationBaseName": "20041108-firefox-optimized-for-g4g5",
+        "baseFileName": "20041108-firefox-optimized-for-g4g5",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eOn my work and home PC’s I use \u003ca href=\"https://web.archive.org/web/20041108202651/http://www.mozilla.org/products/firefox/\"\u003eFirefox\u003c/a\u003e… period. There is no better browser. The only thing that really irks me, however, is how slowly it starts up on my 400 MHz Pentium II running Windows 2000 at work. Since the FFX team won’t implement Mozilla Suite’s “Turbo Mode”, then to get around it, I usually just leave the download manager open and minimized so that whenever I need to open a browser window, it opens super-fast.\u003c/p\u003e\n\u003cp\u003eThe Mac platform just doesn’t work the same. I suppose I could just leave the app open, but I have a habit of quitting apps when I’m done with them. Because it always takes Firefox so much longer to start up than Safari, usually I just use Safari for normal surfing, and only open Firefox if I need to do something that requires better JavaScript/DOM/XML/Whatever support than Safari provides.\u003c/p\u003e\n\u003cp\u003eBut today I came across something very, \u003cem\u003every\u003c/em\u003e cool. Firefox builds that are optimized for the PowerBook G4. Instead of waiting the usual 6–7 Dock bounces for Firefox to start up, it only takes one, and everything else about it is significantly faster than the default builds.\u003c/p\u003e\n\u003cp\u003eI came across the forum for optimized builds over at MozillaZine.org. Here is some linkage:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20041108202651/http://forums.mozillazine.org/viewtopic.php?t=149532\"\u003eFirefox optimized for OSX on a G4.\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20041108202651/http://forums.mozillazine.org/viewtopic.php?t=156735\"\u003eFirefox optimized for Panther (OSX 10.3.x) on a G5\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20041108202651/http://forums.mozillazine.org/viewforum.php?f=42\"\u003eOther Firefox builds optimized for Windows, Mac, and Linux\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eFirefox is now running zippier than ever on my \u003ca href=\"https://web.archive.org/web/20041108202651/http://www.everymac.com/systems/apple/powerbook_g4/stats/powerbook_g4_1.33_17.html\"\u003ePowerBook\u003c/a\u003e. I hope these’ll help you out!\u003c/p\u003e\n",
+        "plain":"On my work and home PC’s I use Firefox… period. There is no better browser. The only thing that really irks me, however, is how slowly it starts up on my 400 MHz Pentium II running Windows 2000 at work. Since the FFX team won’t implement Mozilla Suite’s “Turbo Mode”, then to get around it, I usually just leave the download manager open and minimized so that whenever I need to open a browser window, it opens super-fast.\nThe Mac platform just doesn’t work the same. I suppose I could just leave the app open, but I have a habit of quitting apps when I’m done with them. Because it always takes Firefox so much longer to start up than Safari, usually I just use Safari for normal surfing, and only open Firefox if I need to do something that requires better JavaScript/DOM/XML/Whatever support than Safari provides.\nBut today I came across something very, very cool. Firefox builds that are optimized for the PowerBook G4. Instead of waiting the usual 6–7 Dock bounces for Firefox to start up, it only takes one, and everything else about it is significantly faster than the default builds.\nI came across the forum for optimized builds over at MozillaZine.org. Here is some linkage:\n Firefox optimized for OSX on a G4. Firefox optimized for Panther (OSX 10.3.x) on a G5 Other Firefox builds optimized for Windows, Mac, and Linux  Firefox is now running zippier than ever on my PowerBook. I hope these’ll help you out!\n",
+        "source":"\nOn my work and home PC’s I use [Firefox]({{% wayback \"http://www.mozilla.org/products/firefox/\" %}})… period. There is no better browser. The only thing that really irks me, however, is how slowly it starts up on my 400 MHz Pentium II running Windows 2000 at work. Since the FFX team won’t implement Mozilla Suite’s “Turbo Mode”, then to get around it, I usually just leave the download manager open and minimized so that whenever I need to open a browser window, it opens super-fast.\n\nThe Mac platform just doesn’t work the same. I suppose I could just leave the app open, but I have a habit of quitting apps when I’m done with them. Because it always takes Firefox so much longer to start up than Safari, usually I just use Safari for normal surfing, and only open Firefox if I need to do something that requires better JavaScript/DOM/XML/Whatever support than Safari provides.\n\nBut today I came across something very, *very* cool. Firefox builds that are optimized for the PowerBook G4. Instead of waiting the usual 6–7 Dock bounces for Firefox to start up, it only takes one, and everything else about it is significantly faster than the default builds.\n\nI came across the forum for optimized builds over at MozillaZine.org. Here is some linkage:\n\n* [Firefox optimized for OSX on a G4.]({{% wayback \"http://forums.mozillazine.org/viewtopic.php?t=149532\" %}})\n* [Firefox optimized for Panther (OSX 10.3.x) on a G5]({{% wayback \"http://forums.mozillazine.org/viewtopic.php?t=156735\" %}})\n* [Other Firefox builds optimized for Windows, Mac, and Linux]({{% wayback \"http://forums.mozillazine.org/viewforum.php?f=42\" %}})\n\nFirefox is now running zippier than ever on my [PowerBook]({{% wayback \"http://www.everymac.com/systems/apple/powerbook_g4/stats/powerbook_g4_1.33_17.html\" %}}). I hope these’ll help you out!\n"},
+    "links": {
+        "prev": {"title": "Standalone Internet Explorer and Hosting", "permalink": "https://ryanparman.com/posts/2004/standalone-internet-explorer-and-hosting/"},
+        "next": {"title": "Firefox Mirrors", "permalink": "https://ryanparman.com/posts/2004/firefox-mirrors/"},
+        "ignore": "me"
+    }
+}
+
+}

@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Financial Aid Application",
+    "description": "",
+    "summary": {
+        "content": "I got turned down for CalGrant this year. For those not familiar, CalGrant is the California State College Grant System. CalGrant has three flavors: A, B, and C. Apparently, my Tech School Bachelor program doesn’t qualify for C; My wife and I make too much money for B (the cap is $30k per year); and I don’t have enough “need” to qualify for CalGrant A. Anyways, I’m sitting here filling out a scholarship application through my school. After I got past questions like “Full Name”, “SSN”, and “Is a third party contributing to your education?",
+        "isTruncated": true
+    },
+    "published": "2003-06-11T23:10:00Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2003/financial-aid-application/",
+    "relativePermalink": "/posts/2003/financial-aid-application/",
+    "aliases": ["/2003/06/11/financial-aid-application/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Personal"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 168,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2003/20030611-financial-aid-application.md",
+        "logicalName": "20030611-financial-aid-application.md",
+        "translationBaseName": "20030611-financial-aid-application",
+        "baseFileName": "20030611-financial-aid-application",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2003/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI got turned down for CalGrant this year. For those not familiar, CalGrant is the California State College Grant System. CalGrant has three flavors: A, B, and C. Apparently, my Tech School Bachelor program doesn’t qualify for C; My wife and I make too much money for B (the cap is $30k per year); and I don’t have enough “need” to qualify for CalGrant A.\u003c/p\u003e\n\u003cp\u003eAnyways, I’m sitting here filling out a scholarship application through my school. After I got past questions like “Full Name”, “SSN”, and “Is a third party contributing to your education?”, I get to the essay part. “Please write a one page essay that describes your need for a scholarship award.”\u003c/p\u003e\n\u003cp\u003eI could go into how $49k per year for two people with an infant in the SF Bay Area is barely livable, but mainly I just want money for college. Who really wants to pay back $37k worth of tuition? It wouldn’t take me a page to explain that, only a few sentences.\u003c/p\u003e\n",
+        "plain":"I got turned down for CalGrant this year. For those not familiar, CalGrant is the California State College Grant System. CalGrant has three flavors: A, B, and C. Apparently, my Tech School Bachelor program doesn’t qualify for C; My wife and I make too much money for B (the cap is $30k per year); and I don’t have enough “need” to qualify for CalGrant A.\nAnyways, I’m sitting here filling out a scholarship application through my school. After I got past questions like “Full Name”, “SSN”, and “Is a third party contributing to your education?”, I get to the essay part. “Please write a one page essay that describes your need for a scholarship award.”\nI could go into how $49k per year for two people with an infant in the SF Bay Area is barely livable, but mainly I just want money for college. Who really wants to pay back $37k worth of tuition? It wouldn’t take me a page to explain that, only a few sentences.\n",
+        "source":"\nI got turned down for CalGrant this year. For those not familiar, CalGrant is the California State College Grant System. CalGrant has three flavors: A, B, and C. Apparently, my Tech School Bachelor program doesn’t qualify for C; My wife and I make too much money for B (the cap is $30k per year); and I don’t have enough “need” to qualify for CalGrant A.\n\nAnyways, I’m sitting here filling out a scholarship application through my school. After I got past questions like “Full Name”, “SSN”, and “Is a third party contributing to your education?”, I get to the essay part. “Please write a one page essay that describes your need for a scholarship award.”\n\nI could go into how $49k per year for two people with an infant in the SF Bay Area is barely livable, but mainly I just want money for college. Who really wants to pay back $37k worth of tuition? It wouldn’t take me a page to explain that, only a few sentences.\n"},
+    "links": {
+        "prev": {"title": "Linkin Park: Meteora Tracks", "permalink": "https://ryanparman.com/posts/2003/linkin-park-meteora-tracks/"},
+        "next": {"title": "I See Dead People", "permalink": "https://ryanparman.com/posts/2003/i-see-dead-people/"},
+        "ignore": "me"
+    }
+}
+
+}

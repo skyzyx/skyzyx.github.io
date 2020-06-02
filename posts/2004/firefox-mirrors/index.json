@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Firefox Mirrors",
+    "description": "",
+    "summary": {
+        "content": "If you’re having a hard time getting to the Mozilla FTP or websites to download Firefox 1.0, you can get builds from me. Windows Installer Mac OS X Disk Image Linux Installer ",
+        "isTruncated": false
+    },
+    "published": "2004-11-09T17:15:01Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/firefox-mirrors/",
+    "relativePermalink": "/posts/2004/firefox-mirrors/",
+    "aliases": ["/2004/11/09/firefox-mirrors/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Software"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 32,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20041109-firefox-mirrors.md",
+        "logicalName": "20041109-firefox-mirrors.md",
+        "translationBaseName": "20041109-firefox-mirrors",
+        "baseFileName": "20041109-firefox-mirrors",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eIf you’re having a hard time getting to the Mozilla FTP or websites to download Firefox 1.0, you can get builds from me.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20041109171501/http://downloads.skyzyx.net/firefox/Firefox%20Setup%201.0.exe\"\u003eWindows Installer\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20041109171501/http://downloads.skyzyx.net/firefox/Firefox%201.0.dmg.gz\"\u003eMac OS X Disk Image\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://web.archive.org/web/20041109171501/http://downloads.skyzyx.net/firefox/firefox-1.0.installer.tar.gz\"\u003eLinux Installer\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n",
+        "plain":"If you’re having a hard time getting to the Mozilla FTP or websites to download Firefox 1.0, you can get builds from me.\n Windows Installer Mac OS X Disk Image Linux Installer  ",
+        "source":"\nIf you’re having a hard time getting to the Mozilla FTP or websites to download Firefox 1.0, you can get builds from me.\n\n* [Windows Installer]({{% wayback \"http://downloads.skyzyx.net/firefox/Firefox%20Setup%201.0.exe\" %}})\n* [Mac OS X Disk Image]({{% wayback \"http://downloads.skyzyx.net/firefox/Firefox%201.0.dmg.gz\" %}})\n* [Linux Installer]({{% wayback \"http://downloads.skyzyx.net/firefox/firefox-1.0.installer.tar.gz\" %}})\n\n"},
+    "links": {
+        "prev": {"title": "Firefox Optimized for G4/G5", "permalink": "https://ryanparman.com/posts/2004/firefox-optimized-for-g4g5/"},
+        "next": {"title": "iTunes Remote Control?", "permalink": "https://ryanparman.com/posts/2004/itunes-remote-control/"},
+        "ignore": "me"
+    }
+}
+
+}

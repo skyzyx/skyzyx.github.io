@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Localizing Tarzan and AWS 4.0",
+    "description": "",
+    "summary": {
+        "content": "The inital response to Tarzan has been very good! I got a handful of comments and several messages through my contact form about it. Overwhelmingly, people want to see Tarzan localized for their country’s version of Amazon. Initially, I started digging around to start implementing support for the UK. After a while of digging, however, I found out that I’m using an older version of the Amazon Web Services API. Fantastic. The new version (AWS 4.0) supports full localization in all of Amazon’s countries (U.",
+        "isTruncated": true
+    },
+    "published": "2005-01-25T23:07:03Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/localizing-tarzan-and-aws-40/",
+    "relativePermalink": "/posts/2005/localizing-tarzan-and-aws-40/",
+    "aliases": ["/2005/01/25/localizing-tarzan-and-aws-40/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Projects and Code"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 315,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050125-localizing-tarzan-and-aws-40.md",
+        "logicalName": "20050125-localizing-tarzan-and-aws-40.md",
+        "translationBaseName": "20050125-localizing-tarzan-and-aws-40",
+        "baseFileName": "20050125-localizing-tarzan-and-aws-40",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eThe inital response to Tarzan has been very good! I got a handful of comments and several messages through my contact form about it. Overwhelmingly, people want to see Tarzan localized for their country’s version of Amazon.\u003c/p\u003e\n\u003cp\u003eInitially, I started digging around to start implementing support for the UK. After a while of digging, however, I found out that I’m using an older version of the Amazon Web Services API. Fantastic. The new version (AWS 4.0) supports full localization in all of Amazon’s countries (U.S., Canada, U.K., France, Germany, and Japan).\u003c/p\u003e\n\u003cp\u003eIf I’m going to be able to stay on top of this, I’m going to need to upgrade Tarzan’s core code to support and use the newer API. It sucks that I thought I was almost done and I’m not, but this should only take me a few hours to recode now that I have Tarzan’s implementation figured out. Re-writing the necessary parts of the documentation will take a bit, and re-writing the Sample page and Breakdown Tool will take a bit of time too.\u003c/p\u003e\n\u003cp\u003eThe good news is that Tarzan 1.0 final will be compatible with all of Amazon’s countries, without any code changes on your end. Tarzan’s functions will continue to work seamlessly and upgrading to the next release candidate will not affect current installations, despite all of the code upheaval. The bad news is that parts of the extension model have changed a bit. If you’re a go-getter of a developer who has already started writing their own extensions for Tarzan, then I’m talking to you. Hold off until RC2. If you’re not an extension developer, and you don’t care about support for countries other than America, then you can ignore this entire post. If you’ve been asking me about support for the UK, France or Germany, then RC2 will be something to look forward to. Overzealous developers, just sit tight.\u003c/p\u003e\n",
+        "plain":"The inital response to Tarzan has been very good! I got a handful of comments and several messages through my contact form about it. Overwhelmingly, people want to see Tarzan localized for their country’s version of Amazon.\nInitially, I started digging around to start implementing support for the UK. After a while of digging, however, I found out that I’m using an older version of the Amazon Web Services API. Fantastic. The new version (AWS 4.0) supports full localization in all of Amazon’s countries (U.S., Canada, U.K., France, Germany, and Japan).\nIf I’m going to be able to stay on top of this, I’m going to need to upgrade Tarzan’s core code to support and use the newer API. It sucks that I thought I was almost done and I’m not, but this should only take me a few hours to recode now that I have Tarzan’s implementation figured out. Re-writing the necessary parts of the documentation will take a bit, and re-writing the Sample page and Breakdown Tool will take a bit of time too.\nThe good news is that Tarzan 1.0 final will be compatible with all of Amazon’s countries, without any code changes on your end. Tarzan’s functions will continue to work seamlessly and upgrading to the next release candidate will not affect current installations, despite all of the code upheaval. The bad news is that parts of the extension model have changed a bit. If you’re a go-getter of a developer who has already started writing their own extensions for Tarzan, then I’m talking to you. Hold off until RC2. If you’re not an extension developer, and you don’t care about support for countries other than America, then you can ignore this entire post. If you’ve been asking me about support for the UK, France or Germany, then RC2 will be something to look forward to. Overzealous developers, just sit tight.\n",
+        "source":"\nThe inital response to Tarzan has been very good! I got a handful of comments and several messages through my contact form about it. Overwhelmingly, people want to see Tarzan localized for their country’s version of Amazon.\n\nInitially, I started digging around to start implementing support for the UK. After a while of digging, however, I found out that I’m using an older version of the Amazon Web Services API. Fantastic. The new version (AWS 4.0) supports full localization in all of Amazon’s countries (U.S., Canada, U.K., France, Germany, and Japan).\n\nIf I’m going to be able to stay on top of this, I’m going to need to upgrade Tarzan’s core code to support and use the newer API. It sucks that I thought I was almost done and I’m not, but this should only take me a few hours to recode now that I have Tarzan’s implementation figured out. Re-writing the necessary parts of the documentation will take a bit, and re-writing the Sample page and Breakdown Tool will take a bit of time too.\n\nThe good news is that Tarzan 1.0 final will be compatible with all of Amazon’s countries, without any code changes on your end. Tarzan’s functions will continue to work seamlessly and upgrading to the next release candidate will not affect current installations, despite all of the code upheaval. The bad news is that parts of the extension model have changed a bit. If you’re a go-getter of a developer who has already started writing their own extensions for Tarzan, then I’m talking to you. Hold off until RC2. If you’re not an extension developer, and you don’t care about support for countries other than America, then you can ignore this entire post. If you’ve been asking me about support for the UK, France or Germany, then RC2 will be something to look forward to. Overzealous developers, just sit tight.\n"},
+    "links": {
+        "prev": {"title": "Introducing Tarzan", "permalink": "https://ryanparman.com/posts/2005/introducing-tarzan/"},
+        "next": {"title": "Tarzan 1.0 RC2 Now Available!", "permalink": "https://ryanparman.com/posts/2005/tarzan-10-rc2-now-available/"},
+        "ignore": "me"
+    }
+}
+
+}

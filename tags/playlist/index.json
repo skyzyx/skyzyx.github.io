@@ -1,0 +1,115 @@
+{
+    "data": {
+        
+        
+        "taxonomy": "tag",
+        "term": "playlist",
+        
+        "count": 2,
+        "items": [
+            
+            {
+    "kind": "page",
+    "title": "Playlist: Best of Foo Fighters",
+    "description": "",
+    "summary": {
+        "content": "The Foo Fighters are one of the greatest bands in rock music. Born from the ashes of Nirvana, Foo Fighters have gone on to take their own place in rock history. These are the songs that I think are the best from their repertoire. Playlist View on Apple Music, Pandora, Spotify, or YouTube.",
+        "isTruncated": false
+    },
+    "published": "2019-10-02T09:00:32Z",
+    "updated": "2019-10-02T15:31:32-07:00",
+    "permalink": "https://ryanparman.com/posts/2019/playlist-best-of-foo-fighters/",
+    "relativePermalink": "/posts/2019/playlist-best-of-foo-fighters/",
+    "aliases": ["/2019/10/02/playlist-best-of-foo-fighters"],
+    "images": ["https://cdn.ryanparman.com/hugo/posts/2019/foo-fighters@2x.jpg"],
+    "videos": [],
+    "categories": ["Playlists"],
+    "tags": ["foo fighters", "pod", "music", "apple music", "player", "playlist", "pandora", "spotify"],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 53,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2019/20191002-playlist-best-of-foo-fighters.md",
+        "logicalName": "20191002-playlist-best-of-foo-fighters.md",
+        "translationBaseName": "20191002-playlist-best-of-foo-fighters",
+        "baseFileName": "20191002-playlist-best-of-foo-fighters",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2019/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003ca href=\"#playlist\"\u003ePlaylist\u003c/a\u003e\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/nav\u003e",
+        "html":"\u003cp itemprop=\"description\" class=\"f5 f4-m f3-l mt0 lh-copy p-summary entry-summary\"\u003e\nThe Foo Fighters are one of the greatest bands in rock music. Born from the ashes of Nirvana, Foo Fighters have gone on to take their own place in rock history. These are the songs that I think are the \u003cem\u003ebest\u003c/em\u003e from their repertoire.\n\u003c/p\u003e\n\n\u003cdiv class=\"pa2-ns\"\u003e\n\t\u003camp-img src=\"https://cdn.ryanparman.com/hugo/posts/2019/foo-fighters@2x.jpg\" layout=\"responsive\" width=\"\" height=\"\"\u003e\u003c/amp-img\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"playlist\"\u003ePlaylist\u003c/h2\u003e\n\u003cdiv class=\"__h_apple_music card album\"\u003e\n    \u003cdiv class=\"card-body\"\u003e\n        \u003ciframe\n            allow=\"autoplay *; encrypted-media *;\"\n            sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\"\n            src=\"https://embed.music.apple.com/us/playlist/best-of-foo-fighters/pl.u-bxvN3TJL6v8?app=music\"\n        \u003e\u003c/iframe\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\n\u003cp\u003eView on \u003ca href=\"https://beta.music.apple.com/us/playlist/best-of-foo-fighters/pl.u-bxvN3TJL6v8\"\u003eApple Music\u003c/a\u003e, \u003ca href=\"https://www.pandora.com/playlist/PL:1407374947074386:24885502\"\u003ePandora\u003c/a\u003e, \u003ca href=\"https://open.spotify.com/playlist/1VthT2q1tIZdKOcSw9bxO4?si=-na86339SpCZz5JITzxKSQ\"\u003eSpotify\u003c/a\u003e, or \u003ca href=\"https://www.youtube.com/playlist?list=PLuxxaO2qR05yotHG7qalmi_jeCDyWKFSk\"\u003eYouTube\u003c/a\u003e.\u003c/p\u003e\n",
+        "plain":"The Foo Fighters are one of the greatest bands in rock music. Born from the ashes of Nirvana, Foo Fighters have gone on to take their own place in rock history. These are the songs that I think are the best from their repertoire.   Playlist    View on Apple Music, Pandora, Spotify, or YouTube.\n",
+        "source":"\n{{\u003cdescription\u003e}}\nThe Foo Fighters are one of the greatest bands in rock music. Born from the ashes of Nirvana, Foo Fighters have gone on to take their own place in rock history. These are the songs that I think are the \u003cem\u003ebest\u003c/em\u003e from their repertoire.\n{{\u003c/description\u003e}}\n\n{{\u003cfullimage src=\"https://cdn.ryanparman.com/hugo/posts/2019/foo-fighters@2x.jpg\" alt=\"Foo Fighters\"\u003e}}\n\n## Playlist\n\n{{\u003c apple-music \"https://embed.music.apple.com/us/playlist/best-of-foo-fighters/pl.u-bxvN3TJL6v8?app=music\" \"album\" \u003e}}\n\nView on [Apple Music](https://beta.music.apple.com/us/playlist/best-of-foo-fighters/pl.u-bxvN3TJL6v8), [Pandora](https://www.pandora.com/playlist/PL:1407374947074386:24885502), [Spotify](https://open.spotify.com/playlist/1VthT2q1tIZdKOcSw9bxO4?si=-na86339SpCZz5JITzxKSQ), or [YouTube](https://www.youtube.com/playlist?list=PLuxxaO2qR05yotHG7qalmi_jeCDyWKFSk).\n"},
+    "links": {
+        "prev": {"title": "How to create local TLS certificates for development on macOS", "permalink": "https://ryanparman.com/posts/2019/how-to-create-local-tls-certificates-for-development-on-macos/"},
+        "next": {"title": "What did you expect would happen?", "permalink": "https://ryanparman.com/posts/2020/what-did-you-expect-would-happen/"},
+        "ignore": "me"
+    }
+}
+
+            
+            , {
+    "kind": "page",
+    "title": "Playlist: Best of P.O.D.",
+    "description": "",
+    "summary": {
+        "content": "I’ve been a fan of P.O.D. since the 90s, and I’ve continued to follow them throughout their career. This is a collection of my favorite tracks into a single playlist. Playlist View on Apple Music, Pandora, or Spotify (in varying degrees of completeness). A few notes… For the most part, all of P.O.D.’s major-label releases (e.g., Atlantic, Universal) are easy to find across music services, but a couple of albums are incredibly hard to find. My original, local version of the playlist includes copies of:",
+        "isTruncated": true
+    },
+    "published": "2019-02-02T21:01:42Z",
+    "updated": "2019-10-02T15:16:36-07:00",
+    "permalink": "https://ryanparman.com/posts/2019/playlist-best-of-pod/",
+    "relativePermalink": "/posts/2019/playlist-best-of-pod/",
+    "aliases": ["/2019/02/02/playlist-best-of-pod"],
+    "images": ["https://cdn.ryanparman.com/hugo/posts/2019/pod@2x.jpg"],
+    "videos": [],
+    "categories": ["Playlists"],
+    "tags": ["p.o.d.", "pod", "music", "apple music", "player", "playlist", "pandora", "spotify"],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 142,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2019/20190202-playlist-best-of-pod.md",
+        "logicalName": "20190202-playlist-best-of-pod.md",
+        "translationBaseName": "20190202-playlist-best-of-pod",
+        "baseFileName": "20190202-playlist-best-of-pod",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2019/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\n  \u003cul\u003e\n    \u003cli\u003e\u003ca href=\"#playlist\"\u003ePlaylist\u003c/a\u003e\u003c/li\u003e\n    \u003cli\u003e\u003ca href=\"#a-few-notes\"\u003eA few notes…\u003c/a\u003e\u003c/li\u003e\n  \u003c/ul\u003e\n\u003c/nav\u003e",
+        "html":"\u003cp itemprop=\"description\" class=\"f5 f4-m f3-l mt0 lh-copy p-summary entry-summary\"\u003e\nI’ve been a fan of P.O.D. since the 90s, and I’ve continued to follow them throughout their career. This is a collection of my favorite tracks into a single playlist.\n\u003c/p\u003e\n\n\u003cdiv class=\"pa2-ns\"\u003e\n\t\u003camp-img src=\"https://cdn.ryanparman.com/hugo/posts/2019/pod@2x.jpg\" layout=\"responsive\" width=\"\" height=\"\"\u003e\u003c/amp-img\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"playlist\"\u003ePlaylist\u003c/h2\u003e\n\u003cdiv class=\"__h_apple_music card album\"\u003e\n    \u003cdiv class=\"card-body\"\u003e\n        \u003ciframe\n            allow=\"autoplay *; encrypted-media *;\"\n            sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\"\n            src=\"https://embed.music.apple.com/us/playlist/best-of-p-o-d/pl.u-ZPEorsrzbxm?app=music\"\n        \u003e\u003c/iframe\u003e\n    \u003c/div\u003e\n\u003c/div\u003e\n\n\u003cp\u003eView on \u003ca href=\"https://beta.music.apple.com/us/playlist/best-of-p-o-d/pl.u-ZPEorsrzbxm\"\u003eApple Music\u003c/a\u003e, \u003ca href=\"https://www.pandora.com/playlist/PL:1125899955795462:24885502\"\u003ePandora\u003c/a\u003e, or \u003ca href=\"https://open.spotify.com/user/skyzyx/playlist/3JAD0XdmvyNBqdF277CVvd?si=-na86339SpCZz5JITzxKSQ\"\u003eSpotify\u003c/a\u003e (in varying degrees of completeness).\u003c/p\u003e\n\u003ch2 id=\"a-few-notes\"\u003eA few notes…\u003c/h2\u003e\n\u003cp\u003eFor the most part, all of P.O.D.’s major-label releases (e.g., Atlantic, Universal) are easy to find across music services, but a couple of albums are \u003cem\u003eincredibly\u003c/em\u003e hard to find. My original, local version of the playlist includes copies of:\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cp\u003e\u0026ldquo;Draw the Line\u0026rdquo; and \u0026ldquo;Full Color\u0026rdquo; from \u003ca href=\"https://en.wikipedia.org/wiki/The_Warriors_EP\"\u003eThe Warrior’s EP\u003c/a\u003e (1998) on \u003ca href=\"https://www.toothandnail.com\"\u003eTooth \u0026amp; Nail records\u003c/a\u003e. A copyright-infringed copy can be found on \u003ca href=\"https://www.youtube.com/watch?v=wxvbkVvNkDw\u0026amp;list=PLJhq8uea0Bmb5qzTVDLoacuPMFs3khDf_\"\u003eYouTube\u003c/a\u003e.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u0026ldquo;Addicted\u0026rdquo;, \u0026ldquo;Kaliforn-Eye-A\u0026rdquo;, \u0026ldquo;End of the World\u0026rdquo;, and \u0026ldquo;When Angels \u0026amp; Serpents Dance\u0026rdquo; from \u003ca href=\"https://en.wikipedia.org/wiki/When_Angels_%26_Serpents_Dance\"\u003eWhen Angels \u0026amp; Serpents Dance\u003c/a\u003e (2008) on \u003ca href=\"https://en.wikipedia.org/wiki/INO_Records\"\u003eINO Records\u003c/a\u003e and \u003ca href=\"https://en.wikipedia.org/wiki/Columbia_Records\"\u003eColumbia Records\u003c/a\u003e. A copyright-infringed copy can be found on \u003ca href=\"https://www.youtube.com/watch?v=EAdab7Fnjzw\u0026amp;list=PLJhq8uea0BmbZrQdjXDKObO7l-y8QzYDk\"\u003eYouTube\u003c/a\u003e.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n",
+        "plain":"I’ve been a fan of P.O.D. since the 90s, and I’ve continued to follow them throughout their career. This is a collection of my favorite tracks into a single playlist.   Playlist    View on Apple Music, Pandora, or Spotify (in varying degrees of completeness).\nA few notes… For the most part, all of P.O.D.’s major-label releases (e.g., Atlantic, Universal) are easy to find across music services, but a couple of albums are incredibly hard to find. My original, local version of the playlist includes copies of:\n  \u0026ldquo;Draw the Line\u0026rdquo; and \u0026ldquo;Full Color\u0026rdquo; from The Warrior’s EP (1998) on Tooth \u0026amp; Nail records. A copyright-infringed copy can be found on YouTube.\n  \u0026ldquo;Addicted\u0026rdquo;, \u0026ldquo;Kaliforn-Eye-A\u0026rdquo;, \u0026ldquo;End of the World\u0026rdquo;, and \u0026ldquo;When Angels \u0026amp; Serpents Dance\u0026rdquo; from When Angels \u0026amp; Serpents Dance (2008) on INO Records and Columbia Records. A copyright-infringed copy can be found on YouTube.\n  ",
+        "source":"\n{{\u003cdescription\u003e}}\nI’ve been a fan of P.O.D. since the 90s, and I’ve continued to follow them throughout their career. This is a collection of my favorite tracks into a single playlist.\n{{\u003c/description\u003e}}\n\n{{\u003cfullimage src=\"https://cdn.ryanparman.com/hugo/posts/2019/pod@2x.jpg\" alt=\"P.O.D.\"\u003e}}\n\n## Playlist\n\n{{\u003c apple-music \"https://embed.music.apple.com/us/playlist/best-of-p-o-d/pl.u-ZPEorsrzbxm?app=music\" \"album\" \u003e}}\n\nView on [Apple Music](https://beta.music.apple.com/us/playlist/best-of-p-o-d/pl.u-ZPEorsrzbxm), [Pandora](https://www.pandora.com/playlist/PL:1125899955795462:24885502), or [Spotify](https://open.spotify.com/user/skyzyx/playlist/3JAD0XdmvyNBqdF277CVvd?si=-na86339SpCZz5JITzxKSQ) (in varying degrees of completeness).\n\n## A few notes…\n\nFor the most part, all of P.O.D.’s major-label releases (e.g., Atlantic, Universal) are easy to find across music services, but a couple of albums are _incredibly_ hard to find. My original, local version of the playlist includes copies of:\n\n1. \"Draw the Line\" and \"Full Color\" from [The Warrior’s EP]({{\u003c wayback \"https://en.wikipedia.org/wiki/The_Warriors_EP\" \u003e}}) (1998) on [Tooth \u0026 Nail records]({{\u003c wayback \"https://www.toothandnail.com\" \u003e}}). A copyright-infringed copy can be found on [YouTube](https://www.youtube.com/watch?v=wxvbkVvNkDw\u0026list=PLJhq8uea0Bmb5qzTVDLoacuPMFs3khDf_).\n\n1. \"Addicted\", \"Kaliforn-Eye-A\", \"End of the World\", and \"When Angels \u0026 Serpents Dance\" from [When Angels \u0026 Serpents Dance]({{\u003c wayback \"https://en.wikipedia.org/wiki/When_Angels_%26_Serpents_Dance\" \u003e}}) (2008) on [INO Records]({{\u003c wayback \"https://en.wikipedia.org/wiki/INO_Records\" \u003e}}) and [Columbia Records]({{\u003c wayback \"https://en.wikipedia.org/wiki/Columbia_Records\" \u003e}}). A copyright-infringed copy can be found on [YouTube](https://www.youtube.com/watch?v=EAdab7Fnjzw\u0026list=PLJhq8uea0BmbZrQdjXDKObO7l-y8QzYDk).\n"},
+    "links": {
+        "prev": {"title": "Understanding Trust in Your Infrastructure", "permalink": "https://ryanparman.com/posts/2018/understanding-trust-in-your-infrastructure/"},
+        "next": {"title": "Converting iMessage Stickers, Animoji, and Memoji to Slackmoji (Slack Emoji)", "permalink": "https://ryanparman.com/posts/2019/converting-imessage-stickers-animoji-and-memoji-to-slackmoji-slack-emoji/"},
+        "ignore": "me"
+    }
+}
+
+            
+        ]
+    }
+}

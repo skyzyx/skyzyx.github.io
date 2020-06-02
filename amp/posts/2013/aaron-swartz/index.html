@@ -1,0 +1,888 @@
+<!DOCTYPE html>
+<html ⚡ lang="en-us">
+  <head prefix="og:http://ogp.me/ns# fb:http://ogp.me/ns/fb# article:http://ogp.me/ns/article# profile:http://ogp.me/ns/profile# website:http://ogp.me/ns/website#">
+    <meta charset="utf-8">
+    <meta name="supported-color-schemes" content="light dark">
+    
+    <title>Aaron Swartz • Flailing Wildly</title><link rel="dns-prefetch" href="https://cdn.ryanparman.com">
+<link rel="dns-prefetch" href="https://metadata.ryanparman.com">
+<link rel="dns-prefetch" href="https://ajax.cloudflare.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<style amp-custom>
+body {
+  background-color: #fff;
+  color: #171e21;
+  font-family: "SF Pro Text", "San Francisco", -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", Helvetica, Roboto, Noto, "Segoe UI", Arial, sans-serif;
+}
+
+blockquote {
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-color: #408bc9;
+    border-width: .25rem;
+    font-style: normal;
+    line-height: 1.5;
+    color: #444;
+    background-color: #eee;
+    padding: 0.3rem 2rem;
+    margin: 0;
+    font-size: 1rem;
+}
+
+@media screen and (max-width: 60em) {
+    blockquote {
+        padding: 0.1rem 1rem;
+    }
+}
+
+@media screen and (min-width: 30em) and (max-width: 60em) {
+    .f4-m {
+        font-size: 1.25rem;
+    }
+}
+
+@media screen and (min-width: 60em) {
+    .f3-l {
+        font-size: 1.5rem;
+    }
+
+    img.fullimage {
+        max-width: calc(100% - 30px);
+        border: 10px solid #fff;
+        box-shadow: 0 1px 20px 5px rgba(128, 128, 128, 0.3);
+    }
+
+    img.fullimage-noshadow {
+        max-width: calc(100% - 30px);
+        width: auto !important;
+        margin: 0 auto;
+    }
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #ccc;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: 500;
+    padding: 0;
+    margin-top: 2rem;
+     
+}
+
+pre {
+    background-color: rgb(34, 34, 34);
+    box-sizing: border-box;
+    color: rgb(221, 221, 221);
+    display: block;
+    position: static;
+    overflow: hidden;
+    max-width: 45rem;
+}
+
+code {
+    display: inline-block;
+    font-family: "Meslo LG S", Menlo, Consolas, Monaco, "Courier New", monospace;
+    font-size: 0.85rem;
+
+    padding: 1px 2px;
+    background-color: #f8f8ff;
+    color: #ba2121;
+    border: 1px solid #dde;
+    border-radius: 3px;
+}
+
+pre code {
+    font-size: 0.85rem;
+    display: block;
+    line-height: 1.3em;
+    margin: 0;
+    padding: 1.5em;
+    overflow-x: auto !important;
+    overflow-y: auto;
+    white-space: pre;
+    width: auto;
+
+    background-color: inherit;
+    color: inherit;
+    border: none;
+    border-radius: 0;
+}
+
+abbr[title] {
+    border-bottom: 1px dotted;
+    text-decoration: none;
+    cursor: help;
+}
+
+.gist {
+    max-width: 40rem !important;
+}
+
+.slackmoji {
+    max-height: 32px !important;
+    max-width: 32px !important;
+    width: auto !important;
+    height: auto !important;
+}
+
+.slackmoji.small {
+    max-height: 24px !important;
+    max-width: 24px !important;
+}
+
+picture.slackmoji.small {
+    vertical-align: -15%;
+}
+
+.container:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+aside.table-of-contents {
+    color: #444;
+    background-color: #eee;
+    border-color: #ddd;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border-radius: .25rem;
+}
+
+aside.age {
+    display: block;
+     
+
+    margin-bottom: 1rem;
+    padding: 0 1.25rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    line-height: 1.5em;
+
+    max-width: 46rem;
+}
+
+aside.twenties {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+
+aside.five-years {
+    color: #856404;
+    background-color: #fff3cd;
+    border-color: #ffeeba;
+}
+
+aside.aside {
+    color: #004085;
+    background-color: #cce5ff;
+    border-color: #b8daff;
+}
+
+div.author {
+    margin-top: 2rem;
+    border: 1px solid #bee5eb;
+    color: #0c5460;
+    background-color: #d1ecf1;
+    padding: 0 1rem;
+}
+
+div.author div.photo {
+    float: left;
+    margin: 0 10px 0 0;
+}
+
+div.author div.photo img.photo {
+    display: inline-block;
+    border: 1px solid #171e21;
+}
+
+div.author div.about {
+     
+    line-height: 1.5rem;
+    font-size: 0.9rem;
+}
+
+.pagination {
+    padding: 0 !important;
+}
+
+.nested-links a {
+    text-decoration: none;
+    border-bottom: 1px dotted #357edd;
+}
+
+.nested-links a:hover {
+    text-decoration: none;
+    border-bottom: 1px solid #96ccff;
+}
+
+article.fl-l.w-25-l.pa2-ns a.ph2.ph0-ns.pb3.link.db,
+article.fl-l.w-25-l.pa2-ns a.ph2.ph0-ns.pb3.link.db:hover {
+    border-bottom: none !important;
+}
+
+.date-section a.mid-gray {
+    text-decoration: none;
+    border-bottom: 1px dotted #555;
+}
+
+div.footnotes {
+    margin-top: 2rem;
+    padding: 1rem 0;
+    font-size: 0.85rem;
+}
+
+ 
+  .chroma { color: #f8f8f2; background-color: #272822 }
+  .chroma .err { color: #960050; background-color: #1e0010 }
+  .chroma .lntd { vertical-align: top; padding: 0; margin: 0; border: 0; }
+  .chroma .lntable { border-spacing: 0; padding: 0; margin: 0; border: 0; width: auto; overflow: auto; display: block; }
+  .chroma .hl { display: block; width: 100%;background-color: #ffffcc }
+  .chroma .lnt { margin-right: 0.4em; padding: 0 0.4em 0 0.4em; }
+  .chroma .ln { margin-right: 0.4em; padding: 0 0.4em 0 0.4em; }
+  .chroma .k { color: #66d9ef }
+  .chroma .kc { color: #66d9ef }
+  .chroma .kd { color: #66d9ef }
+  .chroma .kn { color: #f92672 }
+  .chroma .kp { color: #66d9ef }
+  .chroma .kr { color: #66d9ef }
+  .chroma .kt { color: #66d9ef }
+  .chroma .na { color: #a6e22e }
+  .chroma .nc { color: #a6e22e }
+  .chroma .no { color: #66d9ef }
+  .chroma .nd { color: #a6e22e }
+  .chroma .ne { color: #a6e22e }
+  .chroma .nf { color: #a6e22e }
+  .chroma .nx { color: #a6e22e }
+  .chroma .nt { color: #f92672 }
+  .chroma .l { color: #ae81ff }
+  .chroma .ld { color: #e6db74 }
+  .chroma .s { color: #e6db74 }
+  .chroma .sa { color: #e6db74 }
+  .chroma .sb { color: #e6db74 }
+  .chroma .sc { color: #e6db74 }
+  .chroma .dl { color: #e6db74 }
+  .chroma .sd { color: #e6db74 }
+  .chroma .s2 { color: #e6db74 }
+  .chroma .se { color: #ae81ff }
+  .chroma .sh { color: #e6db74 }
+  .chroma .si { color: #e6db74 }
+  .chroma .sx { color: #e6db74 }
+  .chroma .sr { color: #e6db74 }
+  .chroma .s1 { color: #e6db74 }
+  .chroma .ss { color: #e6db74 }
+  .chroma .m { color: #ae81ff }
+  .chroma .mb { color: #ae81ff }
+  .chroma .mf { color: #ae81ff }
+  .chroma .mh { color: #ae81ff }
+  .chroma .mi { color: #ae81ff }
+  .chroma .il { color: #ae81ff }
+  .chroma .mo { color: #ae81ff }
+  .chroma .o { color: #f92672 }
+  .chroma .ow { color: #f92672 }
+  .chroma .c { color: #75715e }
+  .chroma .ch { color: #75715e }
+  .chroma .cm { color: #75715e }
+  .chroma .c1 { color: #75715e }
+  .chroma .cs { color: #75715e }
+  .chroma .cp { color: #75715e }
+  .chroma .cpf { color: #75715e }
+  .chroma .gd { color: #f92672 }
+  .chroma .ge { font-style: italic }
+  .chroma .gi { color: #a6e22e }
+  .chroma .gs { font-weight: bold }
+  .chroma .gu { color: #75715e }
+</style><link rel="home" href="https://ryanparman.com">
+<link rel="canonical" href="https://ryanparman.com/amp/posts/2013/aaron-swartz/">
+<link rel="archives" href="/posts/">
+<link rel="index" href="/posts/">
+<meta name="description" content="Where nothing interesting ever happens.">
+<meta name="copyright" content="Copyright (c) 2003–2020 Ryan Parman">
+<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+<meta name="application-name" content="Aaron Swartz">
+<meta name="apple-mobile-web-app-title" content="Aaron Swartz">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+<meta name="robots" content="index,follow">
+<meta name="googlebot" content="index,follow"><link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="profile" href="http://microformats.org/profile/h-card">
+<link rel="profile" href="http://microformats.org/profile/h-entry">
+<link rel="gravatar" href="https://cdn.ryanparman.com/hugo/gravatars/current/8c73b5fc88b88ac0d92fec541c6a4413890df291@4x.jpg">
+<link rel="pavatar" href="https://cdn.ryanparman.com/hugo/gravatars/current/8c73b5fc88b88ac0d92fec541c6a4413890df291@4x.jpg">
+<meta name="msvalidate.01" content="AAE2FC524C37F7A9E3675BDA6CB75316">
+<meta name="google-site-verification" content="m0LFjc4lG_rWlf0WeWG044B4wuYow4mYRkKXSWcEMMs">
+<meta name="norton-safeweb-site-verification" content="kuy6vndqhvxnk-bjlrxgrwt4i7nxyscxknrilmidxnu-sb8gr6mwcrxx15dn-927fm7sqoo27ld3k3z8nl5d56m30acpkebqjlx-35fz-na9p5m5cc3a8qrkn4ovo7v1">
+<meta name="p:domain_verify" content="1d179e8a1d93ea1a8515ddcd756b6ca8">
+<meta name="pocket-site-verification" content="481422baadcbeae9c3bb44b5f6b1d6">
+<meta name="yandex-verification" content="9b1a1c449b237ff9">
+
+<link rel="shortcut icon" href="https://cdn.ryanparman.com/hugo/favicons/favicon.ico" type="image/x-icon" />
+
+<meta name="theme-color" content="#171e21">
+<meta name="application-name" content="Flailing Wildly">
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="https://cdn.ryanparman.com/hugo/favicons/mstile-144x144.png">
+<meta name="msapplication-square70x70logo" content="https://cdn.ryanparman.com/hugo/favicons/mstile-70x70.png">
+<meta name="msapplication-square150x150logo" content="https://cdn.ryanparman.com/hugo/favicons/mstile-150x150.png">
+<meta name="msapplication-wide310x150logo" content="https://cdn.ryanparman.com/hugo/favicons/mstile-310x150.png">
+<meta name="msapplication-square310x310logo" content="https://cdn.ryanparman.com/hugo/favicons/mstile-310x310.png">
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://cdn.ryanparman.com/hugo/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://cdn.ryanparman.com/hugo/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://cdn.ryanparman.com/hugo/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://cdn.ryanparman.com/hugo/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://cdn.ryanparman.com/hugo/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://cdn.ryanparman.com/hugo/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://cdn.ryanparman.com/hugo/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://cdn.ryanparman.com/hugo/favicons/apple-touch-icon-152x152.png">
+<link rel="icon" type="image/png" href="https://cdn.ryanparman.com/hugo/favicons/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="https://cdn.ryanparman.com/hugo/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="https://cdn.ryanparman.com/hugo/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://cdn.ryanparman.com/hugo/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="https://cdn.ryanparman.com/hugo/favicons/favicon-128.png" sizes="128x128">
+
+<link rel="amphtml" type="text/html" href="https://mercury.postlight.com/amp?url=https://ryanparman.com/amp/posts/2013/aaron-swartz/" title="AMP">
+<link rel="alternate" type="text/html" href="https://instapaper.com/text?u=https://ryanparman.com/amp/posts/2013/aaron-swartz/" title="Instapaper Text Reader">
+<link rel="alternate" type="application/json" href="https://ryanparman.com/amp/posts/2013/aaron-swartz/index.json" title="JSON variant">
+<link rel="read-later" type="text/html" href="https://instapaper.com/edit?url=https://ryanparman.com/amp/posts/2013/aaron-swartz/&amp;title=Aaron%20Swartz&amp;description=I%20didn%e2%80%99t%20know%20Aaron%20personally,%20so%20there%e2%80%99s%20no%20insight%20I%20can%20provide%20into%20the%20person%20who%20I%e2%80%99ve%20read%20people%20describe%20as%20%e2%80%9ca%20brilliant%20soul%e2%80%9d.%0a%20%20The%20world%20is%20now%20a%20worse%20place%20The%20tech%20world%20is%20abuzz%20with%20the%20news%20that,%20at%20only%2026%20years%20old,%20Aaron%20Swartz%20decided%20to%20take%20his%20own%20life.%20I%20heard%20about%20it%20last%20night%20when%20I%20opened%20up%20Tweetbot,%20and%20saw%20two%20tweets%20back-to-back%20in%20my%20timeline:%0a@al3x%20:%0a%20We%20lost%20@aaronsw.%20%e2%80%94%20Alex%20Payne%20%28@al3x%29%20January%2012,%202013." title="Instapaper">
+<link rel="read-later" type="text/html" href="https://pinboard.in/add?url=https://ryanparman.com/amp/posts/2013/aaron-swartz/&amp;title=Aaron%20Swartz&amp;description=I%20didn%e2%80%99t%20know%20Aaron%20personally,%20so%20there%e2%80%99s%20no%20insight%20I%20can%20provide%20into%20the%20person%20who%20I%e2%80%99ve%20read%20people%20describe%20as%20%e2%80%9ca%20brilliant%20soul%e2%80%9d.%0a%20%20The%20world%20is%20now%20a%20worse%20place%20The%20tech%20world%20is%20abuzz%20with%20the%20news%20that,%20at%20only%2026%20years%20old,%20Aaron%20Swartz%20decided%20to%20take%20his%20own%20life.%20I%20heard%20about%20it%20last%20night%20when%20I%20opened%20up%20Tweetbot,%20and%20saw%20two%20tweets%20back-to-back%20in%20my%20timeline:%0a@al3x%20:%0a%20We%20lost%20@aaronsw.%20%e2%80%94%20Alex%20Payne%20%28@al3x%29%20January%2012,%202013." title="Pinboard">
+<link rel="read-later" type="text/html" href="https://getpocket.com/edit?url=https://ryanparman.com/amp/posts/2013/aaron-swartz/&amp;title=Aaron%20Swartz" title="Pocket">
+<link rel="share" type="text/html" href="https://facebook.com/sharer/sharer.php?u=https://ryanparman.com/amp/posts/2013/aaron-swartz/" title="Facebook">
+<link rel="share" type="text/html" href="https://www.linkedin.com/sharing/share-offsite/?url=https://ryanparman.com/amp/posts/2013/aaron-swartz/&amp;title=Aaron%20Swartz" title="LinkedIn">
+<link rel="share" type="text/html" href="https://pinterest.com/pin/create/button/?url=https://ryanparman.com/amp/posts/2013/aaron-swartz/&amp;description=Aaron%20Swartz&amp;media=https://cdn.ryanparman.com/hugo/posts/2013/aaron-swartz1@2x.jpg" title="Pinterest">
+<link rel="share" type="text/html" href="https://www.tumblr.com/share/link?url=https://ryanparman.com/amp/posts/2013/aaron-swartz/&amp;name=Aaron%20Swartz" title="Tumblr">
+<link rel="share" type="text/html" href="https://twitter.com/intent/tweet?url=https://ryanparman.com/amp/posts/2013/aaron-swartz/&amp;text=Aaron%20Swartz&amp;via=skyzyx" title="Twitter">
+<link rel="alternate" type="application/rss+xml" href="https://feed.ryanparman.com/" class="u-syndication" title=": Blog">
+<link rel="alternate" type="application/rss+xml" href="https://feed.ryanparman.com/conglomo" class="u-syndication" title=": Blog &#43; Link Blog &#43; YouTube &#43; Movies &#43; TV">
+<link rel="alternate" type="application/rss+xml" href="https://feed.ryanparman.com/content" class="u-syndication" title=": Blog &#43; Link Blog">
+<link rel="alternate" type="application/rss+xml" href="https://feed.ryanparman.com/linkblog" class="u-syndication" title=": Link Blog">
+<link rel="alternate" type="application/rss+xml" href="https://feed.ryanparman.com/media" class="u-syndication" title=": YouTube &#43; Movies &#43; TV">
+<link rel="alternate" type="application/rss+xml" href="https://feed.ryanparman.com/movies" class="u-syndication" title=": Movies">
+<link rel="alternate" type="application/rss+xml" href="https://feed.ryanparman.com/tv" class="u-syndication" title=": TV Shows">
+<link rel="alternate" type="application/rss+xml" href="https://feed.ryanparman.com/youtube" class="u-syndication" title=": YouTube Favorites">
+<link rel="alternate" type="application/json+oembed" href="https://metadata.ryanparman.com/oembed/?url=https%3a%2f%2fryanparman.com%2famp%2fposts%2f2013%2faaron-swartz%2f" title="oEmbed">
+<meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://cdn.ryanparman.com/hugo/posts/2013/aaron-swartz1@2x.jpg">
+
+
+<meta name="twitter:creator" content="@skyzyx">
+<meta name="twitter:title" content="Aaron Swartz">
+<meta name="twitter:description" content="I didn’t know Aaron personally, so there’s no insight I can provide into the person who I’ve read people describe as “a brilliant soul”.
+  The world is now a worse place The tech world is abuzz with the news that, at only 26 years old, Aaron Swartz decided to take his own life. I heard about it last night when I opened up Tweetbot, and saw two tweets back-to-back in my timeline:
+@al3x :
+ We lost @aaronsw. — Alex Payne (@al3x) January 12, 2013.">
+<meta property="og:title" content="Aaron Swartz">
+<meta property="og:description" content="I didn’t know Aaron personally, so there’s no insight I can provide into the person who I’ve read people describe as “a brilliant soul”.
+  The world is now a worse place The tech world is abuzz with the news that, at only 26 years old, Aaron Swartz decided to take his own life. I heard about it last night when I opened up Tweetbot, and saw two tweets back-to-back in my timeline:
+@al3x :
+ We lost @aaronsw. — Alex Payne (@al3x) January 12, 2013.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://ryanparman.com/amp/posts/2013/aaron-swartz/">
+<meta property="og:locale" content="en_US"><meta property="og:image" content="https://cdn.ryanparman.com/hugo/posts/2013/aaron-swartz1@2x.jpg"><meta property="og:image" content="https://cdn.ryanparman.com/hugo/posts/2013/demand-progress@2x.png"><meta property="og:image" content="https://cdn.ryanparman.com/hugo/posts/2013/aaron-swartz2.jpg"><meta property="og:image" content="https://cdn.ryanparman.com/hugo/posts/2013/aaron-swartz3@2x.jpg">
+
+    <meta property="article:published_time" content="2013-01-12T21:46:39&#43;00:00">
+    
+
+    <meta property="article:modified_time" content="2019-02-10T21:35:12-08:00">
+<meta property="og:site_name" content="Flailing Wildly">
+    
+    
+
+    <meta property="article:author" content="https://ryanparman.com">
+    <meta property="article:author" content="Ryan Parman">
+    <meta property="article:author:first_name" content="Ryan">
+    <meta property="article:author:last_name" content="Parman">
+    <meta property="article:author:gender" content="male">
+    <meta property="article:content_tier" content="free">
+    <meta property="article:section" content="posts">
+
+    
+        <meta property="article:tag" content="aaron swartz">
+    
+        <meta property="article:tag" content="alex payne">
+    
+        <meta property="article:tag" content="dustin curtis">
+    
+        <meta property="article:tag" content="rss">
+    
+        <meta property="article:tag" content="simplepie">
+    
+        <meta property="article:tag" content="lawrence lessig">
+    
+        <meta property="article:tag" content="xml">
+    
+        <meta property="article:tag" content="rdf">
+    
+        <meta property="article:tag" content="creative commons">
+    
+        <meta property="article:tag" content="pacer">
+    
+
+
+
+<meta itemprop="copyrightYear" content="2020">
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "url": "https://ryanparman.com",
+    "logo": "https://cdn.ryanparman.com/hugo/favicons/mstile-310x310.png"
+}
+</script>
+<link rel="prev" title="H.265 has been approved" href="https://ryanparman.com/amp/posts/2013/h265-has-been-approved/">
+    <link rel="next" title="My favorite Mac apps: Music and Video Apps" href="https://ryanparman.com/amp/posts/2012/my-favorite-mac-apps-music-and-video-apps/">
+
+    
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124176424-1"></script>
+<script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-124176424-1');</script>
+
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+    <script async custom-element="amp-twitter" src="https://cdn.ampproject.org/v0/amp-twitter-0.1.js"></script>
+  </head>
+
+  <body itemprop="mainEntityOfPage" itemscope itemtype="http://schema.org/WebPage" class="ma0 sans-serif bg-white production" id="#self">
+    
+  
+  <header><nav class="pv3 ph3 ph4-ns bg-black" role="navigation">
+    <a class="link dim white b f6 f5-ns dib mr3" href="https://ryanparman.com" title="Home">Flailing Wildly</a>
+    
+        
+          <a class="link dim light-gray f6 f5-ns dib mr3" href="/about/" title="About the Author">About the Author</a>
+        
+          <a class="link dim light-gray f6 f5-ns dib mr3" href="/posts/" title="Archive">Archive</a>
+        
+          <a class="link dim light-gray f6 f5-ns dib mr3" href="/categories/" title="Categories">Categories</a>
+        
+          <a class="link dim light-gray f6 f5-ns dib mr3" href="https://github.com/skyzyx" title="Code">Code</a>
+        
+          <a class="link dim light-gray f6 f5-ns dib mr3" href="/design/" title="Design">Design</a>
+        
+          <a class="link dim light-gray f6 f5-ns dib mr3" href="/tools/" title="DevTools">DevTools</a>
+        
+          <a class="link dim light-gray f6 f5-ns dib mr3" href="/series/editors-choice/" title="Editor’s Choice">Editor’s Choice</a>
+        
+          <a class="link dim light-gray f6 f5-ns dib mr3" href="/follow/" title="Follow">Follow</a>
+        
+          <a class="link dim light-gray f6 f5-ns dib mr3" href="/series/" title="Series’">Series’</a>
+        
+      </ul>
+    
+</nav>
+</header>
+
+    <main role="main">
+      
+  
+
+  <article itemscope itemtype="http://schema.org/BlogPosting" class="flex-l flex-wrap justify-between mw7 center ph3 ph4-ns h-entry hentry" itemref="#self">
+    <meta itemprop="accessMode" content="textual">
+    <meta itemprop="accessModeSufficient" content="textual">
+    <meta itemprop="name" content="Aaron Swartz">
+    <meta itemprop="description" content="I didn’t know Aaron personally, so there’s no insight I can provide into the person who I’ve read people describe as “a brilliant soul”.
+  The world is now a worse place The tech world is abuzz with the news that, at only 26 years old, Aaron Swartz decided to take his own life. I heard about it last night when I opened up Tweetbot, and saw two tweets back-to-back in my timeline:
+@al3x :
+ We lost @aaronsw. — Alex Payne (@al3x) January 12, 2013.">
+    <meta itemprop="copyrightYear" content="2013">
+    <meta itemprop="keywords" content="aaron swartz,alex payne,dustin curtis,rss,simplepie,lawrence lessig,xml,rdf,creative commons,pacer,demand progress,sopa pipa,mit,crime,free speech,public record,">
+
+    
+    <div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Flailing Wildly">
+      <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+        <meta itemprop="url" content="https://cdn.ryanparman.com/hugo/favicons/apple-touch-icon-60x60.png">
+        <meta itemprop="width" content="60">
+        <meta itemprop="height" content="60">
+      </div>
+    </div>
+
+    
+    
+      <meta itemprop="datePublished" content="2013-01-12T21:46:39&#43;00:00">
+    
+    
+      <meta itemprop="dateModified" content="2013-01-12T21:46:39&#43;00:00">
+    
+
+    
+    
+        <meta itemprop="image" content="https://cdn.ryanparman.com/hugo/posts/2013/aaron-swartz1@2x.jpg">
+    
+        <meta itemprop="image" content="https://cdn.ryanparman.com/hugo/posts/2013/demand-progress@2x.png">
+    
+        <meta itemprop="image" content="https://cdn.ryanparman.com/hugo/posts/2013/aaron-swartz2.jpg">
+    
+        <meta itemprop="image" content="https://cdn.ryanparman.com/hugo/posts/2013/aaron-swartz3@2x.jpg">
+    <meta itemprop="image" content="https://cdn.ryanparman.com/hugo/home/default-oembed.jpg">
+
+    <header class="mt4 w-100 pr4-l">
+      <p itemscope itemtype="https://schema.org/BreadcrumbList" class="f6 b tracked mid-gray date-section">
+        <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a itemtype="https://schema.org/Thing" itemprop="item" href="https://ryanparman.com" class="mid-gray">
+            <span itemprop="name">HOME</span>
+          </a>
+          <meta itemprop="position" content="1">
+        </span>&nbsp;&rarr; <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a itemtype="https://schema.org/Thing" itemprop="item" href="https://ryanparman.com/posts/" class="mid-gray">
+            <span itemprop="name">POSTS</span>
+          </a>
+          <meta itemprop="position" content="2">
+        </span>&nbsp;&rarr; <span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          <a itemtype="https://schema.org/Thing" itemprop="item" href="https://ryanparman.com/posts/2013" class="mid-gray">
+            <span itemprop="name">2013</span>
+          </a>
+          <meta itemprop="position" content="3">
+        </span>
+      </p>
+
+      <h1 class="f1-l f2-m f3-ns mb1 sans-title p-name entry-title">
+        <span itemprop="headline">Aaron Swartz</span>
+        
+      </h1>
+      
+      <div class="db border-box mv3 lh-copy mid-gray date-section">
+        <time class="f6 dib dt-published published" itemprop="datePublished" datetime="2013-01-12T21:46:39Z">
+          <a href="/posts/2013" class="mid-gray">12 January 2013</a>
+        </time> &bull; <span class="f6 dib"><a href="/categories/death" class="p-category category mid-gray">Death</a></span> &bull; <span class="f6 dib"><span itemprop="wordCount">3466</span> words</span> • <span class="f6 dib">17 minutes to read</span>
+      </div>
+    </header>
+
+    
+    <aside class="age five-years container flex">
+      <p><strong>⚠️ Author’s note:</strong> This post is more than 5 years old. Technical information may no longer be
+        accurate (or useful) and links may be broken. Continue at your own peril.</p>
+    </aside>
+    
+
+    <main class="nested-copy-line-height lh-copy sans-serif f5 nested-links nested-img mid-gray w-100">
+        
+
+
+
+<aside class="table-of-contents">
+    <details>
+    <summary>
+    <b>Table of Contents</b>
+    </summary><ul class="toc-h2"><li><a href="/amp/posts/2013/aaron-swartz/#the-world-is-now-a-worse-place">The world is now a worse place</a></li>
+            <li><a href="/amp/posts/2013/aaron-swartz/#rss">RSS</a></li>
+            <li><a href="/amp/posts/2013/aaron-swartz/#creative-commons-pacer-demand-progress">Creative Commons. PACER. Demand Progress.</a></li>
+            <li><a href="/amp/posts/2013/aaron-swartz/#download-too-much-go-to-jail">Download too much, go to jail</a></li>
+            <li><a href="/amp/posts/2013/aaron-swartz/#prosecutor-as-bully">Prosecutor as bully</a></li>
+            <li><a href="/amp/posts/2013/aaron-swartz/#in-the-end">In the end</a></li>
+            <li><a href="/amp/posts/2013/aaron-swartz/#update-20130112">Update (2013–01–12)</a></li>
+            <li><a href="/amp/posts/2013/aaron-swartz/#update-20130120">Update (2013–01–20)</a></li>
+            <li><a href="/amp/posts/2013/aaron-swartz/#more-links">More links…</a></li>
+            </details>
+</aside><div itemprop="articleBody" class="e-content entry-content"><p>I didn’t know Aaron personally, so there’s no insight I can provide into the person who I’ve read people describe as “a brilliant soul”.</p>
+<div class="pa2-ns">
+	<amp-img src="https://cdn.ryanparman.com/hugo/posts/2013/aaron-swartz1@2x.jpg" layout="responsive" width="" height=""></amp-img>
+    <p class="f6 gray tc db"></p>
+</div>
+
+<h2 id="the-world-is-now-a-worse-place">The world is now a worse place</h2>
+<p>The tech world is abuzz with the news that, at only 26 years old, <span itemscope itemtype="http://schema.org/Person"><a href="https://twitter.com/aaronsw" itemprop="url"><span itemprop="name">Aaron Swartz</span></a></span>
+ decided to take his own life. I heard about it last night when I opened up Tweetbot, and saw two tweets back-to-back in my timeline:</p>
+<p><a href="https://twitter.com/al3x">@al3x</a>
+:</p>
+<blockquote>
+<p>We lost @<a href="https://web.archive.org/web/20130112214639/https://twitter.com/aaronsw">aaronsw</a>. — <span itemscope itemtype="http://schema.org/Person"><a href="https://twitter.com/al3x" itemprop="url"><span itemprop="name">Alex Payne</span></a></span>
+ (@al3x) <a href="https://web.archive.org/web/20130112214639/https://twitter.com/al3x/status/290008536241565696">January 12, 2013</a>.</p>
+</blockquote>
+<p><a href="https://twitter.com/dcurtis">@dcurtis</a>
+:</p>
+<blockquote>
+<p>Fuck. <a href="https://web.archive.org/web/20130112214639/https://thetech.com/2013/01/09/swartz-v132-n61" title="http://tech.mit.edu/V132/N61/swartz.html">tech.mit.edu/V132/N61/swart…</a>The world is now a worse place. — <span itemscope itemtype="http://schema.org/Person"><a href="https://twitter.com/dcurtis" itemprop="url"><span itemprop="name">dustin curtis</span></a></span>
+ (@dcurtis) <a href="https://web.archive.org/web/20130112214639/https://twitter.com/dcurtis/status/290011012944510976">January 12, 2013</a>.</p>
+</blockquote>
+<h2 id="rss">RSS</h2>
+<p>Being part of the web world, I certainly knew Aaron by reputation. I first heard about him back when I started tinkering with RSS in 2003. While I <a href="https://web.archive.org/web/20130112214639/http://simplepie.org">may have started a project that simplified RSS for a legion of PHP developers</a>, Aaron literally wrote the spec — and at 14 years old, I might add.</p>
+<p><span itemscope itemtype="http://schema.org/Person"><span itemprop="name">Cory Doctorow</span></span>
+ <a href="https://web.archive.org/web/20130112214639/http://boingboing.net/2013/01/12/rip-aaron-swartz.html">had this to say</a>:</p>
+<blockquote>
+<p>I met Aaron when he was 14 or 15. He was working on XML stuff (he co-wrote the RSS specification when he was 14) and came to San Francisco often, and would stay with <span itemscope itemtype="http://schema.org/Person"><span itemprop="name">Lisa Rein</span></span>
+, a friend of mine who was also an XML person and who took care of him and assured his parents he had adult supervision. In so many ways, he was an adult, even then, with a kind of intense, fast intellect that really made me feel like he was part and parcel of the Internet society, like he belonged in the place where your thoughts are what matter, and not who you are or how old you are.</p>
+</blockquote>
+<h2 id="creative-commons-pacer-demand-progress">Creative Commons. PACER. Demand Progress.</h2>
+<div class="pa2-ns">
+	<amp-img src="https://cdn.ryanparman.com/hugo/posts/2013/demand-progress@2x.png" layout="responsive" width="" height=""></amp-img>
+    <p class="f6 gray tc db"></p>
+</div>
+
+<p>Every so often throughout the last decade, his name would pop-up around topics that I was also interested in. <a href="https://web.archive.org/web/20130112214639/http://creativecommons.org">Creative Commons</a>. Opening up <a href="https://web.archive.org/web/20130112214639/https://www.recapthelaw.org">public access to court records</a>. <a href="https://web.archive.org/web/20130112214639/http://demandprogress.org">Demand Progress</a>. He used technology to fight for the same sorts of causes that I fight for, evangelize for, or are otherwise close to my heart. <em>Namely:</em></p>
+<ul>
+<li>
+<p>the over-criminalization of American citizens by its government, and…</p>
+</li>
+<li>
+<p>the fact that the people we elect to represent us in government would throw us under the bus in a heartbeat if it meant more money, power and political cachet.</p>
+</li>
+</ul>
+<p>Cory Doctorow continues:</p>
+<blockquote>
+<p>At one point, he singlehandedly liberated 20 percent of US law. PACER, the system that gives Americans access to their own (public domain) case-law, charged a fee for each such access. After activists built RECAP (which allowed its users to put any caselaw they paid for into a free/public repository), Aaron spent a small fortune fetching a titanic amount of data and putting it into the public domain. The feds hated this. They smeared him, the FBI investigated him, and for a while, it looked like he’d be on the pointy end of some bad legal stuff, but he escaped it all, and emerged triumphant.</p>
+</blockquote>
+<p>Aaron was involved in the creation of an organization called <a href="https://web.archive.org/web/20130112214639/http://demandprogress.org">Demand Progress</a>, who <em>“works to win progressive policy changes for ordinary people through organizing, and grassroots lobbying. In particular, we tend to focus on issues of civil liberties, civil rights, and government reform.”</em></p>
+<p>It was here where I first learned about the Senate’s proposed <a href="https://web.archive.org/web/20130112214639/http://www.fightforthefuture.org/pipa/">PROTECT-IP Act</a> (later renamed “PIPA”), and it’s House sibling, the ill-fated <a href="https://web.archive.org/web/20130112214639/http://sopastrike.com">SOPA Act</a>, whose negative repercussions would have been felt for <em>generations</em> to come.</p>
+<h2 id="download-too-much-go-to-jail">Download too much, go to jail</h2>
+<p>From a <a href="https://web.archive.org/web/20130112214639/http://bits.blogs.nytimes.com/2011/07/19/reddit-co-founder-charged-with-data-theft/?pagewanted=all">New York Times article dated July 19, 2011</a>:</p>
+<blockquote>
+<p>Demand Progress said on its site that it appeared Mr. Swartz was “being charged with allegedly downloading too many scholarly journal articles from the Web.” It quoted the group’s executive director, David Segal, as saying, “It’s like trying to put someone in jail for allegedly checking too many books out of the library.”</p>
+</blockquote>
+<p>Cory Doctorow:</p>
+<blockquote>
+<p>Aaron snuck into MIT and planted a laptop in a utility closet, used it to download a lot of journal articles (many in the public domain), and then snuck in and retrieved it. This sort of thing is pretty par for the course around MIT, and though Aaron wasn’t an MIT student, he was a fixture in the Cambridge hacker scene, and associated with Harvard, and generally part of that gang, and Aaron hadn’t done anything with the articles (yet), so it seemed likely that it would just fizzle out. Instead, they threw the book at him. Even though MIT and JSTOR (the journal publisher) backed down, the prosecution kept on. I heard lots of theories: the feds who’d tried unsuccessfully to nail him for the PACER/RECAP stunt had a serious hate-on for him; the feds were chasing down all the Cambridge hackers who had any connection to Bradley Manning in the hopes of turning one of them, and other, less credible theories. A couple of lawyers close to the case told me that they thought Aaron would go to jail.</p>
+</blockquote>
+<p>And <a href="https://web.archive.org/web/20130112214639/http://lessig.tumblr.com/post/40347463044/prosecutor-as-bully">Larry Lessig</a>:</p>
+<blockquote>
+<p>But all this shows is that if the government proved its case, some punishment was appropriate. So what was that appropriate punishment? Was Aaron a terrorist? Or a cracker trying to profit from stolen goods? Or was this something completely different? Early on, and to its great credit, JSTOR figured “appropriate” out: They declined to pursue their own action against Aaron, and they asked the government to drop its. MIT, to its great shame, was not as clear, and so the prosecutor had the excuse he needed to continue his war against the “criminal” who we who loved him knew as Aaron.</p>
+</blockquote>
+<p>And an <a href="https://web.archive.org/web/20130112214639/http://www.techdirt.com/articles/20120917/17393320412/us-government-ups-felony-count-jstoraaron-swartz-case-four-to-thirteen.shtml">article from September</a> by Tim Cushing from TechDirt:</p>
+<blockquote>
+<p>Swartz, the executive director of Demand Progress, was charged with violating the Computer Fraud and Abuse Act, a catch-all designation for “computer activity the US government doesn’t like.” Swartz had accessed MIT’s computer network to download a large number of files from JSTOR, a non-profit that hosts academic journal articles. US prosecutors claimed he “stole” several thousand files, but considering MIT offered this access for free on campus (and the files being digital), it’s pretty tough to square his massive downloading with any idea of “theft.”</p>
+</blockquote>
+<h2 id="prosecutor-as-bully">Prosecutor as bully</h2>
+<div class="pa2-ns">
+	<amp-img src="https://cdn.ryanparman.com/hugo/posts/2013/aaron-swartz2.jpg" layout="responsive" width="" height=""></amp-img>
+    <p class="f6 gray tc db"></p>
+</div>
+
+<p><span itemscope itemtype="http://schema.org/Person"><span itemprop="name">Larry Lessig</span></span>
+ continues (reformatted paragraphs, mine):</p>
+<blockquote>
+<p>Here is where we need a better sense of justice, and shame. For the outrageousness in this story is not just Aaron. It is also the absurdity of the prosecutor’s behavior.</p>
+<p>From the beginning, the government worked as hard as it could to characterize what Aaron did in the most extreme and absurd way. The “property” Aaron had “stolen,” we were told, was worth “millions of dollars” — with the hint, and then the suggestion, that his aim must have been to profit from his crime. But anyone who says that there is money to be made in a stash of <em>ACADEMIC ARTICLES</em> is either an idiot or a liar. It was clear what this was not, yet our government continued to push as if it had caught the 9/11 terrorists red-handed.</p>
+<p>Aaron had literally done nothing in his life “to make money.” He was fortunate Reddit turned out as it did, but from his work building the RSS standard, to his work architecting Creative Commons, to his work liberating public records, to his work building a free public library, to his work supporting Change Congress/FixCongressFirst/Rootstrikers, and then Demand Progress, Aaron was always and only working for (at least his conception of) the public good. He was brilliant, and funny. A kid genius. A soul, a conscience, the source of a question I have asked myself a million times: What would Aaron think?</p>
+<p>That person is gone today, driven to the edge by what a decent society would only call bullying. I get wrong. But I also get proportionality. And if you don’t get both, you don’t deserve to have the power of the United States government [against] you. For remember, we live in a world where the architects of the financial crisis regularly dine at the White House — and where even those brought to “justice” never even have to admit any wrongdoing, let alone be labeled “felons.”</p>
+</blockquote>
+<p>And again from TechDirt:</p>
+<blockquote>
+<p>There are now 13 felony counts in the new indictment, derived from claims of multiple instances of breaking those four laws. In specific:</p>
+<ul>
+<li>Wire Fraud - 2 counts</li>
+<li>Computer Fraud - 5 counts</li>
+<li>Unlawfully Obtaining Information from a Protected Computer - 5 counts</li>
+<li>Recklessly Damaging a Protected Computer - 1 count</li>
+</ul>
+<p>It’s beyond my pay grade to figure out how many years in prison that all could be, when taking into account the complexities of sentencing law. Let’s leave it at a large scary number. Enough to ruin someone’s life.</p>
+</blockquote>
+<p>And the kicker…</p>
+<blockquote>
+<p>So, how do the new charges stack up in terms of a sentence? Tough to say. Each of the charges carries the possibility of a fine and imprisonment of up to 10–20 years per felony. Depending on how many of the counts Swartz is found guilty of, the sentence could conceivably total 50+ years and fine in the area of $4 million. All this over publicly accessed research documents that JSTOR doesn’t even feel the need to pursue further than it did.</p>
+</blockquote>
+<h2 id="in-the-end">In the end</h2>
+<p><span itemscope itemtype="http://schema.org/Person"><span itemprop="name">Alan Ellis</span></span>
+, a nationally-recognized federal criminal defense lawyer <a href="https://web.archive.org/web/20130112214639/http://www.alanellis.com">explains</a>:</p>
+<blockquote>
+<p>Nearly 97 percent of all federal criminal defendants will plead guilty. Of the remaining 3 percent who go to trial, as many as 75 percent will be convicted. Thus, nearly 99 percent of all federal criminal defendants will be sentenced. Of that number, 80 percent of defendants will receive jail or prison time.</p>
+</blockquote>
+<p>Specifically:</p>
+<ul>
+<li>96.9% of federal criminal cases result in a guilty plea. (U.S. Sentencing Commission)</li>
+<li>75.6% of federal criminal defendants are convicted following trial. (U.S. Department of Justice)</li>
+<li>99% of federal defendants are sentenced.</li>
+<li>82.8% of federal criminal defendants receive a prison term. (U.S. Sentencing Commission)</li>
+</ul>
+<p>In the end, while nobody knows why Aaron decided to take his own life, I could certainly posit a guess. When the federal government comes after you, you’re pretty much done for. In Aaron’s case, he pissed off the wrong federal prosecutors, and they moved to eviscerate him, legally, over downloading academic journals that MIT provided access to for free.</p>
+<p>What a terrible, terrible shame.</p>
+<div class="pa2-ns">
+	<amp-img src="https://cdn.ryanparman.com/hugo/posts/2013/aaron-swartz3@2x.jpg" layout="responsive" width="" height=""></amp-img>
+    <p class="f6 gray tc db"></p>
+</div>
+
+<h2 id="update-20130112">Update (2013–01–12)</h2>
+<p>As the day has gone on, more people have been sharing their thoughts on Aaron, his case, and the person he was.</p>
+<p>A <a href="https://web.archive.org/web/20130112214639/https://gist.github.com/skyzyx/7bee92a5302f87c0457ffb691f936a81">post by Aaron Swartz</a>, dated July 2008.</p>
+<blockquote>
+<p>There is no justice in following unjust laws. It’s time to come into the light and, in the grand tradition of civil disobedience, declare our opposition to this private theft of public culture.</p>
+<p>We need to take information, wherever it is stored, make our copies and share them with the world. We need to take stuff that’s out of copyright and add it to the archive. We need to buy secret databases and put them on the Web. We need to download scientific journals and upload them to file sharing networks. We need to fight for Guerilla Open Access.</p>
+<p>With enough of us, around the world, we’ll not just send a strong message opposing the privatization of knowledge — we’ll make it a thing of the past. Will you join us?</p>
+</blockquote>
+<p>The <a href="https://web.archive.org/web/20130112214639/http://rememberaaronsw.tumblr.com/post/40372208044/official-statement-from-the-family-and-partner-of-aaron">official statement from Aaron Swartz’ family</a>:</p>
+<blockquote>
+<p>Aaron’s commitment to social justice was profound, and defined his life. He was instrumental to the defeat of an Internet censorship bill; he fought for a more democratic, open, and accountable political system; and he helped to create, build, and preserve a dizzying range of scholarly projects that extended the scope and accessibility of human knowledge. He used his prodigious skills as a programmer and technologist not to enrich himself but to make the Internet and the world a fairer, better place. His deeply humane writing touched minds and hearts across generations and continents. He earned the friendship of thousands and the respect and support of millions more.</p>
+</blockquote>
+<p>From the post &ldquo;<a href="https://web.archive.org/web/20130112214639/http://www.quinnnorton.com/said/?p=644">My Aaron Swartz, whom I loved.</a>,&rdquo; by Quinn Norton:</p>
+<blockquote>
+<p>He loved my daughter so much it filled the room like a mist. He was transported playing with her, and she bored right into his heart. In his darkest moments, which I couldn’t reach him, Ada could still touch him, even if only for a moment. And when he was in the light, my god. I couldn’t keep up with either of them. I would hang back and watch them spring and play and laugh, and be so grateful for them both.</p>
+</blockquote>
+<p>Expert witness Alex Stamos, in &ldquo;<a href="https://web.archive.org/web/20130112214639/http://unhandled.com/2013/01/12/the-truth-about-aaron-swartzs-crime/">The Truth about Aaron Swartz’s ‘Crime’</a>&quot;:</p>
+<blockquote>
+<p>In short, Aaron Swartz was not the super hacker breathlessly described in the Government’s indictment and forensic reports, and his actions did not pose a real danger to JSTOR, MIT or the public. He was an intelligent young man who found a loophole that would allow him to download a lot of documents quickly. This loophole was created intentionally by MIT and JSTOR, and was codified contractually in the piles of paperwork turned over during discovery.</p>
+<p>If I had taken the stand as planned and had been asked by the prosecutor whether Aaron’s actions were “wrong”, I would probably have replied that what Aaron did would better be described as “inconsiderate”. In the same way it is inconsiderate to write a check at the supermarket while a dozen people queue up behind you or to check out every book at the library needed for a History 101 paper. It is inconsiderate to download lots of files on shared wifi or to spider Wikipedia too quickly, but none of these actions should lead to a young person being hounded for years and haunted by the possibility of a 35 year sentence.</p>
+</blockquote>
+<h2 id="update-20130120">Update (2013–01–20)</h2>
+<p>I’ve continued to add to the links below as I’ve come across them, but a few more interesting things are beginning to shake-out from Aaron’s prosecution.</p>
+<p>Scott Horton from Harper’s Magazine <a href="https://web.archive.org/web/20130112214639/http://harpers.org/blog/2013/01/carmen-ortiz-strikes-out/">writes</a> (Emphasis <em>mine</em>):</p>
+<blockquote>
+<p>U.S. Attorney Carmen Ortiz is fighting to hold on to her job, and to avoid an embarrassing grilling in Congress and possible professional disciplinary proceedings. Her prospects look grim. Rep. Darrell Issa (R., Calif.), chair of the House Committee on Oversight is pledging a vigorous and critical inquiry into her management of the dubious criminal prosecution of Aaron Swartz, one of the greatest computer prodigies of his generation, who committed suicide a week ago, apparently convinced that out-of-control prosecutors had destroyed his life. […]</p>
+<p>At funeral services in Highland Park, Illinois, on Tuesday, Swartz’s father charged that his son had been “killed by the government.” While some might ascribe this to the anguish of a bereaved father, scholars and investigators poring over the record of the Swartz prosecution are increasingly shocked at the scope and outrageousness of the prosecutorial misconduct that he faced. […]</p>
+<p>Although each of these counts bordered on the preposterous, Ortiz and Heymann clearly reckoned that at least one or two would stick during the jury-room bargaining process. More to the point, they assumed that the risk of their success even on bogus charges would be enough to pressure Swartz into accepting a guilty plea on all the counts in exchange for a reduced sentence — which is what they offered him. The process was fundamentally corrupt and shameful. <em>But observers of the American criminal-justice system also know that it was a common one.</em></p>
+</blockquote>
+<p>I first learned about this corrupt little trick, long-since leveraged by federal prosecutors, when my best-friend-since-childhood made a stupid mistake one evening that was technically a felony offense — he viewed a 30-second video clip of <em>somebody else</em> committing a felony.</p>
+<p>This is the same thing that police do when they’re investigating a bank robbery. The same thing that news anchors do when they show a security tape of people smashing through the front-doors of an Apple Store to steal iPads, <em>“more at eleven”</em>. Had he walked by and seen it happening through a window, he wouldn’t have been prosecuted. But he saw a half-minute <em>recording</em> and they threw the book at him. It’s very much like how prostitution is illegal, but if you record the act, suddenly it becomes porn. Perfectly legal.</p>
+<p>50 hours of community service would have been <em>plenty</em> to correct the mistake he made and make him pay more attention to his actions in the future. Instead, trumped-up charges by federal prosecutors resulted in him being sentenced to 2 years in a federal penitentiary, followed by 5 years under probation, and another 15–20 years on the Sex Offender Registry living as a social pariah.</p>
+<p>(Studies by the U.S. Justice Department and other organizations show that <a href="https://web.archive.org/web/20130112214639/https://www.nytimes.com/2011/08/21/opinion/sunday/sex-offenders-the-last-pariahs.html?pagewanted=all&amp;_r=0">recidivism rates are significantly lower for convicted sex offenders than for burglars, robbers, thieves, drug offenders and other convicts</a>.)</p>
+<p>He lost his home, his career, many of his friends, and because of his registry status he can’t find work — all because he made a stupid mistake. He’s doing everything he possibly can to re-assimilate back into society, but society doesn’t want him. His life was ruined. Fortunately, he’s smart, well-spoken and a hard worker. He was able to start two companies and is able to provide for his wife and 3 children. One of those companies is <a href="https://web.archive.org/web/20130112214639/http://pcr-consultants.com">dedicated to helping people</a> who were likewise abused by the federal justice system and have experienced the injustice of the Bureau of Prisons.</p>
+<p>But I digress…</p>
+<p>Timothy B. Lee, from Ars Technica, <a href="https://web.archive.org/web/20130112214639/http://arstechnica.com/tech-policy/2013/01/aarons-law-congressional-investigation-in-wake-of-swartz-suicide/">follows-up on Aaron’s Law</a>:</p>
+<blockquote>
+<p>On Tuesday, Rep. <span itemscope itemtype="http://schema.org/Person"><span itemprop="name">Zoe Lofgren</span></span>
+ (D-CA) took to the pages of reddit to introduce legislation she dubbed “Aaron’s Law.” Lofgren’s bill would modify the Computer Fraud and Abuse Act, the basis for Swartz’s prosecution, to clarify that its definition of unauthorized access “does not include access in violation of an agreement or contractual obligation, such as an acceptable use policy or terms of service agreement, with an Internet service provider, Internet website, or employer.” It would make a similar change to the wire fraud statute.</p>
+<p>The language was praised by Harvard law professor Lawrence Lessig, a friend of Swartz whose wife organized his legal defense fund. “This is a CRITICALLY important change that would do incredible good,” Lessig wrote on reddit. “The CFAA was the hook for the government’s bullying of @aaronsw. This law would remove that hook.”</p>
+</blockquote>
+<h2 id="more-links">More links…</h2>
+<ul>
+<li><a href="https://web.archive.org/web/20130112214639/http://blogoscoped.com/archive/2007-05-07-n78.html">A Chat with Aaron Swartz</a> (Blogoscoped)</li>
+<li><a href="https://web.archive.org/web/20130112214639/https://github.com/joshleitzel/rawthought">Raw Thought: The Weblog of Aaron Swartz in Markdown, PDF, and ePub</a> (GitHub)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://harpers.org/blog/2013/01/carmen-ortiz-strikes-out/">Carmen Ortiz Strikes Out</a> (Harper’s)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://www.esquire.com/blogs/politics/aaron-swartz-case-011713">Still More About The Death Of Aaron Swartz</a> (Esquire)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://www.newyorker.com/online/blogs/newsdesk/2013/01/everyone-interesting-is-a-felon.html?currentPage=all">How the Legal System Failed Aaron Swartz</a> (The New Yorker)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://www.huffingtonpost.com/2013/01/15/darrell-issa-aaron-swartz-_n_2481450.html">Darrell Issa Probing Prosecution Of Aaron Swartz, Internet Pioneer Who Killed Himself</a> (Huffington Post)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://thehill.com/blogs/hillicon-valley/technology/277353-lawmakers-blast-trumped-up-doj-prosecution-of-internet-activist">Lawmakers slam DOJ prosecution of Swartz as ‘ridiculous, absurd’</a> (The Hill)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://www.npr.org/2013/01/15/169421636/did-prosecutors-go-too-far-in-swartz-case">Did Prosecutors Go Too Far In Swartz Case?</a> (NPR)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://mashable.com/2013/01/15/aaron-swartz-petition/">25,000 People Sign Petition to Remove Aaron Swartz’s Prosecutors</a> (Mashable)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://arstechnica.com/tech-policy/2013/01/aarons-law-congressional-investigation-in-wake-of-swartz-suicide/">“Aaron’s law,” Congressional investigation in wake of Swartz suicide</a> (Ars Technica)</li>
+<li><a href="https://web.archive.org/web/20130112214639/https://www.eff.org/deeplinks/2013/01/farewell-aaron-swartz">Farewell to Aaron Swartz, an extraordinary hacker and activist</a> (Electronic Frontier Foundation)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://arstechnica.com/tech-policy/2012/09/feds-go-overboard-in-prosecuting-information-activist/">Feds go overboard in prosecuting information activist</a> (Ars Technica)</li>
+<li><a href="https://web.archive.org/web/20130112214639/https://public.resource.org/aaron/">Be free</a> (resource.org)</li>
+<li><a href="https://web.archive.org/web/20130112214639/https://www.nytimes.com/2013/01/13/technology/aaron-swartz-internet-activist-dies-at-26.html?pagewanted=all">Aaron Swartz, Precocious Programmer and Internet Activist, Dies at 26</a> (New York Times)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://news.ycombinator.com/item?id=5048123">AaronSW may have left everything to Givewell, an efficient meta-charity</a> (Hacker News)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://www.vivtek.com/aaron_swartz_legacy.html">Aaron Swartz’s legacy</a> (Michael Roberts)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://lists.w3.org/Archives/Public/www-tag/2013Jan/0017.html">Aaron is dead.</a> (Sir Tim Berners-Lee, W3C)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://www.markbernstein.org/Jan13/AaronSwartz.html">Aaron Swartz</a> (Mark Bernstein)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://inessential.com/2013/01/12/aaron_swartz">Aaron Swartz</a> (Brent Simmons)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://alexdong.com/soulmate-lost-rip-aaron-swartz/">Soulmate lost. RIP Aaron Swartz.</a> (Alex Dong)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://arstechnica.com/tech-policy/2013/01/aaron-swartz-and-me-over-a-loosely-intertwined-decade/">Aaron Swartz and me, over a loosely intertwined decade</a> (Ars Technica)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://about.jstor.org/statement-swartz">Aaron Swartz</a> (JSTOR)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://blog.archive.org/2013/01/12/aaron-swartz-hero-of-the-open-world-rip/">Aaron Swartz, hero of the open world, dies</a> (archive.org)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://www.thoughtworks.com/articles/remembering-aaron-swartz">Remembering Aaron Swartz</a> (ThoughtWorks)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://yro.slashdot.org/story/13/01/13/139218/us-attorney-chided-swartz-on-day-of-suicide">US Attorney Chided Swartz On Day of Suicide</a> (Slashdot)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://torrentfreak.com/remember-aaron-swartz-130113/">Remember Aaron Swartz (1986 – 2013)</a> (TorrentFreak)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://sciencecitizen.org/?p=219">Our tribute to Aaron Swartz</a> (Science Citizen)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://www.aarongreenspan.com/writing/essay.html?id=83">$10,000: The Aaron Swartz Memorial Grants</a> (Aaron Greenspan)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://web.mit.edu/newsoffice/2013/letter-on-death-of-aaron-swartz.html">Statement on behalf of MIT</a> (L. Rafael Reif)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://discountgeni.us/2013/01/13/why-am-i-so-upset-about-aaron-swartzs-suicide/">Why Am I So Upset About Aaron Swartz’s Suicide?</a> (John Atkinson)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://www.volokh.com/2013/01/14/aaron-swartz-charges/">The Criminal Charges Against Aaron Swartz (Part 1: The Law)</a> (The Volokh Conspiracy)</li>
+<li><a href="https://web.archive.org/web/20130112214639/https://www.nytimes.com/2013/01/14/technology/aaron-swartz-a-data-crusader-and-now-a-cause.html?pagewanted=all">A Data Crusader, a Defendant and Now, a Cause</a> (New York Times)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://www.hacker9.com/anonymous-hacks-2-mit-websites-in-the-memory-of-web-activist-aaron-swartz.html">Anonymous hacks 2 MIT websites in the memory of web activist Aaron Swartz</a> (hacker9)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://www.economist.com/blogs/babbage/2013/01/remembering-aaron-swartz">Remembering Aaron Swartz: Commons man</a> (The Economist)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://danbri.org/words/2013/01/13/815">Remembering Aaron Swartz</a> (danbri.org)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://crookedtimber.org/2013/01/13/mit-and-aaron-swartz/">MIT and Aaron Swartz</a> (Crooked Timber)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://rt.com/usa/news/swartz-prosecutor-suicide-hacker-050/">Prosecutor pursuing Aaron Swartz linked to suicide of another hacker</a> (RT.com)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://cyberlaw.stanford.edu/blog/2013/01/towards-learning-losing-aaron-swartz-part-2">Towards Learning from Losing Aaron Swartz: Part 2</a> (Stanford Law School)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://www.thedailymuse.com/education/aaron-swartz-didnt-have-to-die/">Aaron Swartz: Idealist, Innovator—And Now Victim</a> (The Daily Muse)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://arstechnica.com/tech-policy/2013/01/weve-lost-a-fighter-hundreds-gather-to-mourn-aaron-swartz/">“We’ve lost a fighter”: Hundreds gather to mourn Aaron Swartz</a> (Ars Technica)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://gothamist.com/2013/01/15/aaron_swartzs_lawyer_mit_refused_pl.php">Aaron Swartz’s Lawyer: MIT Refused Plea Deal Without Jail Time</a> (Gothamist)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://pcr-consultants.com/2013/01/the-suicide-of-a-federal-criminal-defendant/">The Suicide of a Federal Criminal Defendant</a> (PCR Consultants)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://waxy.org/2013/01/aaron/">Aaron</a> (Waxy.org)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://erratasec.blogspot.com/2013/01/i-conceal-my-identity-same-way-aaron.html">I conceal my identity the same way Aaron was indicted for</a> (Errata Security)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://psychcentral.com/blog/archives/2013/01/15/aaron-swartz-a-culture-of-denial-depression-suicide-in-tech/">Aaron Swartz &amp; A Culture of Denial: Depression &amp; Suicide in Tech</a> (PsychCentral)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://hcrenewal.blogspot.ca/2013/01/the-tragic-case-of-aaron-swartz-unequal.html">The Tragic Case of Aaron Swartz: Unequal Justice for Web Activists vs Health Care Corporate Executives</a> (Health Care Renewal)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://cryptome.org/2013/01/swartz/mit-closet-swartz.htm">MIT Closet Allegedly Used by Aaron Swartz</a> (Cryptome)</li>
+<li><a href="https://web.archive.org/web/20130112214639/http://danwin.com/2013/01/edward-tufte-aaron-swartz-marvelously-different/">Edward Tufte’s defense of Aaron Swartz and the “marvelously different”</a> (Dan Nguyen)</li>
+</ul>
+</div>
+        <div class="vcard p-author author container">
+  <div class="photo">
+    <p class="mb0 mb5-ns">
+      <amp-img src="https://cdn.ryanparman.com/hugo/gravatars/current/8c73b5fc88b88ac0d92fec541c6a4413890df291@4x.jpg" alt="Ryan Parman" width="640" height="640"></amp-img>
+    </p>
+  </div>
+  <div class="about p-note note">
+    <p><strong itemprop="name" class="p-name fn n" rel="author"><span itemprop="givenName" class="p-given-name given-name">Ryan</span> <span itemprop="familyName" class="p-family-name family-name">Parman</span></strong> is an <span itemprop="jobTitle" class="p-role">engineering manager</span> with over 20 years of experience across <span itemprop="knowsAbout">software development</span>, <span itemprop="knowsAbout">site reliability engineering</span>, and <span itemprop="knowsAbout">security</span>. He is the creator of <a href="http://simplepie.org" class="u-url p-org">SimplePie</a> and <a href="https://aws.amazon.com/sdk-for-php/" class="u-url">AWS SDK for PHP</a>, patented <a href="https://patents.google.com/patent/US20160241536A1/en?inventor=Ryan+Parman">multifactor-authentication-as-a-service</a> at <span itemprop="alumniOf" itemscope itemtype="http://schema.org/Organization"><a href="https://wepay.com" itemprop="name url" class="u-url p-org"><span itemprop="name">WePay</span></a></span>, defined much of the <span itemprop="knowsAbout"><abbr title="Continuous Integration, Continuous Delivery">CI/CD</abbr></span> and <span itemprop="knowsAbout"><abbr title="Site Reliability Engineering">SRE</abbr></span> disciplines at <span itemprop="worksFor" itemscope itemtype="http://schema.org/Organization"><a href="https://www.mheducation.com" itemprop="name url" class="u-url p-org"><span itemprop="name">McGraw-Hill Education</span></a></span>, and came up with the idea of “<a href="https://aws.amazon.com/lambda/">serverless, event-driven, responsive functions in the cloud</a>” while at <span itemprop="alumniOf" itemscope itemtype="http://schema.org/Organization"><a href="https://aws.amazon.com" itemprop="name url" class="u-url p-org"><span itemprop="name">Amazon Web Services</span></a></span> in 2010. Ryan's aptly-named blog, <span itemprop="memberOf" itemscope itemtype="http://schema.org/WebSite"><a href="https://ryanparman.com" itemprop="url" rel="me" class="u-url"><span itemprop="name">Flailing Wildly</span></a></span>, is where he writes about ideas longer than <span itemscope itemtype="http://schema.org/FollowAction"><a href="https://twitter.com/skyzyx" itemprop="url" rel="me" class="u-url">280 characters</a></span>. Ambivert. Curious. Not a coffee drinker.</p>
+
+  </div>
+
+  <meta itemprop="gender" content="male">
+  <meta itemprop="honorificPrefix" content="Mr.">
+  <meta itemprop="knowsLanguage" content="en">
+  <meta itemprop="nationality" content="United States of America">
+</div>
+
+<div itemprop="publisher" itemscope itemtype="http://schema.org/Organization" itemid="#publisher">
+  <meta itemprop="name" content="Flailing Wildly">
+  <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+    <link itemprop="url contentUrl" href="https://cdn.ryanparman.com/hugo/favicons/apple-touch-icon-60x60.png">
+    <meta itemprop="width" content="60">
+    <meta itemprop="height" content="60">
+  </div>
+</div>
+
+<nav class="db border-box pa3 cf">
+        <div class="db v-mid tl-l fl">
+          <a href="https://ryanparman.com/amp/posts/2012/my-favorite-mac-apps-music-and-video-apps/" title="My favorite Mac apps: Music and Video Apps" class="link dim dark-gray f6 f5-l dib">&larr; Previous</a>
+        </div>
+        <div class="db v-mid tr-l fr">
+          <a href="https://ryanparman.com/amp/posts/2013/h265-has-been-approved/" title="H.265 has been approved" class="link dim dark-gray f6 f5-l dib">Next &rarr;</a>
+        </div>
+      </nav>
+
+    </main>
+
+  </article>
+
+    </main>
+    <footer class="pv4 ph3 ph5-ns tc" role="contentinfo">
+  
+
+<div class="pv4 ph3 tc">
+  
+  <a class="link-transition twitter link dib z-999 pt3 pt0-l mr2" href="https://twitter.com/skyzyx" title="Twitter">
+    <svg class="dib h2 w2" fill="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="32px" width="32px" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M16 3.038c-.59.26-1.22.437-1.885.517.677-.407 1.198-1.05 1.443-1.816-.634.375-1.337.648-2.085.795-.598-.638-1.45-1.036-2.396-1.036-1.812 0-3.282 1.468-3.282 3.28 0 .258.03.51.085.75C5.152 5.39 2.733 4.084 1.114 2.1.83 2.583.67 3.147.67 3.75c0 1.14.58 2.143 1.46 2.732-.538-.017-1.045-.165-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22-.276.074-.566.114-.865.114-.21 0-.416-.02-.617-.058.418 1.304 1.63 2.253 3.067 2.28-1.124.88-2.54 1.404-4.077 1.404-.265 0-.526-.015-.783-.045 1.453.93 3.178 1.474 5.032 1.474 6.038 0 9.34-5 9.34-9.338 0-.143-.004-.284-.01-.425.64-.463 1.198-1.04 1.638-1.7z" fill-rule="nonzero"/></svg>
+
+  </a>
+  
+  
+  <a class="link-transition youtube link dib z-999 pt3 pt0-l mr2" href="https://www.youtube.com/user/Skyzyx" title="YouTube">
+    <svg class="dib w2 h2" fill="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="32px" width="32px" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M0 7.345c0-1.294.16-2.59.16-2.59s.156-1.1.636-1.587c.608-.637 1.408-.617 1.764-.684C3.84 2.36 8 2.324 8 2.324s3.362.004 5.6.166c.314.038.996.04 1.604.678.48.486.636 1.588.636 1.588S16 6.05 16 7.346v1.258c0 1.296-.16 2.59-.16 2.59s-.156 1.102-.636 1.588c-.608.638-1.29.64-1.604.678-2.238.162-5.6.166-5.6.166s-4.16-.037-5.44-.16c-.356-.067-1.156-.047-1.764-.684-.48-.487-.636-1.587-.636-1.587S0 9.9 0 8.605v-1.26zm6.348 2.73V5.58l4.323 2.255-4.32 2.24h-.002z"/></svg>
+
+  </a>
+  
+  
+  <a class="link-transition linkedin link dib z-999 pt3 pt0-l mr2" href="https://www.linkedin.com/in/rparman" title="LinkedIn">
+    <svg class="dib h2 w2" fill="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="32px" width="32px" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M13.632 13.635h-2.37V9.922c0-.886-.018-2.025-1.234-2.025-1.235 0-1.424.964-1.424 1.96v3.778h-2.37V6H8.51V7.04h.03c.318-.6 1.092-1.233 2.247-1.233 2.4 0 2.845 1.58 2.845 3.637v4.188zM3.558 4.955c-.762 0-1.376-.617-1.376-1.377 0-.758.614-1.375 1.376-1.375.76 0 1.376.617 1.376 1.375 0 .76-.617 1.377-1.376 1.377zm1.188 8.68H2.37V6h2.376v7.635zM14.816 0H1.18C.528 0 0 .516 0 1.153v13.694C0 15.484.528 16 1.18 16h13.635c.652 0 1.185-.516 1.185-1.153V1.153C16 .516 15.467 0 14.815 0z" fill-rule="nonzero"/></svg>
+
+  </a>
+  
+  
+  <a class="link-transition github link dib z-999 pt3 pt0-l mr2" href="https://github.com/skyzyx" title="GitHub">
+    <svg class="dib h2 w2" fill="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="32px" width="32px" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M8 0C3.58 0 0 3.582 0 8c0 3.535 2.292 6.533 5.47 7.59.4.075.547-.172.547-.385 0-.19-.007-.693-.01-1.36-2.226.483-2.695-1.073-2.695-1.073-.364-.924-.89-1.17-.89-1.17-.725-.496.056-.486.056-.486.803.056 1.225.824 1.225.824.714 1.223 1.873.87 2.33.665.072-.517.278-.87.507-1.07-1.777-.2-3.644-.888-3.644-3.953 0-.873.31-1.587.823-2.147-.083-.202-.358-1.015.077-2.117 0 0 .672-.215 2.2.82.638-.178 1.323-.266 2.003-.27.68.004 1.364.092 2.003.27 1.527-1.035 2.198-.82 2.198-.82.437 1.102.163 1.915.08 2.117.513.56.823 1.274.823 2.147 0 3.073-1.87 3.75-3.653 3.947.287.246.543.735.543 1.48 0 1.07-.01 1.933-.01 2.195 0 .215.144.463.55.385C13.71 14.53 16 11.534 16 8c0-4.418-3.582-8-8-8"/></svg>
+
+  </a>
+  
+  
+  <a class="link-transition stackoverflow link dib z-999 pt3 pt0-l mr2" href="https://stackoverflow.com/users/228514/ryan-parman" title="Stack Overflow">
+    <svg class="dib h2 w2" fill="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="32px" width="32px" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M12.658 14.577v-4.27h1.423V16H1.23v-5.693H2.65v4.27h10.006zm-8.583-1.423h7.16V11.73h-7.16v1.424zm.173-3.235l6.987 1.465.3-1.38L4.55 8.54l-.302 1.38zm.906-3.365l6.47 3.02.602-1.295-6.47-3.02-.602 1.295zm1.81-3.19l5.478 4.57.906-1.078-5.477-4.57-.905 1.077zM10.502 0L9.338.863l4.27 5.735 1.164-.862L10.5 0z"/></svg>
+
+  </a>
+  
+  
+  <a class="link-transition medium link dib z-999 pt3 pt0-l mr2" href="https://medium.com/@skyzyx" title="Medium">
+    <svg class="dib h2 w2" fill="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="32px" width="32px" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M11.824 12.628l-.276.45.798.398 2.744 1.372c.15.076.294.11.418.11.278 0 .467-.177.467-.492V5.883l-4.15 6.745zm4.096-8.67c-.004-.003 0-.01-.003-.012l-4.825-2.412c-.06-.03-.123-.038-.187-.044-.016 0-.03-.01-.047-.01-.184 0-.368.092-.467.254l-.24.39-.5.814-1.89 3.08 1.89 3.076.5.813.5.812.59.95 4.71-7.64c.02-.03.01-.06-.02-.08zm-6.27 7.045L7.17 6.97l-.295-.477-.294-.477-.25-.416v4.867l3.32 1.663.5.25.5.25-.5-.813-.5-.813zM.737 1.68L.59 1.608c-.085-.042-.166-.062-.24-.062-.206 0-.35.16-.35.427v10.162c0 .272.2.594.442.716l4.145 2.08c.107.06.208.08.3.08.257 0 .438-.2.438-.53V4.01c0-.02-.012-.04-.03-.047L.738 1.68z"/></svg>
+
+  </a>
+  
+  
+  <a class="link-transition codepen link dib z-999 pt3 pt0-l mr2" href="https://codepen.io/skyzyx/" title="CodePen">
+    <svg class="dib h2 w2" fill="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" height="32px" width="32px" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M15.988 5.443c-.004-.02-.007-.04-.012-.058l-.01-.033c-.006-.017-.012-.034-.02-.05-.003-.012-.01-.023-.014-.034l-.023-.045-.02-.032-.03-.04-.024-.03c-.01-.013-.022-.026-.034-.038l-.027-.027-.04-.032-.03-.024-.012-.01L8.38.117c-.23-.155-.53-.155-.76 0L.305 4.99.296 5c-.012.007-.022.015-.032.023-.014.01-.027.02-.04.032l-.027.027-.034.037-.024.03-.03.04c-.006.012-.013.022-.02.033l-.023.045-.015.034c-.007.016-.012.033-.018.05l-.01.032c-.005.02-.01.038-.012.058l-.006.03C.002 5.5 0 5.53 0 5.56v4.875c0 .03.002.06.006.09l.007.03c.003.02.006.04.013.058l.01.033c.006.018.01.035.018.05l.015.033c.006.016.014.03.023.047l.02.03c.008.016.018.03.03.042.007.01.014.02.023.03.01.012.02.025.034.036.01.01.018.02.028.026l.04.033.03.023.01.01 7.31 4.876c.116.078.248.117.382.116.134 0 .266-.04.38-.116l7.314-4.875.01-.01c.012-.007.022-.015.032-.023.014-.01.027-.02.04-.032l.027-.027.034-.037.024-.03.03-.04.02-.032.023-.046.015-.033.018-.052.01-.033c.005-.02.01-.038.013-.058 0-.01.003-.02.004-.03.004-.03.006-.06.006-.09V5.564c0-.03-.002-.06-.006-.09l-.007-.03zM8 9.626L5.568 8 8 6.374 10.432 8 8 9.626zM7.312 5.18l-2.98 1.993-2.406-1.61 5.386-3.59v3.206zM3.095 8l-1.72 1.15v-2.3L3.095 8zm1.237.828l2.98 1.993v3.208l-5.386-3.59 2.406-1.61zm4.355 1.993l2.98-1.993 2.407 1.61-5.387 3.59v-3.206zM12.905 8l1.72-1.15v2.3L12.905 8zm-1.237-.827L8.688 5.18V1.97l5.386 3.59-2.406 1.61z" fill-rule="nonzero"/></svg>
+
+  </a>
+  
+</div>
+
+  <div>
+  	<span class="f6 link gray dib">&copy; 2003–2020 Ryan Parman</span><br>
+  	<span class="f6 link gray dib"><a href="/content-license/" rel="license" class="f6 gray dib">Content License</a> &bull; <a href="/privacy/" class="f6 gray dib">Privacy Policy</a> &bull; <a href="/contact/" class="f6 gray dib">Follow</a> &bull; <a href="/feeds/" class="f6 gray dib">Subscribe</a> &bull; <a href="/wishlist/" class="f6 gray dib">Wishlist</a></span>
+  </div>
+</footer>
+
+
+  </body>
+</html>

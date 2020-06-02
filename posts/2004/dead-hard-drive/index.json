@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Dead Hard Drive",
+    "description": "",
+    "summary": {
+        "content": "I’m writing this from work because my computer is dead. Well, not actually dead, but it might as well be. It won’t boot. Now, before I get a string of “Boot to Safe Mode using F8” comments, I need to let you know that I know what I’m doing, and if it was that simple I wouldn’t be writing this post. What’s actually going on is that my computer can’t read the boot partition — which won’t allow Windows XP to load — which means that I can’t even get to where I could press F8 to boot into Safe Mode.",
+        "isTruncated": true
+    },
+    "published": "2004-05-25T23:00:08Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2004/dead-hard-drive/",
+    "relativePermalink": "/posts/2004/dead-hard-drive/",
+    "aliases": ["/2004/05/25/dead-hard-drive/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Tech Life"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 351,
+        "readingTime": "2 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2004/20040525-dead-hard-drive.md",
+        "logicalName": "20040525-dead-hard-drive.md",
+        "translationBaseName": "20040525-dead-hard-drive",
+        "baseFileName": "20040525-dead-hard-drive",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2004/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eI’m writing this from work because my computer is dead. Well, not actually dead, but it might as well be. It won’t boot.\u003c/p\u003e\n\u003cp\u003eNow, before I get a string of “Boot to Safe Mode using F8” comments, I need to let you know that I know what I’m doing, and if it was that simple I wouldn’t be writing this post.\u003c/p\u003e\n\u003cp\u003eWhat’s actually going on is that my computer can’t read the boot partition — which won’t allow Windows XP to load — which means that I can’t even get to where I \u003cem\u003ecould\u003c/em\u003e press F8 to boot into Safe Mode. I pulled out my Win98 Boot Floppy, but since Win98 and MS-DOS can’t read NTFS partitions, I can’t dig around on my drives to back anything up (namely my registry). But, I do have my hard drive set up with multiple partitions.\u003c/p\u003e\n\u003cp\u003eOne of my drives is a 160GB. Of that, 5GB is designated as my boot partition. It has the Windows folder on it. This is the partition I’m having problems with. I’ve also got a 30GB partition designated as my Program Files partition. There’s a trick you can do with NTFS that allows you to use a drive or partition as a folder on another drive. I’ve got another 20GB set up for Red Hat Linux 9.0. The rest of the drive is just NTFS storage.\u003c/p\u003e\n\u003cp\u003eI’ve tried the rescue mode from the CD, but rescue mode can’t read my C drive. I’m currently in the process of wiping out my Linux partition, setting that partition to the active partition, installing Windows there, and trying to read what I can from the dead partition. This is not fun.\u003c/p\u003e\n\u003cp\u003eAnyways, if anybody has any advice to help me recover my partition, I’d appreciate it. No, I’m not switching to Linux full-time, and no, I’d rather save reformatting as an absolute last resort. Because of my partitioning scheme, I won’t lose any of my program files data, but I’ll lose my registry entries — which means that I’ll have to reinstall everything anyways.\u003c/p\u003e\n\u003cp\u003e*Sigh* Sometimes I miss Mac OS 9…\u003c/p\u003e\n",
+        "plain":"I’m writing this from work because my computer is dead. Well, not actually dead, but it might as well be. It won’t boot.\nNow, before I get a string of “Boot to Safe Mode using F8” comments, I need to let you know that I know what I’m doing, and if it was that simple I wouldn’t be writing this post.\nWhat’s actually going on is that my computer can’t read the boot partition — which won’t allow Windows XP to load — which means that I can’t even get to where I could press F8 to boot into Safe Mode. I pulled out my Win98 Boot Floppy, but since Win98 and MS-DOS can’t read NTFS partitions, I can’t dig around on my drives to back anything up (namely my registry). But, I do have my hard drive set up with multiple partitions.\nOne of my drives is a 160GB. Of that, 5GB is designated as my boot partition. It has the Windows folder on it. This is the partition I’m having problems with. I’ve also got a 30GB partition designated as my Program Files partition. There’s a trick you can do with NTFS that allows you to use a drive or partition as a folder on another drive. I’ve got another 20GB set up for Red Hat Linux 9.0. The rest of the drive is just NTFS storage.\nI’ve tried the rescue mode from the CD, but rescue mode can’t read my C drive. I’m currently in the process of wiping out my Linux partition, setting that partition to the active partition, installing Windows there, and trying to read what I can from the dead partition. This is not fun.\nAnyways, if anybody has any advice to help me recover my partition, I’d appreciate it. No, I’m not switching to Linux full-time, and no, I’d rather save reformatting as an absolute last resort. Because of my partitioning scheme, I won’t lose any of my program files data, but I’ll lose my registry entries — which means that I’ll have to reinstall everything anyways.\n*Sigh* Sometimes I miss Mac OS 9…\n",
+        "source":"\nI’m writing this from work because my computer is dead. Well, not actually dead, but it might as well be. It won’t boot.\n\nNow, before I get a string of “Boot to Safe Mode using F8” comments, I need to let you know that I know what I’m doing, and if it was that simple I wouldn’t be writing this post.\n\nWhat’s actually going on is that my computer can’t read the boot partition — which won’t allow Windows XP to load — which means that I can’t even get to where I *could* press F8 to boot into Safe Mode. I pulled out my Win98 Boot Floppy, but since Win98 and MS-DOS can’t read NTFS partitions, I can’t dig around on my drives to back anything up (namely my registry). But, I do have my hard drive set up with multiple partitions.\n\nOne of my drives is a 160GB. Of that, 5GB is designated as my boot partition. It has the Windows folder on it. This is the partition I’m having problems with. I’ve also got a 30GB partition designated as my Program Files partition. There’s a trick you can do with NTFS that allows you to use a drive or partition as a folder on another drive. I’ve got another 20GB set up for Red Hat Linux 9.0. The rest of the drive is just NTFS storage.\n\nI’ve tried the rescue mode from the CD, but rescue mode can’t read my C drive. I’m currently in the process of wiping out my Linux partition, setting that partition to the active partition, installing Windows there, and trying to read what I can from the dead partition. This is not fun.\n\nAnyways, if anybody has any advice to help me recover my partition, I’d appreciate it. No, I’m not switching to Linux full-time, and no, I’d rather save reformatting as an absolute last resort. Because of my partitioning scheme, I won’t lose any of my program files data, but I’ll lose my registry entries — which means that I’ll have to reinstall everything anyways.\n\n\\*Sigh\\* Sometimes I miss Mac OS 9…\n"},
+    "links": {
+        "prev": {"title": "Hotmail blocking Firefox?", "permalink": "https://ryanparman.com/posts/2004/hotmail-blocking-firefox/"},
+        "next": {"title": "RIP: Ronald Reagan, 1911-2004", "permalink": "https://ryanparman.com/posts/2004/rip-ronald-reagan-1911-2004/"},
+        "ignore": "me"
+    }
+}
+
+}

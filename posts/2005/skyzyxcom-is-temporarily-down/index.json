@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "Skyzyx.com Is Temporarily Down",
+    "description": "",
+    "summary": {
+        "content": "Nobody freak out! My primary domain, Skyzyx.com, is temporarily down while I switch webhosts. Service should only be down for a few days at most, so if there’s something hosted on that domain that you’re looking for, it should all be back up shortly. Update: It’s back up again. Move along. There’s nothing to see here.",
+        "isTruncated": false
+    },
+    "published": "2005-09-29T01:03:08Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/skyzyxcom-is-temporarily-down/",
+    "relativePermalink": "/posts/2005/skyzyxcom-is-temporarily-down/",
+    "aliases": ["/2005/09/28/skyzyxcom-is-temporarily-down/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 56,
+        "readingTime": "1 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050929-skyzyxcom-is-temporarily-down.md",
+        "logicalName": "20050929-skyzyxcom-is-temporarily-down.md",
+        "translationBaseName": "20050929-skyzyxcom-is-temporarily-down",
+        "baseFileName": "20050929-skyzyxcom-is-temporarily-down",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eNobody freak out! My primary domain, Skyzyx.com, is temporarily down while I switch webhosts. Service should only be down for a few days at most, so if there’s something hosted on that domain that you’re looking for, it should all be back up shortly.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eUpdate:\u003c/strong\u003e It’s back up again. Move along. There’s nothing to see here.\u003c/p\u003e\n",
+        "plain":"Nobody freak out! My primary domain, Skyzyx.com, is temporarily down while I switch webhosts. Service should only be down for a few days at most, so if there’s something hosted on that domain that you’re looking for, it should all be back up shortly.\nUpdate: It’s back up again. Move along. There’s nothing to see here.\n",
+        "source":"\nNobody freak out! My primary domain, Skyzyx.com, is temporarily down while I switch webhosts. Service should only be down for a few days at most, so if there’s something hosted on that domain that you’re looking for, it should all be back up shortly.\n\n**Update:** It’s back up again. Move along. There’s nothing to see here.\n"},
+    "links": {
+        "prev": {"title": "Movie Reviews 2005", "permalink": "https://ryanparman.com/posts/2005/movie-reviews-2005/"},
+        "next": {"title": "How To Keep A Healthy Level of Insanity", "permalink": "https://ryanparman.com/posts/2005/how-to-keep-a-healthy-level-of-insanity/"},
+        "ignore": "me"
+    }
+}
+
+}

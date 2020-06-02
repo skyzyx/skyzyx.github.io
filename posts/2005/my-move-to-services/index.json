@@ -1,0 +1,52 @@
+{
+    "data": {
+    "kind": "page",
+    "title": "My Move To Services",
+    "description": "",
+    "summary": {
+        "content": "If you’re seeing this in your feed reader, it means that the feed switchover worked without a hitch. I got all of the redirection worked out for both my weblog, as well as my sidebar links. Glad to still have you all around. While doing this, I utilized two services: FeedBurner and del.icio.us. I think that at this point, most bloggers know what del.icio.us is. It’s a way to bookmark things, and share them around. I’ve begun using this service in place of my normal bookmark functionality and it makes it infinitely easier to keep my bookmarks synced between multiple computers.",
+        "isTruncated": true
+    },
+    "published": "2005-09-03T21:58:09Z",
+    "updated": "2019-02-10T21:35:12-08:00",
+    "permalink": "https://ryanparman.com/posts/2005/my-move-to-services/",
+    "relativePermalink": "/posts/2005/my-move-to-services/",
+    "aliases": ["/2005/09/03/my-move-to-services/"],
+    "images": [],
+    "videos": [],
+    "categories": ["Website"],
+    "tags": [],
+    "series": [],
+    "keywords": [],
+    "meta": {
+        "wordCount": 437,
+        "readingTime": "3 minutes",
+        "language": "en",
+        "isDraft": false,
+        "isHome": false,
+        "isNode": false,
+        "isPage": true,
+        "isTranslated": false
+    },
+    "sourceFile": {
+        "path": "posts/2005/20050903-my-move-to-services.md",
+        "logicalName": "20050903-my-move-to-services.md",
+        "translationBaseName": "20050903-my-move-to-services",
+        "baseFileName": "20050903-my-move-to-services",
+        "ext": "md",
+        "lang": "en",
+        "dir": "posts/2005/"
+    },
+    "content": {
+        "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
+        "html":"\u003cp\u003eIf you’re seeing this in your feed reader, it means that the feed switchover worked without a hitch. I got all of the redirection worked out for both my weblog, as well as my sidebar links. Glad to still have you all around.\u003c/p\u003e\n\u003cp\u003eWhile doing this, I utilized two services: \u003ca href=\"https://web.archive.org/web/20050903215809/http://www.feedburner.com\"\u003eFeedBurner\u003c/a\u003e and \u003ca href=\"https://web.archive.org/web/20050903215809/http://del.icio.us\"\u003edel.icio.us\u003c/a\u003e. I think that at this point, most bloggers know what del.icio.us is. It’s a way to bookmark things, and share them around. I’ve begun using this service in place of my normal bookmark functionality and it makes it infinitely easier to keep my bookmarks synced between multiple computers. I’ve actually got a fairly large dump of bookmarks that will be going into del.icio.us in a day or two. It took a while to get my old sidebar links into it, but now everything is peachy.\u003c/p\u003e\n\u003cp\u003eFeedBurner is a service that allows you to track how many people are reading your site, and also provides statistical analysis of things like user-agents (what application or service is being used to read your feed) as well as things like time-of-day pulls and such. There’s a free and a pay version. I’m using the free one right now, and at the moment, it’s all I need.\u003c/p\u003e\n\u003cp\u003eOne thing that I absolutely hate is when someone changes the URL of their feed and either doesn’t say anything (really bad), or posts a message that says “hey, I changed my feed URL to this… update your bookmarks” or whatever (bad, but not as bad). I was guilty of this at one point long ago, but I never wanted to do this to anyone ever again because of how much it bothers me. So, Apache 301 redirects were the solution. If your service or feed reader supports 301 redirects, you’ll be in good shape whenever the old feed address finally goes away.\u003c/p\u003e\n\u003cp\u003eOf course it only bothers me, because I have to switch away from my feed reader to go login to Bloglines, then delete the old entry, and re-add the new entry. Then, I have to go into each feed reader I have (Feed Demon on 2 computers and NetNewsWire on 1), delete the old feed, then pull down the new feed. It’d be much easier if I could get 2-way syncronization across multiple products and services… but hey, what can I do?\u003c/p\u003e\n\u003cp\u003eSo there you have it. Both of the above-mentioned services are good, so I’d recommend looking into them. Hopefully I’ll soon have all of my pictures loaded into Flickr, and my redesigned site will have images from there, as well as my iTunes listening habits. Ooh… integration…\u003c/p\u003e\n",
+        "plain":"If you’re seeing this in your feed reader, it means that the feed switchover worked without a hitch. I got all of the redirection worked out for both my weblog, as well as my sidebar links. Glad to still have you all around.\nWhile doing this, I utilized two services: FeedBurner and del.icio.us. I think that at this point, most bloggers know what del.icio.us is. It’s a way to bookmark things, and share them around. I’ve begun using this service in place of my normal bookmark functionality and it makes it infinitely easier to keep my bookmarks synced between multiple computers. I’ve actually got a fairly large dump of bookmarks that will be going into del.icio.us in a day or two. It took a while to get my old sidebar links into it, but now everything is peachy.\nFeedBurner is a service that allows you to track how many people are reading your site, and also provides statistical analysis of things like user-agents (what application or service is being used to read your feed) as well as things like time-of-day pulls and such. There’s a free and a pay version. I’m using the free one right now, and at the moment, it’s all I need.\nOne thing that I absolutely hate is when someone changes the URL of their feed and either doesn’t say anything (really bad), or posts a message that says “hey, I changed my feed URL to this… update your bookmarks” or whatever (bad, but not as bad). I was guilty of this at one point long ago, but I never wanted to do this to anyone ever again because of how much it bothers me. So, Apache 301 redirects were the solution. If your service or feed reader supports 301 redirects, you’ll be in good shape whenever the old feed address finally goes away.\nOf course it only bothers me, because I have to switch away from my feed reader to go login to Bloglines, then delete the old entry, and re-add the new entry. Then, I have to go into each feed reader I have (Feed Demon on 2 computers and NetNewsWire on 1), delete the old feed, then pull down the new feed. It’d be much easier if I could get 2-way syncronization across multiple products and services… but hey, what can I do?\nSo there you have it. Both of the above-mentioned services are good, so I’d recommend looking into them. Hopefully I’ll soon have all of my pictures loaded into Flickr, and my redesigned site will have images from there, as well as my iTunes listening habits. Ooh… integration…\n",
+        "source":"\nIf you’re seeing this in your feed reader, it means that the feed switchover worked without a hitch. I got all of the redirection worked out for both my weblog, as well as my sidebar links. Glad to still have you all around.\n\nWhile doing this, I utilized two services: [FeedBurner]({{% wayback \"http://www.feedburner.com\" %}}) and [del.icio.us]({{% wayback \"http://del.icio.us\" %}}). I think that at this point, most bloggers know what del.icio.us is. It’s a way to bookmark things, and share them around. I’ve begun using this service in place of my normal bookmark functionality and it makes it infinitely easier to keep my bookmarks synced between multiple computers. I’ve actually got a fairly large dump of bookmarks that will be going into del.icio.us in a day or two. It took a while to get my old sidebar links into it, but now everything is peachy.\n\nFeedBurner is a service that allows you to track how many people are reading your site, and also provides statistical analysis of things like user-agents (what application or service is being used to read your feed) as well as things like time-of-day pulls and such. There’s a free and a pay version. I’m using the free one right now, and at the moment, it’s all I need.\n\nOne thing that I absolutely hate is when someone changes the URL of their feed and either doesn’t say anything (really bad), or posts a message that says “hey, I changed my feed URL to this… update your bookmarks” or whatever (bad, but not as bad). I was guilty of this at one point long ago, but I never wanted to do this to anyone ever again because of how much it bothers me. So, Apache 301 redirects were the solution. If your service or feed reader supports 301 redirects, you’ll be in good shape whenever the old feed address finally goes away.\n\nOf course it only bothers me, because I have to switch away from my feed reader to go login to Bloglines, then delete the old entry, and re-add the new entry. Then, I have to go into each feed reader I have (Feed Demon on 2 computers and NetNewsWire on 1), delete the old feed, then pull down the new feed. It’d be much easier if I could get 2-way syncronization across multiple products and services… but hey, what can I do?\n\nSo there you have it. Both of the above-mentioned services are good, so I’d recommend looking into them. Hopefully I’ll soon have all of my pictures loaded into Flickr, and my redesigned site will have images from there, as well as my iTunes listening habits. Ooh… integration…\n"},
+    "links": {
+        "prev": {"title": "Windows Vista Fonts", "permalink": "https://ryanparman.com/posts/2005/windows-vista-fonts/"},
+        "next": {"title": "iCal TV Show Schedules", "permalink": "https://ryanparman.com/posts/2005/ical-tv-show-schedules/"},
+        "ignore": "me"
+    }
+}
+
+}
