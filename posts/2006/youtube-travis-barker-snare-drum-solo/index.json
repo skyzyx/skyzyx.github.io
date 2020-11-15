@@ -4,7 +4,7 @@
     "title": "YouTube: Travis Barker - Snare Drum Solo",
     "description": "",
     "summary": {
-        "content": "The video could not be loaded. ",
+        "content": " ",
         "isTruncated": false
     },
     "published": "2006-02-19T03:47:04Z",
@@ -19,8 +19,8 @@
     "series": [],
     "keywords": [],
     "meta": {
-        "wordCount": 6,
-        "readingTime": "1 minutes",
+        "wordCount": 0,
+        "readingTime": "0 minutes",
         "language": "en",
         "isDraft": false,
         "isHome": false,
@@ -39,8 +39,8 @@
     },
     "content": {
         "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
-        "html":"\u003camp-youtube data-videoid=\"H0RgXBd7EY0\" layout=\"responsive\" width=\"704\" height=\"396\"\u003e\n  \u003cdiv fallback\u003e\n    \u003cp\u003eThe video could not be loaded.\u003c/p\u003e\n  \u003c/div\u003e\n\u003c/amp-youtube\u003e\n\n",
-        "plain":"The video could not be loaded.\n  ",
+        "html":"\u003cdiv class=\"video-wrapper\" data-streaming=\"youtube\" data-videoid=\"\" \u003e\n\t\u003ci class=\"icon-video-play-button shortcode\"\u003e\u003c/i\u003e\n\t\n\t\u003cdiv style=\"background-image:url(//img.youtube.com/vi//0.jpg)\" alt=\"YouTube Thumbnail\" class=\"video-thumbnail\"\u003e\u003c/div\u003e\n\t\n\u003c/div\u003e\n\n\n",
+        "plain":"   ",
         "source":"\n{{\u003c yt H0RgXBd7EY0 \u003e}}\n"},
     "links": {
         "prev": {"title": "Awesome view-source trick for JavaScript developers", "permalink": "https://ryanparman.com/posts/2006/awesome-view-source-trick-for-javascript-developers/"},

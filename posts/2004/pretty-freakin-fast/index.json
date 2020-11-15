@@ -39,7 +39,7 @@
     },
     "content": {
         "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
-        "html":"\u003cp\u003eWhoa! I really like my new DSL.\u003c/p\u003e\n\u003cdiv class=\"pa2-ns\"\u003e\n\t\u003camp-img src=\"https://cdn.ryanparman.com/img/downloads.jpg\" layout=\"responsive\" width=\"\" height=\"\"\u003e\u003c/amp-img\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n",
+        "html":"\u003cp\u003eWhoa! I really like my new DSL.\u003c/p\u003e\n\u003cdiv class=\"pa2-ns\"\u003e\n    \u003cpicture\u003e\u003csource type=\"image/webp\" srcset=\"https://cdn.ryanparman.com/img/downloads.webp\" alt=\"Image of a download at 2925 KB/sec\" class=\"db fullimage\" decoding=\"async\"\u003e\n        \u003cimg src=\"https://cdn.ryanparman.com/img/downloads.jpg\" alt=\"Image of a download at 2925 KB/sec\" class=\"db fullimage\" decoding=\"async\"\u003e\n    \u003c/picture\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n",
         "plain":"Whoa! I really like my new DSL.\n  ",
         "source":"\nWhoa! I really like my new DSL.\n\n{{\u003cfullimage src=\"https://cdn.ryanparman.com/img/downloads.jpg\" alt=\"Image of a download at 2925 KB/sec\"\u003e}}\n"},
     "links": {

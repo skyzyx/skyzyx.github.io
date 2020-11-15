@@ -444,29 +444,28 @@ div.footnotes {
     
   
   <header><nav class="pv3 ph3 ph4-ns bg-black" role="navigation">
-    <a class="link dim white b f6 f5-ns dib mr3" href="https://ryanparman.com" title="Home">Flailing Wildly</a>
-    
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/about/" title="About the Author">About the Author</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/posts/" title="Archive">Archive</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/categories/" title="Categories">Categories</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="https://github.com/skyzyx" title="Code">Code</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/design/" title="Design">Design</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/tools/" title="DevTools">DevTools</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/series/editors-choice/" title="Editor’s Choice">Editor’s Choice</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/follow/" title="Follow">Follow</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/series/" title="Series’">Series’</a>
-        
-      </ul>
-    
+	<a class="link dim white b f6 f5-ns dib mr3" href="https://ryanparman.com" title="Home">Flailing Wildly</a>
+	
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/about/" title="About the Author">About the Author</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/posts/" title="Archive">Archive</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/categories/" title="Categories">Categories</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="https://github.com/skyzyx" title="Code">Code</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/design/" title="Design">Design</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/tools/" title="DevTools">DevTools</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/series/editors-choice/" title="Editor’s Choice">Editor’s Choice</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/follow/" title="Follow">Follow</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/series/" title="Series’">Series’</a>
+		
+	</ul>
 </nav>
 </header>
 
@@ -582,7 +581,7 @@ TL;DR: How I improved the performance of case-insensitive XPath queries by 30–
 <p>During my time working at Amazon Web Services on the SDK for PHP, I discovered some substantial performance gains by moving a lot of the response-parsing code to XPath. As such, the core XML parsing in SimplePie NG is all built around <a href="https://web.archive.org/web/20180204002621/https://secure.php.net/domdocument">DOMDocument</a> and <a href="https://web.archive.org/web/20180204002621/https://secure.php.net/domxpath">XPath</a> queries.</p>
 <p>To solve this case-insensitivity problem, <a href="https://web.archive.org/web/20180204002621/https://stackoverflow.com/questions/2893551/case-insensitive-matching-in-xpath">searching Stack Overflow for “case insensitive xpath”</a> tells you about the XPath 2.0 functions <a href="https://web.archive.org/web/20180204002621/https://www.w3.org/TR/xpath-functions/#func-matches"><code>matches()</code></a> and <a href="https://web.archive.org/web/20180204002621/https://www.w3.org/TR/xpath-functions/#func-lower-case"><code>lower-case()</code></a>. However, I was surprised to learn that PHP only supports XPath 1.0. After doing some digging, the reason appears to be that the underlying <a href="https://web.archive.org/web/20180204002621/http://xmlsoft.org">libxml2</a> library only supports XPath 1.0, with <a href="https://web.archive.org/web/20180204002621/https://mail.gnome.org/archives/xml/2007-February/msg00077.html">no updated support on the horizon</a>.</p>
 <p>The only alternative that Google and Stack Overflow had for me was the XPath 1.0 function, <a href="https://web.archive.org/web/20180204002621/https://www.w3.org/TR/xpath/#function-translate"><code>translate()</code></a>. In PHP, the case-insensitive query for the <code>&lt;rss&gt;</code> element would be:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-php" data-lang="php">/*[translate(name(), &#39;ABCDEFGHIJKLMNOPQRSTUVWXYZ&#39;, &#39;abcdefghijklmnopqrstuvwxyz&#39;) = &#39;rss&#39;]
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-php" data-lang="php"><span style="color:#f92672">/*</span>[<span style="color:#a6e22e">translate</span>(<span style="color:#a6e22e">name</span>(), <span style="color:#e6db74">&#39;ABCDEFGHIJKLMNOPQRSTUVWXYZ&#39;</span>, <span style="color:#e6db74">&#39;abcdefghijklmnopqrstuvwxyz&#39;</span>) <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;rss&#39;</span>]
 </code></pre></div><p>It’s simple enough to turn this into a pattern inside of a function. Case-insensitive XML parsing. Done. Boo-yah.</p>
 <h2 id="performance-testing">Performance-testing</h2>
 <p>A little while later, I started some early work on benchmarking SimplePie NG. I parsed a number of normal-sized feeds, and got back a bunch of perfectly reasonable results. But one thing that I wanted to test was memory usage to make sure there were no memory leaks.</p>
@@ -605,7 +604,7 @@ TL;DR: How I improved the performance of case-insensitive XPath queries by 30–
 <h3 id="simplify-translate">Simplify translate()</h3>
 <p>Finally, I wondered if I could reduce the amount of time that <code>translate()</code> takes if I simply gave it less work to do. Instead of giving it the entire alphabet, what if I only gave it the letters that were in the XML element name?</p>
 <p>PHP has a function <a href="https://web.archive.org/web/20180204002621/https://secure.php.net/manual/en/function.count-chars.php"><code>count_chars()</code></a> that can return the unique characters in a string. From here, we can create upper and lower-case versions of the string, and just use those in the <em>translate()</em> function.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-php" data-lang="php"><span style="color:#75715e">&lt;?php</span>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-php" data-lang="php"><span style="color:#f92672">&lt;?</span><span style="color:#a6e22e">php</span>
 
 $word           <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;rss&#39;</span>;
 $elementLetters <span style="color:#f92672">=</span> <span style="color:#a6e22e">\count_chars</span>($word, <span style="color:#ae81ff">3</span>);

@@ -39,7 +39,7 @@
     },
     "content": {
         "tableOfContents": "\u003cnav id=\"TableOfContents\"\u003e\u003c/nav\u003e",
-        "html":"\u003cdiv class=\"pa2-ns\"\u003e\n\t\u003camp-img src=\"https://cdn.ryanparman.com/img/kip.gif\" layout=\"responsive\" width=\"\" height=\"\"\u003e\u003c/amp-img\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20050203035249/http://quizilla.com/users/retromex/quizzes/Which%20Napoleon%20Dynamite%20character%20are%20you%3F/\"\u003eWhich Napoleon Dynamite Character Are You?\u003c/a\u003e\u003c/p\u003e\n",
+        "html":"\u003cdiv class=\"pa2-ns\"\u003e\n    \u003cpicture\u003e\u003csource type=\"image/webp\" srcset=\"https://cdn.ryanparman.com/img/kip.webp\" alt=\"Kip Dynamite\" class=\"db fullimage\" decoding=\"async\"\u003e\n        \u003cimg src=\"https://cdn.ryanparman.com/img/kip.gif\" alt=\"Kip Dynamite\" class=\"db fullimage\" decoding=\"async\"\u003e\n    \u003c/picture\u003e\n    \u003cp class=\"f6 gray tc db\"\u003e\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003e\u003ca href=\"https://web.archive.org/web/20050203035249/http://quizilla.com/users/retromex/quizzes/Which%20Napoleon%20Dynamite%20character%20are%20you%3F/\"\u003eWhich Napoleon Dynamite Character Are You?\u003c/a\u003e\u003c/p\u003e\n",
         "plain":"  Which Napoleon Dynamite Character Are You?\n",
         "source":"\n{{\u003cfullimage src=\"https://cdn.ryanparman.com/img/kip.gif\" alt=\"Kip Dynamite\"\u003e}}\n\n[Which Napoleon Dynamite Character Are You?]({{% wayback \"http://quizilla.com/users/retromex/quizzes/Which%20Napoleon%20Dynamite%20character%20are%20you%3F/\" %}})\n"},
     "links": {

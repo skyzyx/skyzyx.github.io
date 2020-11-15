@@ -428,29 +428,28 @@ First off, here’s how everything was setup and configured, before I tweaked it
     
   
   <header><nav class="pv3 ph3 ph4-ns bg-black" role="navigation">
-    <a class="link dim white b f6 f5-ns dib mr3" href="https://ryanparman.com" title="Home">Flailing Wildly</a>
-    
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/about/" title="About the Author">About the Author</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/posts/" title="Archive">Archive</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/categories/" title="Categories">Categories</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="https://github.com/skyzyx" title="Code">Code</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/design/" title="Design">Design</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/tools/" title="DevTools">DevTools</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/series/editors-choice/" title="Editor’s Choice">Editor’s Choice</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/follow/" title="Follow">Follow</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/series/" title="Series’">Series’</a>
-        
-      </ul>
-    
+	<a class="link dim white b f6 f5-ns dib mr3" href="https://ryanparman.com" title="Home">Flailing Wildly</a>
+	
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/about/" title="About the Author">About the Author</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/posts/" title="Archive">Archive</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/categories/" title="Categories">Categories</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="https://github.com/skyzyx" title="Code">Code</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/design/" title="Design">Design</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/tools/" title="DevTools">DevTools</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/series/editors-choice/" title="Editor’s Choice">Editor’s Choice</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/follow/" title="Follow">Follow</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/series/" title="Series’">Series’</a>
+		
+	</ul>
 </nav>
 </header>
 
@@ -555,7 +554,7 @@ First off, here’s how everything was setup and configured, before I tweaked it
 </ol>
 <p>Most things worked great. I could get on the internet all right, I could connect to my printer, as well as my PC’s share when I was plugged in with the loose cable from slot 2, but not when I was wireless. It’s been kind of a pain at times, but nothing too huge.</p>
 <p>This weekend, I found myself needing to print something from the living room, but couldn’t, and didn’t feel like disconnecting my printer from the back of my PC and plugging it into my Mac. So I decided to do some fiddling.</p>
-<p>To tell the truth, I’d’ve probably just left it alone had I not had an idea of what to do (you like my double-contraction there, don’t you? “I’d’ve.” You know you do…). I got tipped off by reading somewhere about iTunes playlist sharing, which I do at work regularly. <code>&lt;gloat&gt;</code>*Well, really, most people share from me as I have the largest MP3 collection at work so far with over 5000 legit songs.*<code>&lt;/gloat&gt;</code> But what I read was that it used to work via any IP, but because some people were irresponsible with it (stealing music), Apple restricted this functionality to those network users <em>on the same subnet</em>.</p>
+<p>To tell the truth, I’d’ve probably just left it alone had I not had an idea of what to do (you like my double-contraction there, don’t you? “I’d’ve.” You know you do…). I got tipped off by reading somewhere about iTunes playlist sharing, which I do at work regularly. <code>&lt;gloat&gt;</code><em>Well, really, most people share from me as I have the largest MP3 collection at work so far with over 5000 legit songs.</em><code>&lt;/gloat&gt;</code> But what I read was that it used to work via any IP, but because some people were irresponsible with it (stealing music), Apple restricted this functionality to those network users <em>on the same subnet</em>.</p>
 <p>Hmmm… now I know that it isn’t exactly the same as having <em>subnet</em>, but what if I changed the settings on my Airport Express to assign IP’s in the same range (<code>192.168.0.x</code>) as my wired router? I figured I’d give it a try, and sure enough, it worked. After setting my Airport Express to assign IP’s in the <code>192.168.0.200</code> - <code>192.168.0.254</code> range, I was (finally) able to see my PC’s shared resources without having to manually type in a specific IP address. I added the shared printer with no problems, and am finally able to print wirelessly from my Mac to my PC’s desk printer.</p>
 <p>So kids, that’s the trick. If you’re at home with 254 or less IP-needing devices (I believe that 192.168.0.255 is reserved for something or another), you can tell your routers to assign certain ranges of IP’s all in the same happy little group.</p>
 <p>I hope this can help at least one person out there someday.</p>

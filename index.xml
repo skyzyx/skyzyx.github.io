@@ -5,11 +5,7 @@
     <link>https://ryanparman.com/</link>
     <description>Recent content on Flailing Wildly</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://ryanparman.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://ryanparman.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What did you expect would happen?</title>
       <link>https://ryanparman.com/posts/2020/what-did-you-expect-would-happen/</link>

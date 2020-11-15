@@ -446,29 +446,28 @@ div.footnotes {
     
   
   <header><nav class="pv3 ph3 ph4-ns bg-black" role="navigation">
-    <a class="link dim white b f6 f5-ns dib mr3" href="https://ryanparman.com" title="Home">Flailing Wildly</a>
-    
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/about/" title="About the Author">About the Author</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/posts/" title="Archive">Archive</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/categories/" title="Categories">Categories</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="https://github.com/skyzyx" title="Code">Code</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/design/" title="Design">Design</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/tools/" title="DevTools">DevTools</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/series/editors-choice/" title="Editor’s Choice">Editor’s Choice</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/follow/" title="Follow">Follow</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/series/" title="Series’">Series’</a>
-        
-      </ul>
-    
+	<a class="link dim white b f6 f5-ns dib mr3" href="https://ryanparman.com" title="Home">Flailing Wildly</a>
+	
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/about/" title="About the Author">About the Author</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/posts/" title="Archive">Archive</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/categories/" title="Categories">Categories</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="https://github.com/skyzyx" title="Code">Code</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/design/" title="Design">Design</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/tools/" title="DevTools">DevTools</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/series/editors-choice/" title="Editor’s Choice">Editor’s Choice</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/follow/" title="Follow">Follow</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/series/" title="Series’">Series’</a>
+		
+	</ul>
 </nav>
 </header>
 
@@ -581,13 +580,13 @@ While YouTube is free (as in money) to use, the cost is paid in terms of privacy
 <p>Many websites provide <em>a video</em> to their users, wherein this video is a single file, and the browser will begin loading and playing the video from start to finish. This means that even if the user only watches the first few seconds of a 5 minute video, it&rsquo;s possible that the video is downloaded in its entirety — which is an unnecessary cost.</p>
 <p>However, we can provide a <em>better user experience</em> as well as <em>reduce hosting costs</em> by leveraging the ability to serve bandwidth-adaptive chunks of video to players on-demand.</p>
 <h3 id="adaptive-bitrate-streaming">Adaptive Bitrate Streaming</h3>
-<p>There are two major, semi-compatible approaches to <a href="https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming">adaptive bitrate streaming</a> over HTTP. One is called <a href="https://en.wikipedia.org/wiki/HTTP_Live_Streaming">HTTP Live Streaming</a> (“HLS”), and the other is called <a href="https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP">Dynamic Adaptive Streaming over HTTP</a> (“MPEG-DASH”).</p>
+<p>There are two major, semi-compatible approaches to <a href="https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming">adaptive bitrate streaming</a> over HTTP. One is called <a href="https://web.archive.org/web/20180909031833/https://en.wikipedia.org/wiki/HTTP_Live_Streaming">HTTP Live Streaming</a> (“HLS”), and the other is called <a href="https://web.archive.org/web/20180909031833/https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP">Dynamic Adaptive Streaming over HTTP</a> (“MPEG-DASH”).</p>
 <div class="pa2-ns">
 	<amp-img src="https://cdn.ryanparman.com/hugo/posts/2018/adaptive-bitrate-streaming.png" layout="responsive" width="" height=""></amp-img>
     <p class="f6 gray tc db"></p>
 </div>
 
-<p>From <a href="https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming">Wikipedia</a>:</p>
+<p>From <a href="https://web.archive.org/web/20180909031833/https://en.wikipedia.org/wiki/Adaptive_bitrate_streaming">Wikipedia</a>:</p>
 <blockquote>
 <p>Adaptive bitrate streaming is a technique used in streaming multimedia over computer networks. While in the past most video or audio streaming technologies utilized streaming protocols such as RTP with RTSP, today&rsquo;s adaptive streaming technologies are almost exclusively based on HTTP and designed to work efficiently over large distributed HTTP networks such as the Internet.</p>
 <p>It works by detecting a user&rsquo;s bandwidth and CPU capacity in real time and adjusting the quality of the media stream accordingly. It requires the use of an encoder which can encode a single source media (video or audio) at multiple bit rates. The player client switches between streaming the different encodings depending on available resources. &ldquo;The result: very little buffering, fast start time and a good experience for both high-end and low-end connections.&rdquo; […]</p>
@@ -596,7 +595,7 @@ While YouTube is free (as in money) to use, the cost is paid in terms of privacy
 </blockquote>
 <p>This means that we can use off-the-shelf services like <a href="https://aws.amazon.com/s3">Amazon S3</a> and <a href="https://aws.amazon.com/cloudfront">Amazon CloudFront</a> to serve video, which are relatively inexpensive and have large user-bases who can answer questions when you run into issues.</p>
 <h3 id="http-live-streaming-hls">HTTP Live Streaming (HLS)</h3>
-<p>After doing some research, I came across a blog post that was particularly helpful — “<a href="https://vincent.bernat.ch/en/blog/2018-self-hosted-videos">Self-hosted videos with HLS</a>” by Vincent Bernat.</p>
+<p>After doing some research, I came across a blog post that was particularly helpful — “<a href="https://web.archive.org/web/20180909031833/https://vincent.bernat.ch/en/blog/2018-self-hosted-videos">Self-hosted videos with HLS</a>” by Vincent Bernat.</p>
 <p>Vincent writes:</p>
 <blockquote>
 <p>To serve HLS videos, you need three kinds of files:</p>
@@ -612,7 +611,7 @@ While YouTube is free (as in money) to use, the cost is paid in terms of privacy
 </ul>
 <p>Fragmented MP4 media segments are supported since iOS 10. They are a bit more efficient and can be reused to serve the same content as MPEG-DASH (only the playlists are different). Also, they can be served from the same file with range requests. However, if you want to target older versions of iOS, you need to stick with MPEG-2 TS.</p>
 </blockquote>
-<p>At the time of this writing, iOS 12 will be out in a week or two. A quick search tells me that <a href="https://data.apteligent.com/ios/">iOS 10 and newer make up 85% of all iOS users</a>. This means that I can pretty safely use the <em>Fragmented MP4</em> method which, according to <a href="https://bitmovin.com/hls-news-wwdc-2016/">these</a> <a href="http://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=111796">sources</a>, is more compatible with MPEG-DASH for some cross-over implementations in the future.</p>
+<p>At the time of this writing, iOS 12 will be out in a week or two. A quick search tells me that <a href="https://web.archive.org/web/20180909031833/https://data.apteligent.com/ios/">iOS 10 and newer make up 85% of all iOS users</a>. This means that I can pretty safely use the <em>Fragmented MP4</em> method which, according to <a href="https://web.archive.org/web/20180909031833/https://bitmovin.com/hls-news-wwdc-2016/">these</a> <a href="https://web.archive.org/web/20180909031833/http://www.streamingmedia.com/Articles/ReadArticle.aspx?ArticleID=111796">sources</a>, is more compatible with MPEG-DASH for some cross-over implementations in the future.</p>
 <h2 id="sample-video">Sample Video</h2>
 <div style="position: relative; padding-bottom: 56.25%; overflow: hidden;">
     <video poster="https://cdn.ryanparman.com/hls/hallelujah.fmp4/poster.jpg" controls preload="none" style="position: absolute; width: 100%; height: 100%;">
@@ -622,7 +621,7 @@ While YouTube is free (as in money) to use, the cost is paid in terms of privacy
 </div><p class="tc black-60 db mb2"><small><b>Source:</b> <a href="https://youtu.be/e1C9kpMV2e8">Hallelujah - Brooklyn Duo (Piano &#43; Cello)</a></small></p>
 <h2 id="implementation">Implementation</h2>
 <h3 id="encoding-and-deploying-video">Encoding and Deploying Video</h3>
-<p>Vincent Bernat provides a tool on GitHub which greatly simplifies the process of creating the various video fragments called <a href="https://github.com/vincentbernat/video2hls">video2hls</a>.</p>
+<p>Vincent Bernat provides a tool on GitHub which greatly simplifies the process of creating the various video fragments called <a href="https://web.archive.org/web/20180909031833/https://github.com/vincentbernat/video2hls">video2hls</a>.</p>
 <p>For <a href="https://github.com/skyzyx/blog/blob/master/Makefile">this website</a>, I have put together a workflow for creating and serving HLS video content.</p>
 <ol>
 <li>
@@ -744,7 +743,7 @@ aws s3 sync ./streaming-video s3://blog.ryanparman.com/hls <span style="color:#a
   <span style="color:#f92672">&lt;/CORSRule&gt;</span>
 <span style="color:#f92672">&lt;/CORSConfiguration&gt;</span>
 </code></pre></div><p>Additionally, if you have a CDN cache in front of that S3 bucket (e.g., Amazon CloudFront), you&rsquo;ll need to make sure that it is configured to allow the <code>Origin</code> headers through and also respond to the HTTP <code>OPTIONS</code> verb.</p>
-<p>You can find more information about solving this problem with CloudFront at “<a href="https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/header-caching.html#header-caching-web-cors">Configuring CloudFront to Respect CORS Settings</a>”.</p>
+<p>You can find more information about solving this problem with CloudFront at “<a href="https://web.archive.org/web/20180909031833/https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/header-caching.html#header-caching-web-cors">Configuring CloudFront to Respect CORS Settings</a>”.</p>
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 <script type="text/javascript" src="https://ryanparman.com/js/stream-hls.min.270faa3c315322e584846228fe3da0897e67544a45ac2646b9050c886baa54b9.js" integrity="sha256-Jw&#43;qPDFTIuWEhGIo/j2giX5nVEpFrCZGuQUMiGuqVLk="></script>
 

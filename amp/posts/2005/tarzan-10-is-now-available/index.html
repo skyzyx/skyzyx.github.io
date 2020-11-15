@@ -428,29 +428,28 @@ And although I had wanted to add search capabilities to Tarzan by 1.0, I’ve de
     
   
   <header><nav class="pv3 ph3 ph4-ns bg-black" role="navigation">
-    <a class="link dim white b f6 f5-ns dib mr3" href="https://ryanparman.com" title="Home">Flailing Wildly</a>
-    
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/about/" title="About the Author">About the Author</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/posts/" title="Archive">Archive</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/categories/" title="Categories">Categories</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="https://github.com/skyzyx" title="Code">Code</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/design/" title="Design">Design</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/tools/" title="DevTools">DevTools</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/series/editors-choice/" title="Editor’s Choice">Editor’s Choice</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/follow/" title="Follow">Follow</a>
-        
-          <a class="link dim light-gray f6 f5-ns dib mr3" href="/series/" title="Series’">Series’</a>
-        
-      </ul>
-    
+	<a class="link dim white b f6 f5-ns dib mr3" href="https://ryanparman.com" title="Home">Flailing Wildly</a>
+	
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/about/" title="About the Author">About the Author</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/posts/" title="Archive">Archive</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/categories/" title="Categories">Categories</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="https://github.com/skyzyx" title="Code">Code</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/design/" title="Design">Design</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/tools/" title="DevTools">DevTools</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/series/editors-choice/" title="Editor’s Choice">Editor’s Choice</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/follow/" title="Follow">Follow</a>
+		
+			<a class="link dim light-gray f6 f5-ns dib mr3" href="/series/" title="Series’">Series’</a>
+		
+	</ul>
 </nav>
 </header>
 
@@ -549,7 +548,7 @@ And although I had wanted to add search capabilities to Tarzan by 1.0, I’ve de
 <p>There are a couple of tips and tricks that can be used with Tarzan. I’ll post them over to the <a href="https://web.archive.org/web/20050131211530/http://support.skyzyx.net/viewforum.php?f=10">Tarzan Support Forum</a> later on today.</p>
 <h2 id="resizing-images-based-on-the-size-of-a-single-side">Resizing images based on the size of a single side</h2>
 <p>For my wishlist, I’m more concerned about items being the same height, rather than the same width. How do I manage that? Setting either the width or height value to zero will allow image resizing of one sider to rely solely on the other. For example, if I wanted to set an item to a height of 90 pixels without caring how wide the image is, you could use this:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-php" data-lang="php"><span style="color:#75715e">&lt;?php</span>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-php" data-lang="php"><span style="color:#f92672">&lt;?</span><span style="color:#a6e22e">php</span>
 <span style="color:#66d9ef">echo</span> <span style="color:#a6e22e">get_image</span>($asin, <span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">90</span>);
 </code></pre></div><p>The first is the ASIN/ISBN number of the item. The second parameter (set to zero) tells Tarzan that you want to resize the image. The third parameter (also set to zero) is the width. Since the width is set to zero, then resizing will depend entirely on the fourth parameter, height, which is set to 90 pixels.</p>
 <h2 id="php-running-out-of-memory">PHP running out of memory?</h2>
